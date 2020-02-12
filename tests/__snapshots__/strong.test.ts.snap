@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`strong renders with accessKey="a,b,c,d" 1`] = `
+<strong
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`strong renders with autoCapitalize="characters" 1`] = `
+<strong
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`strong renders with autoCapitalize="none" 1`] = `
+<strong
+  autoCapitalize="none"
+/>
+`;
+
+exports[`strong renders with autoCapitalize="off" 1`] = `
+<strong
+  autoCapitalize="off"
+/>
+`;
+
+exports[`strong renders with autoCapitalize="on" 1`] = `
+<strong
+  autoCapitalize="on"
+/>
+`;
+
+exports[`strong renders with autoCapitalize="sentences" 1`] = `
+<strong
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`strong renders with autoCapitalize="words" 1`] = `
+<strong
+  autoCapitalize="words"
+/>
+`;
+
+exports[`strong renders with children 1`] = `
+<strong>
+  TEST
+</strong>
+`;
+
+exports[`strong renders with className="foo bar baz" 1`] = `
+<strong
+  className="foo bar baz"
+/>
+`;
+
+exports[`strong renders with contentEditable="false" 1`] = `
+<strong
+  contentEditable="false"
+/>
+`;
+
+exports[`strong renders with contentEditable="true" 1`] = `
+<strong
+  contentEditable="true"
+/>
+`;
+
+exports[`strong renders with dir="auto" 1`] = `
+<strong
+  dir="auto"
+/>
+`;
+
+exports[`strong renders with dir="ltr" 1`] = `
+<strong
+  dir="ltr"
+/>
+`;
+
+exports[`strong renders with dir="rtl" 1`] = `
+<strong
+  dir="rtl"
+/>
+`;
+
+exports[`strong renders with draggable="false" 1`] = `
+<strong
+  draggable="false"
+/>
+`;
+
+exports[`strong renders with draggable="true" 1`] = `
+<strong
+  draggable="true"
+/>
+`;
+
+exports[`strong renders with empty attributes 1`] = `<strong />`;
+
+exports[`strong renders with hidden="false" 1`] = `
+<strong
+  hidden={false}
+/>
+`;
+
+exports[`strong renders with hidden="true" 1`] = `
+<strong
+  hidden={true}
+/>
+`;
+
+exports[`strong renders with id="TEST" 1`] = `
+<strong
+  id="TEST"
+/>
+`;
+
+exports[`strong renders with inputMode="decimal" 1`] = `
+<strong
+  inputMode="decimal"
+/>
+`;
+
+exports[`strong renders with inputMode="email" 1`] = `
+<strong
+  inputMode="email"
+/>
+`;
+
+exports[`strong renders with inputMode="none" 1`] = `
+<strong
+  inputMode="none"
+/>
+`;
+
+exports[`strong renders with inputMode="numeric" 1`] = `
+<strong
+  inputMode="numeric"
+/>
+`;
+
+exports[`strong renders with inputMode="search" 1`] = `
+<strong
+  inputMode="search"
+/>
+`;
+
+exports[`strong renders with inputMode="tel" 1`] = `
+<strong
+  inputMode="tel"
+/>
+`;
+
+exports[`strong renders with inputMode="text" 1`] = `
+<strong
+  inputMode="text"
+/>
+`;
+
+exports[`strong renders with inputMode="url" 1`] = `
+<strong
+  inputMode="url"
+/>
+`;
+
+exports[`strong renders with is="foo" 1`] = `
+<strong
+  is="foo"
+/>
+`;
+
+exports[`strong renders with itemID="https://google.com/" 1`] = `
+<strong
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`strong renders with itemProp="https://google.com/" 1`] = `
+<strong
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`strong renders with itemRef="foo bar" 1`] = `
+<strong
+  itemRef="foo bar"
+/>
+`;
+
+exports[`strong renders with itemScope="false" 1`] = `
+<strong
+  itemScope={false}
+/>
+`;
+
+exports[`strong renders with itemScope="true" 1`] = `
+<strong
+  itemScope={true}
+/>
+`;
+
+exports[`strong renders with itemType="https://google.com/" 1`] = `
+<strong
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`strong renders with lang="" 1`] = `
+<strong
+  lang=""
+/>
+`;
+
+exports[`strong renders with lang="es-419" 1`] = `
+<strong
+  lang="es-419"
+/>
+`;
+
+exports[`strong renders with slot="TEST" 1`] = `
+<strong
+  slot="TEST"
+/>
+`;
+
+exports[`strong renders with spellCheck="false" 1`] = `
+<strong
+  spellCheck="false"
+/>
+`;
+
+exports[`strong renders with spellCheck="true" 1`] = `
+<strong
+  spellCheck="true"
+/>
+`;
+
+exports[`strong renders with style="[object Object]" 1`] = `
+<strong
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`strong renders with tabIndex="1" 1`] = `
+<strong
+  tabIndex={1}
+/>
+`;
+
+exports[`strong renders with title="TEST" 1`] = `
+<strong
+  title="TEST"
+/>
+`;
+
+exports[`strong renders with translate="no" 1`] = `
+<strong
+  translate="no"
+/>
+`;
+
+exports[`strong renders with translate="yes" 1`] = `
+<strong
+  translate="yes"
+/>
+`;
+
+exports[`strong renders without attributes 1`] = `<strong />`;

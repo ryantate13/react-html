@@ -1,0 +1,315 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`object renders with accessKey="a,b,c,d" 1`] = `
+<object
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`object renders with autoCapitalize="characters" 1`] = `
+<object
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`object renders with autoCapitalize="none" 1`] = `
+<object
+  autoCapitalize="none"
+/>
+`;
+
+exports[`object renders with autoCapitalize="off" 1`] = `
+<object
+  autoCapitalize="off"
+/>
+`;
+
+exports[`object renders with autoCapitalize="on" 1`] = `
+<object
+  autoCapitalize="on"
+/>
+`;
+
+exports[`object renders with autoCapitalize="sentences" 1`] = `
+<object
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`object renders with autoCapitalize="words" 1`] = `
+<object
+  autoCapitalize="words"
+/>
+`;
+
+exports[`object renders with children 1`] = `
+<object>
+  TEST
+</object>
+`;
+
+exports[`object renders with className="foo bar baz" 1`] = `
+<object
+  className="foo bar baz"
+/>
+`;
+
+exports[`object renders with contentEditable="false" 1`] = `
+<object
+  contentEditable="false"
+/>
+`;
+
+exports[`object renders with contentEditable="true" 1`] = `
+<object
+  contentEditable="true"
+/>
+`;
+
+exports[`object renders with data="https://google.com/" 1`] = `
+<object
+  data="https://google.com/"
+/>
+`;
+
+exports[`object renders with dir="auto" 1`] = `
+<object
+  dir="auto"
+/>
+`;
+
+exports[`object renders with dir="ltr" 1`] = `
+<object
+  dir="ltr"
+/>
+`;
+
+exports[`object renders with dir="rtl" 1`] = `
+<object
+  dir="rtl"
+/>
+`;
+
+exports[`object renders with draggable="false" 1`] = `
+<object
+  draggable="false"
+/>
+`;
+
+exports[`object renders with draggable="true" 1`] = `
+<object
+  draggable="true"
+/>
+`;
+
+exports[`object renders with empty attributes 1`] = `<object />`;
+
+exports[`object renders with form="TEST" 1`] = `
+<object
+  form="TEST"
+/>
+`;
+
+exports[`object renders with height="1" 1`] = `
+<object
+  height={1}
+/>
+`;
+
+exports[`object renders with hidden="false" 1`] = `
+<object
+  hidden={false}
+/>
+`;
+
+exports[`object renders with hidden="true" 1`] = `
+<object
+  hidden={true}
+/>
+`;
+
+exports[`object renders with id="TEST" 1`] = `
+<object
+  id="TEST"
+/>
+`;
+
+exports[`object renders with inputMode="decimal" 1`] = `
+<object
+  inputMode="decimal"
+/>
+`;
+
+exports[`object renders with inputMode="email" 1`] = `
+<object
+  inputMode="email"
+/>
+`;
+
+exports[`object renders with inputMode="none" 1`] = `
+<object
+  inputMode="none"
+/>
+`;
+
+exports[`object renders with inputMode="numeric" 1`] = `
+<object
+  inputMode="numeric"
+/>
+`;
+
+exports[`object renders with inputMode="search" 1`] = `
+<object
+  inputMode="search"
+/>
+`;
+
+exports[`object renders with inputMode="tel" 1`] = `
+<object
+  inputMode="tel"
+/>
+`;
+
+exports[`object renders with inputMode="text" 1`] = `
+<object
+  inputMode="text"
+/>
+`;
+
+exports[`object renders with inputMode="url" 1`] = `
+<object
+  inputMode="url"
+/>
+`;
+
+exports[`object renders with is="foo" 1`] = `
+<object
+  is="foo"
+/>
+`;
+
+exports[`object renders with itemID="https://google.com/" 1`] = `
+<object
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`object renders with itemProp="https://google.com/" 1`] = `
+<object
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`object renders with itemRef="foo bar" 1`] = `
+<object
+  itemRef="foo bar"
+/>
+`;
+
+exports[`object renders with itemScope="false" 1`] = `
+<object
+  itemScope={false}
+/>
+`;
+
+exports[`object renders with itemScope="true" 1`] = `
+<object
+  itemScope={true}
+/>
+`;
+
+exports[`object renders with itemType="https://google.com/" 1`] = `
+<object
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`object renders with lang="" 1`] = `
+<object
+  lang=""
+/>
+`;
+
+exports[`object renders with lang="es-419" 1`] = `
+<object
+  lang="es-419"
+/>
+`;
+
+exports[`object renders with name="_blank" 1`] = `
+<object
+  name="_blank"
+/>
+`;
+
+exports[`object renders with slot="TEST" 1`] = `
+<object
+  slot="TEST"
+/>
+`;
+
+exports[`object renders with spellCheck="false" 1`] = `
+<object
+  spellCheck="false"
+/>
+`;
+
+exports[`object renders with spellCheck="true" 1`] = `
+<object
+  spellCheck="true"
+/>
+`;
+
+exports[`object renders with style="[object Object]" 1`] = `
+<object
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`object renders with tabIndex="1" 1`] = `
+<object
+  tabIndex={1}
+/>
+`;
+
+exports[`object renders with title="TEST" 1`] = `
+<object
+  title="TEST"
+/>
+`;
+
+exports[`object renders with translate="no" 1`] = `
+<object
+  translate="no"
+/>
+`;
+
+exports[`object renders with translate="yes" 1`] = `
+<object
+  translate="yes"
+/>
+`;
+
+exports[`object renders with type="application/json" 1`] = `
+<object
+  type="application/json"
+/>
+`;
+
+exports[`object renders with useMap="#foo" 1`] = `
+<object
+  useMap="#foo"
+/>
+`;
+
+exports[`object renders with width="1" 1`] = `
+<object
+  width={1}
+/>
+`;
+
+exports[`object renders without attributes 1`] = `<object />`;

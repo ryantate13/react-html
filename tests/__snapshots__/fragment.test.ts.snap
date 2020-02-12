@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`_ renders a react fragment 1`] = `
+<React.Fragment>
+  TEST
+</React.Fragment>
+`;
+
+exports[`_ renders a react fragment without children 1`] = `<React.Fragment />`;

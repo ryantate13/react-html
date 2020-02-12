@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`style renders with accessKey="a,b,c,d" 1`] = `
+<style
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`style renders with autoCapitalize="characters" 1`] = `
+<style
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`style renders with autoCapitalize="none" 1`] = `
+<style
+  autoCapitalize="none"
+/>
+`;
+
+exports[`style renders with autoCapitalize="off" 1`] = `
+<style
+  autoCapitalize="off"
+/>
+`;
+
+exports[`style renders with autoCapitalize="on" 1`] = `
+<style
+  autoCapitalize="on"
+/>
+`;
+
+exports[`style renders with autoCapitalize="sentences" 1`] = `
+<style
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`style renders with autoCapitalize="words" 1`] = `
+<style
+  autoCapitalize="words"
+/>
+`;
+
+exports[`style renders with children 1`] = `
+<style>
+  TEST
+</style>
+`;
+
+exports[`style renders with className="foo bar baz" 1`] = `
+<style
+  className="foo bar baz"
+/>
+`;
+
+exports[`style renders with contentEditable="false" 1`] = `
+<style
+  contentEditable="false"
+/>
+`;
+
+exports[`style renders with contentEditable="true" 1`] = `
+<style
+  contentEditable="true"
+/>
+`;
+
+exports[`style renders with dir="auto" 1`] = `
+<style
+  dir="auto"
+/>
+`;
+
+exports[`style renders with dir="ltr" 1`] = `
+<style
+  dir="ltr"
+/>
+`;
+
+exports[`style renders with dir="rtl" 1`] = `
+<style
+  dir="rtl"
+/>
+`;
+
+exports[`style renders with draggable="false" 1`] = `
+<style
+  draggable="false"
+/>
+`;
+
+exports[`style renders with draggable="true" 1`] = `
+<style
+  draggable="true"
+/>
+`;
+
+exports[`style renders with empty attributes 1`] = `<style />`;
+
+exports[`style renders with hidden="false" 1`] = `
+<style
+  hidden={false}
+/>
+`;
+
+exports[`style renders with hidden="true" 1`] = `
+<style
+  hidden={true}
+/>
+`;
+
+exports[`style renders with id="TEST" 1`] = `
+<style
+  id="TEST"
+/>
+`;
+
+exports[`style renders with inputMode="decimal" 1`] = `
+<style
+  inputMode="decimal"
+/>
+`;
+
+exports[`style renders with inputMode="email" 1`] = `
+<style
+  inputMode="email"
+/>
+`;
+
+exports[`style renders with inputMode="none" 1`] = `
+<style
+  inputMode="none"
+/>
+`;
+
+exports[`style renders with inputMode="numeric" 1`] = `
+<style
+  inputMode="numeric"
+/>
+`;
+
+exports[`style renders with inputMode="search" 1`] = `
+<style
+  inputMode="search"
+/>
+`;
+
+exports[`style renders with inputMode="tel" 1`] = `
+<style
+  inputMode="tel"
+/>
+`;
+
+exports[`style renders with inputMode="text" 1`] = `
+<style
+  inputMode="text"
+/>
+`;
+
+exports[`style renders with inputMode="url" 1`] = `
+<style
+  inputMode="url"
+/>
+`;
+
+exports[`style renders with is="foo" 1`] = `
+<style
+  is="foo"
+/>
+`;
+
+exports[`style renders with itemID="https://google.com/" 1`] = `
+<style
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`style renders with itemProp="https://google.com/" 1`] = `
+<style
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`style renders with itemRef="foo bar" 1`] = `
+<style
+  itemRef="foo bar"
+/>
+`;
+
+exports[`style renders with itemScope="false" 1`] = `
+<style
+  itemScope={false}
+/>
+`;
+
+exports[`style renders with itemScope="true" 1`] = `
+<style
+  itemScope={true}
+/>
+`;
+
+exports[`style renders with itemType="https://google.com/" 1`] = `
+<style
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`style renders with lang="" 1`] = `
+<style
+  lang=""
+/>
+`;
+
+exports[`style renders with lang="es-419" 1`] = `
+<style
+  lang="es-419"
+/>
+`;
+
+exports[`style renders with media="screen" 1`] = `
+<style
+  media="screen"
+/>
+`;
+
+exports[`style renders with slot="TEST" 1`] = `
+<style
+  slot="TEST"
+/>
+`;
+
+exports[`style renders with spellCheck="false" 1`] = `
+<style
+  spellCheck="false"
+/>
+`;
+
+exports[`style renders with spellCheck="true" 1`] = `
+<style
+  spellCheck="true"
+/>
+`;
+
+exports[`style renders with style="[object Object]" 1`] = `
+<style
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`style renders with tabIndex="1" 1`] = `
+<style
+  tabIndex={1}
+/>
+`;
+
+exports[`style renders with title="TEST" 1`] = `
+<style
+  title="TEST"
+/>
+`;
+
+exports[`style renders with title="TEST" 2`] = `
+<style
+  title="TEST"
+/>
+`;
+
+exports[`style renders with translate="no" 1`] = `
+<style
+  translate="no"
+/>
+`;
+
+exports[`style renders with translate="yes" 1`] = `
+<style
+  translate="yes"
+/>
+`;
+
+exports[`style renders without attributes 1`] = `<style />`;

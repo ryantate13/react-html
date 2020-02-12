@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`keygen renders with accessKey="a,b,c,d" 1`] = `
+<keygen
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`keygen renders with autoCapitalize="characters" 1`] = `
+<keygen
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`keygen renders with autoCapitalize="none" 1`] = `
+<keygen
+  autoCapitalize="none"
+/>
+`;
+
+exports[`keygen renders with autoCapitalize="off" 1`] = `
+<keygen
+  autoCapitalize="off"
+/>
+`;
+
+exports[`keygen renders with autoCapitalize="on" 1`] = `
+<keygen
+  autoCapitalize="on"
+/>
+`;
+
+exports[`keygen renders with autoCapitalize="sentences" 1`] = `
+<keygen
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`keygen renders with autoCapitalize="words" 1`] = `
+<keygen
+  autoCapitalize="words"
+/>
+`;
+
+exports[`keygen renders with children 1`] = `
+<keygen>
+  TEST
+</keygen>
+`;
+
+exports[`keygen renders with className="foo bar baz" 1`] = `
+<keygen
+  className="foo bar baz"
+/>
+`;
+
+exports[`keygen renders with contentEditable="false" 1`] = `
+<keygen
+  contentEditable="false"
+/>
+`;
+
+exports[`keygen renders with contentEditable="true" 1`] = `
+<keygen
+  contentEditable="true"
+/>
+`;
+
+exports[`keygen renders with dir="auto" 1`] = `
+<keygen
+  dir="auto"
+/>
+`;
+
+exports[`keygen renders with dir="ltr" 1`] = `
+<keygen
+  dir="ltr"
+/>
+`;
+
+exports[`keygen renders with dir="rtl" 1`] = `
+<keygen
+  dir="rtl"
+/>
+`;
+
+exports[`keygen renders with draggable="false" 1`] = `
+<keygen
+  draggable="false"
+/>
+`;
+
+exports[`keygen renders with draggable="true" 1`] = `
+<keygen
+  draggable="true"
+/>
+`;
+
+exports[`keygen renders with empty attributes 1`] = `<keygen />`;
+
+exports[`keygen renders with hidden="false" 1`] = `
+<keygen
+  hidden={false}
+/>
+`;
+
+exports[`keygen renders with hidden="true" 1`] = `
+<keygen
+  hidden={true}
+/>
+`;
+
+exports[`keygen renders with id="TEST" 1`] = `
+<keygen
+  id="TEST"
+/>
+`;
+
+exports[`keygen renders with inputMode="decimal" 1`] = `
+<keygen
+  inputMode="decimal"
+/>
+`;
+
+exports[`keygen renders with inputMode="email" 1`] = `
+<keygen
+  inputMode="email"
+/>
+`;
+
+exports[`keygen renders with inputMode="none" 1`] = `
+<keygen
+  inputMode="none"
+/>
+`;
+
+exports[`keygen renders with inputMode="numeric" 1`] = `
+<keygen
+  inputMode="numeric"
+/>
+`;
+
+exports[`keygen renders with inputMode="search" 1`] = `
+<keygen
+  inputMode="search"
+/>
+`;
+
+exports[`keygen renders with inputMode="tel" 1`] = `
+<keygen
+  inputMode="tel"
+/>
+`;
+
+exports[`keygen renders with inputMode="text" 1`] = `
+<keygen
+  inputMode="text"
+/>
+`;
+
+exports[`keygen renders with inputMode="url" 1`] = `
+<keygen
+  inputMode="url"
+/>
+`;
+
+exports[`keygen renders with is="foo" 1`] = `
+<keygen
+  is="foo"
+/>
+`;
+
+exports[`keygen renders with itemID="https://google.com/" 1`] = `
+<keygen
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`keygen renders with itemProp="https://google.com/" 1`] = `
+<keygen
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`keygen renders with itemRef="foo bar" 1`] = `
+<keygen
+  itemRef="foo bar"
+/>
+`;
+
+exports[`keygen renders with itemScope="false" 1`] = `
+<keygen
+  itemScope={false}
+/>
+`;
+
+exports[`keygen renders with itemScope="true" 1`] = `
+<keygen
+  itemScope={true}
+/>
+`;
+
+exports[`keygen renders with itemType="https://google.com/" 1`] = `
+<keygen
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`keygen renders with lang="" 1`] = `
+<keygen
+  lang=""
+/>
+`;
+
+exports[`keygen renders with lang="es-419" 1`] = `
+<keygen
+  lang="es-419"
+/>
+`;
+
+exports[`keygen renders with slot="TEST" 1`] = `
+<keygen
+  slot="TEST"
+/>
+`;
+
+exports[`keygen renders with spellCheck="false" 1`] = `
+<keygen
+  spellCheck="false"
+/>
+`;
+
+exports[`keygen renders with spellCheck="true" 1`] = `
+<keygen
+  spellCheck="true"
+/>
+`;
+
+exports[`keygen renders with style="[object Object]" 1`] = `
+<keygen
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`keygen renders with tabIndex="1" 1`] = `
+<keygen
+  tabIndex={1}
+/>
+`;
+
+exports[`keygen renders with title="TEST" 1`] = `
+<keygen
+  title="TEST"
+/>
+`;
+
+exports[`keygen renders with translate="no" 1`] = `
+<keygen
+  translate="no"
+/>
+`;
+
+exports[`keygen renders with translate="yes" 1`] = `
+<keygen
+  translate="yes"
+/>
+`;
+
+exports[`keygen renders without attributes 1`] = `<keygen />`;

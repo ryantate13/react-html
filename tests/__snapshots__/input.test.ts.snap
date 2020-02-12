@@ -1,0 +1,519 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`input renders with accept="audio/*" 1`] = `
+<input
+  accept="audio/*"
+/>
+`;
+
+exports[`input renders with accept="image/*" 1`] = `
+<input
+  accept="image/*"
+/>
+`;
+
+exports[`input renders with accept="video/*" 1`] = `
+<input
+  accept="video/*"
+/>
+`;
+
+exports[`input renders with accessKey="a,b,c,d" 1`] = `
+<input
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`input renders with alt="TEST" 1`] = `
+<input
+  alt="TEST"
+/>
+`;
+
+exports[`input renders with autoCapitalize="characters" 1`] = `
+<input
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`input renders with autoCapitalize="none" 1`] = `
+<input
+  autoCapitalize="none"
+/>
+`;
+
+exports[`input renders with autoCapitalize="off" 1`] = `
+<input
+  autoCapitalize="off"
+/>
+`;
+
+exports[`input renders with autoCapitalize="on" 1`] = `
+<input
+  autoCapitalize="on"
+/>
+`;
+
+exports[`input renders with autoCapitalize="sentences" 1`] = `
+<input
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`input renders with autoCapitalize="words" 1`] = `
+<input
+  autoCapitalize="words"
+/>
+`;
+
+exports[`input renders with autoComplete="off" 1`] = `
+<input
+  autoComplete="off"
+/>
+`;
+
+exports[`input renders with checked="false" 1`] = `
+<input
+  checked={false}
+/>
+`;
+
+exports[`input renders with checked="true" 1`] = `
+<input
+  checked={true}
+/>
+`;
+
+exports[`input renders with className="foo bar baz" 1`] = `
+<input
+  className="foo bar baz"
+/>
+`;
+
+exports[`input renders with contentEditable="false" 1`] = `
+<input
+  contentEditable="false"
+/>
+`;
+
+exports[`input renders with contentEditable="true" 1`] = `
+<input
+  contentEditable="true"
+/>
+`;
+
+exports[`input renders with dir="auto" 1`] = `
+<input
+  dir="auto"
+/>
+`;
+
+exports[`input renders with dir="ltr" 1`] = `
+<input
+  dir="ltr"
+/>
+`;
+
+exports[`input renders with dir="rtl" 1`] = `
+<input
+  dir="rtl"
+/>
+`;
+
+exports[`input renders with disabled="false" 1`] = `
+<input
+  disabled={false}
+/>
+`;
+
+exports[`input renders with disabled="true" 1`] = `
+<input
+  disabled={true}
+/>
+`;
+
+exports[`input renders with draggable="false" 1`] = `
+<input
+  draggable="false"
+/>
+`;
+
+exports[`input renders with draggable="true" 1`] = `
+<input
+  draggable="true"
+/>
+`;
+
+exports[`input renders with empty attributes 1`] = `<input />`;
+
+exports[`input renders with form="TEST" 1`] = `
+<input
+  form="TEST"
+/>
+`;
+
+exports[`input renders with formAction="https://google.com/" 1`] = `
+<input
+  formAction="https://google.com/"
+/>
+`;
+
+exports[`input renders with formEncType="application/x-www-form-urlencoded" 1`] = `
+<input
+  formEncType="application/x-www-form-urlencoded"
+/>
+`;
+
+exports[`input renders with formEncType="multipart/form-data" 1`] = `
+<input
+  formEncType="multipart/form-data"
+/>
+`;
+
+exports[`input renders with formEncType="text/plain" 1`] = `
+<input
+  formEncType="text/plain"
+/>
+`;
+
+exports[`input renders with formMethod="GET" 1`] = `
+<input
+  formMethod="GET"
+/>
+`;
+
+exports[`input renders with formMethod="POST" 1`] = `
+<input
+  formMethod="POST"
+/>
+`;
+
+exports[`input renders with formMethod="dialog" 1`] = `
+<input
+  formMethod="dialog"
+/>
+`;
+
+exports[`input renders with formNoValidate="false" 1`] = `
+<input
+  formNoValidate={false}
+/>
+`;
+
+exports[`input renders with formNoValidate="true" 1`] = `
+<input
+  formNoValidate={true}
+/>
+`;
+
+exports[`input renders with formTarget="_blank" 1`] = `
+<input
+  formTarget="_blank"
+/>
+`;
+
+exports[`input renders with height="1" 1`] = `
+<input
+  height={1}
+/>
+`;
+
+exports[`input renders with hidden="false" 1`] = `
+<input
+  hidden={false}
+/>
+`;
+
+exports[`input renders with hidden="true" 1`] = `
+<input
+  hidden={true}
+/>
+`;
+
+exports[`input renders with id="TEST" 1`] = `
+<input
+  id="TEST"
+/>
+`;
+
+exports[`input renders with inputMode="decimal" 1`] = `
+<input
+  inputMode="decimal"
+/>
+`;
+
+exports[`input renders with inputMode="email" 1`] = `
+<input
+  inputMode="email"
+/>
+`;
+
+exports[`input renders with inputMode="none" 1`] = `
+<input
+  inputMode="none"
+/>
+`;
+
+exports[`input renders with inputMode="numeric" 1`] = `
+<input
+  inputMode="numeric"
+/>
+`;
+
+exports[`input renders with inputMode="search" 1`] = `
+<input
+  inputMode="search"
+/>
+`;
+
+exports[`input renders with inputMode="tel" 1`] = `
+<input
+  inputMode="tel"
+/>
+`;
+
+exports[`input renders with inputMode="text" 1`] = `
+<input
+  inputMode="text"
+/>
+`;
+
+exports[`input renders with inputMode="url" 1`] = `
+<input
+  inputMode="url"
+/>
+`;
+
+exports[`input renders with is="foo" 1`] = `
+<input
+  is="foo"
+/>
+`;
+
+exports[`input renders with itemID="https://google.com/" 1`] = `
+<input
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`input renders with itemProp="https://google.com/" 1`] = `
+<input
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`input renders with itemRef="foo bar" 1`] = `
+<input
+  itemRef="foo bar"
+/>
+`;
+
+exports[`input renders with itemScope="false" 1`] = `
+<input
+  itemScope={false}
+/>
+`;
+
+exports[`input renders with itemScope="true" 1`] = `
+<input
+  itemScope={true}
+/>
+`;
+
+exports[`input renders with itemType="https://google.com/" 1`] = `
+<input
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`input renders with lang="" 1`] = `
+<input
+  lang=""
+/>
+`;
+
+exports[`input renders with lang="es-419" 1`] = `
+<input
+  lang="es-419"
+/>
+`;
+
+exports[`input renders with list="TEST" 1`] = `
+<input
+  list="TEST"
+/>
+`;
+
+exports[`input renders with max="100" 1`] = `
+<input
+  max={100}
+/>
+`;
+
+exports[`input renders with maxLength="1" 1`] = `
+<input
+  maxLength={1}
+/>
+`;
+
+exports[`input renders with min="100" 1`] = `
+<input
+  min={100}
+/>
+`;
+
+exports[`input renders with minLength="1" 1`] = `
+<input
+  minLength={1}
+/>
+`;
+
+exports[`input renders with multiple="false" 1`] = `
+<input
+  multiple={false}
+/>
+`;
+
+exports[`input renders with multiple="true" 1`] = `
+<input
+  multiple={true}
+/>
+`;
+
+exports[`input renders with name="TEST" 1`] = `
+<input
+  name="TEST"
+/>
+`;
+
+exports[`input renders with pattern="/.*/" 1`] = `
+<input
+  pattern="/.*/"
+/>
+`;
+
+exports[`input renders with placeholder="TEST" 1`] = `
+<input
+  placeholder="TEST"
+/>
+`;
+
+exports[`input renders with readOnly="false" 1`] = `
+<input
+  readOnly={false}
+/>
+`;
+
+exports[`input renders with readOnly="true" 1`] = `
+<input
+  readOnly={true}
+/>
+`;
+
+exports[`input renders with required="false" 1`] = `
+<input
+  required={false}
+/>
+`;
+
+exports[`input renders with required="true" 1`] = `
+<input
+  required={true}
+/>
+`;
+
+exports[`input renders with size="1" 1`] = `
+<input
+  size={1}
+/>
+`;
+
+exports[`input renders with slot="TEST" 1`] = `
+<input
+  slot="TEST"
+/>
+`;
+
+exports[`input renders with spellCheck="false" 1`] = `
+<input
+  spellCheck="false"
+/>
+`;
+
+exports[`input renders with spellCheck="true" 1`] = `
+<input
+  spellCheck="true"
+/>
+`;
+
+exports[`input renders with src="https://google.com/" 1`] = `
+<input
+  src="https://google.com/"
+/>
+`;
+
+exports[`input renders with step="any" 1`] = `
+<input
+  step="any"
+/>
+`;
+
+exports[`input renders with style="[object Object]" 1`] = `
+<input
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`input renders with tabIndex="1" 1`] = `
+<input
+  tabIndex={1}
+/>
+`;
+
+exports[`input renders with title="TEST" 1`] = `
+<input
+  title="TEST"
+/>
+`;
+
+exports[`input renders with title="TEST" 2`] = `
+<input
+  title="TEST"
+/>
+`;
+
+exports[`input renders with translate="no" 1`] = `
+<input
+  translate="no"
+/>
+`;
+
+exports[`input renders with translate="yes" 1`] = `
+<input
+  translate="yes"
+/>
+`;
+
+exports[`input renders with type="input" 1`] = `
+<input
+  type="input"
+/>
+`;
+
+exports[`input renders with value="100" 1`] = `
+<input
+  value={100}
+/>
+`;
+
+exports[`input renders with width="1" 1`] = `
+<input
+  width={1}
+/>
+`;
+
+exports[`input renders without attributes 1`] = `<input />`;

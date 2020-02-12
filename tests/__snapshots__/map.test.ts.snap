@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`map renders with accessKey="a,b,c,d" 1`] = `
+<map
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`map renders with autoCapitalize="characters" 1`] = `
+<map
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`map renders with autoCapitalize="none" 1`] = `
+<map
+  autoCapitalize="none"
+/>
+`;
+
+exports[`map renders with autoCapitalize="off" 1`] = `
+<map
+  autoCapitalize="off"
+/>
+`;
+
+exports[`map renders with autoCapitalize="on" 1`] = `
+<map
+  autoCapitalize="on"
+/>
+`;
+
+exports[`map renders with autoCapitalize="sentences" 1`] = `
+<map
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`map renders with autoCapitalize="words" 1`] = `
+<map
+  autoCapitalize="words"
+/>
+`;
+
+exports[`map renders with children 1`] = `
+<map>
+  TEST
+</map>
+`;
+
+exports[`map renders with className="foo bar baz" 1`] = `
+<map
+  className="foo bar baz"
+/>
+`;
+
+exports[`map renders with contentEditable="false" 1`] = `
+<map
+  contentEditable="false"
+/>
+`;
+
+exports[`map renders with contentEditable="true" 1`] = `
+<map
+  contentEditable="true"
+/>
+`;
+
+exports[`map renders with dir="auto" 1`] = `
+<map
+  dir="auto"
+/>
+`;
+
+exports[`map renders with dir="ltr" 1`] = `
+<map
+  dir="ltr"
+/>
+`;
+
+exports[`map renders with dir="rtl" 1`] = `
+<map
+  dir="rtl"
+/>
+`;
+
+exports[`map renders with draggable="false" 1`] = `
+<map
+  draggable="false"
+/>
+`;
+
+exports[`map renders with draggable="true" 1`] = `
+<map
+  draggable="true"
+/>
+`;
+
+exports[`map renders with empty attributes 1`] = `<map />`;
+
+exports[`map renders with hidden="false" 1`] = `
+<map
+  hidden={false}
+/>
+`;
+
+exports[`map renders with hidden="true" 1`] = `
+<map
+  hidden={true}
+/>
+`;
+
+exports[`map renders with id="TEST" 1`] = `
+<map
+  id="TEST"
+/>
+`;
+
+exports[`map renders with inputMode="decimal" 1`] = `
+<map
+  inputMode="decimal"
+/>
+`;
+
+exports[`map renders with inputMode="email" 1`] = `
+<map
+  inputMode="email"
+/>
+`;
+
+exports[`map renders with inputMode="none" 1`] = `
+<map
+  inputMode="none"
+/>
+`;
+
+exports[`map renders with inputMode="numeric" 1`] = `
+<map
+  inputMode="numeric"
+/>
+`;
+
+exports[`map renders with inputMode="search" 1`] = `
+<map
+  inputMode="search"
+/>
+`;
+
+exports[`map renders with inputMode="tel" 1`] = `
+<map
+  inputMode="tel"
+/>
+`;
+
+exports[`map renders with inputMode="text" 1`] = `
+<map
+  inputMode="text"
+/>
+`;
+
+exports[`map renders with inputMode="url" 1`] = `
+<map
+  inputMode="url"
+/>
+`;
+
+exports[`map renders with is="foo" 1`] = `
+<map
+  is="foo"
+/>
+`;
+
+exports[`map renders with itemID="https://google.com/" 1`] = `
+<map
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`map renders with itemProp="https://google.com/" 1`] = `
+<map
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`map renders with itemRef="foo bar" 1`] = `
+<map
+  itemRef="foo bar"
+/>
+`;
+
+exports[`map renders with itemScope="false" 1`] = `
+<map
+  itemScope={false}
+/>
+`;
+
+exports[`map renders with itemScope="true" 1`] = `
+<map
+  itemScope={true}
+/>
+`;
+
+exports[`map renders with itemType="https://google.com/" 1`] = `
+<map
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`map renders with lang="" 1`] = `
+<map
+  lang=""
+/>
+`;
+
+exports[`map renders with lang="es-419" 1`] = `
+<map
+  lang="es-419"
+/>
+`;
+
+exports[`map renders with name="TEST" 1`] = `
+<map
+  name="TEST"
+/>
+`;
+
+exports[`map renders with slot="TEST" 1`] = `
+<map
+  slot="TEST"
+/>
+`;
+
+exports[`map renders with spellCheck="false" 1`] = `
+<map
+  spellCheck="false"
+/>
+`;
+
+exports[`map renders with spellCheck="true" 1`] = `
+<map
+  spellCheck="true"
+/>
+`;
+
+exports[`map renders with style="[object Object]" 1`] = `
+<map
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`map renders with tabIndex="1" 1`] = `
+<map
+  tabIndex={1}
+/>
+`;
+
+exports[`map renders with title="TEST" 1`] = `
+<map
+  title="TEST"
+/>
+`;
+
+exports[`map renders with translate="no" 1`] = `
+<map
+  translate="no"
+/>
+`;
+
+exports[`map renders with translate="yes" 1`] = `
+<map
+  translate="yes"
+/>
+`;
+
+exports[`map renders without attributes 1`] = `<map />`;

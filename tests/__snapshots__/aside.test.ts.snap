@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`aside renders with accessKey="a,b,c,d" 1`] = `
+<aside
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`aside renders with autoCapitalize="characters" 1`] = `
+<aside
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`aside renders with autoCapitalize="none" 1`] = `
+<aside
+  autoCapitalize="none"
+/>
+`;
+
+exports[`aside renders with autoCapitalize="off" 1`] = `
+<aside
+  autoCapitalize="off"
+/>
+`;
+
+exports[`aside renders with autoCapitalize="on" 1`] = `
+<aside
+  autoCapitalize="on"
+/>
+`;
+
+exports[`aside renders with autoCapitalize="sentences" 1`] = `
+<aside
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`aside renders with autoCapitalize="words" 1`] = `
+<aside
+  autoCapitalize="words"
+/>
+`;
+
+exports[`aside renders with children 1`] = `
+<aside>
+  TEST
+</aside>
+`;
+
+exports[`aside renders with className="foo bar baz" 1`] = `
+<aside
+  className="foo bar baz"
+/>
+`;
+
+exports[`aside renders with contentEditable="false" 1`] = `
+<aside
+  contentEditable="false"
+/>
+`;
+
+exports[`aside renders with contentEditable="true" 1`] = `
+<aside
+  contentEditable="true"
+/>
+`;
+
+exports[`aside renders with dir="auto" 1`] = `
+<aside
+  dir="auto"
+/>
+`;
+
+exports[`aside renders with dir="ltr" 1`] = `
+<aside
+  dir="ltr"
+/>
+`;
+
+exports[`aside renders with dir="rtl" 1`] = `
+<aside
+  dir="rtl"
+/>
+`;
+
+exports[`aside renders with draggable="false" 1`] = `
+<aside
+  draggable="false"
+/>
+`;
+
+exports[`aside renders with draggable="true" 1`] = `
+<aside
+  draggable="true"
+/>
+`;
+
+exports[`aside renders with empty attributes 1`] = `<aside />`;
+
+exports[`aside renders with hidden="false" 1`] = `
+<aside
+  hidden={false}
+/>
+`;
+
+exports[`aside renders with hidden="true" 1`] = `
+<aside
+  hidden={true}
+/>
+`;
+
+exports[`aside renders with id="TEST" 1`] = `
+<aside
+  id="TEST"
+/>
+`;
+
+exports[`aside renders with inputMode="decimal" 1`] = `
+<aside
+  inputMode="decimal"
+/>
+`;
+
+exports[`aside renders with inputMode="email" 1`] = `
+<aside
+  inputMode="email"
+/>
+`;
+
+exports[`aside renders with inputMode="none" 1`] = `
+<aside
+  inputMode="none"
+/>
+`;
+
+exports[`aside renders with inputMode="numeric" 1`] = `
+<aside
+  inputMode="numeric"
+/>
+`;
+
+exports[`aside renders with inputMode="search" 1`] = `
+<aside
+  inputMode="search"
+/>
+`;
+
+exports[`aside renders with inputMode="tel" 1`] = `
+<aside
+  inputMode="tel"
+/>
+`;
+
+exports[`aside renders with inputMode="text" 1`] = `
+<aside
+  inputMode="text"
+/>
+`;
+
+exports[`aside renders with inputMode="url" 1`] = `
+<aside
+  inputMode="url"
+/>
+`;
+
+exports[`aside renders with is="foo" 1`] = `
+<aside
+  is="foo"
+/>
+`;
+
+exports[`aside renders with itemID="https://google.com/" 1`] = `
+<aside
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`aside renders with itemProp="https://google.com/" 1`] = `
+<aside
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`aside renders with itemRef="foo bar" 1`] = `
+<aside
+  itemRef="foo bar"
+/>
+`;
+
+exports[`aside renders with itemScope="false" 1`] = `
+<aside
+  itemScope={false}
+/>
+`;
+
+exports[`aside renders with itemScope="true" 1`] = `
+<aside
+  itemScope={true}
+/>
+`;
+
+exports[`aside renders with itemType="https://google.com/" 1`] = `
+<aside
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`aside renders with lang="" 1`] = `
+<aside
+  lang=""
+/>
+`;
+
+exports[`aside renders with lang="es-419" 1`] = `
+<aside
+  lang="es-419"
+/>
+`;
+
+exports[`aside renders with slot="TEST" 1`] = `
+<aside
+  slot="TEST"
+/>
+`;
+
+exports[`aside renders with spellCheck="false" 1`] = `
+<aside
+  spellCheck="false"
+/>
+`;
+
+exports[`aside renders with spellCheck="true" 1`] = `
+<aside
+  spellCheck="true"
+/>
+`;
+
+exports[`aside renders with style="[object Object]" 1`] = `
+<aside
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`aside renders with tabIndex="1" 1`] = `
+<aside
+  tabIndex={1}
+/>
+`;
+
+exports[`aside renders with title="TEST" 1`] = `
+<aside
+  title="TEST"
+/>
+`;
+
+exports[`aside renders with translate="no" 1`] = `
+<aside
+  translate="no"
+/>
+`;
+
+exports[`aside renders with translate="yes" 1`] = `
+<aside
+  translate="yes"
+/>
+`;
+
+exports[`aside renders without attributes 1`] = `<aside />`;

@@ -1,0 +1,315 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`meta renders with accessKey="a,b,c,d" 1`] = `
+<meta
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`meta renders with autoCapitalize="characters" 1`] = `
+<meta
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`meta renders with autoCapitalize="none" 1`] = `
+<meta
+  autoCapitalize="none"
+/>
+`;
+
+exports[`meta renders with autoCapitalize="off" 1`] = `
+<meta
+  autoCapitalize="off"
+/>
+`;
+
+exports[`meta renders with autoCapitalize="on" 1`] = `
+<meta
+  autoCapitalize="on"
+/>
+`;
+
+exports[`meta renders with autoCapitalize="sentences" 1`] = `
+<meta
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`meta renders with autoCapitalize="words" 1`] = `
+<meta
+  autoCapitalize="words"
+/>
+`;
+
+exports[`meta renders with charSet="utf-8" 1`] = `
+<meta
+  charSet="utf-8"
+/>
+`;
+
+exports[`meta renders with className="foo bar baz" 1`] = `
+<meta
+  className="foo bar baz"
+/>
+`;
+
+exports[`meta renders with content="TEST" 1`] = `
+<meta
+  content="TEST"
+/>
+`;
+
+exports[`meta renders with contentEditable="false" 1`] = `
+<meta
+  contentEditable="false"
+/>
+`;
+
+exports[`meta renders with contentEditable="true" 1`] = `
+<meta
+  contentEditable="true"
+/>
+`;
+
+exports[`meta renders with dir="auto" 1`] = `
+<meta
+  dir="auto"
+/>
+`;
+
+exports[`meta renders with dir="ltr" 1`] = `
+<meta
+  dir="ltr"
+/>
+`;
+
+exports[`meta renders with dir="rtl" 1`] = `
+<meta
+  dir="rtl"
+/>
+`;
+
+exports[`meta renders with draggable="false" 1`] = `
+<meta
+  draggable="false"
+/>
+`;
+
+exports[`meta renders with draggable="true" 1`] = `
+<meta
+  draggable="true"
+/>
+`;
+
+exports[`meta renders with empty attributes 1`] = `<meta />`;
+
+exports[`meta renders with hidden="false" 1`] = `
+<meta
+  hidden={false}
+/>
+`;
+
+exports[`meta renders with hidden="true" 1`] = `
+<meta
+  hidden={true}
+/>
+`;
+
+exports[`meta renders with httpEquiv="content-security-policy" 1`] = `
+<meta
+  httpEquiv="content-security-policy"
+/>
+`;
+
+exports[`meta renders with httpEquiv="content-type" 1`] = `
+<meta
+  httpEquiv="content-type"
+/>
+`;
+
+exports[`meta renders with httpEquiv="default-style" 1`] = `
+<meta
+  httpEquiv="default-style"
+/>
+`;
+
+exports[`meta renders with httpEquiv="refresh" 1`] = `
+<meta
+  httpEquiv="refresh"
+/>
+`;
+
+exports[`meta renders with httpEquiv="x-ua-compatible" 1`] = `
+<meta
+  httpEquiv="x-ua-compatible"
+/>
+`;
+
+exports[`meta renders with id="TEST" 1`] = `
+<meta
+  id="TEST"
+/>
+`;
+
+exports[`meta renders with inputMode="decimal" 1`] = `
+<meta
+  inputMode="decimal"
+/>
+`;
+
+exports[`meta renders with inputMode="email" 1`] = `
+<meta
+  inputMode="email"
+/>
+`;
+
+exports[`meta renders with inputMode="none" 1`] = `
+<meta
+  inputMode="none"
+/>
+`;
+
+exports[`meta renders with inputMode="numeric" 1`] = `
+<meta
+  inputMode="numeric"
+/>
+`;
+
+exports[`meta renders with inputMode="search" 1`] = `
+<meta
+  inputMode="search"
+/>
+`;
+
+exports[`meta renders with inputMode="tel" 1`] = `
+<meta
+  inputMode="tel"
+/>
+`;
+
+exports[`meta renders with inputMode="text" 1`] = `
+<meta
+  inputMode="text"
+/>
+`;
+
+exports[`meta renders with inputMode="url" 1`] = `
+<meta
+  inputMode="url"
+/>
+`;
+
+exports[`meta renders with is="foo" 1`] = `
+<meta
+  is="foo"
+/>
+`;
+
+exports[`meta renders with itemID="https://google.com/" 1`] = `
+<meta
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`meta renders with itemProp="https://google.com/" 1`] = `
+<meta
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`meta renders with itemRef="foo bar" 1`] = `
+<meta
+  itemRef="foo bar"
+/>
+`;
+
+exports[`meta renders with itemScope="false" 1`] = `
+<meta
+  itemScope={false}
+/>
+`;
+
+exports[`meta renders with itemScope="true" 1`] = `
+<meta
+  itemScope={true}
+/>
+`;
+
+exports[`meta renders with itemType="https://google.com/" 1`] = `
+<meta
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`meta renders with lang="" 1`] = `
+<meta
+  lang=""
+/>
+`;
+
+exports[`meta renders with lang="es-419" 1`] = `
+<meta
+  lang="es-419"
+/>
+`;
+
+exports[`meta renders with name="TEST" 1`] = `
+<meta
+  name="TEST"
+/>
+`;
+
+exports[`meta renders with slot="TEST" 1`] = `
+<meta
+  slot="TEST"
+/>
+`;
+
+exports[`meta renders with spellCheck="false" 1`] = `
+<meta
+  spellCheck="false"
+/>
+`;
+
+exports[`meta renders with spellCheck="true" 1`] = `
+<meta
+  spellCheck="true"
+/>
+`;
+
+exports[`meta renders with style="[object Object]" 1`] = `
+<meta
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`meta renders with tabIndex="1" 1`] = `
+<meta
+  tabIndex={1}
+/>
+`;
+
+exports[`meta renders with title="TEST" 1`] = `
+<meta
+  title="TEST"
+/>
+`;
+
+exports[`meta renders with translate="no" 1`] = `
+<meta
+  translate="no"
+/>
+`;
+
+exports[`meta renders with translate="yes" 1`] = `
+<meta
+  translate="yes"
+/>
+`;
+
+exports[`meta renders without attributes 1`] = `<meta />`;

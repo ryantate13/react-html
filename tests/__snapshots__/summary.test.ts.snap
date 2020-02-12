@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`summary renders with accessKey="a,b,c,d" 1`] = `
+<summary
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`summary renders with autoCapitalize="characters" 1`] = `
+<summary
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`summary renders with autoCapitalize="none" 1`] = `
+<summary
+  autoCapitalize="none"
+/>
+`;
+
+exports[`summary renders with autoCapitalize="off" 1`] = `
+<summary
+  autoCapitalize="off"
+/>
+`;
+
+exports[`summary renders with autoCapitalize="on" 1`] = `
+<summary
+  autoCapitalize="on"
+/>
+`;
+
+exports[`summary renders with autoCapitalize="sentences" 1`] = `
+<summary
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`summary renders with autoCapitalize="words" 1`] = `
+<summary
+  autoCapitalize="words"
+/>
+`;
+
+exports[`summary renders with children 1`] = `
+<summary>
+  TEST
+</summary>
+`;
+
+exports[`summary renders with className="foo bar baz" 1`] = `
+<summary
+  className="foo bar baz"
+/>
+`;
+
+exports[`summary renders with contentEditable="false" 1`] = `
+<summary
+  contentEditable="false"
+/>
+`;
+
+exports[`summary renders with contentEditable="true" 1`] = `
+<summary
+  contentEditable="true"
+/>
+`;
+
+exports[`summary renders with dir="auto" 1`] = `
+<summary
+  dir="auto"
+/>
+`;
+
+exports[`summary renders with dir="ltr" 1`] = `
+<summary
+  dir="ltr"
+/>
+`;
+
+exports[`summary renders with dir="rtl" 1`] = `
+<summary
+  dir="rtl"
+/>
+`;
+
+exports[`summary renders with draggable="false" 1`] = `
+<summary
+  draggable="false"
+/>
+`;
+
+exports[`summary renders with draggable="true" 1`] = `
+<summary
+  draggable="true"
+/>
+`;
+
+exports[`summary renders with empty attributes 1`] = `<summary />`;
+
+exports[`summary renders with hidden="false" 1`] = `
+<summary
+  hidden={false}
+/>
+`;
+
+exports[`summary renders with hidden="true" 1`] = `
+<summary
+  hidden={true}
+/>
+`;
+
+exports[`summary renders with id="TEST" 1`] = `
+<summary
+  id="TEST"
+/>
+`;
+
+exports[`summary renders with inputMode="decimal" 1`] = `
+<summary
+  inputMode="decimal"
+/>
+`;
+
+exports[`summary renders with inputMode="email" 1`] = `
+<summary
+  inputMode="email"
+/>
+`;
+
+exports[`summary renders with inputMode="none" 1`] = `
+<summary
+  inputMode="none"
+/>
+`;
+
+exports[`summary renders with inputMode="numeric" 1`] = `
+<summary
+  inputMode="numeric"
+/>
+`;
+
+exports[`summary renders with inputMode="search" 1`] = `
+<summary
+  inputMode="search"
+/>
+`;
+
+exports[`summary renders with inputMode="tel" 1`] = `
+<summary
+  inputMode="tel"
+/>
+`;
+
+exports[`summary renders with inputMode="text" 1`] = `
+<summary
+  inputMode="text"
+/>
+`;
+
+exports[`summary renders with inputMode="url" 1`] = `
+<summary
+  inputMode="url"
+/>
+`;
+
+exports[`summary renders with is="foo" 1`] = `
+<summary
+  is="foo"
+/>
+`;
+
+exports[`summary renders with itemID="https://google.com/" 1`] = `
+<summary
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`summary renders with itemProp="https://google.com/" 1`] = `
+<summary
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`summary renders with itemRef="foo bar" 1`] = `
+<summary
+  itemRef="foo bar"
+/>
+`;
+
+exports[`summary renders with itemScope="false" 1`] = `
+<summary
+  itemScope={false}
+/>
+`;
+
+exports[`summary renders with itemScope="true" 1`] = `
+<summary
+  itemScope={true}
+/>
+`;
+
+exports[`summary renders with itemType="https://google.com/" 1`] = `
+<summary
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`summary renders with lang="" 1`] = `
+<summary
+  lang=""
+/>
+`;
+
+exports[`summary renders with lang="es-419" 1`] = `
+<summary
+  lang="es-419"
+/>
+`;
+
+exports[`summary renders with slot="TEST" 1`] = `
+<summary
+  slot="TEST"
+/>
+`;
+
+exports[`summary renders with spellCheck="false" 1`] = `
+<summary
+  spellCheck="false"
+/>
+`;
+
+exports[`summary renders with spellCheck="true" 1`] = `
+<summary
+  spellCheck="true"
+/>
+`;
+
+exports[`summary renders with style="[object Object]" 1`] = `
+<summary
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`summary renders with tabIndex="1" 1`] = `
+<summary
+  tabIndex={1}
+/>
+`;
+
+exports[`summary renders with title="TEST" 1`] = `
+<summary
+  title="TEST"
+/>
+`;
+
+exports[`summary renders with translate="no" 1`] = `
+<summary
+  translate="no"
+/>
+`;
+
+exports[`summary renders with translate="yes" 1`] = `
+<summary
+  translate="yes"
+/>
+`;
+
+exports[`summary renders without attributes 1`] = `<summary />`;

@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`address renders with accessKey="a,b,c,d" 1`] = `
+<address
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`address renders with autoCapitalize="characters" 1`] = `
+<address
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`address renders with autoCapitalize="none" 1`] = `
+<address
+  autoCapitalize="none"
+/>
+`;
+
+exports[`address renders with autoCapitalize="off" 1`] = `
+<address
+  autoCapitalize="off"
+/>
+`;
+
+exports[`address renders with autoCapitalize="on" 1`] = `
+<address
+  autoCapitalize="on"
+/>
+`;
+
+exports[`address renders with autoCapitalize="sentences" 1`] = `
+<address
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`address renders with autoCapitalize="words" 1`] = `
+<address
+  autoCapitalize="words"
+/>
+`;
+
+exports[`address renders with children 1`] = `
+<address>
+  TEST
+</address>
+`;
+
+exports[`address renders with className="foo bar baz" 1`] = `
+<address
+  className="foo bar baz"
+/>
+`;
+
+exports[`address renders with contentEditable="false" 1`] = `
+<address
+  contentEditable="false"
+/>
+`;
+
+exports[`address renders with contentEditable="true" 1`] = `
+<address
+  contentEditable="true"
+/>
+`;
+
+exports[`address renders with dir="auto" 1`] = `
+<address
+  dir="auto"
+/>
+`;
+
+exports[`address renders with dir="ltr" 1`] = `
+<address
+  dir="ltr"
+/>
+`;
+
+exports[`address renders with dir="rtl" 1`] = `
+<address
+  dir="rtl"
+/>
+`;
+
+exports[`address renders with draggable="false" 1`] = `
+<address
+  draggable="false"
+/>
+`;
+
+exports[`address renders with draggable="true" 1`] = `
+<address
+  draggable="true"
+/>
+`;
+
+exports[`address renders with empty attributes 1`] = `<address />`;
+
+exports[`address renders with hidden="false" 1`] = `
+<address
+  hidden={false}
+/>
+`;
+
+exports[`address renders with hidden="true" 1`] = `
+<address
+  hidden={true}
+/>
+`;
+
+exports[`address renders with id="TEST" 1`] = `
+<address
+  id="TEST"
+/>
+`;
+
+exports[`address renders with inputMode="decimal" 1`] = `
+<address
+  inputMode="decimal"
+/>
+`;
+
+exports[`address renders with inputMode="email" 1`] = `
+<address
+  inputMode="email"
+/>
+`;
+
+exports[`address renders with inputMode="none" 1`] = `
+<address
+  inputMode="none"
+/>
+`;
+
+exports[`address renders with inputMode="numeric" 1`] = `
+<address
+  inputMode="numeric"
+/>
+`;
+
+exports[`address renders with inputMode="search" 1`] = `
+<address
+  inputMode="search"
+/>
+`;
+
+exports[`address renders with inputMode="tel" 1`] = `
+<address
+  inputMode="tel"
+/>
+`;
+
+exports[`address renders with inputMode="text" 1`] = `
+<address
+  inputMode="text"
+/>
+`;
+
+exports[`address renders with inputMode="url" 1`] = `
+<address
+  inputMode="url"
+/>
+`;
+
+exports[`address renders with is="foo" 1`] = `
+<address
+  is="foo"
+/>
+`;
+
+exports[`address renders with itemID="https://google.com/" 1`] = `
+<address
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`address renders with itemProp="https://google.com/" 1`] = `
+<address
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`address renders with itemRef="foo bar" 1`] = `
+<address
+  itemRef="foo bar"
+/>
+`;
+
+exports[`address renders with itemScope="false" 1`] = `
+<address
+  itemScope={false}
+/>
+`;
+
+exports[`address renders with itemScope="true" 1`] = `
+<address
+  itemScope={true}
+/>
+`;
+
+exports[`address renders with itemType="https://google.com/" 1`] = `
+<address
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`address renders with lang="" 1`] = `
+<address
+  lang=""
+/>
+`;
+
+exports[`address renders with lang="es-419" 1`] = `
+<address
+  lang="es-419"
+/>
+`;
+
+exports[`address renders with slot="TEST" 1`] = `
+<address
+  slot="TEST"
+/>
+`;
+
+exports[`address renders with spellCheck="false" 1`] = `
+<address
+  spellCheck="false"
+/>
+`;
+
+exports[`address renders with spellCheck="true" 1`] = `
+<address
+  spellCheck="true"
+/>
+`;
+
+exports[`address renders with style="[object Object]" 1`] = `
+<address
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`address renders with tabIndex="1" 1`] = `
+<address
+  tabIndex={1}
+/>
+`;
+
+exports[`address renders with title="TEST" 1`] = `
+<address
+  title="TEST"
+/>
+`;
+
+exports[`address renders with translate="no" 1`] = `
+<address
+  translate="no"
+/>
+`;
+
+exports[`address renders with translate="yes" 1`] = `
+<address
+  translate="yes"
+/>
+`;
+
+exports[`address renders without attributes 1`] = `<address />`;

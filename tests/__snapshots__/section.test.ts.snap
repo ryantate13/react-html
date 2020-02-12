@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`section renders with accessKey="a,b,c,d" 1`] = `
+<section
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`section renders with autoCapitalize="characters" 1`] = `
+<section
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`section renders with autoCapitalize="none" 1`] = `
+<section
+  autoCapitalize="none"
+/>
+`;
+
+exports[`section renders with autoCapitalize="off" 1`] = `
+<section
+  autoCapitalize="off"
+/>
+`;
+
+exports[`section renders with autoCapitalize="on" 1`] = `
+<section
+  autoCapitalize="on"
+/>
+`;
+
+exports[`section renders with autoCapitalize="sentences" 1`] = `
+<section
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`section renders with autoCapitalize="words" 1`] = `
+<section
+  autoCapitalize="words"
+/>
+`;
+
+exports[`section renders with children 1`] = `
+<section>
+  TEST
+</section>
+`;
+
+exports[`section renders with className="foo bar baz" 1`] = `
+<section
+  className="foo bar baz"
+/>
+`;
+
+exports[`section renders with contentEditable="false" 1`] = `
+<section
+  contentEditable="false"
+/>
+`;
+
+exports[`section renders with contentEditable="true" 1`] = `
+<section
+  contentEditable="true"
+/>
+`;
+
+exports[`section renders with dir="auto" 1`] = `
+<section
+  dir="auto"
+/>
+`;
+
+exports[`section renders with dir="ltr" 1`] = `
+<section
+  dir="ltr"
+/>
+`;
+
+exports[`section renders with dir="rtl" 1`] = `
+<section
+  dir="rtl"
+/>
+`;
+
+exports[`section renders with draggable="false" 1`] = `
+<section
+  draggable="false"
+/>
+`;
+
+exports[`section renders with draggable="true" 1`] = `
+<section
+  draggable="true"
+/>
+`;
+
+exports[`section renders with empty attributes 1`] = `<section />`;
+
+exports[`section renders with hidden="false" 1`] = `
+<section
+  hidden={false}
+/>
+`;
+
+exports[`section renders with hidden="true" 1`] = `
+<section
+  hidden={true}
+/>
+`;
+
+exports[`section renders with id="TEST" 1`] = `
+<section
+  id="TEST"
+/>
+`;
+
+exports[`section renders with inputMode="decimal" 1`] = `
+<section
+  inputMode="decimal"
+/>
+`;
+
+exports[`section renders with inputMode="email" 1`] = `
+<section
+  inputMode="email"
+/>
+`;
+
+exports[`section renders with inputMode="none" 1`] = `
+<section
+  inputMode="none"
+/>
+`;
+
+exports[`section renders with inputMode="numeric" 1`] = `
+<section
+  inputMode="numeric"
+/>
+`;
+
+exports[`section renders with inputMode="search" 1`] = `
+<section
+  inputMode="search"
+/>
+`;
+
+exports[`section renders with inputMode="tel" 1`] = `
+<section
+  inputMode="tel"
+/>
+`;
+
+exports[`section renders with inputMode="text" 1`] = `
+<section
+  inputMode="text"
+/>
+`;
+
+exports[`section renders with inputMode="url" 1`] = `
+<section
+  inputMode="url"
+/>
+`;
+
+exports[`section renders with is="foo" 1`] = `
+<section
+  is="foo"
+/>
+`;
+
+exports[`section renders with itemID="https://google.com/" 1`] = `
+<section
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`section renders with itemProp="https://google.com/" 1`] = `
+<section
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`section renders with itemRef="foo bar" 1`] = `
+<section
+  itemRef="foo bar"
+/>
+`;
+
+exports[`section renders with itemScope="false" 1`] = `
+<section
+  itemScope={false}
+/>
+`;
+
+exports[`section renders with itemScope="true" 1`] = `
+<section
+  itemScope={true}
+/>
+`;
+
+exports[`section renders with itemType="https://google.com/" 1`] = `
+<section
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`section renders with lang="" 1`] = `
+<section
+  lang=""
+/>
+`;
+
+exports[`section renders with lang="es-419" 1`] = `
+<section
+  lang="es-419"
+/>
+`;
+
+exports[`section renders with slot="TEST" 1`] = `
+<section
+  slot="TEST"
+/>
+`;
+
+exports[`section renders with spellCheck="false" 1`] = `
+<section
+  spellCheck="false"
+/>
+`;
+
+exports[`section renders with spellCheck="true" 1`] = `
+<section
+  spellCheck="true"
+/>
+`;
+
+exports[`section renders with style="[object Object]" 1`] = `
+<section
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`section renders with tabIndex="1" 1`] = `
+<section
+  tabIndex={1}
+/>
+`;
+
+exports[`section renders with title="TEST" 1`] = `
+<section
+  title="TEST"
+/>
+`;
+
+exports[`section renders with translate="no" 1`] = `
+<section
+  translate="no"
+/>
+`;
+
+exports[`section renders with translate="yes" 1`] = `
+<section
+  translate="yes"
+/>
+`;
+
+exports[`section renders without attributes 1`] = `<section />`;

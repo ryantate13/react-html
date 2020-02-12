@@ -1,0 +1,333 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`select renders with accessKey="a,b,c,d" 1`] = `
+<select
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`select renders with autoCapitalize="characters" 1`] = `
+<select
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`select renders with autoCapitalize="none" 1`] = `
+<select
+  autoCapitalize="none"
+/>
+`;
+
+exports[`select renders with autoCapitalize="off" 1`] = `
+<select
+  autoCapitalize="off"
+/>
+`;
+
+exports[`select renders with autoCapitalize="on" 1`] = `
+<select
+  autoCapitalize="on"
+/>
+`;
+
+exports[`select renders with autoCapitalize="sentences" 1`] = `
+<select
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`select renders with autoCapitalize="words" 1`] = `
+<select
+  autoCapitalize="words"
+/>
+`;
+
+exports[`select renders with autoComplete="off" 1`] = `
+<select
+  autoComplete="off"
+/>
+`;
+
+exports[`select renders with children 1`] = `
+<select>
+  TEST
+</select>
+`;
+
+exports[`select renders with className="foo bar baz" 1`] = `
+<select
+  className="foo bar baz"
+/>
+`;
+
+exports[`select renders with contentEditable="false" 1`] = `
+<select
+  contentEditable="false"
+/>
+`;
+
+exports[`select renders with contentEditable="true" 1`] = `
+<select
+  contentEditable="true"
+/>
+`;
+
+exports[`select renders with dir="auto" 1`] = `
+<select
+  dir="auto"
+/>
+`;
+
+exports[`select renders with dir="ltr" 1`] = `
+<select
+  dir="ltr"
+/>
+`;
+
+exports[`select renders with dir="rtl" 1`] = `
+<select
+  dir="rtl"
+/>
+`;
+
+exports[`select renders with disabled="false" 1`] = `
+<select
+  disabled={false}
+/>
+`;
+
+exports[`select renders with disabled="true" 1`] = `
+<select
+  disabled={true}
+/>
+`;
+
+exports[`select renders with draggable="false" 1`] = `
+<select
+  draggable="false"
+/>
+`;
+
+exports[`select renders with draggable="true" 1`] = `
+<select
+  draggable="true"
+/>
+`;
+
+exports[`select renders with empty attributes 1`] = `<select />`;
+
+exports[`select renders with form="TEST" 1`] = `
+<select
+  form="TEST"
+/>
+`;
+
+exports[`select renders with hidden="false" 1`] = `
+<select
+  hidden={false}
+/>
+`;
+
+exports[`select renders with hidden="true" 1`] = `
+<select
+  hidden={true}
+/>
+`;
+
+exports[`select renders with id="TEST" 1`] = `
+<select
+  id="TEST"
+/>
+`;
+
+exports[`select renders with inputMode="decimal" 1`] = `
+<select
+  inputMode="decimal"
+/>
+`;
+
+exports[`select renders with inputMode="email" 1`] = `
+<select
+  inputMode="email"
+/>
+`;
+
+exports[`select renders with inputMode="none" 1`] = `
+<select
+  inputMode="none"
+/>
+`;
+
+exports[`select renders with inputMode="numeric" 1`] = `
+<select
+  inputMode="numeric"
+/>
+`;
+
+exports[`select renders with inputMode="search" 1`] = `
+<select
+  inputMode="search"
+/>
+`;
+
+exports[`select renders with inputMode="tel" 1`] = `
+<select
+  inputMode="tel"
+/>
+`;
+
+exports[`select renders with inputMode="text" 1`] = `
+<select
+  inputMode="text"
+/>
+`;
+
+exports[`select renders with inputMode="url" 1`] = `
+<select
+  inputMode="url"
+/>
+`;
+
+exports[`select renders with is="foo" 1`] = `
+<select
+  is="foo"
+/>
+`;
+
+exports[`select renders with itemID="https://google.com/" 1`] = `
+<select
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`select renders with itemProp="https://google.com/" 1`] = `
+<select
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`select renders with itemRef="foo bar" 1`] = `
+<select
+  itemRef="foo bar"
+/>
+`;
+
+exports[`select renders with itemScope="false" 1`] = `
+<select
+  itemScope={false}
+/>
+`;
+
+exports[`select renders with itemScope="true" 1`] = `
+<select
+  itemScope={true}
+/>
+`;
+
+exports[`select renders with itemType="https://google.com/" 1`] = `
+<select
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`select renders with lang="" 1`] = `
+<select
+  lang=""
+/>
+`;
+
+exports[`select renders with lang="es-419" 1`] = `
+<select
+  lang="es-419"
+/>
+`;
+
+exports[`select renders with multiple="false" 1`] = `
+<select
+  multiple={false}
+/>
+`;
+
+exports[`select renders with multiple="true" 1`] = `
+<select
+  multiple={true}
+/>
+`;
+
+exports[`select renders with name="TEST" 1`] = `
+<select
+  name="TEST"
+/>
+`;
+
+exports[`select renders with required="false" 1`] = `
+<select
+  required={false}
+/>
+`;
+
+exports[`select renders with required="true" 1`] = `
+<select
+  required={true}
+/>
+`;
+
+exports[`select renders with size="1" 1`] = `
+<select
+  size={1}
+/>
+`;
+
+exports[`select renders with slot="TEST" 1`] = `
+<select
+  slot="TEST"
+/>
+`;
+
+exports[`select renders with spellCheck="false" 1`] = `
+<select
+  spellCheck="false"
+/>
+`;
+
+exports[`select renders with spellCheck="true" 1`] = `
+<select
+  spellCheck="true"
+/>
+`;
+
+exports[`select renders with style="[object Object]" 1`] = `
+<select
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`select renders with tabIndex="1" 1`] = `
+<select
+  tabIndex={1}
+/>
+`;
+
+exports[`select renders with title="TEST" 1`] = `
+<select
+  title="TEST"
+/>
+`;
+
+exports[`select renders with translate="no" 1`] = `
+<select
+  translate="no"
+/>
+`;
+
+exports[`select renders with translate="yes" 1`] = `
+<select
+  translate="yes"
+/>
+`;
+
+exports[`select renders without attributes 1`] = `<select />`;

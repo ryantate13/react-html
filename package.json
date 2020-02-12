@@ -1,0 +1,31 @@
+{
+  "name": "@ryantate/react-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "make": "node make.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">15"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "@types/node": "^13.7.0",
+    "@types/react": "^16.9.19",
+    "cheerio": "^1.0.0-rc.3",
+    "html-element-attributes": "^2.2.1",
+    "jest": "^25.1.0",
+    "react": "^16.12.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "ts-jest": "^25.2.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}

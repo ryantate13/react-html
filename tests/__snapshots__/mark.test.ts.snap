@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mark renders with accessKey="a,b,c,d" 1`] = `
+<mark
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`mark renders with autoCapitalize="characters" 1`] = `
+<mark
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`mark renders with autoCapitalize="none" 1`] = `
+<mark
+  autoCapitalize="none"
+/>
+`;
+
+exports[`mark renders with autoCapitalize="off" 1`] = `
+<mark
+  autoCapitalize="off"
+/>
+`;
+
+exports[`mark renders with autoCapitalize="on" 1`] = `
+<mark
+  autoCapitalize="on"
+/>
+`;
+
+exports[`mark renders with autoCapitalize="sentences" 1`] = `
+<mark
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`mark renders with autoCapitalize="words" 1`] = `
+<mark
+  autoCapitalize="words"
+/>
+`;
+
+exports[`mark renders with children 1`] = `
+<mark>
+  TEST
+</mark>
+`;
+
+exports[`mark renders with className="foo bar baz" 1`] = `
+<mark
+  className="foo bar baz"
+/>
+`;
+
+exports[`mark renders with contentEditable="false" 1`] = `
+<mark
+  contentEditable="false"
+/>
+`;
+
+exports[`mark renders with contentEditable="true" 1`] = `
+<mark
+  contentEditable="true"
+/>
+`;
+
+exports[`mark renders with dir="auto" 1`] = `
+<mark
+  dir="auto"
+/>
+`;
+
+exports[`mark renders with dir="ltr" 1`] = `
+<mark
+  dir="ltr"
+/>
+`;
+
+exports[`mark renders with dir="rtl" 1`] = `
+<mark
+  dir="rtl"
+/>
+`;
+
+exports[`mark renders with draggable="false" 1`] = `
+<mark
+  draggable="false"
+/>
+`;
+
+exports[`mark renders with draggable="true" 1`] = `
+<mark
+  draggable="true"
+/>
+`;
+
+exports[`mark renders with empty attributes 1`] = `<mark />`;
+
+exports[`mark renders with hidden="false" 1`] = `
+<mark
+  hidden={false}
+/>
+`;
+
+exports[`mark renders with hidden="true" 1`] = `
+<mark
+  hidden={true}
+/>
+`;
+
+exports[`mark renders with id="TEST" 1`] = `
+<mark
+  id="TEST"
+/>
+`;
+
+exports[`mark renders with inputMode="decimal" 1`] = `
+<mark
+  inputMode="decimal"
+/>
+`;
+
+exports[`mark renders with inputMode="email" 1`] = `
+<mark
+  inputMode="email"
+/>
+`;
+
+exports[`mark renders with inputMode="none" 1`] = `
+<mark
+  inputMode="none"
+/>
+`;
+
+exports[`mark renders with inputMode="numeric" 1`] = `
+<mark
+  inputMode="numeric"
+/>
+`;
+
+exports[`mark renders with inputMode="search" 1`] = `
+<mark
+  inputMode="search"
+/>
+`;
+
+exports[`mark renders with inputMode="tel" 1`] = `
+<mark
+  inputMode="tel"
+/>
+`;
+
+exports[`mark renders with inputMode="text" 1`] = `
+<mark
+  inputMode="text"
+/>
+`;
+
+exports[`mark renders with inputMode="url" 1`] = `
+<mark
+  inputMode="url"
+/>
+`;
+
+exports[`mark renders with is="foo" 1`] = `
+<mark
+  is="foo"
+/>
+`;
+
+exports[`mark renders with itemID="https://google.com/" 1`] = `
+<mark
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`mark renders with itemProp="https://google.com/" 1`] = `
+<mark
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`mark renders with itemRef="foo bar" 1`] = `
+<mark
+  itemRef="foo bar"
+/>
+`;
+
+exports[`mark renders with itemScope="false" 1`] = `
+<mark
+  itemScope={false}
+/>
+`;
+
+exports[`mark renders with itemScope="true" 1`] = `
+<mark
+  itemScope={true}
+/>
+`;
+
+exports[`mark renders with itemType="https://google.com/" 1`] = `
+<mark
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`mark renders with lang="" 1`] = `
+<mark
+  lang=""
+/>
+`;
+
+exports[`mark renders with lang="es-419" 1`] = `
+<mark
+  lang="es-419"
+/>
+`;
+
+exports[`mark renders with slot="TEST" 1`] = `
+<mark
+  slot="TEST"
+/>
+`;
+
+exports[`mark renders with spellCheck="false" 1`] = `
+<mark
+  spellCheck="false"
+/>
+`;
+
+exports[`mark renders with spellCheck="true" 1`] = `
+<mark
+  spellCheck="true"
+/>
+`;
+
+exports[`mark renders with style="[object Object]" 1`] = `
+<mark
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`mark renders with tabIndex="1" 1`] = `
+<mark
+  tabIndex={1}
+/>
+`;
+
+exports[`mark renders with title="TEST" 1`] = `
+<mark
+  title="TEST"
+/>
+`;
+
+exports[`mark renders with translate="no" 1`] = `
+<mark
+  translate="no"
+/>
+`;
+
+exports[`mark renders with translate="yes" 1`] = `
+<mark
+  translate="yes"
+/>
+`;
+
+exports[`mark renders without attributes 1`] = `<mark />`;

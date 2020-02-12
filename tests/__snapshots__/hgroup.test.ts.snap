@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hgroup renders with accessKey="a,b,c,d" 1`] = `
+<hgroup
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`hgroup renders with autoCapitalize="characters" 1`] = `
+<hgroup
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`hgroup renders with autoCapitalize="none" 1`] = `
+<hgroup
+  autoCapitalize="none"
+/>
+`;
+
+exports[`hgroup renders with autoCapitalize="off" 1`] = `
+<hgroup
+  autoCapitalize="off"
+/>
+`;
+
+exports[`hgroup renders with autoCapitalize="on" 1`] = `
+<hgroup
+  autoCapitalize="on"
+/>
+`;
+
+exports[`hgroup renders with autoCapitalize="sentences" 1`] = `
+<hgroup
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`hgroup renders with autoCapitalize="words" 1`] = `
+<hgroup
+  autoCapitalize="words"
+/>
+`;
+
+exports[`hgroup renders with children 1`] = `
+<hgroup>
+  TEST
+</hgroup>
+`;
+
+exports[`hgroup renders with className="foo bar baz" 1`] = `
+<hgroup
+  className="foo bar baz"
+/>
+`;
+
+exports[`hgroup renders with contentEditable="false" 1`] = `
+<hgroup
+  contentEditable="false"
+/>
+`;
+
+exports[`hgroup renders with contentEditable="true" 1`] = `
+<hgroup
+  contentEditable="true"
+/>
+`;
+
+exports[`hgroup renders with dir="auto" 1`] = `
+<hgroup
+  dir="auto"
+/>
+`;
+
+exports[`hgroup renders with dir="ltr" 1`] = `
+<hgroup
+  dir="ltr"
+/>
+`;
+
+exports[`hgroup renders with dir="rtl" 1`] = `
+<hgroup
+  dir="rtl"
+/>
+`;
+
+exports[`hgroup renders with draggable="false" 1`] = `
+<hgroup
+  draggable="false"
+/>
+`;
+
+exports[`hgroup renders with draggable="true" 1`] = `
+<hgroup
+  draggable="true"
+/>
+`;
+
+exports[`hgroup renders with empty attributes 1`] = `<hgroup />`;
+
+exports[`hgroup renders with hidden="false" 1`] = `
+<hgroup
+  hidden={false}
+/>
+`;
+
+exports[`hgroup renders with hidden="true" 1`] = `
+<hgroup
+  hidden={true}
+/>
+`;
+
+exports[`hgroup renders with id="TEST" 1`] = `
+<hgroup
+  id="TEST"
+/>
+`;
+
+exports[`hgroup renders with inputMode="decimal" 1`] = `
+<hgroup
+  inputMode="decimal"
+/>
+`;
+
+exports[`hgroup renders with inputMode="email" 1`] = `
+<hgroup
+  inputMode="email"
+/>
+`;
+
+exports[`hgroup renders with inputMode="none" 1`] = `
+<hgroup
+  inputMode="none"
+/>
+`;
+
+exports[`hgroup renders with inputMode="numeric" 1`] = `
+<hgroup
+  inputMode="numeric"
+/>
+`;
+
+exports[`hgroup renders with inputMode="search" 1`] = `
+<hgroup
+  inputMode="search"
+/>
+`;
+
+exports[`hgroup renders with inputMode="tel" 1`] = `
+<hgroup
+  inputMode="tel"
+/>
+`;
+
+exports[`hgroup renders with inputMode="text" 1`] = `
+<hgroup
+  inputMode="text"
+/>
+`;
+
+exports[`hgroup renders with inputMode="url" 1`] = `
+<hgroup
+  inputMode="url"
+/>
+`;
+
+exports[`hgroup renders with is="foo" 1`] = `
+<hgroup
+  is="foo"
+/>
+`;
+
+exports[`hgroup renders with itemID="https://google.com/" 1`] = `
+<hgroup
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`hgroup renders with itemProp="https://google.com/" 1`] = `
+<hgroup
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`hgroup renders with itemRef="foo bar" 1`] = `
+<hgroup
+  itemRef="foo bar"
+/>
+`;
+
+exports[`hgroup renders with itemScope="false" 1`] = `
+<hgroup
+  itemScope={false}
+/>
+`;
+
+exports[`hgroup renders with itemScope="true" 1`] = `
+<hgroup
+  itemScope={true}
+/>
+`;
+
+exports[`hgroup renders with itemType="https://google.com/" 1`] = `
+<hgroup
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`hgroup renders with lang="" 1`] = `
+<hgroup
+  lang=""
+/>
+`;
+
+exports[`hgroup renders with lang="es-419" 1`] = `
+<hgroup
+  lang="es-419"
+/>
+`;
+
+exports[`hgroup renders with slot="TEST" 1`] = `
+<hgroup
+  slot="TEST"
+/>
+`;
+
+exports[`hgroup renders with spellCheck="false" 1`] = `
+<hgroup
+  spellCheck="false"
+/>
+`;
+
+exports[`hgroup renders with spellCheck="true" 1`] = `
+<hgroup
+  spellCheck="true"
+/>
+`;
+
+exports[`hgroup renders with style="[object Object]" 1`] = `
+<hgroup
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`hgroup renders with tabIndex="1" 1`] = `
+<hgroup
+  tabIndex={1}
+/>
+`;
+
+exports[`hgroup renders with title="TEST" 1`] = `
+<hgroup
+  title="TEST"
+/>
+`;
+
+exports[`hgroup renders with translate="no" 1`] = `
+<hgroup
+  translate="no"
+/>
+`;
+
+exports[`hgroup renders with translate="yes" 1`] = `
+<hgroup
+  translate="yes"
+/>
+`;
+
+exports[`hgroup renders without attributes 1`] = `<hgroup />`;

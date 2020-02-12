@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`base renders with accessKey="a,b,c,d" 1`] = `
+<base
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`base renders with autoCapitalize="characters" 1`] = `
+<base
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`base renders with autoCapitalize="none" 1`] = `
+<base
+  autoCapitalize="none"
+/>
+`;
+
+exports[`base renders with autoCapitalize="off" 1`] = `
+<base
+  autoCapitalize="off"
+/>
+`;
+
+exports[`base renders with autoCapitalize="on" 1`] = `
+<base
+  autoCapitalize="on"
+/>
+`;
+
+exports[`base renders with autoCapitalize="sentences" 1`] = `
+<base
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`base renders with autoCapitalize="words" 1`] = `
+<base
+  autoCapitalize="words"
+/>
+`;
+
+exports[`base renders with className="foo bar baz" 1`] = `
+<base
+  className="foo bar baz"
+/>
+`;
+
+exports[`base renders with contentEditable="false" 1`] = `
+<base
+  contentEditable="false"
+/>
+`;
+
+exports[`base renders with contentEditable="true" 1`] = `
+<base
+  contentEditable="true"
+/>
+`;
+
+exports[`base renders with dir="auto" 1`] = `
+<base
+  dir="auto"
+/>
+`;
+
+exports[`base renders with dir="ltr" 1`] = `
+<base
+  dir="ltr"
+/>
+`;
+
+exports[`base renders with dir="rtl" 1`] = `
+<base
+  dir="rtl"
+/>
+`;
+
+exports[`base renders with draggable="false" 1`] = `
+<base
+  draggable="false"
+/>
+`;
+
+exports[`base renders with draggable="true" 1`] = `
+<base
+  draggable="true"
+/>
+`;
+
+exports[`base renders with empty attributes 1`] = `<base />`;
+
+exports[`base renders with hidden="false" 1`] = `
+<base
+  hidden={false}
+/>
+`;
+
+exports[`base renders with hidden="true" 1`] = `
+<base
+  hidden={true}
+/>
+`;
+
+exports[`base renders with href="https://google.com/" 1`] = `
+<base
+  href="https://google.com/"
+/>
+`;
+
+exports[`base renders with id="TEST" 1`] = `
+<base
+  id="TEST"
+/>
+`;
+
+exports[`base renders with inputMode="decimal" 1`] = `
+<base
+  inputMode="decimal"
+/>
+`;
+
+exports[`base renders with inputMode="email" 1`] = `
+<base
+  inputMode="email"
+/>
+`;
+
+exports[`base renders with inputMode="none" 1`] = `
+<base
+  inputMode="none"
+/>
+`;
+
+exports[`base renders with inputMode="numeric" 1`] = `
+<base
+  inputMode="numeric"
+/>
+`;
+
+exports[`base renders with inputMode="search" 1`] = `
+<base
+  inputMode="search"
+/>
+`;
+
+exports[`base renders with inputMode="tel" 1`] = `
+<base
+  inputMode="tel"
+/>
+`;
+
+exports[`base renders with inputMode="text" 1`] = `
+<base
+  inputMode="text"
+/>
+`;
+
+exports[`base renders with inputMode="url" 1`] = `
+<base
+  inputMode="url"
+/>
+`;
+
+exports[`base renders with is="foo" 1`] = `
+<base
+  is="foo"
+/>
+`;
+
+exports[`base renders with itemID="https://google.com/" 1`] = `
+<base
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`base renders with itemProp="https://google.com/" 1`] = `
+<base
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`base renders with itemRef="foo bar" 1`] = `
+<base
+  itemRef="foo bar"
+/>
+`;
+
+exports[`base renders with itemScope="false" 1`] = `
+<base
+  itemScope={false}
+/>
+`;
+
+exports[`base renders with itemScope="true" 1`] = `
+<base
+  itemScope={true}
+/>
+`;
+
+exports[`base renders with itemType="https://google.com/" 1`] = `
+<base
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`base renders with lang="" 1`] = `
+<base
+  lang=""
+/>
+`;
+
+exports[`base renders with lang="es-419" 1`] = `
+<base
+  lang="es-419"
+/>
+`;
+
+exports[`base renders with slot="TEST" 1`] = `
+<base
+  slot="TEST"
+/>
+`;
+
+exports[`base renders with spellCheck="false" 1`] = `
+<base
+  spellCheck="false"
+/>
+`;
+
+exports[`base renders with spellCheck="true" 1`] = `
+<base
+  spellCheck="true"
+/>
+`;
+
+exports[`base renders with style="[object Object]" 1`] = `
+<base
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`base renders with tabIndex="1" 1`] = `
+<base
+  tabIndex={1}
+/>
+`;
+
+exports[`base renders with target="_blank" 1`] = `
+<base
+  target="_blank"
+/>
+`;
+
+exports[`base renders with title="TEST" 1`] = `
+<base
+  title="TEST"
+/>
+`;
+
+exports[`base renders with translate="no" 1`] = `
+<base
+  translate="no"
+/>
+`;
+
+exports[`base renders with translate="yes" 1`] = `
+<base
+  translate="yes"
+/>
+`;
+
+exports[`base renders without attributes 1`] = `<base />`;

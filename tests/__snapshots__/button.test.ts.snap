@@ -1,0 +1,381 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button renders with accessKey="a,b,c,d" 1`] = `
+<button
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`button renders with autoCapitalize="characters" 1`] = `
+<button
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`button renders with autoCapitalize="none" 1`] = `
+<button
+  autoCapitalize="none"
+/>
+`;
+
+exports[`button renders with autoCapitalize="off" 1`] = `
+<button
+  autoCapitalize="off"
+/>
+`;
+
+exports[`button renders with autoCapitalize="on" 1`] = `
+<button
+  autoCapitalize="on"
+/>
+`;
+
+exports[`button renders with autoCapitalize="sentences" 1`] = `
+<button
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`button renders with autoCapitalize="words" 1`] = `
+<button
+  autoCapitalize="words"
+/>
+`;
+
+exports[`button renders with children 1`] = `
+<button>
+  TEST
+</button>
+`;
+
+exports[`button renders with className="foo bar baz" 1`] = `
+<button
+  className="foo bar baz"
+/>
+`;
+
+exports[`button renders with contentEditable="false" 1`] = `
+<button
+  contentEditable="false"
+/>
+`;
+
+exports[`button renders with contentEditable="true" 1`] = `
+<button
+  contentEditable="true"
+/>
+`;
+
+exports[`button renders with dir="auto" 1`] = `
+<button
+  dir="auto"
+/>
+`;
+
+exports[`button renders with dir="ltr" 1`] = `
+<button
+  dir="ltr"
+/>
+`;
+
+exports[`button renders with dir="rtl" 1`] = `
+<button
+  dir="rtl"
+/>
+`;
+
+exports[`button renders with disabled="false" 1`] = `
+<button
+  disabled={false}
+/>
+`;
+
+exports[`button renders with disabled="true" 1`] = `
+<button
+  disabled={true}
+/>
+`;
+
+exports[`button renders with draggable="false" 1`] = `
+<button
+  draggable="false"
+/>
+`;
+
+exports[`button renders with draggable="true" 1`] = `
+<button
+  draggable="true"
+/>
+`;
+
+exports[`button renders with empty attributes 1`] = `<button />`;
+
+exports[`button renders with form="TEST" 1`] = `
+<button
+  form="TEST"
+/>
+`;
+
+exports[`button renders with formAction="https://google.com/" 1`] = `
+<button
+  formAction="https://google.com/"
+/>
+`;
+
+exports[`button renders with formEncType="application/x-www-form-urlencoded" 1`] = `
+<button
+  formEncType="application/x-www-form-urlencoded"
+/>
+`;
+
+exports[`button renders with formEncType="multipart/form-data" 1`] = `
+<button
+  formEncType="multipart/form-data"
+/>
+`;
+
+exports[`button renders with formEncType="text/plain" 1`] = `
+<button
+  formEncType="text/plain"
+/>
+`;
+
+exports[`button renders with formMethod="GET" 1`] = `
+<button
+  formMethod="GET"
+/>
+`;
+
+exports[`button renders with formMethod="POST" 1`] = `
+<button
+  formMethod="POST"
+/>
+`;
+
+exports[`button renders with formMethod="dialog" 1`] = `
+<button
+  formMethod="dialog"
+/>
+`;
+
+exports[`button renders with formNoValidate="false" 1`] = `
+<button
+  formNoValidate={false}
+/>
+`;
+
+exports[`button renders with formNoValidate="true" 1`] = `
+<button
+  formNoValidate={true}
+/>
+`;
+
+exports[`button renders with formTarget="_blank" 1`] = `
+<button
+  formTarget="_blank"
+/>
+`;
+
+exports[`button renders with hidden="false" 1`] = `
+<button
+  hidden={false}
+/>
+`;
+
+exports[`button renders with hidden="true" 1`] = `
+<button
+  hidden={true}
+/>
+`;
+
+exports[`button renders with id="TEST" 1`] = `
+<button
+  id="TEST"
+/>
+`;
+
+exports[`button renders with inputMode="decimal" 1`] = `
+<button
+  inputMode="decimal"
+/>
+`;
+
+exports[`button renders with inputMode="email" 1`] = `
+<button
+  inputMode="email"
+/>
+`;
+
+exports[`button renders with inputMode="none" 1`] = `
+<button
+  inputMode="none"
+/>
+`;
+
+exports[`button renders with inputMode="numeric" 1`] = `
+<button
+  inputMode="numeric"
+/>
+`;
+
+exports[`button renders with inputMode="search" 1`] = `
+<button
+  inputMode="search"
+/>
+`;
+
+exports[`button renders with inputMode="tel" 1`] = `
+<button
+  inputMode="tel"
+/>
+`;
+
+exports[`button renders with inputMode="text" 1`] = `
+<button
+  inputMode="text"
+/>
+`;
+
+exports[`button renders with inputMode="url" 1`] = `
+<button
+  inputMode="url"
+/>
+`;
+
+exports[`button renders with is="foo" 1`] = `
+<button
+  is="foo"
+/>
+`;
+
+exports[`button renders with itemID="https://google.com/" 1`] = `
+<button
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`button renders with itemProp="https://google.com/" 1`] = `
+<button
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`button renders with itemRef="foo bar" 1`] = `
+<button
+  itemRef="foo bar"
+/>
+`;
+
+exports[`button renders with itemScope="false" 1`] = `
+<button
+  itemScope={false}
+/>
+`;
+
+exports[`button renders with itemScope="true" 1`] = `
+<button
+  itemScope={true}
+/>
+`;
+
+exports[`button renders with itemType="https://google.com/" 1`] = `
+<button
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`button renders with lang="" 1`] = `
+<button
+  lang=""
+/>
+`;
+
+exports[`button renders with lang="es-419" 1`] = `
+<button
+  lang="es-419"
+/>
+`;
+
+exports[`button renders with name="TEST" 1`] = `
+<button
+  name="TEST"
+/>
+`;
+
+exports[`button renders with slot="TEST" 1`] = `
+<button
+  slot="TEST"
+/>
+`;
+
+exports[`button renders with spellCheck="false" 1`] = `
+<button
+  spellCheck="false"
+/>
+`;
+
+exports[`button renders with spellCheck="true" 1`] = `
+<button
+  spellCheck="true"
+/>
+`;
+
+exports[`button renders with style="[object Object]" 1`] = `
+<button
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`button renders with tabIndex="1" 1`] = `
+<button
+  tabIndex={1}
+/>
+`;
+
+exports[`button renders with title="TEST" 1`] = `
+<button
+  title="TEST"
+/>
+`;
+
+exports[`button renders with translate="no" 1`] = `
+<button
+  translate="no"
+/>
+`;
+
+exports[`button renders with translate="yes" 1`] = `
+<button
+  translate="yes"
+/>
+`;
+
+exports[`button renders with type="button" 1`] = `
+<button
+  type="button"
+/>
+`;
+
+exports[`button renders with type="reset" 1`] = `
+<button
+  type="reset"
+/>
+`;
+
+exports[`button renders with type="submit" 1`] = `
+<button
+  type="submit"
+/>
+`;
+
+exports[`button renders with value="TEST" 1`] = `
+<button
+  value="TEST"
+/>
+`;
+
+exports[`button renders without attributes 1`] = `<button />`;

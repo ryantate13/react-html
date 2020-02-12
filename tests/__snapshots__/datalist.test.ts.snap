@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`datalist renders with accessKey="a,b,c,d" 1`] = `
+<datalist
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`datalist renders with autoCapitalize="characters" 1`] = `
+<datalist
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`datalist renders with autoCapitalize="none" 1`] = `
+<datalist
+  autoCapitalize="none"
+/>
+`;
+
+exports[`datalist renders with autoCapitalize="off" 1`] = `
+<datalist
+  autoCapitalize="off"
+/>
+`;
+
+exports[`datalist renders with autoCapitalize="on" 1`] = `
+<datalist
+  autoCapitalize="on"
+/>
+`;
+
+exports[`datalist renders with autoCapitalize="sentences" 1`] = `
+<datalist
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`datalist renders with autoCapitalize="words" 1`] = `
+<datalist
+  autoCapitalize="words"
+/>
+`;
+
+exports[`datalist renders with children 1`] = `
+<datalist>
+  TEST
+</datalist>
+`;
+
+exports[`datalist renders with className="foo bar baz" 1`] = `
+<datalist
+  className="foo bar baz"
+/>
+`;
+
+exports[`datalist renders with contentEditable="false" 1`] = `
+<datalist
+  contentEditable="false"
+/>
+`;
+
+exports[`datalist renders with contentEditable="true" 1`] = `
+<datalist
+  contentEditable="true"
+/>
+`;
+
+exports[`datalist renders with dir="auto" 1`] = `
+<datalist
+  dir="auto"
+/>
+`;
+
+exports[`datalist renders with dir="ltr" 1`] = `
+<datalist
+  dir="ltr"
+/>
+`;
+
+exports[`datalist renders with dir="rtl" 1`] = `
+<datalist
+  dir="rtl"
+/>
+`;
+
+exports[`datalist renders with draggable="false" 1`] = `
+<datalist
+  draggable="false"
+/>
+`;
+
+exports[`datalist renders with draggable="true" 1`] = `
+<datalist
+  draggable="true"
+/>
+`;
+
+exports[`datalist renders with empty attributes 1`] = `<datalist />`;
+
+exports[`datalist renders with hidden="false" 1`] = `
+<datalist
+  hidden={false}
+/>
+`;
+
+exports[`datalist renders with hidden="true" 1`] = `
+<datalist
+  hidden={true}
+/>
+`;
+
+exports[`datalist renders with id="TEST" 1`] = `
+<datalist
+  id="TEST"
+/>
+`;
+
+exports[`datalist renders with inputMode="decimal" 1`] = `
+<datalist
+  inputMode="decimal"
+/>
+`;
+
+exports[`datalist renders with inputMode="email" 1`] = `
+<datalist
+  inputMode="email"
+/>
+`;
+
+exports[`datalist renders with inputMode="none" 1`] = `
+<datalist
+  inputMode="none"
+/>
+`;
+
+exports[`datalist renders with inputMode="numeric" 1`] = `
+<datalist
+  inputMode="numeric"
+/>
+`;
+
+exports[`datalist renders with inputMode="search" 1`] = `
+<datalist
+  inputMode="search"
+/>
+`;
+
+exports[`datalist renders with inputMode="tel" 1`] = `
+<datalist
+  inputMode="tel"
+/>
+`;
+
+exports[`datalist renders with inputMode="text" 1`] = `
+<datalist
+  inputMode="text"
+/>
+`;
+
+exports[`datalist renders with inputMode="url" 1`] = `
+<datalist
+  inputMode="url"
+/>
+`;
+
+exports[`datalist renders with is="foo" 1`] = `
+<datalist
+  is="foo"
+/>
+`;
+
+exports[`datalist renders with itemID="https://google.com/" 1`] = `
+<datalist
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`datalist renders with itemProp="https://google.com/" 1`] = `
+<datalist
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`datalist renders with itemRef="foo bar" 1`] = `
+<datalist
+  itemRef="foo bar"
+/>
+`;
+
+exports[`datalist renders with itemScope="false" 1`] = `
+<datalist
+  itemScope={false}
+/>
+`;
+
+exports[`datalist renders with itemScope="true" 1`] = `
+<datalist
+  itemScope={true}
+/>
+`;
+
+exports[`datalist renders with itemType="https://google.com/" 1`] = `
+<datalist
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`datalist renders with lang="" 1`] = `
+<datalist
+  lang=""
+/>
+`;
+
+exports[`datalist renders with lang="es-419" 1`] = `
+<datalist
+  lang="es-419"
+/>
+`;
+
+exports[`datalist renders with slot="TEST" 1`] = `
+<datalist
+  slot="TEST"
+/>
+`;
+
+exports[`datalist renders with spellCheck="false" 1`] = `
+<datalist
+  spellCheck="false"
+/>
+`;
+
+exports[`datalist renders with spellCheck="true" 1`] = `
+<datalist
+  spellCheck="true"
+/>
+`;
+
+exports[`datalist renders with style="[object Object]" 1`] = `
+<datalist
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`datalist renders with tabIndex="1" 1`] = `
+<datalist
+  tabIndex={1}
+/>
+`;
+
+exports[`datalist renders with title="TEST" 1`] = `
+<datalist
+  title="TEST"
+/>
+`;
+
+exports[`datalist renders with translate="no" 1`] = `
+<datalist
+  translate="no"
+/>
+`;
+
+exports[`datalist renders with translate="yes" 1`] = `
+<datalist
+  translate="yes"
+/>
+`;
+
+exports[`datalist renders without attributes 1`] = `<datalist />`;

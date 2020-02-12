@@ -1,0 +1,387 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`iframe renders with accessKey="a,b,c,d" 1`] = `
+<iframe
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`iframe renders with allow="self" 1`] = `
+<iframe
+  allow="self"
+/>
+`;
+
+exports[`iframe renders with allowFullScreen="false" 1`] = `
+<iframe
+  allowFullScreen={false}
+/>
+`;
+
+exports[`iframe renders with allowFullScreen="true" 1`] = `
+<iframe
+  allowFullScreen={true}
+/>
+`;
+
+exports[`iframe renders with autoCapitalize="characters" 1`] = `
+<iframe
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`iframe renders with autoCapitalize="none" 1`] = `
+<iframe
+  autoCapitalize="none"
+/>
+`;
+
+exports[`iframe renders with autoCapitalize="off" 1`] = `
+<iframe
+  autoCapitalize="off"
+/>
+`;
+
+exports[`iframe renders with autoCapitalize="on" 1`] = `
+<iframe
+  autoCapitalize="on"
+/>
+`;
+
+exports[`iframe renders with autoCapitalize="sentences" 1`] = `
+<iframe
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`iframe renders with autoCapitalize="words" 1`] = `
+<iframe
+  autoCapitalize="words"
+/>
+`;
+
+exports[`iframe renders with children 1`] = `
+<iframe>
+  TEST
+</iframe>
+`;
+
+exports[`iframe renders with className="foo bar baz" 1`] = `
+<iframe
+  className="foo bar baz"
+/>
+`;
+
+exports[`iframe renders with contentEditable="false" 1`] = `
+<iframe
+  contentEditable="false"
+/>
+`;
+
+exports[`iframe renders with contentEditable="true" 1`] = `
+<iframe
+  contentEditable="true"
+/>
+`;
+
+exports[`iframe renders with dir="auto" 1`] = `
+<iframe
+  dir="auto"
+/>
+`;
+
+exports[`iframe renders with dir="ltr" 1`] = `
+<iframe
+  dir="ltr"
+/>
+`;
+
+exports[`iframe renders with dir="rtl" 1`] = `
+<iframe
+  dir="rtl"
+/>
+`;
+
+exports[`iframe renders with draggable="false" 1`] = `
+<iframe
+  draggable="false"
+/>
+`;
+
+exports[`iframe renders with draggable="true" 1`] = `
+<iframe
+  draggable="true"
+/>
+`;
+
+exports[`iframe renders with empty attributes 1`] = `<iframe />`;
+
+exports[`iframe renders with height="1" 1`] = `
+<iframe
+  height={1}
+/>
+`;
+
+exports[`iframe renders with hidden="false" 1`] = `
+<iframe
+  hidden={false}
+/>
+`;
+
+exports[`iframe renders with hidden="true" 1`] = `
+<iframe
+  hidden={true}
+/>
+`;
+
+exports[`iframe renders with id="TEST" 1`] = `
+<iframe
+  id="TEST"
+/>
+`;
+
+exports[`iframe renders with inputMode="decimal" 1`] = `
+<iframe
+  inputMode="decimal"
+/>
+`;
+
+exports[`iframe renders with inputMode="email" 1`] = `
+<iframe
+  inputMode="email"
+/>
+`;
+
+exports[`iframe renders with inputMode="none" 1`] = `
+<iframe
+  inputMode="none"
+/>
+`;
+
+exports[`iframe renders with inputMode="numeric" 1`] = `
+<iframe
+  inputMode="numeric"
+/>
+`;
+
+exports[`iframe renders with inputMode="search" 1`] = `
+<iframe
+  inputMode="search"
+/>
+`;
+
+exports[`iframe renders with inputMode="tel" 1`] = `
+<iframe
+  inputMode="tel"
+/>
+`;
+
+exports[`iframe renders with inputMode="text" 1`] = `
+<iframe
+  inputMode="text"
+/>
+`;
+
+exports[`iframe renders with inputMode="url" 1`] = `
+<iframe
+  inputMode="url"
+/>
+`;
+
+exports[`iframe renders with is="foo" 1`] = `
+<iframe
+  is="foo"
+/>
+`;
+
+exports[`iframe renders with itemID="https://google.com/" 1`] = `
+<iframe
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`iframe renders with itemProp="https://google.com/" 1`] = `
+<iframe
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`iframe renders with itemRef="foo bar" 1`] = `
+<iframe
+  itemRef="foo bar"
+/>
+`;
+
+exports[`iframe renders with itemScope="false" 1`] = `
+<iframe
+  itemScope={false}
+/>
+`;
+
+exports[`iframe renders with itemScope="true" 1`] = `
+<iframe
+  itemScope={true}
+/>
+`;
+
+exports[`iframe renders with itemType="https://google.com/" 1`] = `
+<iframe
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`iframe renders with lang="" 1`] = `
+<iframe
+  lang=""
+/>
+`;
+
+exports[`iframe renders with lang="es-419" 1`] = `
+<iframe
+  lang="es-419"
+/>
+`;
+
+exports[`iframe renders with name="_blank" 1`] = `
+<iframe
+  name="_blank"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-forms" 1`] = `
+<iframe
+  sandbox="allow-forms"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-modals" 1`] = `
+<iframe
+  sandbox="allow-modals"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-orientation-lock" 1`] = `
+<iframe
+  sandbox="allow-orientation-lock"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-pointer-lock" 1`] = `
+<iframe
+  sandbox="allow-pointer-lock"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-popups" 1`] = `
+<iframe
+  sandbox="allow-popups"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-popups-to-escape-sandbox" 1`] = `
+<iframe
+  sandbox="allow-popups-to-escape-sandbox"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-presentation" 1`] = `
+<iframe
+  sandbox="allow-presentation"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-same-origin" 1`] = `
+<iframe
+  sandbox="allow-same-origin"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-scripts" 1`] = `
+<iframe
+  sandbox="allow-scripts"
+/>
+`;
+
+exports[`iframe renders with sandbox="allow-top-navigation" 1`] = `
+<iframe
+  sandbox="allow-top-navigation"
+/>
+`;
+
+exports[`iframe renders with slot="TEST" 1`] = `
+<iframe
+  slot="TEST"
+/>
+`;
+
+exports[`iframe renders with spellCheck="false" 1`] = `
+<iframe
+  spellCheck="false"
+/>
+`;
+
+exports[`iframe renders with spellCheck="true" 1`] = `
+<iframe
+  spellCheck="true"
+/>
+`;
+
+exports[`iframe renders with src="https://google.com/" 1`] = `
+<iframe
+  src="https://google.com/"
+/>
+`;
+
+exports[`iframe renders with srcDoc="iframe" 1`] = `
+<iframe
+  srcDoc="iframe"
+/>
+`;
+
+exports[`iframe renders with srcDoc="srcdoc" 1`] = `
+<iframe
+  srcDoc="srcdoc"
+/>
+`;
+
+exports[`iframe renders with style="[object Object]" 1`] = `
+<iframe
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`iframe renders with tabIndex="1" 1`] = `
+<iframe
+  tabIndex={1}
+/>
+`;
+
+exports[`iframe renders with title="TEST" 1`] = `
+<iframe
+  title="TEST"
+/>
+`;
+
+exports[`iframe renders with translate="no" 1`] = `
+<iframe
+  translate="no"
+/>
+`;
+
+exports[`iframe renders with translate="yes" 1`] = `
+<iframe
+  translate="yes"
+/>
+`;
+
+exports[`iframe renders with width="1" 1`] = `
+<iframe
+  width={1}
+/>
+`;
+
+exports[`iframe renders without attributes 1`] = `<iframe />`;

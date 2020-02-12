@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`thead renders with accessKey="a,b,c,d" 1`] = `
+<thead
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`thead renders with autoCapitalize="characters" 1`] = `
+<thead
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`thead renders with autoCapitalize="none" 1`] = `
+<thead
+  autoCapitalize="none"
+/>
+`;
+
+exports[`thead renders with autoCapitalize="off" 1`] = `
+<thead
+  autoCapitalize="off"
+/>
+`;
+
+exports[`thead renders with autoCapitalize="on" 1`] = `
+<thead
+  autoCapitalize="on"
+/>
+`;
+
+exports[`thead renders with autoCapitalize="sentences" 1`] = `
+<thead
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`thead renders with autoCapitalize="words" 1`] = `
+<thead
+  autoCapitalize="words"
+/>
+`;
+
+exports[`thead renders with children 1`] = `
+<thead>
+  TEST
+</thead>
+`;
+
+exports[`thead renders with className="foo bar baz" 1`] = `
+<thead
+  className="foo bar baz"
+/>
+`;
+
+exports[`thead renders with contentEditable="false" 1`] = `
+<thead
+  contentEditable="false"
+/>
+`;
+
+exports[`thead renders with contentEditable="true" 1`] = `
+<thead
+  contentEditable="true"
+/>
+`;
+
+exports[`thead renders with dir="auto" 1`] = `
+<thead
+  dir="auto"
+/>
+`;
+
+exports[`thead renders with dir="ltr" 1`] = `
+<thead
+  dir="ltr"
+/>
+`;
+
+exports[`thead renders with dir="rtl" 1`] = `
+<thead
+  dir="rtl"
+/>
+`;
+
+exports[`thead renders with draggable="false" 1`] = `
+<thead
+  draggable="false"
+/>
+`;
+
+exports[`thead renders with draggable="true" 1`] = `
+<thead
+  draggable="true"
+/>
+`;
+
+exports[`thead renders with empty attributes 1`] = `<thead />`;
+
+exports[`thead renders with hidden="false" 1`] = `
+<thead
+  hidden={false}
+/>
+`;
+
+exports[`thead renders with hidden="true" 1`] = `
+<thead
+  hidden={true}
+/>
+`;
+
+exports[`thead renders with id="TEST" 1`] = `
+<thead
+  id="TEST"
+/>
+`;
+
+exports[`thead renders with inputMode="decimal" 1`] = `
+<thead
+  inputMode="decimal"
+/>
+`;
+
+exports[`thead renders with inputMode="email" 1`] = `
+<thead
+  inputMode="email"
+/>
+`;
+
+exports[`thead renders with inputMode="none" 1`] = `
+<thead
+  inputMode="none"
+/>
+`;
+
+exports[`thead renders with inputMode="numeric" 1`] = `
+<thead
+  inputMode="numeric"
+/>
+`;
+
+exports[`thead renders with inputMode="search" 1`] = `
+<thead
+  inputMode="search"
+/>
+`;
+
+exports[`thead renders with inputMode="tel" 1`] = `
+<thead
+  inputMode="tel"
+/>
+`;
+
+exports[`thead renders with inputMode="text" 1`] = `
+<thead
+  inputMode="text"
+/>
+`;
+
+exports[`thead renders with inputMode="url" 1`] = `
+<thead
+  inputMode="url"
+/>
+`;
+
+exports[`thead renders with is="foo" 1`] = `
+<thead
+  is="foo"
+/>
+`;
+
+exports[`thead renders with itemID="https://google.com/" 1`] = `
+<thead
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`thead renders with itemProp="https://google.com/" 1`] = `
+<thead
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`thead renders with itemRef="foo bar" 1`] = `
+<thead
+  itemRef="foo bar"
+/>
+`;
+
+exports[`thead renders with itemScope="false" 1`] = `
+<thead
+  itemScope={false}
+/>
+`;
+
+exports[`thead renders with itemScope="true" 1`] = `
+<thead
+  itemScope={true}
+/>
+`;
+
+exports[`thead renders with itemType="https://google.com/" 1`] = `
+<thead
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`thead renders with lang="" 1`] = `
+<thead
+  lang=""
+/>
+`;
+
+exports[`thead renders with lang="es-419" 1`] = `
+<thead
+  lang="es-419"
+/>
+`;
+
+exports[`thead renders with slot="TEST" 1`] = `
+<thead
+  slot="TEST"
+/>
+`;
+
+exports[`thead renders with spellCheck="false" 1`] = `
+<thead
+  spellCheck="false"
+/>
+`;
+
+exports[`thead renders with spellCheck="true" 1`] = `
+<thead
+  spellCheck="true"
+/>
+`;
+
+exports[`thead renders with style="[object Object]" 1`] = `
+<thead
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`thead renders with tabIndex="1" 1`] = `
+<thead
+  tabIndex={1}
+/>
+`;
+
+exports[`thead renders with title="TEST" 1`] = `
+<thead
+  title="TEST"
+/>
+`;
+
+exports[`thead renders with translate="no" 1`] = `
+<thead
+  translate="no"
+/>
+`;
+
+exports[`thead renders with translate="yes" 1`] = `
+<thead
+  translate="yes"
+/>
+`;
+
+exports[`thead renders without attributes 1`] = `<thead />`;

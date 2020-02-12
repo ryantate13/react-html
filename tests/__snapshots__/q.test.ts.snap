@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`q renders with accessKey="a,b,c,d" 1`] = `
+<q
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`q renders with autoCapitalize="characters" 1`] = `
+<q
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`q renders with autoCapitalize="none" 1`] = `
+<q
+  autoCapitalize="none"
+/>
+`;
+
+exports[`q renders with autoCapitalize="off" 1`] = `
+<q
+  autoCapitalize="off"
+/>
+`;
+
+exports[`q renders with autoCapitalize="on" 1`] = `
+<q
+  autoCapitalize="on"
+/>
+`;
+
+exports[`q renders with autoCapitalize="sentences" 1`] = `
+<q
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`q renders with autoCapitalize="words" 1`] = `
+<q
+  autoCapitalize="words"
+/>
+`;
+
+exports[`q renders with children 1`] = `
+<q>
+  TEST
+</q>
+`;
+
+exports[`q renders with cite="https://google.com/" 1`] = `
+<q
+  cite="https://google.com/"
+/>
+`;
+
+exports[`q renders with className="foo bar baz" 1`] = `
+<q
+  className="foo bar baz"
+/>
+`;
+
+exports[`q renders with contentEditable="false" 1`] = `
+<q
+  contentEditable="false"
+/>
+`;
+
+exports[`q renders with contentEditable="true" 1`] = `
+<q
+  contentEditable="true"
+/>
+`;
+
+exports[`q renders with dir="auto" 1`] = `
+<q
+  dir="auto"
+/>
+`;
+
+exports[`q renders with dir="ltr" 1`] = `
+<q
+  dir="ltr"
+/>
+`;
+
+exports[`q renders with dir="rtl" 1`] = `
+<q
+  dir="rtl"
+/>
+`;
+
+exports[`q renders with draggable="false" 1`] = `
+<q
+  draggable="false"
+/>
+`;
+
+exports[`q renders with draggable="true" 1`] = `
+<q
+  draggable="true"
+/>
+`;
+
+exports[`q renders with empty attributes 1`] = `<q />`;
+
+exports[`q renders with hidden="false" 1`] = `
+<q
+  hidden={false}
+/>
+`;
+
+exports[`q renders with hidden="true" 1`] = `
+<q
+  hidden={true}
+/>
+`;
+
+exports[`q renders with id="TEST" 1`] = `
+<q
+  id="TEST"
+/>
+`;
+
+exports[`q renders with inputMode="decimal" 1`] = `
+<q
+  inputMode="decimal"
+/>
+`;
+
+exports[`q renders with inputMode="email" 1`] = `
+<q
+  inputMode="email"
+/>
+`;
+
+exports[`q renders with inputMode="none" 1`] = `
+<q
+  inputMode="none"
+/>
+`;
+
+exports[`q renders with inputMode="numeric" 1`] = `
+<q
+  inputMode="numeric"
+/>
+`;
+
+exports[`q renders with inputMode="search" 1`] = `
+<q
+  inputMode="search"
+/>
+`;
+
+exports[`q renders with inputMode="tel" 1`] = `
+<q
+  inputMode="tel"
+/>
+`;
+
+exports[`q renders with inputMode="text" 1`] = `
+<q
+  inputMode="text"
+/>
+`;
+
+exports[`q renders with inputMode="url" 1`] = `
+<q
+  inputMode="url"
+/>
+`;
+
+exports[`q renders with is="foo" 1`] = `
+<q
+  is="foo"
+/>
+`;
+
+exports[`q renders with itemID="https://google.com/" 1`] = `
+<q
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`q renders with itemProp="https://google.com/" 1`] = `
+<q
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`q renders with itemRef="foo bar" 1`] = `
+<q
+  itemRef="foo bar"
+/>
+`;
+
+exports[`q renders with itemScope="false" 1`] = `
+<q
+  itemScope={false}
+/>
+`;
+
+exports[`q renders with itemScope="true" 1`] = `
+<q
+  itemScope={true}
+/>
+`;
+
+exports[`q renders with itemType="https://google.com/" 1`] = `
+<q
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`q renders with lang="" 1`] = `
+<q
+  lang=""
+/>
+`;
+
+exports[`q renders with lang="es-419" 1`] = `
+<q
+  lang="es-419"
+/>
+`;
+
+exports[`q renders with slot="TEST" 1`] = `
+<q
+  slot="TEST"
+/>
+`;
+
+exports[`q renders with spellCheck="false" 1`] = `
+<q
+  spellCheck="false"
+/>
+`;
+
+exports[`q renders with spellCheck="true" 1`] = `
+<q
+  spellCheck="true"
+/>
+`;
+
+exports[`q renders with style="[object Object]" 1`] = `
+<q
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`q renders with tabIndex="1" 1`] = `
+<q
+  tabIndex={1}
+/>
+`;
+
+exports[`q renders with title="TEST" 1`] = `
+<q
+  title="TEST"
+/>
+`;
+
+exports[`q renders with translate="no" 1`] = `
+<q
+  translate="no"
+/>
+`;
+
+exports[`q renders with translate="yes" 1`] = `
+<q
+  translate="yes"
+/>
+`;
+
+exports[`q renders without attributes 1`] = `<q />`;

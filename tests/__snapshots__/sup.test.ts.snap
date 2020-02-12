@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sup renders with accessKey="a,b,c,d" 1`] = `
+<sup
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`sup renders with autoCapitalize="characters" 1`] = `
+<sup
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`sup renders with autoCapitalize="none" 1`] = `
+<sup
+  autoCapitalize="none"
+/>
+`;
+
+exports[`sup renders with autoCapitalize="off" 1`] = `
+<sup
+  autoCapitalize="off"
+/>
+`;
+
+exports[`sup renders with autoCapitalize="on" 1`] = `
+<sup
+  autoCapitalize="on"
+/>
+`;
+
+exports[`sup renders with autoCapitalize="sentences" 1`] = `
+<sup
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`sup renders with autoCapitalize="words" 1`] = `
+<sup
+  autoCapitalize="words"
+/>
+`;
+
+exports[`sup renders with children 1`] = `
+<sup>
+  TEST
+</sup>
+`;
+
+exports[`sup renders with className="foo bar baz" 1`] = `
+<sup
+  className="foo bar baz"
+/>
+`;
+
+exports[`sup renders with contentEditable="false" 1`] = `
+<sup
+  contentEditable="false"
+/>
+`;
+
+exports[`sup renders with contentEditable="true" 1`] = `
+<sup
+  contentEditable="true"
+/>
+`;
+
+exports[`sup renders with dir="auto" 1`] = `
+<sup
+  dir="auto"
+/>
+`;
+
+exports[`sup renders with dir="ltr" 1`] = `
+<sup
+  dir="ltr"
+/>
+`;
+
+exports[`sup renders with dir="rtl" 1`] = `
+<sup
+  dir="rtl"
+/>
+`;
+
+exports[`sup renders with draggable="false" 1`] = `
+<sup
+  draggable="false"
+/>
+`;
+
+exports[`sup renders with draggable="true" 1`] = `
+<sup
+  draggable="true"
+/>
+`;
+
+exports[`sup renders with empty attributes 1`] = `<sup />`;
+
+exports[`sup renders with hidden="false" 1`] = `
+<sup
+  hidden={false}
+/>
+`;
+
+exports[`sup renders with hidden="true" 1`] = `
+<sup
+  hidden={true}
+/>
+`;
+
+exports[`sup renders with id="TEST" 1`] = `
+<sup
+  id="TEST"
+/>
+`;
+
+exports[`sup renders with inputMode="decimal" 1`] = `
+<sup
+  inputMode="decimal"
+/>
+`;
+
+exports[`sup renders with inputMode="email" 1`] = `
+<sup
+  inputMode="email"
+/>
+`;
+
+exports[`sup renders with inputMode="none" 1`] = `
+<sup
+  inputMode="none"
+/>
+`;
+
+exports[`sup renders with inputMode="numeric" 1`] = `
+<sup
+  inputMode="numeric"
+/>
+`;
+
+exports[`sup renders with inputMode="search" 1`] = `
+<sup
+  inputMode="search"
+/>
+`;
+
+exports[`sup renders with inputMode="tel" 1`] = `
+<sup
+  inputMode="tel"
+/>
+`;
+
+exports[`sup renders with inputMode="text" 1`] = `
+<sup
+  inputMode="text"
+/>
+`;
+
+exports[`sup renders with inputMode="url" 1`] = `
+<sup
+  inputMode="url"
+/>
+`;
+
+exports[`sup renders with is="foo" 1`] = `
+<sup
+  is="foo"
+/>
+`;
+
+exports[`sup renders with itemID="https://google.com/" 1`] = `
+<sup
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`sup renders with itemProp="https://google.com/" 1`] = `
+<sup
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`sup renders with itemRef="foo bar" 1`] = `
+<sup
+  itemRef="foo bar"
+/>
+`;
+
+exports[`sup renders with itemScope="false" 1`] = `
+<sup
+  itemScope={false}
+/>
+`;
+
+exports[`sup renders with itemScope="true" 1`] = `
+<sup
+  itemScope={true}
+/>
+`;
+
+exports[`sup renders with itemType="https://google.com/" 1`] = `
+<sup
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`sup renders with lang="" 1`] = `
+<sup
+  lang=""
+/>
+`;
+
+exports[`sup renders with lang="es-419" 1`] = `
+<sup
+  lang="es-419"
+/>
+`;
+
+exports[`sup renders with slot="TEST" 1`] = `
+<sup
+  slot="TEST"
+/>
+`;
+
+exports[`sup renders with spellCheck="false" 1`] = `
+<sup
+  spellCheck="false"
+/>
+`;
+
+exports[`sup renders with spellCheck="true" 1`] = `
+<sup
+  spellCheck="true"
+/>
+`;
+
+exports[`sup renders with style="[object Object]" 1`] = `
+<sup
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`sup renders with tabIndex="1" 1`] = `
+<sup
+  tabIndex={1}
+/>
+`;
+
+exports[`sup renders with title="TEST" 1`] = `
+<sup
+  title="TEST"
+/>
+`;
+
+exports[`sup renders with translate="no" 1`] = `
+<sup
+  translate="no"
+/>
+`;
+
+exports[`sup renders with translate="yes" 1`] = `
+<sup
+  translate="yes"
+/>
+`;
+
+exports[`sup renders without attributes 1`] = `<sup />`;

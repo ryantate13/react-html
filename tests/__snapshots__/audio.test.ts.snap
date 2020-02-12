@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`audio renders with accessKey="a,b,c,d" 1`] = `
+<audio
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`audio renders with autoCapitalize="characters" 1`] = `
+<audio
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`audio renders with autoCapitalize="none" 1`] = `
+<audio
+  autoCapitalize="none"
+/>
+`;
+
+exports[`audio renders with autoCapitalize="off" 1`] = `
+<audio
+  autoCapitalize="off"
+/>
+`;
+
+exports[`audio renders with autoCapitalize="on" 1`] = `
+<audio
+  autoCapitalize="on"
+/>
+`;
+
+exports[`audio renders with autoCapitalize="sentences" 1`] = `
+<audio
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`audio renders with autoCapitalize="words" 1`] = `
+<audio
+  autoCapitalize="words"
+/>
+`;
+
+exports[`audio renders with autoPlay="false" 1`] = `
+<audio
+  autoPlay={false}
+/>
+`;
+
+exports[`audio renders with autoPlay="true" 1`] = `
+<audio
+  autoPlay={true}
+/>
+`;
+
+exports[`audio renders with children 1`] = `
+<audio>
+  TEST
+</audio>
+`;
+
+exports[`audio renders with className="foo bar baz" 1`] = `
+<audio
+  className="foo bar baz"
+/>
+`;
+
+exports[`audio renders with contentEditable="false" 1`] = `
+<audio
+  contentEditable="false"
+/>
+`;
+
+exports[`audio renders with contentEditable="true" 1`] = `
+<audio
+  contentEditable="true"
+/>
+`;
+
+exports[`audio renders with controls="false" 1`] = `
+<audio
+  controls={false}
+/>
+`;
+
+exports[`audio renders with controls="true" 1`] = `
+<audio
+  controls={true}
+/>
+`;
+
+exports[`audio renders with crossOrigin="anonymous" 1`] = `
+<audio
+  crossOrigin="anonymous"
+/>
+`;
+
+exports[`audio renders with crossOrigin="use-credentials" 1`] = `
+<audio
+  crossOrigin="use-credentials"
+/>
+`;
+
+exports[`audio renders with dir="auto" 1`] = `
+<audio
+  dir="auto"
+/>
+`;
+
+exports[`audio renders with dir="ltr" 1`] = `
+<audio
+  dir="ltr"
+/>
+`;
+
+exports[`audio renders with dir="rtl" 1`] = `
+<audio
+  dir="rtl"
+/>
+`;
+
+exports[`audio renders with draggable="false" 1`] = `
+<audio
+  draggable="false"
+/>
+`;
+
+exports[`audio renders with draggable="true" 1`] = `
+<audio
+  draggable="true"
+/>
+`;
+
+exports[`audio renders with empty attributes 1`] = `<audio />`;
+
+exports[`audio renders with hidden="false" 1`] = `
+<audio
+  hidden={false}
+/>
+`;
+
+exports[`audio renders with hidden="true" 1`] = `
+<audio
+  hidden={true}
+/>
+`;
+
+exports[`audio renders with id="TEST" 1`] = `
+<audio
+  id="TEST"
+/>
+`;
+
+exports[`audio renders with inputMode="decimal" 1`] = `
+<audio
+  inputMode="decimal"
+/>
+`;
+
+exports[`audio renders with inputMode="email" 1`] = `
+<audio
+  inputMode="email"
+/>
+`;
+
+exports[`audio renders with inputMode="none" 1`] = `
+<audio
+  inputMode="none"
+/>
+`;
+
+exports[`audio renders with inputMode="numeric" 1`] = `
+<audio
+  inputMode="numeric"
+/>
+`;
+
+exports[`audio renders with inputMode="search" 1`] = `
+<audio
+  inputMode="search"
+/>
+`;
+
+exports[`audio renders with inputMode="tel" 1`] = `
+<audio
+  inputMode="tel"
+/>
+`;
+
+exports[`audio renders with inputMode="text" 1`] = `
+<audio
+  inputMode="text"
+/>
+`;
+
+exports[`audio renders with inputMode="url" 1`] = `
+<audio
+  inputMode="url"
+/>
+`;
+
+exports[`audio renders with is="foo" 1`] = `
+<audio
+  is="foo"
+/>
+`;
+
+exports[`audio renders with itemID="https://google.com/" 1`] = `
+<audio
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`audio renders with itemProp="https://google.com/" 1`] = `
+<audio
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`audio renders with itemRef="foo bar" 1`] = `
+<audio
+  itemRef="foo bar"
+/>
+`;
+
+exports[`audio renders with itemScope="false" 1`] = `
+<audio
+  itemScope={false}
+/>
+`;
+
+exports[`audio renders with itemScope="true" 1`] = `
+<audio
+  itemScope={true}
+/>
+`;
+
+exports[`audio renders with itemType="https://google.com/" 1`] = `
+<audio
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`audio renders with lang="" 1`] = `
+<audio
+  lang=""
+/>
+`;
+
+exports[`audio renders with lang="es-419" 1`] = `
+<audio
+  lang="es-419"
+/>
+`;
+
+exports[`audio renders with loop="false" 1`] = `
+<audio
+  loop={false}
+/>
+`;
+
+exports[`audio renders with loop="true" 1`] = `
+<audio
+  loop={true}
+/>
+`;
+
+exports[`audio renders with muted="false" 1`] = `
+<audio
+  muted={false}
+/>
+`;
+
+exports[`audio renders with muted="true" 1`] = `
+<audio
+  muted={true}
+/>
+`;
+
+exports[`audio renders with preload="auto" 1`] = `
+<audio
+  preload="auto"
+/>
+`;
+
+exports[`audio renders with preload="metadata" 1`] = `
+<audio
+  preload="metadata"
+/>
+`;
+
+exports[`audio renders with preload="none" 1`] = `
+<audio
+  preload="none"
+/>
+`;
+
+exports[`audio renders with slot="TEST" 1`] = `
+<audio
+  slot="TEST"
+/>
+`;
+
+exports[`audio renders with spellCheck="false" 1`] = `
+<audio
+  spellCheck="false"
+/>
+`;
+
+exports[`audio renders with spellCheck="true" 1`] = `
+<audio
+  spellCheck="true"
+/>
+`;
+
+exports[`audio renders with src="https://google.com/" 1`] = `
+<audio
+  src="https://google.com/"
+/>
+`;
+
+exports[`audio renders with style="[object Object]" 1`] = `
+<audio
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`audio renders with tabIndex="1" 1`] = `
+<audio
+  tabIndex={1}
+/>
+`;
+
+exports[`audio renders with title="TEST" 1`] = `
+<audio
+  title="TEST"
+/>
+`;
+
+exports[`audio renders with translate="no" 1`] = `
+<audio
+  translate="no"
+/>
+`;
+
+exports[`audio renders with translate="yes" 1`] = `
+<audio
+  translate="yes"
+/>
+`;
+
+exports[`audio renders without attributes 1`] = `<audio />`;

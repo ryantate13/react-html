@@ -1,0 +1,297 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fieldset renders with accessKey="a,b,c,d" 1`] = `
+<fieldset
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`fieldset renders with autoCapitalize="characters" 1`] = `
+<fieldset
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`fieldset renders with autoCapitalize="none" 1`] = `
+<fieldset
+  autoCapitalize="none"
+/>
+`;
+
+exports[`fieldset renders with autoCapitalize="off" 1`] = `
+<fieldset
+  autoCapitalize="off"
+/>
+`;
+
+exports[`fieldset renders with autoCapitalize="on" 1`] = `
+<fieldset
+  autoCapitalize="on"
+/>
+`;
+
+exports[`fieldset renders with autoCapitalize="sentences" 1`] = `
+<fieldset
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`fieldset renders with autoCapitalize="words" 1`] = `
+<fieldset
+  autoCapitalize="words"
+/>
+`;
+
+exports[`fieldset renders with children 1`] = `
+<fieldset>
+  TEST
+</fieldset>
+`;
+
+exports[`fieldset renders with className="foo bar baz" 1`] = `
+<fieldset
+  className="foo bar baz"
+/>
+`;
+
+exports[`fieldset renders with contentEditable="false" 1`] = `
+<fieldset
+  contentEditable="false"
+/>
+`;
+
+exports[`fieldset renders with contentEditable="true" 1`] = `
+<fieldset
+  contentEditable="true"
+/>
+`;
+
+exports[`fieldset renders with dir="auto" 1`] = `
+<fieldset
+  dir="auto"
+/>
+`;
+
+exports[`fieldset renders with dir="ltr" 1`] = `
+<fieldset
+  dir="ltr"
+/>
+`;
+
+exports[`fieldset renders with dir="rtl" 1`] = `
+<fieldset
+  dir="rtl"
+/>
+`;
+
+exports[`fieldset renders with disabled="false" 1`] = `
+<fieldset
+  disabled={false}
+/>
+`;
+
+exports[`fieldset renders with disabled="true" 1`] = `
+<fieldset
+  disabled={true}
+/>
+`;
+
+exports[`fieldset renders with draggable="false" 1`] = `
+<fieldset
+  draggable="false"
+/>
+`;
+
+exports[`fieldset renders with draggable="true" 1`] = `
+<fieldset
+  draggable="true"
+/>
+`;
+
+exports[`fieldset renders with empty attributes 1`] = `<fieldset />`;
+
+exports[`fieldset renders with form="TEST" 1`] = `
+<fieldset
+  form="TEST"
+/>
+`;
+
+exports[`fieldset renders with hidden="false" 1`] = `
+<fieldset
+  hidden={false}
+/>
+`;
+
+exports[`fieldset renders with hidden="true" 1`] = `
+<fieldset
+  hidden={true}
+/>
+`;
+
+exports[`fieldset renders with id="TEST" 1`] = `
+<fieldset
+  id="TEST"
+/>
+`;
+
+exports[`fieldset renders with inputMode="decimal" 1`] = `
+<fieldset
+  inputMode="decimal"
+/>
+`;
+
+exports[`fieldset renders with inputMode="email" 1`] = `
+<fieldset
+  inputMode="email"
+/>
+`;
+
+exports[`fieldset renders with inputMode="none" 1`] = `
+<fieldset
+  inputMode="none"
+/>
+`;
+
+exports[`fieldset renders with inputMode="numeric" 1`] = `
+<fieldset
+  inputMode="numeric"
+/>
+`;
+
+exports[`fieldset renders with inputMode="search" 1`] = `
+<fieldset
+  inputMode="search"
+/>
+`;
+
+exports[`fieldset renders with inputMode="tel" 1`] = `
+<fieldset
+  inputMode="tel"
+/>
+`;
+
+exports[`fieldset renders with inputMode="text" 1`] = `
+<fieldset
+  inputMode="text"
+/>
+`;
+
+exports[`fieldset renders with inputMode="url" 1`] = `
+<fieldset
+  inputMode="url"
+/>
+`;
+
+exports[`fieldset renders with is="foo" 1`] = `
+<fieldset
+  is="foo"
+/>
+`;
+
+exports[`fieldset renders with itemID="https://google.com/" 1`] = `
+<fieldset
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`fieldset renders with itemProp="https://google.com/" 1`] = `
+<fieldset
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`fieldset renders with itemRef="foo bar" 1`] = `
+<fieldset
+  itemRef="foo bar"
+/>
+`;
+
+exports[`fieldset renders with itemScope="false" 1`] = `
+<fieldset
+  itemScope={false}
+/>
+`;
+
+exports[`fieldset renders with itemScope="true" 1`] = `
+<fieldset
+  itemScope={true}
+/>
+`;
+
+exports[`fieldset renders with itemType="https://google.com/" 1`] = `
+<fieldset
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`fieldset renders with lang="" 1`] = `
+<fieldset
+  lang=""
+/>
+`;
+
+exports[`fieldset renders with lang="es-419" 1`] = `
+<fieldset
+  lang="es-419"
+/>
+`;
+
+exports[`fieldset renders with name="TEST" 1`] = `
+<fieldset
+  name="TEST"
+/>
+`;
+
+exports[`fieldset renders with slot="TEST" 1`] = `
+<fieldset
+  slot="TEST"
+/>
+`;
+
+exports[`fieldset renders with spellCheck="false" 1`] = `
+<fieldset
+  spellCheck="false"
+/>
+`;
+
+exports[`fieldset renders with spellCheck="true" 1`] = `
+<fieldset
+  spellCheck="true"
+/>
+`;
+
+exports[`fieldset renders with style="[object Object]" 1`] = `
+<fieldset
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`fieldset renders with tabIndex="1" 1`] = `
+<fieldset
+  tabIndex={1}
+/>
+`;
+
+exports[`fieldset renders with title="TEST" 1`] = `
+<fieldset
+  title="TEST"
+/>
+`;
+
+exports[`fieldset renders with translate="no" 1`] = `
+<fieldset
+  translate="no"
+/>
+`;
+
+exports[`fieldset renders with translate="yes" 1`] = `
+<fieldset
+  translate="yes"
+/>
+`;
+
+exports[`fieldset renders without attributes 1`] = `<fieldset />`;

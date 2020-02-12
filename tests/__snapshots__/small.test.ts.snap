@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`small renders with accessKey="a,b,c,d" 1`] = `
+<small
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`small renders with autoCapitalize="characters" 1`] = `
+<small
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`small renders with autoCapitalize="none" 1`] = `
+<small
+  autoCapitalize="none"
+/>
+`;
+
+exports[`small renders with autoCapitalize="off" 1`] = `
+<small
+  autoCapitalize="off"
+/>
+`;
+
+exports[`small renders with autoCapitalize="on" 1`] = `
+<small
+  autoCapitalize="on"
+/>
+`;
+
+exports[`small renders with autoCapitalize="sentences" 1`] = `
+<small
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`small renders with autoCapitalize="words" 1`] = `
+<small
+  autoCapitalize="words"
+/>
+`;
+
+exports[`small renders with children 1`] = `
+<small>
+  TEST
+</small>
+`;
+
+exports[`small renders with className="foo bar baz" 1`] = `
+<small
+  className="foo bar baz"
+/>
+`;
+
+exports[`small renders with contentEditable="false" 1`] = `
+<small
+  contentEditable="false"
+/>
+`;
+
+exports[`small renders with contentEditable="true" 1`] = `
+<small
+  contentEditable="true"
+/>
+`;
+
+exports[`small renders with dir="auto" 1`] = `
+<small
+  dir="auto"
+/>
+`;
+
+exports[`small renders with dir="ltr" 1`] = `
+<small
+  dir="ltr"
+/>
+`;
+
+exports[`small renders with dir="rtl" 1`] = `
+<small
+  dir="rtl"
+/>
+`;
+
+exports[`small renders with draggable="false" 1`] = `
+<small
+  draggable="false"
+/>
+`;
+
+exports[`small renders with draggable="true" 1`] = `
+<small
+  draggable="true"
+/>
+`;
+
+exports[`small renders with empty attributes 1`] = `<small />`;
+
+exports[`small renders with hidden="false" 1`] = `
+<small
+  hidden={false}
+/>
+`;
+
+exports[`small renders with hidden="true" 1`] = `
+<small
+  hidden={true}
+/>
+`;
+
+exports[`small renders with id="TEST" 1`] = `
+<small
+  id="TEST"
+/>
+`;
+
+exports[`small renders with inputMode="decimal" 1`] = `
+<small
+  inputMode="decimal"
+/>
+`;
+
+exports[`small renders with inputMode="email" 1`] = `
+<small
+  inputMode="email"
+/>
+`;
+
+exports[`small renders with inputMode="none" 1`] = `
+<small
+  inputMode="none"
+/>
+`;
+
+exports[`small renders with inputMode="numeric" 1`] = `
+<small
+  inputMode="numeric"
+/>
+`;
+
+exports[`small renders with inputMode="search" 1`] = `
+<small
+  inputMode="search"
+/>
+`;
+
+exports[`small renders with inputMode="tel" 1`] = `
+<small
+  inputMode="tel"
+/>
+`;
+
+exports[`small renders with inputMode="text" 1`] = `
+<small
+  inputMode="text"
+/>
+`;
+
+exports[`small renders with inputMode="url" 1`] = `
+<small
+  inputMode="url"
+/>
+`;
+
+exports[`small renders with is="foo" 1`] = `
+<small
+  is="foo"
+/>
+`;
+
+exports[`small renders with itemID="https://google.com/" 1`] = `
+<small
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`small renders with itemProp="https://google.com/" 1`] = `
+<small
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`small renders with itemRef="foo bar" 1`] = `
+<small
+  itemRef="foo bar"
+/>
+`;
+
+exports[`small renders with itemScope="false" 1`] = `
+<small
+  itemScope={false}
+/>
+`;
+
+exports[`small renders with itemScope="true" 1`] = `
+<small
+  itemScope={true}
+/>
+`;
+
+exports[`small renders with itemType="https://google.com/" 1`] = `
+<small
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`small renders with lang="" 1`] = `
+<small
+  lang=""
+/>
+`;
+
+exports[`small renders with lang="es-419" 1`] = `
+<small
+  lang="es-419"
+/>
+`;
+
+exports[`small renders with slot="TEST" 1`] = `
+<small
+  slot="TEST"
+/>
+`;
+
+exports[`small renders with spellCheck="false" 1`] = `
+<small
+  spellCheck="false"
+/>
+`;
+
+exports[`small renders with spellCheck="true" 1`] = `
+<small
+  spellCheck="true"
+/>
+`;
+
+exports[`small renders with style="[object Object]" 1`] = `
+<small
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`small renders with tabIndex="1" 1`] = `
+<small
+  tabIndex={1}
+/>
+`;
+
+exports[`small renders with title="TEST" 1`] = `
+<small
+  title="TEST"
+/>
+`;
+
+exports[`small renders with translate="no" 1`] = `
+<small
+  translate="no"
+/>
+`;
+
+exports[`small renders with translate="yes" 1`] = `
+<small
+  translate="yes"
+/>
+`;
+
+exports[`small renders without attributes 1`] = `<small />`;

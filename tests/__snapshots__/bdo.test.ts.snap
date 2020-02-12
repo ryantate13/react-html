@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`bdo renders with accessKey="a,b,c,d" 1`] = `
+<bdo
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`bdo renders with autoCapitalize="characters" 1`] = `
+<bdo
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`bdo renders with autoCapitalize="none" 1`] = `
+<bdo
+  autoCapitalize="none"
+/>
+`;
+
+exports[`bdo renders with autoCapitalize="off" 1`] = `
+<bdo
+  autoCapitalize="off"
+/>
+`;
+
+exports[`bdo renders with autoCapitalize="on" 1`] = `
+<bdo
+  autoCapitalize="on"
+/>
+`;
+
+exports[`bdo renders with autoCapitalize="sentences" 1`] = `
+<bdo
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`bdo renders with autoCapitalize="words" 1`] = `
+<bdo
+  autoCapitalize="words"
+/>
+`;
+
+exports[`bdo renders with children 1`] = `
+<bdo>
+  TEST
+</bdo>
+`;
+
+exports[`bdo renders with className="foo bar baz" 1`] = `
+<bdo
+  className="foo bar baz"
+/>
+`;
+
+exports[`bdo renders with contentEditable="false" 1`] = `
+<bdo
+  contentEditable="false"
+/>
+`;
+
+exports[`bdo renders with contentEditable="true" 1`] = `
+<bdo
+  contentEditable="true"
+/>
+`;
+
+exports[`bdo renders with dir="auto" 1`] = `
+<bdo
+  dir="auto"
+/>
+`;
+
+exports[`bdo renders with dir="ltr" 1`] = `
+<bdo
+  dir="ltr"
+/>
+`;
+
+exports[`bdo renders with dir="ltr" 2`] = `
+<bdo
+  dir="ltr"
+/>
+`;
+
+exports[`bdo renders with dir="rtl" 1`] = `
+<bdo
+  dir="rtl"
+/>
+`;
+
+exports[`bdo renders with dir="rtl" 2`] = `
+<bdo
+  dir="rtl"
+/>
+`;
+
+exports[`bdo renders with draggable="false" 1`] = `
+<bdo
+  draggable="false"
+/>
+`;
+
+exports[`bdo renders with draggable="true" 1`] = `
+<bdo
+  draggable="true"
+/>
+`;
+
+exports[`bdo renders with empty attributes 1`] = `<bdo />`;
+
+exports[`bdo renders with hidden="false" 1`] = `
+<bdo
+  hidden={false}
+/>
+`;
+
+exports[`bdo renders with hidden="true" 1`] = `
+<bdo
+  hidden={true}
+/>
+`;
+
+exports[`bdo renders with id="TEST" 1`] = `
+<bdo
+  id="TEST"
+/>
+`;
+
+exports[`bdo renders with inputMode="decimal" 1`] = `
+<bdo
+  inputMode="decimal"
+/>
+`;
+
+exports[`bdo renders with inputMode="email" 1`] = `
+<bdo
+  inputMode="email"
+/>
+`;
+
+exports[`bdo renders with inputMode="none" 1`] = `
+<bdo
+  inputMode="none"
+/>
+`;
+
+exports[`bdo renders with inputMode="numeric" 1`] = `
+<bdo
+  inputMode="numeric"
+/>
+`;
+
+exports[`bdo renders with inputMode="search" 1`] = `
+<bdo
+  inputMode="search"
+/>
+`;
+
+exports[`bdo renders with inputMode="tel" 1`] = `
+<bdo
+  inputMode="tel"
+/>
+`;
+
+exports[`bdo renders with inputMode="text" 1`] = `
+<bdo
+  inputMode="text"
+/>
+`;
+
+exports[`bdo renders with inputMode="url" 1`] = `
+<bdo
+  inputMode="url"
+/>
+`;
+
+exports[`bdo renders with is="foo" 1`] = `
+<bdo
+  is="foo"
+/>
+`;
+
+exports[`bdo renders with itemID="https://google.com/" 1`] = `
+<bdo
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`bdo renders with itemProp="https://google.com/" 1`] = `
+<bdo
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`bdo renders with itemRef="foo bar" 1`] = `
+<bdo
+  itemRef="foo bar"
+/>
+`;
+
+exports[`bdo renders with itemScope="false" 1`] = `
+<bdo
+  itemScope={false}
+/>
+`;
+
+exports[`bdo renders with itemScope="true" 1`] = `
+<bdo
+  itemScope={true}
+/>
+`;
+
+exports[`bdo renders with itemType="https://google.com/" 1`] = `
+<bdo
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`bdo renders with lang="" 1`] = `
+<bdo
+  lang=""
+/>
+`;
+
+exports[`bdo renders with lang="es-419" 1`] = `
+<bdo
+  lang="es-419"
+/>
+`;
+
+exports[`bdo renders with slot="TEST" 1`] = `
+<bdo
+  slot="TEST"
+/>
+`;
+
+exports[`bdo renders with spellCheck="false" 1`] = `
+<bdo
+  spellCheck="false"
+/>
+`;
+
+exports[`bdo renders with spellCheck="true" 1`] = `
+<bdo
+  spellCheck="true"
+/>
+`;
+
+exports[`bdo renders with style="[object Object]" 1`] = `
+<bdo
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`bdo renders with tabIndex="1" 1`] = `
+<bdo
+  tabIndex={1}
+/>
+`;
+
+exports[`bdo renders with title="TEST" 1`] = `
+<bdo
+  title="TEST"
+/>
+`;
+
+exports[`bdo renders with translate="no" 1`] = `
+<bdo
+  translate="no"
+/>
+`;
+
+exports[`bdo renders with translate="yes" 1`] = `
+<bdo
+  translate="yes"
+/>
+`;
+
+exports[`bdo renders without attributes 1`] = `<bdo />`;

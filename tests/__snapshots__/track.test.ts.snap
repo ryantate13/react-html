@@ -1,0 +1,327 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`track renders with accessKey="a,b,c,d" 1`] = `
+<track
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`track renders with autoCapitalize="characters" 1`] = `
+<track
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`track renders with autoCapitalize="none" 1`] = `
+<track
+  autoCapitalize="none"
+/>
+`;
+
+exports[`track renders with autoCapitalize="off" 1`] = `
+<track
+  autoCapitalize="off"
+/>
+`;
+
+exports[`track renders with autoCapitalize="on" 1`] = `
+<track
+  autoCapitalize="on"
+/>
+`;
+
+exports[`track renders with autoCapitalize="sentences" 1`] = `
+<track
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`track renders with autoCapitalize="words" 1`] = `
+<track
+  autoCapitalize="words"
+/>
+`;
+
+exports[`track renders with className="foo bar baz" 1`] = `
+<track
+  className="foo bar baz"
+/>
+`;
+
+exports[`track renders with contentEditable="false" 1`] = `
+<track
+  contentEditable="false"
+/>
+`;
+
+exports[`track renders with contentEditable="true" 1`] = `
+<track
+  contentEditable="true"
+/>
+`;
+
+exports[`track renders with default="false" 1`] = `
+<track
+  default={false}
+/>
+`;
+
+exports[`track renders with default="true" 1`] = `
+<track
+  default={true}
+/>
+`;
+
+exports[`track renders with dir="auto" 1`] = `
+<track
+  dir="auto"
+/>
+`;
+
+exports[`track renders with dir="ltr" 1`] = `
+<track
+  dir="ltr"
+/>
+`;
+
+exports[`track renders with dir="rtl" 1`] = `
+<track
+  dir="rtl"
+/>
+`;
+
+exports[`track renders with draggable="false" 1`] = `
+<track
+  draggable="false"
+/>
+`;
+
+exports[`track renders with draggable="true" 1`] = `
+<track
+  draggable="true"
+/>
+`;
+
+exports[`track renders with empty attributes 1`] = `<track />`;
+
+exports[`track renders with hidden="false" 1`] = `
+<track
+  hidden={false}
+/>
+`;
+
+exports[`track renders with hidden="true" 1`] = `
+<track
+  hidden={true}
+/>
+`;
+
+exports[`track renders with id="TEST" 1`] = `
+<track
+  id="TEST"
+/>
+`;
+
+exports[`track renders with inputMode="decimal" 1`] = `
+<track
+  inputMode="decimal"
+/>
+`;
+
+exports[`track renders with inputMode="email" 1`] = `
+<track
+  inputMode="email"
+/>
+`;
+
+exports[`track renders with inputMode="none" 1`] = `
+<track
+  inputMode="none"
+/>
+`;
+
+exports[`track renders with inputMode="numeric" 1`] = `
+<track
+  inputMode="numeric"
+/>
+`;
+
+exports[`track renders with inputMode="search" 1`] = `
+<track
+  inputMode="search"
+/>
+`;
+
+exports[`track renders with inputMode="tel" 1`] = `
+<track
+  inputMode="tel"
+/>
+`;
+
+exports[`track renders with inputMode="text" 1`] = `
+<track
+  inputMode="text"
+/>
+`;
+
+exports[`track renders with inputMode="url" 1`] = `
+<track
+  inputMode="url"
+/>
+`;
+
+exports[`track renders with is="foo" 1`] = `
+<track
+  is="foo"
+/>
+`;
+
+exports[`track renders with itemID="https://google.com/" 1`] = `
+<track
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`track renders with itemProp="https://google.com/" 1`] = `
+<track
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`track renders with itemRef="foo bar" 1`] = `
+<track
+  itemRef="foo bar"
+/>
+`;
+
+exports[`track renders with itemScope="false" 1`] = `
+<track
+  itemScope={false}
+/>
+`;
+
+exports[`track renders with itemScope="true" 1`] = `
+<track
+  itemScope={true}
+/>
+`;
+
+exports[`track renders with itemType="https://google.com/" 1`] = `
+<track
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`track renders with kind="captions" 1`] = `
+<track
+  kind="captions"
+/>
+`;
+
+exports[`track renders with kind="chapters" 1`] = `
+<track
+  kind="chapters"
+/>
+`;
+
+exports[`track renders with kind="descriptions" 1`] = `
+<track
+  kind="descriptions"
+/>
+`;
+
+exports[`track renders with kind="metadata" 1`] = `
+<track
+  kind="metadata"
+/>
+`;
+
+exports[`track renders with kind="subtitles" 1`] = `
+<track
+  kind="subtitles"
+/>
+`;
+
+exports[`track renders with label="TEST" 1`] = `
+<track
+  label="TEST"
+/>
+`;
+
+exports[`track renders with lang="" 1`] = `
+<track
+  lang=""
+/>
+`;
+
+exports[`track renders with lang="es-419" 1`] = `
+<track
+  lang="es-419"
+/>
+`;
+
+exports[`track renders with slot="TEST" 1`] = `
+<track
+  slot="TEST"
+/>
+`;
+
+exports[`track renders with spellCheck="false" 1`] = `
+<track
+  spellCheck="false"
+/>
+`;
+
+exports[`track renders with spellCheck="true" 1`] = `
+<track
+  spellCheck="true"
+/>
+`;
+
+exports[`track renders with src="https://google.com/" 1`] = `
+<track
+  src="https://google.com/"
+/>
+`;
+
+exports[`track renders with srcLang="es-419" 1`] = `
+<track
+  srcLang="es-419"
+/>
+`;
+
+exports[`track renders with style="[object Object]" 1`] = `
+<track
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`track renders with tabIndex="1" 1`] = `
+<track
+  tabIndex={1}
+/>
+`;
+
+exports[`track renders with title="TEST" 1`] = `
+<track
+  title="TEST"
+/>
+`;
+
+exports[`track renders with translate="no" 1`] = `
+<track
+  translate="no"
+/>
+`;
+
+exports[`track renders with translate="yes" 1`] = `
+<track
+  translate="yes"
+/>
+`;
+
+exports[`track renders without attributes 1`] = `<track />`;

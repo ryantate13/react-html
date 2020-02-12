@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`u renders with accessKey="a,b,c,d" 1`] = `
+<u
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`u renders with autoCapitalize="characters" 1`] = `
+<u
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`u renders with autoCapitalize="none" 1`] = `
+<u
+  autoCapitalize="none"
+/>
+`;
+
+exports[`u renders with autoCapitalize="off" 1`] = `
+<u
+  autoCapitalize="off"
+/>
+`;
+
+exports[`u renders with autoCapitalize="on" 1`] = `
+<u
+  autoCapitalize="on"
+/>
+`;
+
+exports[`u renders with autoCapitalize="sentences" 1`] = `
+<u
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`u renders with autoCapitalize="words" 1`] = `
+<u
+  autoCapitalize="words"
+/>
+`;
+
+exports[`u renders with children 1`] = `
+<u>
+  TEST
+</u>
+`;
+
+exports[`u renders with className="foo bar baz" 1`] = `
+<u
+  className="foo bar baz"
+/>
+`;
+
+exports[`u renders with contentEditable="false" 1`] = `
+<u
+  contentEditable="false"
+/>
+`;
+
+exports[`u renders with contentEditable="true" 1`] = `
+<u
+  contentEditable="true"
+/>
+`;
+
+exports[`u renders with dir="auto" 1`] = `
+<u
+  dir="auto"
+/>
+`;
+
+exports[`u renders with dir="ltr" 1`] = `
+<u
+  dir="ltr"
+/>
+`;
+
+exports[`u renders with dir="rtl" 1`] = `
+<u
+  dir="rtl"
+/>
+`;
+
+exports[`u renders with draggable="false" 1`] = `
+<u
+  draggable="false"
+/>
+`;
+
+exports[`u renders with draggable="true" 1`] = `
+<u
+  draggable="true"
+/>
+`;
+
+exports[`u renders with empty attributes 1`] = `<u />`;
+
+exports[`u renders with hidden="false" 1`] = `
+<u
+  hidden={false}
+/>
+`;
+
+exports[`u renders with hidden="true" 1`] = `
+<u
+  hidden={true}
+/>
+`;
+
+exports[`u renders with id="TEST" 1`] = `
+<u
+  id="TEST"
+/>
+`;
+
+exports[`u renders with inputMode="decimal" 1`] = `
+<u
+  inputMode="decimal"
+/>
+`;
+
+exports[`u renders with inputMode="email" 1`] = `
+<u
+  inputMode="email"
+/>
+`;
+
+exports[`u renders with inputMode="none" 1`] = `
+<u
+  inputMode="none"
+/>
+`;
+
+exports[`u renders with inputMode="numeric" 1`] = `
+<u
+  inputMode="numeric"
+/>
+`;
+
+exports[`u renders with inputMode="search" 1`] = `
+<u
+  inputMode="search"
+/>
+`;
+
+exports[`u renders with inputMode="tel" 1`] = `
+<u
+  inputMode="tel"
+/>
+`;
+
+exports[`u renders with inputMode="text" 1`] = `
+<u
+  inputMode="text"
+/>
+`;
+
+exports[`u renders with inputMode="url" 1`] = `
+<u
+  inputMode="url"
+/>
+`;
+
+exports[`u renders with is="foo" 1`] = `
+<u
+  is="foo"
+/>
+`;
+
+exports[`u renders with itemID="https://google.com/" 1`] = `
+<u
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`u renders with itemProp="https://google.com/" 1`] = `
+<u
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`u renders with itemRef="foo bar" 1`] = `
+<u
+  itemRef="foo bar"
+/>
+`;
+
+exports[`u renders with itemScope="false" 1`] = `
+<u
+  itemScope={false}
+/>
+`;
+
+exports[`u renders with itemScope="true" 1`] = `
+<u
+  itemScope={true}
+/>
+`;
+
+exports[`u renders with itemType="https://google.com/" 1`] = `
+<u
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`u renders with lang="" 1`] = `
+<u
+  lang=""
+/>
+`;
+
+exports[`u renders with lang="es-419" 1`] = `
+<u
+  lang="es-419"
+/>
+`;
+
+exports[`u renders with slot="TEST" 1`] = `
+<u
+  slot="TEST"
+/>
+`;
+
+exports[`u renders with spellCheck="false" 1`] = `
+<u
+  spellCheck="false"
+/>
+`;
+
+exports[`u renders with spellCheck="true" 1`] = `
+<u
+  spellCheck="true"
+/>
+`;
+
+exports[`u renders with style="[object Object]" 1`] = `
+<u
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`u renders with tabIndex="1" 1`] = `
+<u
+  tabIndex={1}
+/>
+`;
+
+exports[`u renders with title="TEST" 1`] = `
+<u
+  title="TEST"
+/>
+`;
+
+exports[`u renders with translate="no" 1`] = `
+<u
+  translate="no"
+/>
+`;
+
+exports[`u renders with translate="yes" 1`] = `
+<u
+  translate="yes"
+/>
+`;
+
+exports[`u renders without attributes 1`] = `<u />`;

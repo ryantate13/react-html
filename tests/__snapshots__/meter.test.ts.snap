@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`meter renders with accessKey="a,b,c,d" 1`] = `
+<meter
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`meter renders with autoCapitalize="characters" 1`] = `
+<meter
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`meter renders with autoCapitalize="none" 1`] = `
+<meter
+  autoCapitalize="none"
+/>
+`;
+
+exports[`meter renders with autoCapitalize="off" 1`] = `
+<meter
+  autoCapitalize="off"
+/>
+`;
+
+exports[`meter renders with autoCapitalize="on" 1`] = `
+<meter
+  autoCapitalize="on"
+/>
+`;
+
+exports[`meter renders with autoCapitalize="sentences" 1`] = `
+<meter
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`meter renders with autoCapitalize="words" 1`] = `
+<meter
+  autoCapitalize="words"
+/>
+`;
+
+exports[`meter renders with children 1`] = `
+<meter>
+  TEST
+</meter>
+`;
+
+exports[`meter renders with className="foo bar baz" 1`] = `
+<meter
+  className="foo bar baz"
+/>
+`;
+
+exports[`meter renders with contentEditable="false" 1`] = `
+<meter
+  contentEditable="false"
+/>
+`;
+
+exports[`meter renders with contentEditable="true" 1`] = `
+<meter
+  contentEditable="true"
+/>
+`;
+
+exports[`meter renders with dir="auto" 1`] = `
+<meter
+  dir="auto"
+/>
+`;
+
+exports[`meter renders with dir="ltr" 1`] = `
+<meter
+  dir="ltr"
+/>
+`;
+
+exports[`meter renders with dir="rtl" 1`] = `
+<meter
+  dir="rtl"
+/>
+`;
+
+exports[`meter renders with draggable="false" 1`] = `
+<meter
+  draggable="false"
+/>
+`;
+
+exports[`meter renders with draggable="true" 1`] = `
+<meter
+  draggable="true"
+/>
+`;
+
+exports[`meter renders with empty attributes 1`] = `<meter />`;
+
+exports[`meter renders with hidden="false" 1`] = `
+<meter
+  hidden={false}
+/>
+`;
+
+exports[`meter renders with hidden="true" 1`] = `
+<meter
+  hidden={true}
+/>
+`;
+
+exports[`meter renders with high="1.1" 1`] = `
+<meter
+  high={1.1}
+/>
+`;
+
+exports[`meter renders with id="TEST" 1`] = `
+<meter
+  id="TEST"
+/>
+`;
+
+exports[`meter renders with inputMode="decimal" 1`] = `
+<meter
+  inputMode="decimal"
+/>
+`;
+
+exports[`meter renders with inputMode="email" 1`] = `
+<meter
+  inputMode="email"
+/>
+`;
+
+exports[`meter renders with inputMode="none" 1`] = `
+<meter
+  inputMode="none"
+/>
+`;
+
+exports[`meter renders with inputMode="numeric" 1`] = `
+<meter
+  inputMode="numeric"
+/>
+`;
+
+exports[`meter renders with inputMode="search" 1`] = `
+<meter
+  inputMode="search"
+/>
+`;
+
+exports[`meter renders with inputMode="tel" 1`] = `
+<meter
+  inputMode="tel"
+/>
+`;
+
+exports[`meter renders with inputMode="text" 1`] = `
+<meter
+  inputMode="text"
+/>
+`;
+
+exports[`meter renders with inputMode="url" 1`] = `
+<meter
+  inputMode="url"
+/>
+`;
+
+exports[`meter renders with is="foo" 1`] = `
+<meter
+  is="foo"
+/>
+`;
+
+exports[`meter renders with itemID="https://google.com/" 1`] = `
+<meter
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`meter renders with itemProp="https://google.com/" 1`] = `
+<meter
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`meter renders with itemRef="foo bar" 1`] = `
+<meter
+  itemRef="foo bar"
+/>
+`;
+
+exports[`meter renders with itemScope="false" 1`] = `
+<meter
+  itemScope={false}
+/>
+`;
+
+exports[`meter renders with itemScope="true" 1`] = `
+<meter
+  itemScope={true}
+/>
+`;
+
+exports[`meter renders with itemType="https://google.com/" 1`] = `
+<meter
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`meter renders with lang="" 1`] = `
+<meter
+  lang=""
+/>
+`;
+
+exports[`meter renders with lang="es-419" 1`] = `
+<meter
+  lang="es-419"
+/>
+`;
+
+exports[`meter renders with low="1.1" 1`] = `
+<meter
+  low={1.1}
+/>
+`;
+
+exports[`meter renders with max="1.1" 1`] = `
+<meter
+  max={1.1}
+/>
+`;
+
+exports[`meter renders with min="1.1" 1`] = `
+<meter
+  min={1.1}
+/>
+`;
+
+exports[`meter renders with optimum="1.1" 1`] = `
+<meter
+  optimum={1.1}
+/>
+`;
+
+exports[`meter renders with slot="TEST" 1`] = `
+<meter
+  slot="TEST"
+/>
+`;
+
+exports[`meter renders with spellCheck="false" 1`] = `
+<meter
+  spellCheck="false"
+/>
+`;
+
+exports[`meter renders with spellCheck="true" 1`] = `
+<meter
+  spellCheck="true"
+/>
+`;
+
+exports[`meter renders with style="[object Object]" 1`] = `
+<meter
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`meter renders with tabIndex="1" 1`] = `
+<meter
+  tabIndex={1}
+/>
+`;
+
+exports[`meter renders with title="TEST" 1`] = `
+<meter
+  title="TEST"
+/>
+`;
+
+exports[`meter renders with translate="no" 1`] = `
+<meter
+  translate="no"
+/>
+`;
+
+exports[`meter renders with translate="yes" 1`] = `
+<meter
+  translate="yes"
+/>
+`;
+
+exports[`meter renders with value="1.1" 1`] = `
+<meter
+  value={1.1}
+/>
+`;
+
+exports[`meter renders without attributes 1`] = `<meter />`;

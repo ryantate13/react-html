@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`bdi renders with accessKey="a,b,c,d" 1`] = `
+<bdi
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`bdi renders with autoCapitalize="characters" 1`] = `
+<bdi
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`bdi renders with autoCapitalize="none" 1`] = `
+<bdi
+  autoCapitalize="none"
+/>
+`;
+
+exports[`bdi renders with autoCapitalize="off" 1`] = `
+<bdi
+  autoCapitalize="off"
+/>
+`;
+
+exports[`bdi renders with autoCapitalize="on" 1`] = `
+<bdi
+  autoCapitalize="on"
+/>
+`;
+
+exports[`bdi renders with autoCapitalize="sentences" 1`] = `
+<bdi
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`bdi renders with autoCapitalize="words" 1`] = `
+<bdi
+  autoCapitalize="words"
+/>
+`;
+
+exports[`bdi renders with children 1`] = `
+<bdi>
+  TEST
+</bdi>
+`;
+
+exports[`bdi renders with className="foo bar baz" 1`] = `
+<bdi
+  className="foo bar baz"
+/>
+`;
+
+exports[`bdi renders with contentEditable="false" 1`] = `
+<bdi
+  contentEditable="false"
+/>
+`;
+
+exports[`bdi renders with contentEditable="true" 1`] = `
+<bdi
+  contentEditable="true"
+/>
+`;
+
+exports[`bdi renders with dir="auto" 1`] = `
+<bdi
+  dir="auto"
+/>
+`;
+
+exports[`bdi renders with dir="ltr" 1`] = `
+<bdi
+  dir="ltr"
+/>
+`;
+
+exports[`bdi renders with dir="rtl" 1`] = `
+<bdi
+  dir="rtl"
+/>
+`;
+
+exports[`bdi renders with draggable="false" 1`] = `
+<bdi
+  draggable="false"
+/>
+`;
+
+exports[`bdi renders with draggable="true" 1`] = `
+<bdi
+  draggable="true"
+/>
+`;
+
+exports[`bdi renders with empty attributes 1`] = `<bdi />`;
+
+exports[`bdi renders with hidden="false" 1`] = `
+<bdi
+  hidden={false}
+/>
+`;
+
+exports[`bdi renders with hidden="true" 1`] = `
+<bdi
+  hidden={true}
+/>
+`;
+
+exports[`bdi renders with id="TEST" 1`] = `
+<bdi
+  id="TEST"
+/>
+`;
+
+exports[`bdi renders with inputMode="decimal" 1`] = `
+<bdi
+  inputMode="decimal"
+/>
+`;
+
+exports[`bdi renders with inputMode="email" 1`] = `
+<bdi
+  inputMode="email"
+/>
+`;
+
+exports[`bdi renders with inputMode="none" 1`] = `
+<bdi
+  inputMode="none"
+/>
+`;
+
+exports[`bdi renders with inputMode="numeric" 1`] = `
+<bdi
+  inputMode="numeric"
+/>
+`;
+
+exports[`bdi renders with inputMode="search" 1`] = `
+<bdi
+  inputMode="search"
+/>
+`;
+
+exports[`bdi renders with inputMode="tel" 1`] = `
+<bdi
+  inputMode="tel"
+/>
+`;
+
+exports[`bdi renders with inputMode="text" 1`] = `
+<bdi
+  inputMode="text"
+/>
+`;
+
+exports[`bdi renders with inputMode="url" 1`] = `
+<bdi
+  inputMode="url"
+/>
+`;
+
+exports[`bdi renders with is="foo" 1`] = `
+<bdi
+  is="foo"
+/>
+`;
+
+exports[`bdi renders with itemID="https://google.com/" 1`] = `
+<bdi
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`bdi renders with itemProp="https://google.com/" 1`] = `
+<bdi
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`bdi renders with itemRef="foo bar" 1`] = `
+<bdi
+  itemRef="foo bar"
+/>
+`;
+
+exports[`bdi renders with itemScope="false" 1`] = `
+<bdi
+  itemScope={false}
+/>
+`;
+
+exports[`bdi renders with itemScope="true" 1`] = `
+<bdi
+  itemScope={true}
+/>
+`;
+
+exports[`bdi renders with itemType="https://google.com/" 1`] = `
+<bdi
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`bdi renders with lang="" 1`] = `
+<bdi
+  lang=""
+/>
+`;
+
+exports[`bdi renders with lang="es-419" 1`] = `
+<bdi
+  lang="es-419"
+/>
+`;
+
+exports[`bdi renders with slot="TEST" 1`] = `
+<bdi
+  slot="TEST"
+/>
+`;
+
+exports[`bdi renders with spellCheck="false" 1`] = `
+<bdi
+  spellCheck="false"
+/>
+`;
+
+exports[`bdi renders with spellCheck="true" 1`] = `
+<bdi
+  spellCheck="true"
+/>
+`;
+
+exports[`bdi renders with style="[object Object]" 1`] = `
+<bdi
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`bdi renders with tabIndex="1" 1`] = `
+<bdi
+  tabIndex={1}
+/>
+`;
+
+exports[`bdi renders with title="TEST" 1`] = `
+<bdi
+  title="TEST"
+/>
+`;
+
+exports[`bdi renders with translate="no" 1`] = `
+<bdi
+  translate="no"
+/>
+`;
+
+exports[`bdi renders with translate="yes" 1`] = `
+<bdi
+  translate="yes"
+/>
+`;
+
+exports[`bdi renders without attributes 1`] = `<bdi />`;

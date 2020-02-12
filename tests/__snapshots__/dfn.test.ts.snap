@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dfn renders with accessKey="a,b,c,d" 1`] = `
+<dfn
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`dfn renders with autoCapitalize="characters" 1`] = `
+<dfn
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`dfn renders with autoCapitalize="none" 1`] = `
+<dfn
+  autoCapitalize="none"
+/>
+`;
+
+exports[`dfn renders with autoCapitalize="off" 1`] = `
+<dfn
+  autoCapitalize="off"
+/>
+`;
+
+exports[`dfn renders with autoCapitalize="on" 1`] = `
+<dfn
+  autoCapitalize="on"
+/>
+`;
+
+exports[`dfn renders with autoCapitalize="sentences" 1`] = `
+<dfn
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`dfn renders with autoCapitalize="words" 1`] = `
+<dfn
+  autoCapitalize="words"
+/>
+`;
+
+exports[`dfn renders with children 1`] = `
+<dfn>
+  TEST
+</dfn>
+`;
+
+exports[`dfn renders with className="foo bar baz" 1`] = `
+<dfn
+  className="foo bar baz"
+/>
+`;
+
+exports[`dfn renders with contentEditable="false" 1`] = `
+<dfn
+  contentEditable="false"
+/>
+`;
+
+exports[`dfn renders with contentEditable="true" 1`] = `
+<dfn
+  contentEditable="true"
+/>
+`;
+
+exports[`dfn renders with dir="auto" 1`] = `
+<dfn
+  dir="auto"
+/>
+`;
+
+exports[`dfn renders with dir="ltr" 1`] = `
+<dfn
+  dir="ltr"
+/>
+`;
+
+exports[`dfn renders with dir="rtl" 1`] = `
+<dfn
+  dir="rtl"
+/>
+`;
+
+exports[`dfn renders with draggable="false" 1`] = `
+<dfn
+  draggable="false"
+/>
+`;
+
+exports[`dfn renders with draggable="true" 1`] = `
+<dfn
+  draggable="true"
+/>
+`;
+
+exports[`dfn renders with empty attributes 1`] = `<dfn />`;
+
+exports[`dfn renders with hidden="false" 1`] = `
+<dfn
+  hidden={false}
+/>
+`;
+
+exports[`dfn renders with hidden="true" 1`] = `
+<dfn
+  hidden={true}
+/>
+`;
+
+exports[`dfn renders with id="TEST" 1`] = `
+<dfn
+  id="TEST"
+/>
+`;
+
+exports[`dfn renders with inputMode="decimal" 1`] = `
+<dfn
+  inputMode="decimal"
+/>
+`;
+
+exports[`dfn renders with inputMode="email" 1`] = `
+<dfn
+  inputMode="email"
+/>
+`;
+
+exports[`dfn renders with inputMode="none" 1`] = `
+<dfn
+  inputMode="none"
+/>
+`;
+
+exports[`dfn renders with inputMode="numeric" 1`] = `
+<dfn
+  inputMode="numeric"
+/>
+`;
+
+exports[`dfn renders with inputMode="search" 1`] = `
+<dfn
+  inputMode="search"
+/>
+`;
+
+exports[`dfn renders with inputMode="tel" 1`] = `
+<dfn
+  inputMode="tel"
+/>
+`;
+
+exports[`dfn renders with inputMode="text" 1`] = `
+<dfn
+  inputMode="text"
+/>
+`;
+
+exports[`dfn renders with inputMode="url" 1`] = `
+<dfn
+  inputMode="url"
+/>
+`;
+
+exports[`dfn renders with is="foo" 1`] = `
+<dfn
+  is="foo"
+/>
+`;
+
+exports[`dfn renders with itemID="https://google.com/" 1`] = `
+<dfn
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`dfn renders with itemProp="https://google.com/" 1`] = `
+<dfn
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`dfn renders with itemRef="foo bar" 1`] = `
+<dfn
+  itemRef="foo bar"
+/>
+`;
+
+exports[`dfn renders with itemScope="false" 1`] = `
+<dfn
+  itemScope={false}
+/>
+`;
+
+exports[`dfn renders with itemScope="true" 1`] = `
+<dfn
+  itemScope={true}
+/>
+`;
+
+exports[`dfn renders with itemType="https://google.com/" 1`] = `
+<dfn
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`dfn renders with lang="" 1`] = `
+<dfn
+  lang=""
+/>
+`;
+
+exports[`dfn renders with lang="es-419" 1`] = `
+<dfn
+  lang="es-419"
+/>
+`;
+
+exports[`dfn renders with slot="TEST" 1`] = `
+<dfn
+  slot="TEST"
+/>
+`;
+
+exports[`dfn renders with spellCheck="false" 1`] = `
+<dfn
+  spellCheck="false"
+/>
+`;
+
+exports[`dfn renders with spellCheck="true" 1`] = `
+<dfn
+  spellCheck="true"
+/>
+`;
+
+exports[`dfn renders with style="[object Object]" 1`] = `
+<dfn
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`dfn renders with tabIndex="1" 1`] = `
+<dfn
+  tabIndex={1}
+/>
+`;
+
+exports[`dfn renders with title="TEST" 1`] = `
+<dfn
+  title="TEST"
+/>
+`;
+
+exports[`dfn renders with title="TEST" 2`] = `
+<dfn
+  title="TEST"
+/>
+`;
+
+exports[`dfn renders with translate="no" 1`] = `
+<dfn
+  translate="no"
+/>
+`;
+
+exports[`dfn renders with translate="yes" 1`] = `
+<dfn
+  translate="yes"
+/>
+`;
+
+exports[`dfn renders without attributes 1`] = `<dfn />`;

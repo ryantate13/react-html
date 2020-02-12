@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`label renders with accessKey="a,b,c,d" 1`] = `
+<label
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`label renders with autoCapitalize="characters" 1`] = `
+<label
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`label renders with autoCapitalize="none" 1`] = `
+<label
+  autoCapitalize="none"
+/>
+`;
+
+exports[`label renders with autoCapitalize="off" 1`] = `
+<label
+  autoCapitalize="off"
+/>
+`;
+
+exports[`label renders with autoCapitalize="on" 1`] = `
+<label
+  autoCapitalize="on"
+/>
+`;
+
+exports[`label renders with autoCapitalize="sentences" 1`] = `
+<label
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`label renders with autoCapitalize="words" 1`] = `
+<label
+  autoCapitalize="words"
+/>
+`;
+
+exports[`label renders with children 1`] = `
+<label>
+  TEST
+</label>
+`;
+
+exports[`label renders with className="foo bar baz" 1`] = `
+<label
+  className="foo bar baz"
+/>
+`;
+
+exports[`label renders with contentEditable="false" 1`] = `
+<label
+  contentEditable="false"
+/>
+`;
+
+exports[`label renders with contentEditable="true" 1`] = `
+<label
+  contentEditable="true"
+/>
+`;
+
+exports[`label renders with dir="auto" 1`] = `
+<label
+  dir="auto"
+/>
+`;
+
+exports[`label renders with dir="ltr" 1`] = `
+<label
+  dir="ltr"
+/>
+`;
+
+exports[`label renders with dir="rtl" 1`] = `
+<label
+  dir="rtl"
+/>
+`;
+
+exports[`label renders with draggable="false" 1`] = `
+<label
+  draggable="false"
+/>
+`;
+
+exports[`label renders with draggable="true" 1`] = `
+<label
+  draggable="true"
+/>
+`;
+
+exports[`label renders with empty attributes 1`] = `<label />`;
+
+exports[`label renders with hidden="false" 1`] = `
+<label
+  hidden={false}
+/>
+`;
+
+exports[`label renders with hidden="true" 1`] = `
+<label
+  hidden={true}
+/>
+`;
+
+exports[`label renders with htmlFor="TEST" 1`] = `
+<label
+  htmlFor="TEST"
+/>
+`;
+
+exports[`label renders with id="TEST" 1`] = `
+<label
+  id="TEST"
+/>
+`;
+
+exports[`label renders with inputMode="decimal" 1`] = `
+<label
+  inputMode="decimal"
+/>
+`;
+
+exports[`label renders with inputMode="email" 1`] = `
+<label
+  inputMode="email"
+/>
+`;
+
+exports[`label renders with inputMode="none" 1`] = `
+<label
+  inputMode="none"
+/>
+`;
+
+exports[`label renders with inputMode="numeric" 1`] = `
+<label
+  inputMode="numeric"
+/>
+`;
+
+exports[`label renders with inputMode="search" 1`] = `
+<label
+  inputMode="search"
+/>
+`;
+
+exports[`label renders with inputMode="tel" 1`] = `
+<label
+  inputMode="tel"
+/>
+`;
+
+exports[`label renders with inputMode="text" 1`] = `
+<label
+  inputMode="text"
+/>
+`;
+
+exports[`label renders with inputMode="url" 1`] = `
+<label
+  inputMode="url"
+/>
+`;
+
+exports[`label renders with is="foo" 1`] = `
+<label
+  is="foo"
+/>
+`;
+
+exports[`label renders with itemID="https://google.com/" 1`] = `
+<label
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`label renders with itemProp="https://google.com/" 1`] = `
+<label
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`label renders with itemRef="foo bar" 1`] = `
+<label
+  itemRef="foo bar"
+/>
+`;
+
+exports[`label renders with itemScope="false" 1`] = `
+<label
+  itemScope={false}
+/>
+`;
+
+exports[`label renders with itemScope="true" 1`] = `
+<label
+  itemScope={true}
+/>
+`;
+
+exports[`label renders with itemType="https://google.com/" 1`] = `
+<label
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`label renders with lang="" 1`] = `
+<label
+  lang=""
+/>
+`;
+
+exports[`label renders with lang="es-419" 1`] = `
+<label
+  lang="es-419"
+/>
+`;
+
+exports[`label renders with slot="TEST" 1`] = `
+<label
+  slot="TEST"
+/>
+`;
+
+exports[`label renders with spellCheck="false" 1`] = `
+<label
+  spellCheck="false"
+/>
+`;
+
+exports[`label renders with spellCheck="true" 1`] = `
+<label
+  spellCheck="true"
+/>
+`;
+
+exports[`label renders with style="[object Object]" 1`] = `
+<label
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`label renders with tabIndex="1" 1`] = `
+<label
+  tabIndex={1}
+/>
+`;
+
+exports[`label renders with title="TEST" 1`] = `
+<label
+  title="TEST"
+/>
+`;
+
+exports[`label renders with translate="no" 1`] = `
+<label
+  translate="no"
+/>
+`;
+
+exports[`label renders with translate="yes" 1`] = `
+<label
+  translate="yes"
+/>
+`;
+
+exports[`label renders without attributes 1`] = `<label />`;

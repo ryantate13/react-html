@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`body renders with accessKey="a,b,c,d" 1`] = `
+<body
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`body renders with autoCapitalize="characters" 1`] = `
+<body
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`body renders with autoCapitalize="none" 1`] = `
+<body
+  autoCapitalize="none"
+/>
+`;
+
+exports[`body renders with autoCapitalize="off" 1`] = `
+<body
+  autoCapitalize="off"
+/>
+`;
+
+exports[`body renders with autoCapitalize="on" 1`] = `
+<body
+  autoCapitalize="on"
+/>
+`;
+
+exports[`body renders with autoCapitalize="sentences" 1`] = `
+<body
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`body renders with autoCapitalize="words" 1`] = `
+<body
+  autoCapitalize="words"
+/>
+`;
+
+exports[`body renders with children 1`] = `
+<body>
+  TEST
+</body>
+`;
+
+exports[`body renders with className="foo bar baz" 1`] = `
+<body
+  className="foo bar baz"
+/>
+`;
+
+exports[`body renders with contentEditable="false" 1`] = `
+<body
+  contentEditable="false"
+/>
+`;
+
+exports[`body renders with contentEditable="true" 1`] = `
+<body
+  contentEditable="true"
+/>
+`;
+
+exports[`body renders with dir="auto" 1`] = `
+<body
+  dir="auto"
+/>
+`;
+
+exports[`body renders with dir="ltr" 1`] = `
+<body
+  dir="ltr"
+/>
+`;
+
+exports[`body renders with dir="rtl" 1`] = `
+<body
+  dir="rtl"
+/>
+`;
+
+exports[`body renders with draggable="false" 1`] = `
+<body
+  draggable="false"
+/>
+`;
+
+exports[`body renders with draggable="true" 1`] = `
+<body
+  draggable="true"
+/>
+`;
+
+exports[`body renders with empty attributes 1`] = `<body />`;
+
+exports[`body renders with hidden="false" 1`] = `
+<body
+  hidden={false}
+/>
+`;
+
+exports[`body renders with hidden="true" 1`] = `
+<body
+  hidden={true}
+/>
+`;
+
+exports[`body renders with id="TEST" 1`] = `
+<body
+  id="TEST"
+/>
+`;
+
+exports[`body renders with inputMode="decimal" 1`] = `
+<body
+  inputMode="decimal"
+/>
+`;
+
+exports[`body renders with inputMode="email" 1`] = `
+<body
+  inputMode="email"
+/>
+`;
+
+exports[`body renders with inputMode="none" 1`] = `
+<body
+  inputMode="none"
+/>
+`;
+
+exports[`body renders with inputMode="numeric" 1`] = `
+<body
+  inputMode="numeric"
+/>
+`;
+
+exports[`body renders with inputMode="search" 1`] = `
+<body
+  inputMode="search"
+/>
+`;
+
+exports[`body renders with inputMode="tel" 1`] = `
+<body
+  inputMode="tel"
+/>
+`;
+
+exports[`body renders with inputMode="text" 1`] = `
+<body
+  inputMode="text"
+/>
+`;
+
+exports[`body renders with inputMode="url" 1`] = `
+<body
+  inputMode="url"
+/>
+`;
+
+exports[`body renders with is="foo" 1`] = `
+<body
+  is="foo"
+/>
+`;
+
+exports[`body renders with itemID="https://google.com/" 1`] = `
+<body
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`body renders with itemProp="https://google.com/" 1`] = `
+<body
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`body renders with itemRef="foo bar" 1`] = `
+<body
+  itemRef="foo bar"
+/>
+`;
+
+exports[`body renders with itemScope="false" 1`] = `
+<body
+  itemScope={false}
+/>
+`;
+
+exports[`body renders with itemScope="true" 1`] = `
+<body
+  itemScope={true}
+/>
+`;
+
+exports[`body renders with itemType="https://google.com/" 1`] = `
+<body
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`body renders with lang="" 1`] = `
+<body
+  lang=""
+/>
+`;
+
+exports[`body renders with lang="es-419" 1`] = `
+<body
+  lang="es-419"
+/>
+`;
+
+exports[`body renders with slot="TEST" 1`] = `
+<body
+  slot="TEST"
+/>
+`;
+
+exports[`body renders with spellCheck="false" 1`] = `
+<body
+  spellCheck="false"
+/>
+`;
+
+exports[`body renders with spellCheck="true" 1`] = `
+<body
+  spellCheck="true"
+/>
+`;
+
+exports[`body renders with style="[object Object]" 1`] = `
+<body
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`body renders with tabIndex="1" 1`] = `
+<body
+  tabIndex={1}
+/>
+`;
+
+exports[`body renders with title="TEST" 1`] = `
+<body
+  title="TEST"
+/>
+`;
+
+exports[`body renders with translate="no" 1`] = `
+<body
+  translate="no"
+/>
+`;
+
+exports[`body renders with translate="yes" 1`] = `
+<body
+  translate="yes"
+/>
+`;
+
+exports[`body renders without attributes 1`] = `<body />`;

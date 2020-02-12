@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`article renders with accessKey="a,b,c,d" 1`] = `
+<article
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`article renders with autoCapitalize="characters" 1`] = `
+<article
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`article renders with autoCapitalize="none" 1`] = `
+<article
+  autoCapitalize="none"
+/>
+`;
+
+exports[`article renders with autoCapitalize="off" 1`] = `
+<article
+  autoCapitalize="off"
+/>
+`;
+
+exports[`article renders with autoCapitalize="on" 1`] = `
+<article
+  autoCapitalize="on"
+/>
+`;
+
+exports[`article renders with autoCapitalize="sentences" 1`] = `
+<article
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`article renders with autoCapitalize="words" 1`] = `
+<article
+  autoCapitalize="words"
+/>
+`;
+
+exports[`article renders with children 1`] = `
+<article>
+  TEST
+</article>
+`;
+
+exports[`article renders with className="foo bar baz" 1`] = `
+<article
+  className="foo bar baz"
+/>
+`;
+
+exports[`article renders with contentEditable="false" 1`] = `
+<article
+  contentEditable="false"
+/>
+`;
+
+exports[`article renders with contentEditable="true" 1`] = `
+<article
+  contentEditable="true"
+/>
+`;
+
+exports[`article renders with dir="auto" 1`] = `
+<article
+  dir="auto"
+/>
+`;
+
+exports[`article renders with dir="ltr" 1`] = `
+<article
+  dir="ltr"
+/>
+`;
+
+exports[`article renders with dir="rtl" 1`] = `
+<article
+  dir="rtl"
+/>
+`;
+
+exports[`article renders with draggable="false" 1`] = `
+<article
+  draggable="false"
+/>
+`;
+
+exports[`article renders with draggable="true" 1`] = `
+<article
+  draggable="true"
+/>
+`;
+
+exports[`article renders with empty attributes 1`] = `<article />`;
+
+exports[`article renders with hidden="false" 1`] = `
+<article
+  hidden={false}
+/>
+`;
+
+exports[`article renders with hidden="true" 1`] = `
+<article
+  hidden={true}
+/>
+`;
+
+exports[`article renders with id="TEST" 1`] = `
+<article
+  id="TEST"
+/>
+`;
+
+exports[`article renders with inputMode="decimal" 1`] = `
+<article
+  inputMode="decimal"
+/>
+`;
+
+exports[`article renders with inputMode="email" 1`] = `
+<article
+  inputMode="email"
+/>
+`;
+
+exports[`article renders with inputMode="none" 1`] = `
+<article
+  inputMode="none"
+/>
+`;
+
+exports[`article renders with inputMode="numeric" 1`] = `
+<article
+  inputMode="numeric"
+/>
+`;
+
+exports[`article renders with inputMode="search" 1`] = `
+<article
+  inputMode="search"
+/>
+`;
+
+exports[`article renders with inputMode="tel" 1`] = `
+<article
+  inputMode="tel"
+/>
+`;
+
+exports[`article renders with inputMode="text" 1`] = `
+<article
+  inputMode="text"
+/>
+`;
+
+exports[`article renders with inputMode="url" 1`] = `
+<article
+  inputMode="url"
+/>
+`;
+
+exports[`article renders with is="foo" 1`] = `
+<article
+  is="foo"
+/>
+`;
+
+exports[`article renders with itemID="https://google.com/" 1`] = `
+<article
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`article renders with itemProp="https://google.com/" 1`] = `
+<article
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`article renders with itemRef="foo bar" 1`] = `
+<article
+  itemRef="foo bar"
+/>
+`;
+
+exports[`article renders with itemScope="false" 1`] = `
+<article
+  itemScope={false}
+/>
+`;
+
+exports[`article renders with itemScope="true" 1`] = `
+<article
+  itemScope={true}
+/>
+`;
+
+exports[`article renders with itemType="https://google.com/" 1`] = `
+<article
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`article renders with lang="" 1`] = `
+<article
+  lang=""
+/>
+`;
+
+exports[`article renders with lang="es-419" 1`] = `
+<article
+  lang="es-419"
+/>
+`;
+
+exports[`article renders with slot="TEST" 1`] = `
+<article
+  slot="TEST"
+/>
+`;
+
+exports[`article renders with spellCheck="false" 1`] = `
+<article
+  spellCheck="false"
+/>
+`;
+
+exports[`article renders with spellCheck="true" 1`] = `
+<article
+  spellCheck="true"
+/>
+`;
+
+exports[`article renders with style="[object Object]" 1`] = `
+<article
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`article renders with tabIndex="1" 1`] = `
+<article
+  tabIndex={1}
+/>
+`;
+
+exports[`article renders with title="TEST" 1`] = `
+<article
+  title="TEST"
+/>
+`;
+
+exports[`article renders with translate="no" 1`] = `
+<article
+  translate="no"
+/>
+`;
+
+exports[`article renders with translate="yes" 1`] = `
+<article
+  translate="yes"
+/>
+`;
+
+exports[`article renders without attributes 1`] = `<article />`;

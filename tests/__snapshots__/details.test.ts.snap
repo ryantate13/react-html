@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`details renders with accessKey="a,b,c,d" 1`] = `
+<details
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`details renders with autoCapitalize="characters" 1`] = `
+<details
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`details renders with autoCapitalize="none" 1`] = `
+<details
+  autoCapitalize="none"
+/>
+`;
+
+exports[`details renders with autoCapitalize="off" 1`] = `
+<details
+  autoCapitalize="off"
+/>
+`;
+
+exports[`details renders with autoCapitalize="on" 1`] = `
+<details
+  autoCapitalize="on"
+/>
+`;
+
+exports[`details renders with autoCapitalize="sentences" 1`] = `
+<details
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`details renders with autoCapitalize="words" 1`] = `
+<details
+  autoCapitalize="words"
+/>
+`;
+
+exports[`details renders with children 1`] = `
+<details>
+  TEST
+</details>
+`;
+
+exports[`details renders with className="foo bar baz" 1`] = `
+<details
+  className="foo bar baz"
+/>
+`;
+
+exports[`details renders with contentEditable="false" 1`] = `
+<details
+  contentEditable="false"
+/>
+`;
+
+exports[`details renders with contentEditable="true" 1`] = `
+<details
+  contentEditable="true"
+/>
+`;
+
+exports[`details renders with dir="auto" 1`] = `
+<details
+  dir="auto"
+/>
+`;
+
+exports[`details renders with dir="ltr" 1`] = `
+<details
+  dir="ltr"
+/>
+`;
+
+exports[`details renders with dir="rtl" 1`] = `
+<details
+  dir="rtl"
+/>
+`;
+
+exports[`details renders with draggable="false" 1`] = `
+<details
+  draggable="false"
+/>
+`;
+
+exports[`details renders with draggable="true" 1`] = `
+<details
+  draggable="true"
+/>
+`;
+
+exports[`details renders with empty attributes 1`] = `<details />`;
+
+exports[`details renders with hidden="false" 1`] = `
+<details
+  hidden={false}
+/>
+`;
+
+exports[`details renders with hidden="true" 1`] = `
+<details
+  hidden={true}
+/>
+`;
+
+exports[`details renders with id="TEST" 1`] = `
+<details
+  id="TEST"
+/>
+`;
+
+exports[`details renders with inputMode="decimal" 1`] = `
+<details
+  inputMode="decimal"
+/>
+`;
+
+exports[`details renders with inputMode="email" 1`] = `
+<details
+  inputMode="email"
+/>
+`;
+
+exports[`details renders with inputMode="none" 1`] = `
+<details
+  inputMode="none"
+/>
+`;
+
+exports[`details renders with inputMode="numeric" 1`] = `
+<details
+  inputMode="numeric"
+/>
+`;
+
+exports[`details renders with inputMode="search" 1`] = `
+<details
+  inputMode="search"
+/>
+`;
+
+exports[`details renders with inputMode="tel" 1`] = `
+<details
+  inputMode="tel"
+/>
+`;
+
+exports[`details renders with inputMode="text" 1`] = `
+<details
+  inputMode="text"
+/>
+`;
+
+exports[`details renders with inputMode="url" 1`] = `
+<details
+  inputMode="url"
+/>
+`;
+
+exports[`details renders with is="foo" 1`] = `
+<details
+  is="foo"
+/>
+`;
+
+exports[`details renders with itemID="https://google.com/" 1`] = `
+<details
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`details renders with itemProp="https://google.com/" 1`] = `
+<details
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`details renders with itemRef="foo bar" 1`] = `
+<details
+  itemRef="foo bar"
+/>
+`;
+
+exports[`details renders with itemScope="false" 1`] = `
+<details
+  itemScope={false}
+/>
+`;
+
+exports[`details renders with itemScope="true" 1`] = `
+<details
+  itemScope={true}
+/>
+`;
+
+exports[`details renders with itemType="https://google.com/" 1`] = `
+<details
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`details renders with lang="" 1`] = `
+<details
+  lang=""
+/>
+`;
+
+exports[`details renders with lang="es-419" 1`] = `
+<details
+  lang="es-419"
+/>
+`;
+
+exports[`details renders with open="false" 1`] = `
+<details
+  open={false}
+/>
+`;
+
+exports[`details renders with open="true" 1`] = `
+<details
+  open={true}
+/>
+`;
+
+exports[`details renders with slot="TEST" 1`] = `
+<details
+  slot="TEST"
+/>
+`;
+
+exports[`details renders with spellCheck="false" 1`] = `
+<details
+  spellCheck="false"
+/>
+`;
+
+exports[`details renders with spellCheck="true" 1`] = `
+<details
+  spellCheck="true"
+/>
+`;
+
+exports[`details renders with style="[object Object]" 1`] = `
+<details
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`details renders with tabIndex="1" 1`] = `
+<details
+  tabIndex={1}
+/>
+`;
+
+exports[`details renders with title="TEST" 1`] = `
+<details
+  title="TEST"
+/>
+`;
+
+exports[`details renders with translate="no" 1`] = `
+<details
+  translate="no"
+/>
+`;
+
+exports[`details renders with translate="yes" 1`] = `
+<details
+  translate="yes"
+/>
+`;
+
+exports[`details renders without attributes 1`] = `<details />`;

@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`caption renders with accessKey="a,b,c,d" 1`] = `
+<caption
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`caption renders with autoCapitalize="characters" 1`] = `
+<caption
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`caption renders with autoCapitalize="none" 1`] = `
+<caption
+  autoCapitalize="none"
+/>
+`;
+
+exports[`caption renders with autoCapitalize="off" 1`] = `
+<caption
+  autoCapitalize="off"
+/>
+`;
+
+exports[`caption renders with autoCapitalize="on" 1`] = `
+<caption
+  autoCapitalize="on"
+/>
+`;
+
+exports[`caption renders with autoCapitalize="sentences" 1`] = `
+<caption
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`caption renders with autoCapitalize="words" 1`] = `
+<caption
+  autoCapitalize="words"
+/>
+`;
+
+exports[`caption renders with children 1`] = `
+<caption>
+  TEST
+</caption>
+`;
+
+exports[`caption renders with className="foo bar baz" 1`] = `
+<caption
+  className="foo bar baz"
+/>
+`;
+
+exports[`caption renders with contentEditable="false" 1`] = `
+<caption
+  contentEditable="false"
+/>
+`;
+
+exports[`caption renders with contentEditable="true" 1`] = `
+<caption
+  contentEditable="true"
+/>
+`;
+
+exports[`caption renders with dir="auto" 1`] = `
+<caption
+  dir="auto"
+/>
+`;
+
+exports[`caption renders with dir="ltr" 1`] = `
+<caption
+  dir="ltr"
+/>
+`;
+
+exports[`caption renders with dir="rtl" 1`] = `
+<caption
+  dir="rtl"
+/>
+`;
+
+exports[`caption renders with draggable="false" 1`] = `
+<caption
+  draggable="false"
+/>
+`;
+
+exports[`caption renders with draggable="true" 1`] = `
+<caption
+  draggable="true"
+/>
+`;
+
+exports[`caption renders with empty attributes 1`] = `<caption />`;
+
+exports[`caption renders with hidden="false" 1`] = `
+<caption
+  hidden={false}
+/>
+`;
+
+exports[`caption renders with hidden="true" 1`] = `
+<caption
+  hidden={true}
+/>
+`;
+
+exports[`caption renders with id="TEST" 1`] = `
+<caption
+  id="TEST"
+/>
+`;
+
+exports[`caption renders with inputMode="decimal" 1`] = `
+<caption
+  inputMode="decimal"
+/>
+`;
+
+exports[`caption renders with inputMode="email" 1`] = `
+<caption
+  inputMode="email"
+/>
+`;
+
+exports[`caption renders with inputMode="none" 1`] = `
+<caption
+  inputMode="none"
+/>
+`;
+
+exports[`caption renders with inputMode="numeric" 1`] = `
+<caption
+  inputMode="numeric"
+/>
+`;
+
+exports[`caption renders with inputMode="search" 1`] = `
+<caption
+  inputMode="search"
+/>
+`;
+
+exports[`caption renders with inputMode="tel" 1`] = `
+<caption
+  inputMode="tel"
+/>
+`;
+
+exports[`caption renders with inputMode="text" 1`] = `
+<caption
+  inputMode="text"
+/>
+`;
+
+exports[`caption renders with inputMode="url" 1`] = `
+<caption
+  inputMode="url"
+/>
+`;
+
+exports[`caption renders with is="foo" 1`] = `
+<caption
+  is="foo"
+/>
+`;
+
+exports[`caption renders with itemID="https://google.com/" 1`] = `
+<caption
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`caption renders with itemProp="https://google.com/" 1`] = `
+<caption
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`caption renders with itemRef="foo bar" 1`] = `
+<caption
+  itemRef="foo bar"
+/>
+`;
+
+exports[`caption renders with itemScope="false" 1`] = `
+<caption
+  itemScope={false}
+/>
+`;
+
+exports[`caption renders with itemScope="true" 1`] = `
+<caption
+  itemScope={true}
+/>
+`;
+
+exports[`caption renders with itemType="https://google.com/" 1`] = `
+<caption
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`caption renders with lang="" 1`] = `
+<caption
+  lang=""
+/>
+`;
+
+exports[`caption renders with lang="es-419" 1`] = `
+<caption
+  lang="es-419"
+/>
+`;
+
+exports[`caption renders with slot="TEST" 1`] = `
+<caption
+  slot="TEST"
+/>
+`;
+
+exports[`caption renders with spellCheck="false" 1`] = `
+<caption
+  spellCheck="false"
+/>
+`;
+
+exports[`caption renders with spellCheck="true" 1`] = `
+<caption
+  spellCheck="true"
+/>
+`;
+
+exports[`caption renders with style="[object Object]" 1`] = `
+<caption
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`caption renders with tabIndex="1" 1`] = `
+<caption
+  tabIndex={1}
+/>
+`;
+
+exports[`caption renders with title="TEST" 1`] = `
+<caption
+  title="TEST"
+/>
+`;
+
+exports[`caption renders with translate="no" 1`] = `
+<caption
+  translate="no"
+/>
+`;
+
+exports[`caption renders with translate="yes" 1`] = `
+<caption
+  translate="yes"
+/>
+`;
+
+exports[`caption renders without attributes 1`] = `<caption />`;

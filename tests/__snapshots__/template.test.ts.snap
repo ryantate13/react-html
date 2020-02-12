@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`template renders with accessKey="a,b,c,d" 1`] = `
+<template
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`template renders with autoCapitalize="characters" 1`] = `
+<template
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`template renders with autoCapitalize="none" 1`] = `
+<template
+  autoCapitalize="none"
+/>
+`;
+
+exports[`template renders with autoCapitalize="off" 1`] = `
+<template
+  autoCapitalize="off"
+/>
+`;
+
+exports[`template renders with autoCapitalize="on" 1`] = `
+<template
+  autoCapitalize="on"
+/>
+`;
+
+exports[`template renders with autoCapitalize="sentences" 1`] = `
+<template
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`template renders with autoCapitalize="words" 1`] = `
+<template
+  autoCapitalize="words"
+/>
+`;
+
+exports[`template renders with children 1`] = `
+<template>
+  TEST
+</template>
+`;
+
+exports[`template renders with className="foo bar baz" 1`] = `
+<template
+  className="foo bar baz"
+/>
+`;
+
+exports[`template renders with contentEditable="false" 1`] = `
+<template
+  contentEditable="false"
+/>
+`;
+
+exports[`template renders with contentEditable="true" 1`] = `
+<template
+  contentEditable="true"
+/>
+`;
+
+exports[`template renders with dir="auto" 1`] = `
+<template
+  dir="auto"
+/>
+`;
+
+exports[`template renders with dir="ltr" 1`] = `
+<template
+  dir="ltr"
+/>
+`;
+
+exports[`template renders with dir="rtl" 1`] = `
+<template
+  dir="rtl"
+/>
+`;
+
+exports[`template renders with draggable="false" 1`] = `
+<template
+  draggable="false"
+/>
+`;
+
+exports[`template renders with draggable="true" 1`] = `
+<template
+  draggable="true"
+/>
+`;
+
+exports[`template renders with empty attributes 1`] = `<template />`;
+
+exports[`template renders with hidden="false" 1`] = `
+<template
+  hidden={false}
+/>
+`;
+
+exports[`template renders with hidden="true" 1`] = `
+<template
+  hidden={true}
+/>
+`;
+
+exports[`template renders with id="TEST" 1`] = `
+<template
+  id="TEST"
+/>
+`;
+
+exports[`template renders with inputMode="decimal" 1`] = `
+<template
+  inputMode="decimal"
+/>
+`;
+
+exports[`template renders with inputMode="email" 1`] = `
+<template
+  inputMode="email"
+/>
+`;
+
+exports[`template renders with inputMode="none" 1`] = `
+<template
+  inputMode="none"
+/>
+`;
+
+exports[`template renders with inputMode="numeric" 1`] = `
+<template
+  inputMode="numeric"
+/>
+`;
+
+exports[`template renders with inputMode="search" 1`] = `
+<template
+  inputMode="search"
+/>
+`;
+
+exports[`template renders with inputMode="tel" 1`] = `
+<template
+  inputMode="tel"
+/>
+`;
+
+exports[`template renders with inputMode="text" 1`] = `
+<template
+  inputMode="text"
+/>
+`;
+
+exports[`template renders with inputMode="url" 1`] = `
+<template
+  inputMode="url"
+/>
+`;
+
+exports[`template renders with is="foo" 1`] = `
+<template
+  is="foo"
+/>
+`;
+
+exports[`template renders with itemID="https://google.com/" 1`] = `
+<template
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`template renders with itemProp="https://google.com/" 1`] = `
+<template
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`template renders with itemRef="foo bar" 1`] = `
+<template
+  itemRef="foo bar"
+/>
+`;
+
+exports[`template renders with itemScope="false" 1`] = `
+<template
+  itemScope={false}
+/>
+`;
+
+exports[`template renders with itemScope="true" 1`] = `
+<template
+  itemScope={true}
+/>
+`;
+
+exports[`template renders with itemType="https://google.com/" 1`] = `
+<template
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`template renders with lang="" 1`] = `
+<template
+  lang=""
+/>
+`;
+
+exports[`template renders with lang="es-419" 1`] = `
+<template
+  lang="es-419"
+/>
+`;
+
+exports[`template renders with slot="TEST" 1`] = `
+<template
+  slot="TEST"
+/>
+`;
+
+exports[`template renders with spellCheck="false" 1`] = `
+<template
+  spellCheck="false"
+/>
+`;
+
+exports[`template renders with spellCheck="true" 1`] = `
+<template
+  spellCheck="true"
+/>
+`;
+
+exports[`template renders with style="[object Object]" 1`] = `
+<template
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`template renders with tabIndex="1" 1`] = `
+<template
+  tabIndex={1}
+/>
+`;
+
+exports[`template renders with title="TEST" 1`] = `
+<template
+  title="TEST"
+/>
+`;
+
+exports[`template renders with translate="no" 1`] = `
+<template
+  translate="no"
+/>
+`;
+
+exports[`template renders with translate="yes" 1`] = `
+<template
+  translate="yes"
+/>
+`;
+
+exports[`template renders without attributes 1`] = `<template />`;

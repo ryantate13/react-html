@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`colgroup renders with accessKey="a,b,c,d" 1`] = `
+<colgroup
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`colgroup renders with autoCapitalize="characters" 1`] = `
+<colgroup
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`colgroup renders with autoCapitalize="none" 1`] = `
+<colgroup
+  autoCapitalize="none"
+/>
+`;
+
+exports[`colgroup renders with autoCapitalize="off" 1`] = `
+<colgroup
+  autoCapitalize="off"
+/>
+`;
+
+exports[`colgroup renders with autoCapitalize="on" 1`] = `
+<colgroup
+  autoCapitalize="on"
+/>
+`;
+
+exports[`colgroup renders with autoCapitalize="sentences" 1`] = `
+<colgroup
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`colgroup renders with autoCapitalize="words" 1`] = `
+<colgroup
+  autoCapitalize="words"
+/>
+`;
+
+exports[`colgroup renders with children 1`] = `
+<colgroup>
+  TEST
+</colgroup>
+`;
+
+exports[`colgroup renders with className="foo bar baz" 1`] = `
+<colgroup
+  className="foo bar baz"
+/>
+`;
+
+exports[`colgroup renders with contentEditable="false" 1`] = `
+<colgroup
+  contentEditable="false"
+/>
+`;
+
+exports[`colgroup renders with contentEditable="true" 1`] = `
+<colgroup
+  contentEditable="true"
+/>
+`;
+
+exports[`colgroup renders with dir="auto" 1`] = `
+<colgroup
+  dir="auto"
+/>
+`;
+
+exports[`colgroup renders with dir="ltr" 1`] = `
+<colgroup
+  dir="ltr"
+/>
+`;
+
+exports[`colgroup renders with dir="rtl" 1`] = `
+<colgroup
+  dir="rtl"
+/>
+`;
+
+exports[`colgroup renders with draggable="false" 1`] = `
+<colgroup
+  draggable="false"
+/>
+`;
+
+exports[`colgroup renders with draggable="true" 1`] = `
+<colgroup
+  draggable="true"
+/>
+`;
+
+exports[`colgroup renders with empty attributes 1`] = `<colgroup />`;
+
+exports[`colgroup renders with hidden="false" 1`] = `
+<colgroup
+  hidden={false}
+/>
+`;
+
+exports[`colgroup renders with hidden="true" 1`] = `
+<colgroup
+  hidden={true}
+/>
+`;
+
+exports[`colgroup renders with id="TEST" 1`] = `
+<colgroup
+  id="TEST"
+/>
+`;
+
+exports[`colgroup renders with inputMode="decimal" 1`] = `
+<colgroup
+  inputMode="decimal"
+/>
+`;
+
+exports[`colgroup renders with inputMode="email" 1`] = `
+<colgroup
+  inputMode="email"
+/>
+`;
+
+exports[`colgroup renders with inputMode="none" 1`] = `
+<colgroup
+  inputMode="none"
+/>
+`;
+
+exports[`colgroup renders with inputMode="numeric" 1`] = `
+<colgroup
+  inputMode="numeric"
+/>
+`;
+
+exports[`colgroup renders with inputMode="search" 1`] = `
+<colgroup
+  inputMode="search"
+/>
+`;
+
+exports[`colgroup renders with inputMode="tel" 1`] = `
+<colgroup
+  inputMode="tel"
+/>
+`;
+
+exports[`colgroup renders with inputMode="text" 1`] = `
+<colgroup
+  inputMode="text"
+/>
+`;
+
+exports[`colgroup renders with inputMode="url" 1`] = `
+<colgroup
+  inputMode="url"
+/>
+`;
+
+exports[`colgroup renders with is="foo" 1`] = `
+<colgroup
+  is="foo"
+/>
+`;
+
+exports[`colgroup renders with itemID="https://google.com/" 1`] = `
+<colgroup
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`colgroup renders with itemProp="https://google.com/" 1`] = `
+<colgroup
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`colgroup renders with itemRef="foo bar" 1`] = `
+<colgroup
+  itemRef="foo bar"
+/>
+`;
+
+exports[`colgroup renders with itemScope="false" 1`] = `
+<colgroup
+  itemScope={false}
+/>
+`;
+
+exports[`colgroup renders with itemScope="true" 1`] = `
+<colgroup
+  itemScope={true}
+/>
+`;
+
+exports[`colgroup renders with itemType="https://google.com/" 1`] = `
+<colgroup
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`colgroup renders with lang="" 1`] = `
+<colgroup
+  lang=""
+/>
+`;
+
+exports[`colgroup renders with lang="es-419" 1`] = `
+<colgroup
+  lang="es-419"
+/>
+`;
+
+exports[`colgroup renders with slot="TEST" 1`] = `
+<colgroup
+  slot="TEST"
+/>
+`;
+
+exports[`colgroup renders with span="1" 1`] = `
+<colgroup
+  span={1}
+/>
+`;
+
+exports[`colgroup renders with spellCheck="false" 1`] = `
+<colgroup
+  spellCheck="false"
+/>
+`;
+
+exports[`colgroup renders with spellCheck="true" 1`] = `
+<colgroup
+  spellCheck="true"
+/>
+`;
+
+exports[`colgroup renders with style="[object Object]" 1`] = `
+<colgroup
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`colgroup renders with tabIndex="1" 1`] = `
+<colgroup
+  tabIndex={1}
+/>
+`;
+
+exports[`colgroup renders with title="TEST" 1`] = `
+<colgroup
+  title="TEST"
+/>
+`;
+
+exports[`colgroup renders with translate="no" 1`] = `
+<colgroup
+  translate="no"
+/>
+`;
+
+exports[`colgroup renders with translate="yes" 1`] = `
+<colgroup
+  translate="yes"
+/>
+`;
+
+exports[`colgroup renders without attributes 1`] = `<colgroup />`;

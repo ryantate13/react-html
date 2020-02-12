@@ -1,0 +1,363 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`link renders with accessKey="a,b,c,d" 1`] = `
+<link
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`link renders with as="modulepreload" 1`] = `
+<link
+  as="modulepreload"
+/>
+`;
+
+exports[`link renders with as="preload" 1`] = `
+<link
+  as="preload"
+/>
+`;
+
+exports[`link renders with as="rel" 1`] = `
+<link
+  as="rel"
+/>
+`;
+
+exports[`link renders with as="rel" 2`] = `
+<link
+  as="rel"
+/>
+`;
+
+exports[`link renders with autoCapitalize="characters" 1`] = `
+<link
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`link renders with autoCapitalize="none" 1`] = `
+<link
+  autoCapitalize="none"
+/>
+`;
+
+exports[`link renders with autoCapitalize="off" 1`] = `
+<link
+  autoCapitalize="off"
+/>
+`;
+
+exports[`link renders with autoCapitalize="on" 1`] = `
+<link
+  autoCapitalize="on"
+/>
+`;
+
+exports[`link renders with autoCapitalize="sentences" 1`] = `
+<link
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`link renders with autoCapitalize="words" 1`] = `
+<link
+  autoCapitalize="words"
+/>
+`;
+
+exports[`link renders with className="foo bar baz" 1`] = `
+<link
+  className="foo bar baz"
+/>
+`;
+
+exports[`link renders with color="#000000" 1`] = `
+<link
+  color="#000000"
+/>
+`;
+
+exports[`link renders with contentEditable="false" 1`] = `
+<link
+  contentEditable="false"
+/>
+`;
+
+exports[`link renders with contentEditable="true" 1`] = `
+<link
+  contentEditable="true"
+/>
+`;
+
+exports[`link renders with crossOrigin="anonymous" 1`] = `
+<link
+  crossOrigin="anonymous"
+/>
+`;
+
+exports[`link renders with crossOrigin="use-credentials" 1`] = `
+<link
+  crossOrigin="use-credentials"
+/>
+`;
+
+exports[`link renders with dir="auto" 1`] = `
+<link
+  dir="auto"
+/>
+`;
+
+exports[`link renders with dir="ltr" 1`] = `
+<link
+  dir="ltr"
+/>
+`;
+
+exports[`link renders with dir="rtl" 1`] = `
+<link
+  dir="rtl"
+/>
+`;
+
+exports[`link renders with draggable="false" 1`] = `
+<link
+  draggable="false"
+/>
+`;
+
+exports[`link renders with draggable="true" 1`] = `
+<link
+  draggable="true"
+/>
+`;
+
+exports[`link renders with empty attributes 1`] = `<link />`;
+
+exports[`link renders with hidden="false" 1`] = `
+<link
+  hidden={false}
+/>
+`;
+
+exports[`link renders with hidden="true" 1`] = `
+<link
+  hidden={true}
+/>
+`;
+
+exports[`link renders with href="https://google.com/" 1`] = `
+<link
+  href="https://google.com/"
+/>
+`;
+
+exports[`link renders with hrefLang="es-419" 1`] = `
+<link
+  hrefLang="es-419"
+/>
+`;
+
+exports[`link renders with id="TEST" 1`] = `
+<link
+  id="TEST"
+/>
+`;
+
+exports[`link renders with inputMode="decimal" 1`] = `
+<link
+  inputMode="decimal"
+/>
+`;
+
+exports[`link renders with inputMode="email" 1`] = `
+<link
+  inputMode="email"
+/>
+`;
+
+exports[`link renders with inputMode="none" 1`] = `
+<link
+  inputMode="none"
+/>
+`;
+
+exports[`link renders with inputMode="numeric" 1`] = `
+<link
+  inputMode="numeric"
+/>
+`;
+
+exports[`link renders with inputMode="search" 1`] = `
+<link
+  inputMode="search"
+/>
+`;
+
+exports[`link renders with inputMode="tel" 1`] = `
+<link
+  inputMode="tel"
+/>
+`;
+
+exports[`link renders with inputMode="text" 1`] = `
+<link
+  inputMode="text"
+/>
+`;
+
+exports[`link renders with inputMode="url" 1`] = `
+<link
+  inputMode="url"
+/>
+`;
+
+exports[`link renders with integrity="TEST" 1`] = `
+<link
+  integrity="TEST"
+/>
+`;
+
+exports[`link renders with is="foo" 1`] = `
+<link
+  is="foo"
+/>
+`;
+
+exports[`link renders with itemID="https://google.com/" 1`] = `
+<link
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`link renders with itemProp="https://google.com/" 1`] = `
+<link
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`link renders with itemRef="foo bar" 1`] = `
+<link
+  itemRef="foo bar"
+/>
+`;
+
+exports[`link renders with itemScope="false" 1`] = `
+<link
+  itemScope={false}
+/>
+`;
+
+exports[`link renders with itemScope="true" 1`] = `
+<link
+  itemScope={true}
+/>
+`;
+
+exports[`link renders with itemType="https://google.com/" 1`] = `
+<link
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`link renders with lang="" 1`] = `
+<link
+  lang=""
+/>
+`;
+
+exports[`link renders with lang="es-419" 1`] = `
+<link
+  lang="es-419"
+/>
+`;
+
+exports[`link renders with media="screen" 1`] = `
+<link
+  media="screen"
+/>
+`;
+
+exports[`link renders with rel="a b c d" 1`] = `
+<link
+  rel="a b c d"
+/>
+`;
+
+exports[`link renders with sizes="32x32" 1`] = `
+<link
+  sizes="32x32"
+/>
+`;
+
+exports[`link renders with slot="TEST" 1`] = `
+<link
+  slot="TEST"
+/>
+`;
+
+exports[`link renders with spellCheck="false" 1`] = `
+<link
+  spellCheck="false"
+/>
+`;
+
+exports[`link renders with spellCheck="true" 1`] = `
+<link
+  spellCheck="true"
+/>
+`;
+
+exports[`link renders with style="[object Object]" 1`] = `
+<link
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`link renders with tabIndex="1" 1`] = `
+<link
+  tabIndex={1}
+/>
+`;
+
+exports[`link renders with title="TEST" 1`] = `
+<link
+  title="TEST"
+/>
+`;
+
+exports[`link renders with title="TEST" 2`] = `
+<link
+  title="TEST"
+/>
+`;
+
+exports[`link renders with title="TEST" 3`] = `
+<link
+  title="TEST"
+/>
+`;
+
+exports[`link renders with translate="no" 1`] = `
+<link
+  translate="no"
+/>
+`;
+
+exports[`link renders with translate="yes" 1`] = `
+<link
+  translate="yes"
+/>
+`;
+
+exports[`link renders with type="application/json" 1`] = `
+<link
+  type="application/json"
+/>
+`;
+
+exports[`link renders without attributes 1`] = `<link />`;

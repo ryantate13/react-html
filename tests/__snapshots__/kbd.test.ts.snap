@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`kbd renders with accessKey="a,b,c,d" 1`] = `
+<kbd
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`kbd renders with autoCapitalize="characters" 1`] = `
+<kbd
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`kbd renders with autoCapitalize="none" 1`] = `
+<kbd
+  autoCapitalize="none"
+/>
+`;
+
+exports[`kbd renders with autoCapitalize="off" 1`] = `
+<kbd
+  autoCapitalize="off"
+/>
+`;
+
+exports[`kbd renders with autoCapitalize="on" 1`] = `
+<kbd
+  autoCapitalize="on"
+/>
+`;
+
+exports[`kbd renders with autoCapitalize="sentences" 1`] = `
+<kbd
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`kbd renders with autoCapitalize="words" 1`] = `
+<kbd
+  autoCapitalize="words"
+/>
+`;
+
+exports[`kbd renders with children 1`] = `
+<kbd>
+  TEST
+</kbd>
+`;
+
+exports[`kbd renders with className="foo bar baz" 1`] = `
+<kbd
+  className="foo bar baz"
+/>
+`;
+
+exports[`kbd renders with contentEditable="false" 1`] = `
+<kbd
+  contentEditable="false"
+/>
+`;
+
+exports[`kbd renders with contentEditable="true" 1`] = `
+<kbd
+  contentEditable="true"
+/>
+`;
+
+exports[`kbd renders with dir="auto" 1`] = `
+<kbd
+  dir="auto"
+/>
+`;
+
+exports[`kbd renders with dir="ltr" 1`] = `
+<kbd
+  dir="ltr"
+/>
+`;
+
+exports[`kbd renders with dir="rtl" 1`] = `
+<kbd
+  dir="rtl"
+/>
+`;
+
+exports[`kbd renders with draggable="false" 1`] = `
+<kbd
+  draggable="false"
+/>
+`;
+
+exports[`kbd renders with draggable="true" 1`] = `
+<kbd
+  draggable="true"
+/>
+`;
+
+exports[`kbd renders with empty attributes 1`] = `<kbd />`;
+
+exports[`kbd renders with hidden="false" 1`] = `
+<kbd
+  hidden={false}
+/>
+`;
+
+exports[`kbd renders with hidden="true" 1`] = `
+<kbd
+  hidden={true}
+/>
+`;
+
+exports[`kbd renders with id="TEST" 1`] = `
+<kbd
+  id="TEST"
+/>
+`;
+
+exports[`kbd renders with inputMode="decimal" 1`] = `
+<kbd
+  inputMode="decimal"
+/>
+`;
+
+exports[`kbd renders with inputMode="email" 1`] = `
+<kbd
+  inputMode="email"
+/>
+`;
+
+exports[`kbd renders with inputMode="none" 1`] = `
+<kbd
+  inputMode="none"
+/>
+`;
+
+exports[`kbd renders with inputMode="numeric" 1`] = `
+<kbd
+  inputMode="numeric"
+/>
+`;
+
+exports[`kbd renders with inputMode="search" 1`] = `
+<kbd
+  inputMode="search"
+/>
+`;
+
+exports[`kbd renders with inputMode="tel" 1`] = `
+<kbd
+  inputMode="tel"
+/>
+`;
+
+exports[`kbd renders with inputMode="text" 1`] = `
+<kbd
+  inputMode="text"
+/>
+`;
+
+exports[`kbd renders with inputMode="url" 1`] = `
+<kbd
+  inputMode="url"
+/>
+`;
+
+exports[`kbd renders with is="foo" 1`] = `
+<kbd
+  is="foo"
+/>
+`;
+
+exports[`kbd renders with itemID="https://google.com/" 1`] = `
+<kbd
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`kbd renders with itemProp="https://google.com/" 1`] = `
+<kbd
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`kbd renders with itemRef="foo bar" 1`] = `
+<kbd
+  itemRef="foo bar"
+/>
+`;
+
+exports[`kbd renders with itemScope="false" 1`] = `
+<kbd
+  itemScope={false}
+/>
+`;
+
+exports[`kbd renders with itemScope="true" 1`] = `
+<kbd
+  itemScope={true}
+/>
+`;
+
+exports[`kbd renders with itemType="https://google.com/" 1`] = `
+<kbd
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`kbd renders with lang="" 1`] = `
+<kbd
+  lang=""
+/>
+`;
+
+exports[`kbd renders with lang="es-419" 1`] = `
+<kbd
+  lang="es-419"
+/>
+`;
+
+exports[`kbd renders with slot="TEST" 1`] = `
+<kbd
+  slot="TEST"
+/>
+`;
+
+exports[`kbd renders with spellCheck="false" 1`] = `
+<kbd
+  spellCheck="false"
+/>
+`;
+
+exports[`kbd renders with spellCheck="true" 1`] = `
+<kbd
+  spellCheck="true"
+/>
+`;
+
+exports[`kbd renders with style="[object Object]" 1`] = `
+<kbd
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`kbd renders with tabIndex="1" 1`] = `
+<kbd
+  tabIndex={1}
+/>
+`;
+
+exports[`kbd renders with title="TEST" 1`] = `
+<kbd
+  title="TEST"
+/>
+`;
+
+exports[`kbd renders with translate="no" 1`] = `
+<kbd
+  translate="no"
+/>
+`;
+
+exports[`kbd renders with translate="yes" 1`] = `
+<kbd
+  translate="yes"
+/>
+`;
+
+exports[`kbd renders without attributes 1`] = `<kbd />`;

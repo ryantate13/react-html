@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`blockquote renders with accessKey="a,b,c,d" 1`] = `
+<blockquote
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`blockquote renders with autoCapitalize="characters" 1`] = `
+<blockquote
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`blockquote renders with autoCapitalize="none" 1`] = `
+<blockquote
+  autoCapitalize="none"
+/>
+`;
+
+exports[`blockquote renders with autoCapitalize="off" 1`] = `
+<blockquote
+  autoCapitalize="off"
+/>
+`;
+
+exports[`blockquote renders with autoCapitalize="on" 1`] = `
+<blockquote
+  autoCapitalize="on"
+/>
+`;
+
+exports[`blockquote renders with autoCapitalize="sentences" 1`] = `
+<blockquote
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`blockquote renders with autoCapitalize="words" 1`] = `
+<blockquote
+  autoCapitalize="words"
+/>
+`;
+
+exports[`blockquote renders with children 1`] = `
+<blockquote>
+  TEST
+</blockquote>
+`;
+
+exports[`blockquote renders with cite="https://google.com/" 1`] = `
+<blockquote
+  cite="https://google.com/"
+/>
+`;
+
+exports[`blockquote renders with className="foo bar baz" 1`] = `
+<blockquote
+  className="foo bar baz"
+/>
+`;
+
+exports[`blockquote renders with contentEditable="false" 1`] = `
+<blockquote
+  contentEditable="false"
+/>
+`;
+
+exports[`blockquote renders with contentEditable="true" 1`] = `
+<blockquote
+  contentEditable="true"
+/>
+`;
+
+exports[`blockquote renders with dir="auto" 1`] = `
+<blockquote
+  dir="auto"
+/>
+`;
+
+exports[`blockquote renders with dir="ltr" 1`] = `
+<blockquote
+  dir="ltr"
+/>
+`;
+
+exports[`blockquote renders with dir="rtl" 1`] = `
+<blockquote
+  dir="rtl"
+/>
+`;
+
+exports[`blockquote renders with draggable="false" 1`] = `
+<blockquote
+  draggable="false"
+/>
+`;
+
+exports[`blockquote renders with draggable="true" 1`] = `
+<blockquote
+  draggable="true"
+/>
+`;
+
+exports[`blockquote renders with empty attributes 1`] = `<blockquote />`;
+
+exports[`blockquote renders with hidden="false" 1`] = `
+<blockquote
+  hidden={false}
+/>
+`;
+
+exports[`blockquote renders with hidden="true" 1`] = `
+<blockquote
+  hidden={true}
+/>
+`;
+
+exports[`blockquote renders with id="TEST" 1`] = `
+<blockquote
+  id="TEST"
+/>
+`;
+
+exports[`blockquote renders with inputMode="decimal" 1`] = `
+<blockquote
+  inputMode="decimal"
+/>
+`;
+
+exports[`blockquote renders with inputMode="email" 1`] = `
+<blockquote
+  inputMode="email"
+/>
+`;
+
+exports[`blockquote renders with inputMode="none" 1`] = `
+<blockquote
+  inputMode="none"
+/>
+`;
+
+exports[`blockquote renders with inputMode="numeric" 1`] = `
+<blockquote
+  inputMode="numeric"
+/>
+`;
+
+exports[`blockquote renders with inputMode="search" 1`] = `
+<blockquote
+  inputMode="search"
+/>
+`;
+
+exports[`blockquote renders with inputMode="tel" 1`] = `
+<blockquote
+  inputMode="tel"
+/>
+`;
+
+exports[`blockquote renders with inputMode="text" 1`] = `
+<blockquote
+  inputMode="text"
+/>
+`;
+
+exports[`blockquote renders with inputMode="url" 1`] = `
+<blockquote
+  inputMode="url"
+/>
+`;
+
+exports[`blockquote renders with is="foo" 1`] = `
+<blockquote
+  is="foo"
+/>
+`;
+
+exports[`blockquote renders with itemID="https://google.com/" 1`] = `
+<blockquote
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`blockquote renders with itemProp="https://google.com/" 1`] = `
+<blockquote
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`blockquote renders with itemRef="foo bar" 1`] = `
+<blockquote
+  itemRef="foo bar"
+/>
+`;
+
+exports[`blockquote renders with itemScope="false" 1`] = `
+<blockquote
+  itemScope={false}
+/>
+`;
+
+exports[`blockquote renders with itemScope="true" 1`] = `
+<blockquote
+  itemScope={true}
+/>
+`;
+
+exports[`blockquote renders with itemType="https://google.com/" 1`] = `
+<blockquote
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`blockquote renders with lang="" 1`] = `
+<blockquote
+  lang=""
+/>
+`;
+
+exports[`blockquote renders with lang="es-419" 1`] = `
+<blockquote
+  lang="es-419"
+/>
+`;
+
+exports[`blockquote renders with slot="TEST" 1`] = `
+<blockquote
+  slot="TEST"
+/>
+`;
+
+exports[`blockquote renders with spellCheck="false" 1`] = `
+<blockquote
+  spellCheck="false"
+/>
+`;
+
+exports[`blockquote renders with spellCheck="true" 1`] = `
+<blockquote
+  spellCheck="true"
+/>
+`;
+
+exports[`blockquote renders with style="[object Object]" 1`] = `
+<blockquote
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`blockquote renders with tabIndex="1" 1`] = `
+<blockquote
+  tabIndex={1}
+/>
+`;
+
+exports[`blockquote renders with title="TEST" 1`] = `
+<blockquote
+  title="TEST"
+/>
+`;
+
+exports[`blockquote renders with translate="no" 1`] = `
+<blockquote
+  translate="no"
+/>
+`;
+
+exports[`blockquote renders with translate="yes" 1`] = `
+<blockquote
+  translate="yes"
+/>
+`;
+
+exports[`blockquote renders without attributes 1`] = `<blockquote />`;

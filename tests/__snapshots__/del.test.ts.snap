@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`del renders with accessKey="a,b,c,d" 1`] = `
+<del
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`del renders with autoCapitalize="characters" 1`] = `
+<del
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`del renders with autoCapitalize="none" 1`] = `
+<del
+  autoCapitalize="none"
+/>
+`;
+
+exports[`del renders with autoCapitalize="off" 1`] = `
+<del
+  autoCapitalize="off"
+/>
+`;
+
+exports[`del renders with autoCapitalize="on" 1`] = `
+<del
+  autoCapitalize="on"
+/>
+`;
+
+exports[`del renders with autoCapitalize="sentences" 1`] = `
+<del
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`del renders with autoCapitalize="words" 1`] = `
+<del
+  autoCapitalize="words"
+/>
+`;
+
+exports[`del renders with children 1`] = `
+<del>
+  TEST
+</del>
+`;
+
+exports[`del renders with cite="https://google.com/" 1`] = `
+<del
+  cite="https://google.com/"
+/>
+`;
+
+exports[`del renders with className="foo bar baz" 1`] = `
+<del
+  className="foo bar baz"
+/>
+`;
+
+exports[`del renders with contentEditable="false" 1`] = `
+<del
+  contentEditable="false"
+/>
+`;
+
+exports[`del renders with contentEditable="true" 1`] = `
+<del
+  contentEditable="true"
+/>
+`;
+
+exports[`del renders with dateTime="12:00" 1`] = `
+<del
+  dateTime="12:00"
+/>
+`;
+
+exports[`del renders with dir="auto" 1`] = `
+<del
+  dir="auto"
+/>
+`;
+
+exports[`del renders with dir="ltr" 1`] = `
+<del
+  dir="ltr"
+/>
+`;
+
+exports[`del renders with dir="rtl" 1`] = `
+<del
+  dir="rtl"
+/>
+`;
+
+exports[`del renders with draggable="false" 1`] = `
+<del
+  draggable="false"
+/>
+`;
+
+exports[`del renders with draggable="true" 1`] = `
+<del
+  draggable="true"
+/>
+`;
+
+exports[`del renders with empty attributes 1`] = `<del />`;
+
+exports[`del renders with hidden="false" 1`] = `
+<del
+  hidden={false}
+/>
+`;
+
+exports[`del renders with hidden="true" 1`] = `
+<del
+  hidden={true}
+/>
+`;
+
+exports[`del renders with id="TEST" 1`] = `
+<del
+  id="TEST"
+/>
+`;
+
+exports[`del renders with inputMode="decimal" 1`] = `
+<del
+  inputMode="decimal"
+/>
+`;
+
+exports[`del renders with inputMode="email" 1`] = `
+<del
+  inputMode="email"
+/>
+`;
+
+exports[`del renders with inputMode="none" 1`] = `
+<del
+  inputMode="none"
+/>
+`;
+
+exports[`del renders with inputMode="numeric" 1`] = `
+<del
+  inputMode="numeric"
+/>
+`;
+
+exports[`del renders with inputMode="search" 1`] = `
+<del
+  inputMode="search"
+/>
+`;
+
+exports[`del renders with inputMode="tel" 1`] = `
+<del
+  inputMode="tel"
+/>
+`;
+
+exports[`del renders with inputMode="text" 1`] = `
+<del
+  inputMode="text"
+/>
+`;
+
+exports[`del renders with inputMode="url" 1`] = `
+<del
+  inputMode="url"
+/>
+`;
+
+exports[`del renders with is="foo" 1`] = `
+<del
+  is="foo"
+/>
+`;
+
+exports[`del renders with itemID="https://google.com/" 1`] = `
+<del
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`del renders with itemProp="https://google.com/" 1`] = `
+<del
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`del renders with itemRef="foo bar" 1`] = `
+<del
+  itemRef="foo bar"
+/>
+`;
+
+exports[`del renders with itemScope="false" 1`] = `
+<del
+  itemScope={false}
+/>
+`;
+
+exports[`del renders with itemScope="true" 1`] = `
+<del
+  itemScope={true}
+/>
+`;
+
+exports[`del renders with itemType="https://google.com/" 1`] = `
+<del
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`del renders with lang="" 1`] = `
+<del
+  lang=""
+/>
+`;
+
+exports[`del renders with lang="es-419" 1`] = `
+<del
+  lang="es-419"
+/>
+`;
+
+exports[`del renders with slot="TEST" 1`] = `
+<del
+  slot="TEST"
+/>
+`;
+
+exports[`del renders with spellCheck="false" 1`] = `
+<del
+  spellCheck="false"
+/>
+`;
+
+exports[`del renders with spellCheck="true" 1`] = `
+<del
+  spellCheck="true"
+/>
+`;
+
+exports[`del renders with style="[object Object]" 1`] = `
+<del
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`del renders with tabIndex="1" 1`] = `
+<del
+  tabIndex={1}
+/>
+`;
+
+exports[`del renders with title="TEST" 1`] = `
+<del
+  title="TEST"
+/>
+`;
+
+exports[`del renders with translate="no" 1`] = `
+<del
+  translate="no"
+/>
+`;
+
+exports[`del renders with translate="yes" 1`] = `
+<del
+  translate="yes"
+/>
+`;
+
+exports[`del renders without attributes 1`] = `<del />`;

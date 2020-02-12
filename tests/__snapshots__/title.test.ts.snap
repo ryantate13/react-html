@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`title renders with accessKey="a,b,c,d" 1`] = `
+<title
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`title renders with autoCapitalize="characters" 1`] = `
+<title
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`title renders with autoCapitalize="none" 1`] = `
+<title
+  autoCapitalize="none"
+/>
+`;
+
+exports[`title renders with autoCapitalize="off" 1`] = `
+<title
+  autoCapitalize="off"
+/>
+`;
+
+exports[`title renders with autoCapitalize="on" 1`] = `
+<title
+  autoCapitalize="on"
+/>
+`;
+
+exports[`title renders with autoCapitalize="sentences" 1`] = `
+<title
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`title renders with autoCapitalize="words" 1`] = `
+<title
+  autoCapitalize="words"
+/>
+`;
+
+exports[`title renders with children 1`] = `
+<title>
+  TEST
+</title>
+`;
+
+exports[`title renders with className="foo bar baz" 1`] = `
+<title
+  className="foo bar baz"
+/>
+`;
+
+exports[`title renders with contentEditable="false" 1`] = `
+<title
+  contentEditable="false"
+/>
+`;
+
+exports[`title renders with contentEditable="true" 1`] = `
+<title
+  contentEditable="true"
+/>
+`;
+
+exports[`title renders with dir="auto" 1`] = `
+<title
+  dir="auto"
+/>
+`;
+
+exports[`title renders with dir="ltr" 1`] = `
+<title
+  dir="ltr"
+/>
+`;
+
+exports[`title renders with dir="rtl" 1`] = `
+<title
+  dir="rtl"
+/>
+`;
+
+exports[`title renders with draggable="false" 1`] = `
+<title
+  draggable="false"
+/>
+`;
+
+exports[`title renders with draggable="true" 1`] = `
+<title
+  draggable="true"
+/>
+`;
+
+exports[`title renders with empty attributes 1`] = `<title />`;
+
+exports[`title renders with hidden="false" 1`] = `
+<title
+  hidden={false}
+/>
+`;
+
+exports[`title renders with hidden="true" 1`] = `
+<title
+  hidden={true}
+/>
+`;
+
+exports[`title renders with id="TEST" 1`] = `
+<title
+  id="TEST"
+/>
+`;
+
+exports[`title renders with inputMode="decimal" 1`] = `
+<title
+  inputMode="decimal"
+/>
+`;
+
+exports[`title renders with inputMode="email" 1`] = `
+<title
+  inputMode="email"
+/>
+`;
+
+exports[`title renders with inputMode="none" 1`] = `
+<title
+  inputMode="none"
+/>
+`;
+
+exports[`title renders with inputMode="numeric" 1`] = `
+<title
+  inputMode="numeric"
+/>
+`;
+
+exports[`title renders with inputMode="search" 1`] = `
+<title
+  inputMode="search"
+/>
+`;
+
+exports[`title renders with inputMode="tel" 1`] = `
+<title
+  inputMode="tel"
+/>
+`;
+
+exports[`title renders with inputMode="text" 1`] = `
+<title
+  inputMode="text"
+/>
+`;
+
+exports[`title renders with inputMode="url" 1`] = `
+<title
+  inputMode="url"
+/>
+`;
+
+exports[`title renders with is="foo" 1`] = `
+<title
+  is="foo"
+/>
+`;
+
+exports[`title renders with itemID="https://google.com/" 1`] = `
+<title
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`title renders with itemProp="https://google.com/" 1`] = `
+<title
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`title renders with itemRef="foo bar" 1`] = `
+<title
+  itemRef="foo bar"
+/>
+`;
+
+exports[`title renders with itemScope="false" 1`] = `
+<title
+  itemScope={false}
+/>
+`;
+
+exports[`title renders with itemScope="true" 1`] = `
+<title
+  itemScope={true}
+/>
+`;
+
+exports[`title renders with itemType="https://google.com/" 1`] = `
+<title
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`title renders with lang="" 1`] = `
+<title
+  lang=""
+/>
+`;
+
+exports[`title renders with lang="es-419" 1`] = `
+<title
+  lang="es-419"
+/>
+`;
+
+exports[`title renders with slot="TEST" 1`] = `
+<title
+  slot="TEST"
+/>
+`;
+
+exports[`title renders with spellCheck="false" 1`] = `
+<title
+  spellCheck="false"
+/>
+`;
+
+exports[`title renders with spellCheck="true" 1`] = `
+<title
+  spellCheck="true"
+/>
+`;
+
+exports[`title renders with style="[object Object]" 1`] = `
+<title
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`title renders with tabIndex="1" 1`] = `
+<title
+  tabIndex={1}
+/>
+`;
+
+exports[`title renders with title="TEST" 1`] = `
+<title
+  title="TEST"
+/>
+`;
+
+exports[`title renders with translate="no" 1`] = `
+<title
+  translate="no"
+/>
+`;
+
+exports[`title renders with translate="yes" 1`] = `
+<title
+  translate="yes"
+/>
+`;
+
+exports[`title renders without attributes 1`] = `<title />`;

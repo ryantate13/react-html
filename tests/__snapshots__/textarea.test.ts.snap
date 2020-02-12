@@ -1,0 +1,369 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`textarea renders with accessKey="a,b,c,d" 1`] = `
+<textarea
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`textarea renders with autoCapitalize="characters" 1`] = `
+<textarea
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`textarea renders with autoCapitalize="none" 1`] = `
+<textarea
+  autoCapitalize="none"
+/>
+`;
+
+exports[`textarea renders with autoCapitalize="off" 1`] = `
+<textarea
+  autoCapitalize="off"
+/>
+`;
+
+exports[`textarea renders with autoCapitalize="on" 1`] = `
+<textarea
+  autoCapitalize="on"
+/>
+`;
+
+exports[`textarea renders with autoCapitalize="sentences" 1`] = `
+<textarea
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`textarea renders with autoCapitalize="words" 1`] = `
+<textarea
+  autoCapitalize="words"
+/>
+`;
+
+exports[`textarea renders with autoComplete="off" 1`] = `
+<textarea
+  autoComplete="off"
+/>
+`;
+
+exports[`textarea renders with children 1`] = `
+<textarea>
+  TEST
+</textarea>
+`;
+
+exports[`textarea renders with className="foo bar baz" 1`] = `
+<textarea
+  className="foo bar baz"
+/>
+`;
+
+exports[`textarea renders with cols="1" 1`] = `
+<textarea
+  cols={1}
+/>
+`;
+
+exports[`textarea renders with contentEditable="false" 1`] = `
+<textarea
+  contentEditable="false"
+/>
+`;
+
+exports[`textarea renders with contentEditable="true" 1`] = `
+<textarea
+  contentEditable="true"
+/>
+`;
+
+exports[`textarea renders with dir="auto" 1`] = `
+<textarea
+  dir="auto"
+/>
+`;
+
+exports[`textarea renders with dir="ltr" 1`] = `
+<textarea
+  dir="ltr"
+/>
+`;
+
+exports[`textarea renders with dir="rtl" 1`] = `
+<textarea
+  dir="rtl"
+/>
+`;
+
+exports[`textarea renders with disabled="false" 1`] = `
+<textarea
+  disabled={false}
+/>
+`;
+
+exports[`textarea renders with disabled="true" 1`] = `
+<textarea
+  disabled={true}
+/>
+`;
+
+exports[`textarea renders with draggable="false" 1`] = `
+<textarea
+  draggable="false"
+/>
+`;
+
+exports[`textarea renders with draggable="true" 1`] = `
+<textarea
+  draggable="true"
+/>
+`;
+
+exports[`textarea renders with empty attributes 1`] = `<textarea />`;
+
+exports[`textarea renders with form="TEST" 1`] = `
+<textarea
+  form="TEST"
+/>
+`;
+
+exports[`textarea renders with hidden="false" 1`] = `
+<textarea
+  hidden={false}
+/>
+`;
+
+exports[`textarea renders with hidden="true" 1`] = `
+<textarea
+  hidden={true}
+/>
+`;
+
+exports[`textarea renders with id="TEST" 1`] = `
+<textarea
+  id="TEST"
+/>
+`;
+
+exports[`textarea renders with inputMode="decimal" 1`] = `
+<textarea
+  inputMode="decimal"
+/>
+`;
+
+exports[`textarea renders with inputMode="email" 1`] = `
+<textarea
+  inputMode="email"
+/>
+`;
+
+exports[`textarea renders with inputMode="none" 1`] = `
+<textarea
+  inputMode="none"
+/>
+`;
+
+exports[`textarea renders with inputMode="numeric" 1`] = `
+<textarea
+  inputMode="numeric"
+/>
+`;
+
+exports[`textarea renders with inputMode="search" 1`] = `
+<textarea
+  inputMode="search"
+/>
+`;
+
+exports[`textarea renders with inputMode="tel" 1`] = `
+<textarea
+  inputMode="tel"
+/>
+`;
+
+exports[`textarea renders with inputMode="text" 1`] = `
+<textarea
+  inputMode="text"
+/>
+`;
+
+exports[`textarea renders with inputMode="url" 1`] = `
+<textarea
+  inputMode="url"
+/>
+`;
+
+exports[`textarea renders with is="foo" 1`] = `
+<textarea
+  is="foo"
+/>
+`;
+
+exports[`textarea renders with itemID="https://google.com/" 1`] = `
+<textarea
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`textarea renders with itemProp="https://google.com/" 1`] = `
+<textarea
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`textarea renders with itemRef="foo bar" 1`] = `
+<textarea
+  itemRef="foo bar"
+/>
+`;
+
+exports[`textarea renders with itemScope="false" 1`] = `
+<textarea
+  itemScope={false}
+/>
+`;
+
+exports[`textarea renders with itemScope="true" 1`] = `
+<textarea
+  itemScope={true}
+/>
+`;
+
+exports[`textarea renders with itemType="https://google.com/" 1`] = `
+<textarea
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`textarea renders with lang="" 1`] = `
+<textarea
+  lang=""
+/>
+`;
+
+exports[`textarea renders with lang="es-419" 1`] = `
+<textarea
+  lang="es-419"
+/>
+`;
+
+exports[`textarea renders with maxLength="1" 1`] = `
+<textarea
+  maxLength={1}
+/>
+`;
+
+exports[`textarea renders with minLength="1" 1`] = `
+<textarea
+  minLength={1}
+/>
+`;
+
+exports[`textarea renders with name="TEST" 1`] = `
+<textarea
+  name="TEST"
+/>
+`;
+
+exports[`textarea renders with placeholder="TEST" 1`] = `
+<textarea
+  placeholder="TEST"
+/>
+`;
+
+exports[`textarea renders with readOnly="false" 1`] = `
+<textarea
+  readOnly={false}
+/>
+`;
+
+exports[`textarea renders with readOnly="true" 1`] = `
+<textarea
+  readOnly={true}
+/>
+`;
+
+exports[`textarea renders with required="false" 1`] = `
+<textarea
+  required={false}
+/>
+`;
+
+exports[`textarea renders with required="true" 1`] = `
+<textarea
+  required={true}
+/>
+`;
+
+exports[`textarea renders with rows="1" 1`] = `
+<textarea
+  rows={1}
+/>
+`;
+
+exports[`textarea renders with slot="TEST" 1`] = `
+<textarea
+  slot="TEST"
+/>
+`;
+
+exports[`textarea renders with spellCheck="false" 1`] = `
+<textarea
+  spellCheck="false"
+/>
+`;
+
+exports[`textarea renders with spellCheck="true" 1`] = `
+<textarea
+  spellCheck="true"
+/>
+`;
+
+exports[`textarea renders with style="[object Object]" 1`] = `
+<textarea
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`textarea renders with tabIndex="1" 1`] = `
+<textarea
+  tabIndex={1}
+/>
+`;
+
+exports[`textarea renders with title="TEST" 1`] = `
+<textarea
+  title="TEST"
+/>
+`;
+
+exports[`textarea renders with translate="no" 1`] = `
+<textarea
+  translate="no"
+/>
+`;
+
+exports[`textarea renders with translate="yes" 1`] = `
+<textarea
+  translate="yes"
+/>
+`;
+
+exports[`textarea renders with wrap="hard" 1`] = `
+<textarea
+  wrap="hard"
+/>
+`;
+
+exports[`textarea renders with wrap="soft" 1`] = `
+<textarea
+  wrap="soft"
+/>
+`;
+
+exports[`textarea renders without attributes 1`] = `<textarea />`;

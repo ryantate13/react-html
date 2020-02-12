@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`canvas renders with accessKey="a,b,c,d" 1`] = `
+<canvas
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`canvas renders with autoCapitalize="characters" 1`] = `
+<canvas
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`canvas renders with autoCapitalize="none" 1`] = `
+<canvas
+  autoCapitalize="none"
+/>
+`;
+
+exports[`canvas renders with autoCapitalize="off" 1`] = `
+<canvas
+  autoCapitalize="off"
+/>
+`;
+
+exports[`canvas renders with autoCapitalize="on" 1`] = `
+<canvas
+  autoCapitalize="on"
+/>
+`;
+
+exports[`canvas renders with autoCapitalize="sentences" 1`] = `
+<canvas
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`canvas renders with autoCapitalize="words" 1`] = `
+<canvas
+  autoCapitalize="words"
+/>
+`;
+
+exports[`canvas renders with children 1`] = `
+<canvas>
+  TEST
+</canvas>
+`;
+
+exports[`canvas renders with className="foo bar baz" 1`] = `
+<canvas
+  className="foo bar baz"
+/>
+`;
+
+exports[`canvas renders with contentEditable="false" 1`] = `
+<canvas
+  contentEditable="false"
+/>
+`;
+
+exports[`canvas renders with contentEditable="true" 1`] = `
+<canvas
+  contentEditable="true"
+/>
+`;
+
+exports[`canvas renders with dir="auto" 1`] = `
+<canvas
+  dir="auto"
+/>
+`;
+
+exports[`canvas renders with dir="ltr" 1`] = `
+<canvas
+  dir="ltr"
+/>
+`;
+
+exports[`canvas renders with dir="rtl" 1`] = `
+<canvas
+  dir="rtl"
+/>
+`;
+
+exports[`canvas renders with draggable="false" 1`] = `
+<canvas
+  draggable="false"
+/>
+`;
+
+exports[`canvas renders with draggable="true" 1`] = `
+<canvas
+  draggable="true"
+/>
+`;
+
+exports[`canvas renders with empty attributes 1`] = `<canvas />`;
+
+exports[`canvas renders with height="1" 1`] = `
+<canvas
+  height={1}
+/>
+`;
+
+exports[`canvas renders with hidden="false" 1`] = `
+<canvas
+  hidden={false}
+/>
+`;
+
+exports[`canvas renders with hidden="true" 1`] = `
+<canvas
+  hidden={true}
+/>
+`;
+
+exports[`canvas renders with id="TEST" 1`] = `
+<canvas
+  id="TEST"
+/>
+`;
+
+exports[`canvas renders with inputMode="decimal" 1`] = `
+<canvas
+  inputMode="decimal"
+/>
+`;
+
+exports[`canvas renders with inputMode="email" 1`] = `
+<canvas
+  inputMode="email"
+/>
+`;
+
+exports[`canvas renders with inputMode="none" 1`] = `
+<canvas
+  inputMode="none"
+/>
+`;
+
+exports[`canvas renders with inputMode="numeric" 1`] = `
+<canvas
+  inputMode="numeric"
+/>
+`;
+
+exports[`canvas renders with inputMode="search" 1`] = `
+<canvas
+  inputMode="search"
+/>
+`;
+
+exports[`canvas renders with inputMode="tel" 1`] = `
+<canvas
+  inputMode="tel"
+/>
+`;
+
+exports[`canvas renders with inputMode="text" 1`] = `
+<canvas
+  inputMode="text"
+/>
+`;
+
+exports[`canvas renders with inputMode="url" 1`] = `
+<canvas
+  inputMode="url"
+/>
+`;
+
+exports[`canvas renders with is="foo" 1`] = `
+<canvas
+  is="foo"
+/>
+`;
+
+exports[`canvas renders with itemID="https://google.com/" 1`] = `
+<canvas
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`canvas renders with itemProp="https://google.com/" 1`] = `
+<canvas
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`canvas renders with itemRef="foo bar" 1`] = `
+<canvas
+  itemRef="foo bar"
+/>
+`;
+
+exports[`canvas renders with itemScope="false" 1`] = `
+<canvas
+  itemScope={false}
+/>
+`;
+
+exports[`canvas renders with itemScope="true" 1`] = `
+<canvas
+  itemScope={true}
+/>
+`;
+
+exports[`canvas renders with itemType="https://google.com/" 1`] = `
+<canvas
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`canvas renders with lang="" 1`] = `
+<canvas
+  lang=""
+/>
+`;
+
+exports[`canvas renders with lang="es-419" 1`] = `
+<canvas
+  lang="es-419"
+/>
+`;
+
+exports[`canvas renders with slot="TEST" 1`] = `
+<canvas
+  slot="TEST"
+/>
+`;
+
+exports[`canvas renders with spellCheck="false" 1`] = `
+<canvas
+  spellCheck="false"
+/>
+`;
+
+exports[`canvas renders with spellCheck="true" 1`] = `
+<canvas
+  spellCheck="true"
+/>
+`;
+
+exports[`canvas renders with style="[object Object]" 1`] = `
+<canvas
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`canvas renders with tabIndex="1" 1`] = `
+<canvas
+  tabIndex={1}
+/>
+`;
+
+exports[`canvas renders with title="TEST" 1`] = `
+<canvas
+  title="TEST"
+/>
+`;
+
+exports[`canvas renders with translate="no" 1`] = `
+<canvas
+  translate="no"
+/>
+`;
+
+exports[`canvas renders with translate="yes" 1`] = `
+<canvas
+  translate="yes"
+/>
+`;
+
+exports[`canvas renders with width="1" 1`] = `
+<canvas
+  width={1}
+/>
+`;
+
+exports[`canvas renders without attributes 1`] = `<canvas />`;

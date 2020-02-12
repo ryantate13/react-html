@@ -1,0 +1,291 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`embed renders with accessKey="a,b,c,d" 1`] = `
+<embed
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`embed renders with autoCapitalize="characters" 1`] = `
+<embed
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`embed renders with autoCapitalize="none" 1`] = `
+<embed
+  autoCapitalize="none"
+/>
+`;
+
+exports[`embed renders with autoCapitalize="off" 1`] = `
+<embed
+  autoCapitalize="off"
+/>
+`;
+
+exports[`embed renders with autoCapitalize="on" 1`] = `
+<embed
+  autoCapitalize="on"
+/>
+`;
+
+exports[`embed renders with autoCapitalize="sentences" 1`] = `
+<embed
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`embed renders with autoCapitalize="words" 1`] = `
+<embed
+  autoCapitalize="words"
+/>
+`;
+
+exports[`embed renders with className="foo bar baz" 1`] = `
+<embed
+  className="foo bar baz"
+/>
+`;
+
+exports[`embed renders with contentEditable="false" 1`] = `
+<embed
+  contentEditable="false"
+/>
+`;
+
+exports[`embed renders with contentEditable="true" 1`] = `
+<embed
+  contentEditable="true"
+/>
+`;
+
+exports[`embed renders with dir="auto" 1`] = `
+<embed
+  dir="auto"
+/>
+`;
+
+exports[`embed renders with dir="ltr" 1`] = `
+<embed
+  dir="ltr"
+/>
+`;
+
+exports[`embed renders with dir="rtl" 1`] = `
+<embed
+  dir="rtl"
+/>
+`;
+
+exports[`embed renders with draggable="false" 1`] = `
+<embed
+  draggable="false"
+/>
+`;
+
+exports[`embed renders with draggable="true" 1`] = `
+<embed
+  draggable="true"
+/>
+`;
+
+exports[`embed renders with empty attributes 1`] = `<embed />`;
+
+exports[`embed renders with height="1" 1`] = `
+<embed
+  height={1}
+/>
+`;
+
+exports[`embed renders with hidden="false" 1`] = `
+<embed
+  hidden={false}
+/>
+`;
+
+exports[`embed renders with hidden="true" 1`] = `
+<embed
+  hidden={true}
+/>
+`;
+
+exports[`embed renders with id="TEST" 1`] = `
+<embed
+  id="TEST"
+/>
+`;
+
+exports[`embed renders with inputMode="decimal" 1`] = `
+<embed
+  inputMode="decimal"
+/>
+`;
+
+exports[`embed renders with inputMode="email" 1`] = `
+<embed
+  inputMode="email"
+/>
+`;
+
+exports[`embed renders with inputMode="none" 1`] = `
+<embed
+  inputMode="none"
+/>
+`;
+
+exports[`embed renders with inputMode="numeric" 1`] = `
+<embed
+  inputMode="numeric"
+/>
+`;
+
+exports[`embed renders with inputMode="search" 1`] = `
+<embed
+  inputMode="search"
+/>
+`;
+
+exports[`embed renders with inputMode="tel" 1`] = `
+<embed
+  inputMode="tel"
+/>
+`;
+
+exports[`embed renders with inputMode="text" 1`] = `
+<embed
+  inputMode="text"
+/>
+`;
+
+exports[`embed renders with inputMode="url" 1`] = `
+<embed
+  inputMode="url"
+/>
+`;
+
+exports[`embed renders with is="foo" 1`] = `
+<embed
+  is="foo"
+/>
+`;
+
+exports[`embed renders with itemID="https://google.com/" 1`] = `
+<embed
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`embed renders with itemProp="https://google.com/" 1`] = `
+<embed
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`embed renders with itemRef="foo bar" 1`] = `
+<embed
+  itemRef="foo bar"
+/>
+`;
+
+exports[`embed renders with itemScope="false" 1`] = `
+<embed
+  itemScope={false}
+/>
+`;
+
+exports[`embed renders with itemScope="true" 1`] = `
+<embed
+  itemScope={true}
+/>
+`;
+
+exports[`embed renders with itemType="https://google.com/" 1`] = `
+<embed
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`embed renders with lang="" 1`] = `
+<embed
+  lang=""
+/>
+`;
+
+exports[`embed renders with lang="es-419" 1`] = `
+<embed
+  lang="es-419"
+/>
+`;
+
+exports[`embed renders with slot="TEST" 1`] = `
+<embed
+  slot="TEST"
+/>
+`;
+
+exports[`embed renders with spellCheck="false" 1`] = `
+<embed
+  spellCheck="false"
+/>
+`;
+
+exports[`embed renders with spellCheck="true" 1`] = `
+<embed
+  spellCheck="true"
+/>
+`;
+
+exports[`embed renders with src="https://google.com/" 1`] = `
+<embed
+  src="https://google.com/"
+/>
+`;
+
+exports[`embed renders with style="[object Object]" 1`] = `
+<embed
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`embed renders with tabIndex="1" 1`] = `
+<embed
+  tabIndex={1}
+/>
+`;
+
+exports[`embed renders with title="TEST" 1`] = `
+<embed
+  title="TEST"
+/>
+`;
+
+exports[`embed renders with translate="no" 1`] = `
+<embed
+  translate="no"
+/>
+`;
+
+exports[`embed renders with translate="yes" 1`] = `
+<embed
+  translate="yes"
+/>
+`;
+
+exports[`embed renders with type="application/json" 1`] = `
+<embed
+  type="application/json"
+/>
+`;
+
+exports[`embed renders with width="1" 1`] = `
+<embed
+  width={1}
+/>
+`;
+
+exports[`embed renders without attributes 1`] = `<embed />`;

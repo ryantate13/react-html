@@ -1,0 +1,339 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`img renders with accessKey="a,b,c,d" 1`] = `
+<img
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`img renders with alt="TEST" 1`] = `
+<img
+  alt="TEST"
+/>
+`;
+
+exports[`img renders with autoCapitalize="characters" 1`] = `
+<img
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`img renders with autoCapitalize="none" 1`] = `
+<img
+  autoCapitalize="none"
+/>
+`;
+
+exports[`img renders with autoCapitalize="off" 1`] = `
+<img
+  autoCapitalize="off"
+/>
+`;
+
+exports[`img renders with autoCapitalize="on" 1`] = `
+<img
+  autoCapitalize="on"
+/>
+`;
+
+exports[`img renders with autoCapitalize="sentences" 1`] = `
+<img
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`img renders with autoCapitalize="words" 1`] = `
+<img
+  autoCapitalize="words"
+/>
+`;
+
+exports[`img renders with className="foo bar baz" 1`] = `
+<img
+  className="foo bar baz"
+/>
+`;
+
+exports[`img renders with contentEditable="false" 1`] = `
+<img
+  contentEditable="false"
+/>
+`;
+
+exports[`img renders with contentEditable="true" 1`] = `
+<img
+  contentEditable="true"
+/>
+`;
+
+exports[`img renders with crossOrigin="anonymous" 1`] = `
+<img
+  crossOrigin="anonymous"
+/>
+`;
+
+exports[`img renders with crossOrigin="use-credentials" 1`] = `
+<img
+  crossOrigin="use-credentials"
+/>
+`;
+
+exports[`img renders with decoding="async" 1`] = `
+<img
+  decoding="async"
+/>
+`;
+
+exports[`img renders with decoding="auto" 1`] = `
+<img
+  decoding="auto"
+/>
+`;
+
+exports[`img renders with decoding="sync" 1`] = `
+<img
+  decoding="sync"
+/>
+`;
+
+exports[`img renders with dir="auto" 1`] = `
+<img
+  dir="auto"
+/>
+`;
+
+exports[`img renders with dir="ltr" 1`] = `
+<img
+  dir="ltr"
+/>
+`;
+
+exports[`img renders with dir="rtl" 1`] = `
+<img
+  dir="rtl"
+/>
+`;
+
+exports[`img renders with draggable="false" 1`] = `
+<img
+  draggable="false"
+/>
+`;
+
+exports[`img renders with draggable="true" 1`] = `
+<img
+  draggable="true"
+/>
+`;
+
+exports[`img renders with empty attributes 1`] = `<img />`;
+
+exports[`img renders with height="1" 1`] = `
+<img
+  height={1}
+/>
+`;
+
+exports[`img renders with hidden="false" 1`] = `
+<img
+  hidden={false}
+/>
+`;
+
+exports[`img renders with hidden="true" 1`] = `
+<img
+  hidden={true}
+/>
+`;
+
+exports[`img renders with id="TEST" 1`] = `
+<img
+  id="TEST"
+/>
+`;
+
+exports[`img renders with inputMode="decimal" 1`] = `
+<img
+  inputMode="decimal"
+/>
+`;
+
+exports[`img renders with inputMode="email" 1`] = `
+<img
+  inputMode="email"
+/>
+`;
+
+exports[`img renders with inputMode="none" 1`] = `
+<img
+  inputMode="none"
+/>
+`;
+
+exports[`img renders with inputMode="numeric" 1`] = `
+<img
+  inputMode="numeric"
+/>
+`;
+
+exports[`img renders with inputMode="search" 1`] = `
+<img
+  inputMode="search"
+/>
+`;
+
+exports[`img renders with inputMode="tel" 1`] = `
+<img
+  inputMode="tel"
+/>
+`;
+
+exports[`img renders with inputMode="text" 1`] = `
+<img
+  inputMode="text"
+/>
+`;
+
+exports[`img renders with inputMode="url" 1`] = `
+<img
+  inputMode="url"
+/>
+`;
+
+exports[`img renders with is="foo" 1`] = `
+<img
+  is="foo"
+/>
+`;
+
+exports[`img renders with itemID="https://google.com/" 1`] = `
+<img
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`img renders with itemProp="https://google.com/" 1`] = `
+<img
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`img renders with itemRef="foo bar" 1`] = `
+<img
+  itemRef="foo bar"
+/>
+`;
+
+exports[`img renders with itemScope="false" 1`] = `
+<img
+  itemScope={false}
+/>
+`;
+
+exports[`img renders with itemScope="true" 1`] = `
+<img
+  itemScope={true}
+/>
+`;
+
+exports[`img renders with itemType="https://google.com/" 1`] = `
+<img
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`img renders with lang="" 1`] = `
+<img
+  lang=""
+/>
+`;
+
+exports[`img renders with lang="es-419" 1`] = `
+<img
+  lang="es-419"
+/>
+`;
+
+exports[`img renders with sizes="" 1`] = `
+<img
+  sizes=""
+/>
+`;
+
+exports[`img renders with slot="TEST" 1`] = `
+<img
+  slot="TEST"
+/>
+`;
+
+exports[`img renders with spellCheck="false" 1`] = `
+<img
+  spellCheck="false"
+/>
+`;
+
+exports[`img renders with spellCheck="true" 1`] = `
+<img
+  spellCheck="true"
+/>
+`;
+
+exports[`img renders with src="https://google.com/" 1`] = `
+<img
+  src="https://google.com/"
+/>
+`;
+
+exports[`img renders with srcSet="es-419" 1`] = `
+<img
+  srcSet="es-419"
+/>
+`;
+
+exports[`img renders with style="[object Object]" 1`] = `
+<img
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`img renders with tabIndex="1" 1`] = `
+<img
+  tabIndex={1}
+/>
+`;
+
+exports[`img renders with title="TEST" 1`] = `
+<img
+  title="TEST"
+/>
+`;
+
+exports[`img renders with translate="no" 1`] = `
+<img
+  translate="no"
+/>
+`;
+
+exports[`img renders with translate="yes" 1`] = `
+<img
+  translate="yes"
+/>
+`;
+
+exports[`img renders with useMap="#foo" 1`] = `
+<img
+  useMap="#foo"
+/>
+`;
+
+exports[`img renders with width="1" 1`] = `
+<img
+  width={1}
+/>
+`;
+
+exports[`img renders without attributes 1`] = `<img />`;

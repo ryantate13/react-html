@@ -1,0 +1,297 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`source renders with accessKey="a,b,c,d" 1`] = `
+<source
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`source renders with autoCapitalize="characters" 1`] = `
+<source
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`source renders with autoCapitalize="none" 1`] = `
+<source
+  autoCapitalize="none"
+/>
+`;
+
+exports[`source renders with autoCapitalize="off" 1`] = `
+<source
+  autoCapitalize="off"
+/>
+`;
+
+exports[`source renders with autoCapitalize="on" 1`] = `
+<source
+  autoCapitalize="on"
+/>
+`;
+
+exports[`source renders with autoCapitalize="sentences" 1`] = `
+<source
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`source renders with autoCapitalize="words" 1`] = `
+<source
+  autoCapitalize="words"
+/>
+`;
+
+exports[`source renders with className="foo bar baz" 1`] = `
+<source
+  className="foo bar baz"
+/>
+`;
+
+exports[`source renders with contentEditable="false" 1`] = `
+<source
+  contentEditable="false"
+/>
+`;
+
+exports[`source renders with contentEditable="true" 1`] = `
+<source
+  contentEditable="true"
+/>
+`;
+
+exports[`source renders with dir="auto" 1`] = `
+<source
+  dir="auto"
+/>
+`;
+
+exports[`source renders with dir="ltr" 1`] = `
+<source
+  dir="ltr"
+/>
+`;
+
+exports[`source renders with dir="rtl" 1`] = `
+<source
+  dir="rtl"
+/>
+`;
+
+exports[`source renders with draggable="false" 1`] = `
+<source
+  draggable="false"
+/>
+`;
+
+exports[`source renders with draggable="true" 1`] = `
+<source
+  draggable="true"
+/>
+`;
+
+exports[`source renders with empty attributes 1`] = `<source />`;
+
+exports[`source renders with hidden="false" 1`] = `
+<source
+  hidden={false}
+/>
+`;
+
+exports[`source renders with hidden="true" 1`] = `
+<source
+  hidden={true}
+/>
+`;
+
+exports[`source renders with id="TEST" 1`] = `
+<source
+  id="TEST"
+/>
+`;
+
+exports[`source renders with inputMode="decimal" 1`] = `
+<source
+  inputMode="decimal"
+/>
+`;
+
+exports[`source renders with inputMode="email" 1`] = `
+<source
+  inputMode="email"
+/>
+`;
+
+exports[`source renders with inputMode="none" 1`] = `
+<source
+  inputMode="none"
+/>
+`;
+
+exports[`source renders with inputMode="numeric" 1`] = `
+<source
+  inputMode="numeric"
+/>
+`;
+
+exports[`source renders with inputMode="search" 1`] = `
+<source
+  inputMode="search"
+/>
+`;
+
+exports[`source renders with inputMode="tel" 1`] = `
+<source
+  inputMode="tel"
+/>
+`;
+
+exports[`source renders with inputMode="text" 1`] = `
+<source
+  inputMode="text"
+/>
+`;
+
+exports[`source renders with inputMode="url" 1`] = `
+<source
+  inputMode="url"
+/>
+`;
+
+exports[`source renders with is="foo" 1`] = `
+<source
+  is="foo"
+/>
+`;
+
+exports[`source renders with itemID="https://google.com/" 1`] = `
+<source
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`source renders with itemProp="https://google.com/" 1`] = `
+<source
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`source renders with itemRef="foo bar" 1`] = `
+<source
+  itemRef="foo bar"
+/>
+`;
+
+exports[`source renders with itemScope="false" 1`] = `
+<source
+  itemScope={false}
+/>
+`;
+
+exports[`source renders with itemScope="true" 1`] = `
+<source
+  itemScope={true}
+/>
+`;
+
+exports[`source renders with itemType="https://google.com/" 1`] = `
+<source
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`source renders with lang="" 1`] = `
+<source
+  lang=""
+/>
+`;
+
+exports[`source renders with lang="es-419" 1`] = `
+<source
+  lang="es-419"
+/>
+`;
+
+exports[`source renders with media="screen" 1`] = `
+<source
+  media="screen"
+/>
+`;
+
+exports[`source renders with sizes="" 1`] = `
+<source
+  sizes=""
+/>
+`;
+
+exports[`source renders with slot="TEST" 1`] = `
+<source
+  slot="TEST"
+/>
+`;
+
+exports[`source renders with spellCheck="false" 1`] = `
+<source
+  spellCheck="false"
+/>
+`;
+
+exports[`source renders with spellCheck="true" 1`] = `
+<source
+  spellCheck="true"
+/>
+`;
+
+exports[`source renders with src="https://google.com/" 1`] = `
+<source
+  src="https://google.com/"
+/>
+`;
+
+exports[`source renders with srcSet="es-419" 1`] = `
+<source
+  srcSet="es-419"
+/>
+`;
+
+exports[`source renders with style="[object Object]" 1`] = `
+<source
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`source renders with tabIndex="1" 1`] = `
+<source
+  tabIndex={1}
+/>
+`;
+
+exports[`source renders with title="TEST" 1`] = `
+<source
+  title="TEST"
+/>
+`;
+
+exports[`source renders with translate="no" 1`] = `
+<source
+  translate="no"
+/>
+`;
+
+exports[`source renders with translate="yes" 1`] = `
+<source
+  translate="yes"
+/>
+`;
+
+exports[`source renders with type="application/json" 1`] = `
+<source
+  type="application/json"
+/>
+`;
+
+exports[`source renders without attributes 1`] = `<source />`;

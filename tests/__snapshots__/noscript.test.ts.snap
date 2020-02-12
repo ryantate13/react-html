@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`noscript renders with accessKey="a,b,c,d" 1`] = `
+<noscript
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`noscript renders with autoCapitalize="characters" 1`] = `
+<noscript
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`noscript renders with autoCapitalize="none" 1`] = `
+<noscript
+  autoCapitalize="none"
+/>
+`;
+
+exports[`noscript renders with autoCapitalize="off" 1`] = `
+<noscript
+  autoCapitalize="off"
+/>
+`;
+
+exports[`noscript renders with autoCapitalize="on" 1`] = `
+<noscript
+  autoCapitalize="on"
+/>
+`;
+
+exports[`noscript renders with autoCapitalize="sentences" 1`] = `
+<noscript
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`noscript renders with autoCapitalize="words" 1`] = `
+<noscript
+  autoCapitalize="words"
+/>
+`;
+
+exports[`noscript renders with children 1`] = `
+<noscript>
+  TEST
+</noscript>
+`;
+
+exports[`noscript renders with className="foo bar baz" 1`] = `
+<noscript
+  className="foo bar baz"
+/>
+`;
+
+exports[`noscript renders with contentEditable="false" 1`] = `
+<noscript
+  contentEditable="false"
+/>
+`;
+
+exports[`noscript renders with contentEditable="true" 1`] = `
+<noscript
+  contentEditable="true"
+/>
+`;
+
+exports[`noscript renders with dir="auto" 1`] = `
+<noscript
+  dir="auto"
+/>
+`;
+
+exports[`noscript renders with dir="ltr" 1`] = `
+<noscript
+  dir="ltr"
+/>
+`;
+
+exports[`noscript renders with dir="rtl" 1`] = `
+<noscript
+  dir="rtl"
+/>
+`;
+
+exports[`noscript renders with draggable="false" 1`] = `
+<noscript
+  draggable="false"
+/>
+`;
+
+exports[`noscript renders with draggable="true" 1`] = `
+<noscript
+  draggable="true"
+/>
+`;
+
+exports[`noscript renders with empty attributes 1`] = `<noscript />`;
+
+exports[`noscript renders with hidden="false" 1`] = `
+<noscript
+  hidden={false}
+/>
+`;
+
+exports[`noscript renders with hidden="true" 1`] = `
+<noscript
+  hidden={true}
+/>
+`;
+
+exports[`noscript renders with id="TEST" 1`] = `
+<noscript
+  id="TEST"
+/>
+`;
+
+exports[`noscript renders with inputMode="decimal" 1`] = `
+<noscript
+  inputMode="decimal"
+/>
+`;
+
+exports[`noscript renders with inputMode="email" 1`] = `
+<noscript
+  inputMode="email"
+/>
+`;
+
+exports[`noscript renders with inputMode="none" 1`] = `
+<noscript
+  inputMode="none"
+/>
+`;
+
+exports[`noscript renders with inputMode="numeric" 1`] = `
+<noscript
+  inputMode="numeric"
+/>
+`;
+
+exports[`noscript renders with inputMode="search" 1`] = `
+<noscript
+  inputMode="search"
+/>
+`;
+
+exports[`noscript renders with inputMode="tel" 1`] = `
+<noscript
+  inputMode="tel"
+/>
+`;
+
+exports[`noscript renders with inputMode="text" 1`] = `
+<noscript
+  inputMode="text"
+/>
+`;
+
+exports[`noscript renders with inputMode="url" 1`] = `
+<noscript
+  inputMode="url"
+/>
+`;
+
+exports[`noscript renders with is="foo" 1`] = `
+<noscript
+  is="foo"
+/>
+`;
+
+exports[`noscript renders with itemID="https://google.com/" 1`] = `
+<noscript
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`noscript renders with itemProp="https://google.com/" 1`] = `
+<noscript
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`noscript renders with itemRef="foo bar" 1`] = `
+<noscript
+  itemRef="foo bar"
+/>
+`;
+
+exports[`noscript renders with itemScope="false" 1`] = `
+<noscript
+  itemScope={false}
+/>
+`;
+
+exports[`noscript renders with itemScope="true" 1`] = `
+<noscript
+  itemScope={true}
+/>
+`;
+
+exports[`noscript renders with itemType="https://google.com/" 1`] = `
+<noscript
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`noscript renders with lang="" 1`] = `
+<noscript
+  lang=""
+/>
+`;
+
+exports[`noscript renders with lang="es-419" 1`] = `
+<noscript
+  lang="es-419"
+/>
+`;
+
+exports[`noscript renders with slot="TEST" 1`] = `
+<noscript
+  slot="TEST"
+/>
+`;
+
+exports[`noscript renders with spellCheck="false" 1`] = `
+<noscript
+  spellCheck="false"
+/>
+`;
+
+exports[`noscript renders with spellCheck="true" 1`] = `
+<noscript
+  spellCheck="true"
+/>
+`;
+
+exports[`noscript renders with style="[object Object]" 1`] = `
+<noscript
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`noscript renders with tabIndex="1" 1`] = `
+<noscript
+  tabIndex={1}
+/>
+`;
+
+exports[`noscript renders with title="TEST" 1`] = `
+<noscript
+  title="TEST"
+/>
+`;
+
+exports[`noscript renders with translate="no" 1`] = `
+<noscript
+  translate="no"
+/>
+`;
+
+exports[`noscript renders with translate="yes" 1`] = `
+<noscript
+  translate="yes"
+/>
+`;
+
+exports[`noscript renders without attributes 1`] = `<noscript />`;

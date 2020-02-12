@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`footer renders with accessKey="a,b,c,d" 1`] = `
+<footer
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`footer renders with autoCapitalize="characters" 1`] = `
+<footer
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`footer renders with autoCapitalize="none" 1`] = `
+<footer
+  autoCapitalize="none"
+/>
+`;
+
+exports[`footer renders with autoCapitalize="off" 1`] = `
+<footer
+  autoCapitalize="off"
+/>
+`;
+
+exports[`footer renders with autoCapitalize="on" 1`] = `
+<footer
+  autoCapitalize="on"
+/>
+`;
+
+exports[`footer renders with autoCapitalize="sentences" 1`] = `
+<footer
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`footer renders with autoCapitalize="words" 1`] = `
+<footer
+  autoCapitalize="words"
+/>
+`;
+
+exports[`footer renders with children 1`] = `
+<footer>
+  TEST
+</footer>
+`;
+
+exports[`footer renders with className="foo bar baz" 1`] = `
+<footer
+  className="foo bar baz"
+/>
+`;
+
+exports[`footer renders with contentEditable="false" 1`] = `
+<footer
+  contentEditable="false"
+/>
+`;
+
+exports[`footer renders with contentEditable="true" 1`] = `
+<footer
+  contentEditable="true"
+/>
+`;
+
+exports[`footer renders with dir="auto" 1`] = `
+<footer
+  dir="auto"
+/>
+`;
+
+exports[`footer renders with dir="ltr" 1`] = `
+<footer
+  dir="ltr"
+/>
+`;
+
+exports[`footer renders with dir="rtl" 1`] = `
+<footer
+  dir="rtl"
+/>
+`;
+
+exports[`footer renders with draggable="false" 1`] = `
+<footer
+  draggable="false"
+/>
+`;
+
+exports[`footer renders with draggable="true" 1`] = `
+<footer
+  draggable="true"
+/>
+`;
+
+exports[`footer renders with empty attributes 1`] = `<footer />`;
+
+exports[`footer renders with hidden="false" 1`] = `
+<footer
+  hidden={false}
+/>
+`;
+
+exports[`footer renders with hidden="true" 1`] = `
+<footer
+  hidden={true}
+/>
+`;
+
+exports[`footer renders with id="TEST" 1`] = `
+<footer
+  id="TEST"
+/>
+`;
+
+exports[`footer renders with inputMode="decimal" 1`] = `
+<footer
+  inputMode="decimal"
+/>
+`;
+
+exports[`footer renders with inputMode="email" 1`] = `
+<footer
+  inputMode="email"
+/>
+`;
+
+exports[`footer renders with inputMode="none" 1`] = `
+<footer
+  inputMode="none"
+/>
+`;
+
+exports[`footer renders with inputMode="numeric" 1`] = `
+<footer
+  inputMode="numeric"
+/>
+`;
+
+exports[`footer renders with inputMode="search" 1`] = `
+<footer
+  inputMode="search"
+/>
+`;
+
+exports[`footer renders with inputMode="tel" 1`] = `
+<footer
+  inputMode="tel"
+/>
+`;
+
+exports[`footer renders with inputMode="text" 1`] = `
+<footer
+  inputMode="text"
+/>
+`;
+
+exports[`footer renders with inputMode="url" 1`] = `
+<footer
+  inputMode="url"
+/>
+`;
+
+exports[`footer renders with is="foo" 1`] = `
+<footer
+  is="foo"
+/>
+`;
+
+exports[`footer renders with itemID="https://google.com/" 1`] = `
+<footer
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`footer renders with itemProp="https://google.com/" 1`] = `
+<footer
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`footer renders with itemRef="foo bar" 1`] = `
+<footer
+  itemRef="foo bar"
+/>
+`;
+
+exports[`footer renders with itemScope="false" 1`] = `
+<footer
+  itemScope={false}
+/>
+`;
+
+exports[`footer renders with itemScope="true" 1`] = `
+<footer
+  itemScope={true}
+/>
+`;
+
+exports[`footer renders with itemType="https://google.com/" 1`] = `
+<footer
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`footer renders with lang="" 1`] = `
+<footer
+  lang=""
+/>
+`;
+
+exports[`footer renders with lang="es-419" 1`] = `
+<footer
+  lang="es-419"
+/>
+`;
+
+exports[`footer renders with slot="TEST" 1`] = `
+<footer
+  slot="TEST"
+/>
+`;
+
+exports[`footer renders with spellCheck="false" 1`] = `
+<footer
+  spellCheck="false"
+/>
+`;
+
+exports[`footer renders with spellCheck="true" 1`] = `
+<footer
+  spellCheck="true"
+/>
+`;
+
+exports[`footer renders with style="[object Object]" 1`] = `
+<footer
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`footer renders with tabIndex="1" 1`] = `
+<footer
+  tabIndex={1}
+/>
+`;
+
+exports[`footer renders with title="TEST" 1`] = `
+<footer
+  title="TEST"
+/>
+`;
+
+exports[`footer renders with translate="no" 1`] = `
+<footer
+  translate="no"
+/>
+`;
+
+exports[`footer renders with translate="yes" 1`] = `
+<footer
+  translate="yes"
+/>
+`;
+
+exports[`footer renders without attributes 1`] = `<footer />`;

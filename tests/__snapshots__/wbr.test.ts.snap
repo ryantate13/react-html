@@ -1,0 +1,267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`wbr renders with accessKey="a,b,c,d" 1`] = `
+<wbr
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`wbr renders with autoCapitalize="characters" 1`] = `
+<wbr
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`wbr renders with autoCapitalize="none" 1`] = `
+<wbr
+  autoCapitalize="none"
+/>
+`;
+
+exports[`wbr renders with autoCapitalize="off" 1`] = `
+<wbr
+  autoCapitalize="off"
+/>
+`;
+
+exports[`wbr renders with autoCapitalize="on" 1`] = `
+<wbr
+  autoCapitalize="on"
+/>
+`;
+
+exports[`wbr renders with autoCapitalize="sentences" 1`] = `
+<wbr
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`wbr renders with autoCapitalize="words" 1`] = `
+<wbr
+  autoCapitalize="words"
+/>
+`;
+
+exports[`wbr renders with className="foo bar baz" 1`] = `
+<wbr
+  className="foo bar baz"
+/>
+`;
+
+exports[`wbr renders with contentEditable="false" 1`] = `
+<wbr
+  contentEditable="false"
+/>
+`;
+
+exports[`wbr renders with contentEditable="true" 1`] = `
+<wbr
+  contentEditable="true"
+/>
+`;
+
+exports[`wbr renders with dir="auto" 1`] = `
+<wbr
+  dir="auto"
+/>
+`;
+
+exports[`wbr renders with dir="ltr" 1`] = `
+<wbr
+  dir="ltr"
+/>
+`;
+
+exports[`wbr renders with dir="rtl" 1`] = `
+<wbr
+  dir="rtl"
+/>
+`;
+
+exports[`wbr renders with draggable="false" 1`] = `
+<wbr
+  draggable="false"
+/>
+`;
+
+exports[`wbr renders with draggable="true" 1`] = `
+<wbr
+  draggable="true"
+/>
+`;
+
+exports[`wbr renders with empty attributes 1`] = `<wbr />`;
+
+exports[`wbr renders with hidden="false" 1`] = `
+<wbr
+  hidden={false}
+/>
+`;
+
+exports[`wbr renders with hidden="true" 1`] = `
+<wbr
+  hidden={true}
+/>
+`;
+
+exports[`wbr renders with id="TEST" 1`] = `
+<wbr
+  id="TEST"
+/>
+`;
+
+exports[`wbr renders with inputMode="decimal" 1`] = `
+<wbr
+  inputMode="decimal"
+/>
+`;
+
+exports[`wbr renders with inputMode="email" 1`] = `
+<wbr
+  inputMode="email"
+/>
+`;
+
+exports[`wbr renders with inputMode="none" 1`] = `
+<wbr
+  inputMode="none"
+/>
+`;
+
+exports[`wbr renders with inputMode="numeric" 1`] = `
+<wbr
+  inputMode="numeric"
+/>
+`;
+
+exports[`wbr renders with inputMode="search" 1`] = `
+<wbr
+  inputMode="search"
+/>
+`;
+
+exports[`wbr renders with inputMode="tel" 1`] = `
+<wbr
+  inputMode="tel"
+/>
+`;
+
+exports[`wbr renders with inputMode="text" 1`] = `
+<wbr
+  inputMode="text"
+/>
+`;
+
+exports[`wbr renders with inputMode="url" 1`] = `
+<wbr
+  inputMode="url"
+/>
+`;
+
+exports[`wbr renders with is="foo" 1`] = `
+<wbr
+  is="foo"
+/>
+`;
+
+exports[`wbr renders with itemID="https://google.com/" 1`] = `
+<wbr
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`wbr renders with itemProp="https://google.com/" 1`] = `
+<wbr
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`wbr renders with itemRef="foo bar" 1`] = `
+<wbr
+  itemRef="foo bar"
+/>
+`;
+
+exports[`wbr renders with itemScope="false" 1`] = `
+<wbr
+  itemScope={false}
+/>
+`;
+
+exports[`wbr renders with itemScope="true" 1`] = `
+<wbr
+  itemScope={true}
+/>
+`;
+
+exports[`wbr renders with itemType="https://google.com/" 1`] = `
+<wbr
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`wbr renders with lang="" 1`] = `
+<wbr
+  lang=""
+/>
+`;
+
+exports[`wbr renders with lang="es-419" 1`] = `
+<wbr
+  lang="es-419"
+/>
+`;
+
+exports[`wbr renders with slot="TEST" 1`] = `
+<wbr
+  slot="TEST"
+/>
+`;
+
+exports[`wbr renders with spellCheck="false" 1`] = `
+<wbr
+  spellCheck="false"
+/>
+`;
+
+exports[`wbr renders with spellCheck="true" 1`] = `
+<wbr
+  spellCheck="true"
+/>
+`;
+
+exports[`wbr renders with style="[object Object]" 1`] = `
+<wbr
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`wbr renders with tabIndex="1" 1`] = `
+<wbr
+  tabIndex={1}
+/>
+`;
+
+exports[`wbr renders with title="TEST" 1`] = `
+<wbr
+  title="TEST"
+/>
+`;
+
+exports[`wbr renders with translate="no" 1`] = `
+<wbr
+  translate="no"
+/>
+`;
+
+exports[`wbr renders with translate="yes" 1`] = `
+<wbr
+  translate="yes"
+/>
+`;
+
+exports[`wbr renders without attributes 1`] = `<wbr />`;

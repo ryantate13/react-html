@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`legend renders with accessKey="a,b,c,d" 1`] = `
+<legend
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`legend renders with autoCapitalize="characters" 1`] = `
+<legend
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`legend renders with autoCapitalize="none" 1`] = `
+<legend
+  autoCapitalize="none"
+/>
+`;
+
+exports[`legend renders with autoCapitalize="off" 1`] = `
+<legend
+  autoCapitalize="off"
+/>
+`;
+
+exports[`legend renders with autoCapitalize="on" 1`] = `
+<legend
+  autoCapitalize="on"
+/>
+`;
+
+exports[`legend renders with autoCapitalize="sentences" 1`] = `
+<legend
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`legend renders with autoCapitalize="words" 1`] = `
+<legend
+  autoCapitalize="words"
+/>
+`;
+
+exports[`legend renders with children 1`] = `
+<legend>
+  TEST
+</legend>
+`;
+
+exports[`legend renders with className="foo bar baz" 1`] = `
+<legend
+  className="foo bar baz"
+/>
+`;
+
+exports[`legend renders with contentEditable="false" 1`] = `
+<legend
+  contentEditable="false"
+/>
+`;
+
+exports[`legend renders with contentEditable="true" 1`] = `
+<legend
+  contentEditable="true"
+/>
+`;
+
+exports[`legend renders with dir="auto" 1`] = `
+<legend
+  dir="auto"
+/>
+`;
+
+exports[`legend renders with dir="ltr" 1`] = `
+<legend
+  dir="ltr"
+/>
+`;
+
+exports[`legend renders with dir="rtl" 1`] = `
+<legend
+  dir="rtl"
+/>
+`;
+
+exports[`legend renders with draggable="false" 1`] = `
+<legend
+  draggable="false"
+/>
+`;
+
+exports[`legend renders with draggable="true" 1`] = `
+<legend
+  draggable="true"
+/>
+`;
+
+exports[`legend renders with empty attributes 1`] = `<legend />`;
+
+exports[`legend renders with hidden="false" 1`] = `
+<legend
+  hidden={false}
+/>
+`;
+
+exports[`legend renders with hidden="true" 1`] = `
+<legend
+  hidden={true}
+/>
+`;
+
+exports[`legend renders with id="TEST" 1`] = `
+<legend
+  id="TEST"
+/>
+`;
+
+exports[`legend renders with inputMode="decimal" 1`] = `
+<legend
+  inputMode="decimal"
+/>
+`;
+
+exports[`legend renders with inputMode="email" 1`] = `
+<legend
+  inputMode="email"
+/>
+`;
+
+exports[`legend renders with inputMode="none" 1`] = `
+<legend
+  inputMode="none"
+/>
+`;
+
+exports[`legend renders with inputMode="numeric" 1`] = `
+<legend
+  inputMode="numeric"
+/>
+`;
+
+exports[`legend renders with inputMode="search" 1`] = `
+<legend
+  inputMode="search"
+/>
+`;
+
+exports[`legend renders with inputMode="tel" 1`] = `
+<legend
+  inputMode="tel"
+/>
+`;
+
+exports[`legend renders with inputMode="text" 1`] = `
+<legend
+  inputMode="text"
+/>
+`;
+
+exports[`legend renders with inputMode="url" 1`] = `
+<legend
+  inputMode="url"
+/>
+`;
+
+exports[`legend renders with is="foo" 1`] = `
+<legend
+  is="foo"
+/>
+`;
+
+exports[`legend renders with itemID="https://google.com/" 1`] = `
+<legend
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`legend renders with itemProp="https://google.com/" 1`] = `
+<legend
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`legend renders with itemRef="foo bar" 1`] = `
+<legend
+  itemRef="foo bar"
+/>
+`;
+
+exports[`legend renders with itemScope="false" 1`] = `
+<legend
+  itemScope={false}
+/>
+`;
+
+exports[`legend renders with itemScope="true" 1`] = `
+<legend
+  itemScope={true}
+/>
+`;
+
+exports[`legend renders with itemType="https://google.com/" 1`] = `
+<legend
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`legend renders with lang="" 1`] = `
+<legend
+  lang=""
+/>
+`;
+
+exports[`legend renders with lang="es-419" 1`] = `
+<legend
+  lang="es-419"
+/>
+`;
+
+exports[`legend renders with slot="TEST" 1`] = `
+<legend
+  slot="TEST"
+/>
+`;
+
+exports[`legend renders with spellCheck="false" 1`] = `
+<legend
+  spellCheck="false"
+/>
+`;
+
+exports[`legend renders with spellCheck="true" 1`] = `
+<legend
+  spellCheck="true"
+/>
+`;
+
+exports[`legend renders with style="[object Object]" 1`] = `
+<legend
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`legend renders with tabIndex="1" 1`] = `
+<legend
+  tabIndex={1}
+/>
+`;
+
+exports[`legend renders with title="TEST" 1`] = `
+<legend
+  title="TEST"
+/>
+`;
+
+exports[`legend renders with translate="no" 1`] = `
+<legend
+  translate="no"
+/>
+`;
+
+exports[`legend renders with translate="yes" 1`] = `
+<legend
+  translate="yes"
+/>
+`;
+
+exports[`legend renders without attributes 1`] = `<legend />`;

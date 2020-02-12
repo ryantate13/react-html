@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`a renders with accessKey="a,b,c,d" 1`] = `
+<a
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`a renders with autoCapitalize="characters" 1`] = `
+<a
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`a renders with autoCapitalize="none" 1`] = `
+<a
+  autoCapitalize="none"
+/>
+`;
+
+exports[`a renders with autoCapitalize="off" 1`] = `
+<a
+  autoCapitalize="off"
+/>
+`;
+
+exports[`a renders with autoCapitalize="on" 1`] = `
+<a
+  autoCapitalize="on"
+/>
+`;
+
+exports[`a renders with autoCapitalize="sentences" 1`] = `
+<a
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`a renders with autoCapitalize="words" 1`] = `
+<a
+  autoCapitalize="words"
+/>
+`;
+
+exports[`a renders with children 1`] = `
+<a>
+  TEST
+</a>
+`;
+
+exports[`a renders with className="foo bar baz" 1`] = `
+<a
+  className="foo bar baz"
+/>
+`;
+
+exports[`a renders with contentEditable="false" 1`] = `
+<a
+  contentEditable="false"
+/>
+`;
+
+exports[`a renders with contentEditable="true" 1`] = `
+<a
+  contentEditable="true"
+/>
+`;
+
+exports[`a renders with dir="auto" 1`] = `
+<a
+  dir="auto"
+/>
+`;
+
+exports[`a renders with dir="ltr" 1`] = `
+<a
+  dir="ltr"
+/>
+`;
+
+exports[`a renders with dir="rtl" 1`] = `
+<a
+  dir="rtl"
+/>
+`;
+
+exports[`a renders with download="TEST" 1`] = `
+<a
+  download="TEST"
+/>
+`;
+
+exports[`a renders with draggable="false" 1`] = `
+<a
+  draggable="false"
+/>
+`;
+
+exports[`a renders with draggable="true" 1`] = `
+<a
+  draggable="true"
+/>
+`;
+
+exports[`a renders with empty attributes 1`] = `<a />`;
+
+exports[`a renders with hidden="false" 1`] = `
+<a
+  hidden={false}
+/>
+`;
+
+exports[`a renders with hidden="true" 1`] = `
+<a
+  hidden={true}
+/>
+`;
+
+exports[`a renders with href="https://google.com/" 1`] = `
+<a
+  href="https://google.com/"
+/>
+`;
+
+exports[`a renders with hrefLang="es-419" 1`] = `
+<a
+  hrefLang="es-419"
+/>
+`;
+
+exports[`a renders with id="TEST" 1`] = `
+<a
+  id="TEST"
+/>
+`;
+
+exports[`a renders with inputMode="decimal" 1`] = `
+<a
+  inputMode="decimal"
+/>
+`;
+
+exports[`a renders with inputMode="email" 1`] = `
+<a
+  inputMode="email"
+/>
+`;
+
+exports[`a renders with inputMode="none" 1`] = `
+<a
+  inputMode="none"
+/>
+`;
+
+exports[`a renders with inputMode="numeric" 1`] = `
+<a
+  inputMode="numeric"
+/>
+`;
+
+exports[`a renders with inputMode="search" 1`] = `
+<a
+  inputMode="search"
+/>
+`;
+
+exports[`a renders with inputMode="tel" 1`] = `
+<a
+  inputMode="tel"
+/>
+`;
+
+exports[`a renders with inputMode="text" 1`] = `
+<a
+  inputMode="text"
+/>
+`;
+
+exports[`a renders with inputMode="url" 1`] = `
+<a
+  inputMode="url"
+/>
+`;
+
+exports[`a renders with is="foo" 1`] = `
+<a
+  is="foo"
+/>
+`;
+
+exports[`a renders with itemID="https://google.com/" 1`] = `
+<a
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`a renders with itemProp="https://google.com/" 1`] = `
+<a
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`a renders with itemRef="foo bar" 1`] = `
+<a
+  itemRef="foo bar"
+/>
+`;
+
+exports[`a renders with itemScope="false" 1`] = `
+<a
+  itemScope={false}
+/>
+`;
+
+exports[`a renders with itemScope="true" 1`] = `
+<a
+  itemScope={true}
+/>
+`;
+
+exports[`a renders with itemType="https://google.com/" 1`] = `
+<a
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`a renders with lang="" 1`] = `
+<a
+  lang=""
+/>
+`;
+
+exports[`a renders with lang="es-419" 1`] = `
+<a
+  lang="es-419"
+/>
+`;
+
+exports[`a renders with rel="a b c d" 1`] = `
+<a
+  rel="a b c d"
+/>
+`;
+
+exports[`a renders with slot="TEST" 1`] = `
+<a
+  slot="TEST"
+/>
+`;
+
+exports[`a renders with spellCheck="false" 1`] = `
+<a
+  spellCheck="false"
+/>
+`;
+
+exports[`a renders with spellCheck="true" 1`] = `
+<a
+  spellCheck="true"
+/>
+`;
+
+exports[`a renders with style="[object Object]" 1`] = `
+<a
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`a renders with tabIndex="1" 1`] = `
+<a
+  tabIndex={1}
+/>
+`;
+
+exports[`a renders with target="_blank" 1`] = `
+<a
+  target="_blank"
+/>
+`;
+
+exports[`a renders with title="TEST" 1`] = `
+<a
+  title="TEST"
+/>
+`;
+
+exports[`a renders with translate="no" 1`] = `
+<a
+  translate="no"
+/>
+`;
+
+exports[`a renders with translate="yes" 1`] = `
+<a
+  translate="yes"
+/>
+`;
+
+exports[`a renders with type="application/json" 1`] = `
+<a
+  type="application/json"
+/>
+`;
+
+exports[`a renders without attributes 1`] = `<a />`;

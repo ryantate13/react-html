@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ruby renders with accessKey="a,b,c,d" 1`] = `
+<ruby
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`ruby renders with autoCapitalize="characters" 1`] = `
+<ruby
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`ruby renders with autoCapitalize="none" 1`] = `
+<ruby
+  autoCapitalize="none"
+/>
+`;
+
+exports[`ruby renders with autoCapitalize="off" 1`] = `
+<ruby
+  autoCapitalize="off"
+/>
+`;
+
+exports[`ruby renders with autoCapitalize="on" 1`] = `
+<ruby
+  autoCapitalize="on"
+/>
+`;
+
+exports[`ruby renders with autoCapitalize="sentences" 1`] = `
+<ruby
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`ruby renders with autoCapitalize="words" 1`] = `
+<ruby
+  autoCapitalize="words"
+/>
+`;
+
+exports[`ruby renders with children 1`] = `
+<ruby>
+  TEST
+</ruby>
+`;
+
+exports[`ruby renders with className="foo bar baz" 1`] = `
+<ruby
+  className="foo bar baz"
+/>
+`;
+
+exports[`ruby renders with contentEditable="false" 1`] = `
+<ruby
+  contentEditable="false"
+/>
+`;
+
+exports[`ruby renders with contentEditable="true" 1`] = `
+<ruby
+  contentEditable="true"
+/>
+`;
+
+exports[`ruby renders with dir="auto" 1`] = `
+<ruby
+  dir="auto"
+/>
+`;
+
+exports[`ruby renders with dir="ltr" 1`] = `
+<ruby
+  dir="ltr"
+/>
+`;
+
+exports[`ruby renders with dir="rtl" 1`] = `
+<ruby
+  dir="rtl"
+/>
+`;
+
+exports[`ruby renders with draggable="false" 1`] = `
+<ruby
+  draggable="false"
+/>
+`;
+
+exports[`ruby renders with draggable="true" 1`] = `
+<ruby
+  draggable="true"
+/>
+`;
+
+exports[`ruby renders with empty attributes 1`] = `<ruby />`;
+
+exports[`ruby renders with hidden="false" 1`] = `
+<ruby
+  hidden={false}
+/>
+`;
+
+exports[`ruby renders with hidden="true" 1`] = `
+<ruby
+  hidden={true}
+/>
+`;
+
+exports[`ruby renders with id="TEST" 1`] = `
+<ruby
+  id="TEST"
+/>
+`;
+
+exports[`ruby renders with inputMode="decimal" 1`] = `
+<ruby
+  inputMode="decimal"
+/>
+`;
+
+exports[`ruby renders with inputMode="email" 1`] = `
+<ruby
+  inputMode="email"
+/>
+`;
+
+exports[`ruby renders with inputMode="none" 1`] = `
+<ruby
+  inputMode="none"
+/>
+`;
+
+exports[`ruby renders with inputMode="numeric" 1`] = `
+<ruby
+  inputMode="numeric"
+/>
+`;
+
+exports[`ruby renders with inputMode="search" 1`] = `
+<ruby
+  inputMode="search"
+/>
+`;
+
+exports[`ruby renders with inputMode="tel" 1`] = `
+<ruby
+  inputMode="tel"
+/>
+`;
+
+exports[`ruby renders with inputMode="text" 1`] = `
+<ruby
+  inputMode="text"
+/>
+`;
+
+exports[`ruby renders with inputMode="url" 1`] = `
+<ruby
+  inputMode="url"
+/>
+`;
+
+exports[`ruby renders with is="foo" 1`] = `
+<ruby
+  is="foo"
+/>
+`;
+
+exports[`ruby renders with itemID="https://google.com/" 1`] = `
+<ruby
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`ruby renders with itemProp="https://google.com/" 1`] = `
+<ruby
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`ruby renders with itemRef="foo bar" 1`] = `
+<ruby
+  itemRef="foo bar"
+/>
+`;
+
+exports[`ruby renders with itemScope="false" 1`] = `
+<ruby
+  itemScope={false}
+/>
+`;
+
+exports[`ruby renders with itemScope="true" 1`] = `
+<ruby
+  itemScope={true}
+/>
+`;
+
+exports[`ruby renders with itemType="https://google.com/" 1`] = `
+<ruby
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`ruby renders with lang="" 1`] = `
+<ruby
+  lang=""
+/>
+`;
+
+exports[`ruby renders with lang="es-419" 1`] = `
+<ruby
+  lang="es-419"
+/>
+`;
+
+exports[`ruby renders with slot="TEST" 1`] = `
+<ruby
+  slot="TEST"
+/>
+`;
+
+exports[`ruby renders with spellCheck="false" 1`] = `
+<ruby
+  spellCheck="false"
+/>
+`;
+
+exports[`ruby renders with spellCheck="true" 1`] = `
+<ruby
+  spellCheck="true"
+/>
+`;
+
+exports[`ruby renders with style="[object Object]" 1`] = `
+<ruby
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`ruby renders with tabIndex="1" 1`] = `
+<ruby
+  tabIndex={1}
+/>
+`;
+
+exports[`ruby renders with title="TEST" 1`] = `
+<ruby
+  title="TEST"
+/>
+`;
+
+exports[`ruby renders with translate="no" 1`] = `
+<ruby
+  translate="no"
+/>
+`;
+
+exports[`ruby renders with translate="yes" 1`] = `
+<ruby
+  translate="yes"
+/>
+`;
+
+exports[`ruby renders without attributes 1`] = `<ruby />`;

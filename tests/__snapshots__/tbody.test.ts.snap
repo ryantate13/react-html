@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tbody renders with accessKey="a,b,c,d" 1`] = `
+<tbody
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`tbody renders with autoCapitalize="characters" 1`] = `
+<tbody
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`tbody renders with autoCapitalize="none" 1`] = `
+<tbody
+  autoCapitalize="none"
+/>
+`;
+
+exports[`tbody renders with autoCapitalize="off" 1`] = `
+<tbody
+  autoCapitalize="off"
+/>
+`;
+
+exports[`tbody renders with autoCapitalize="on" 1`] = `
+<tbody
+  autoCapitalize="on"
+/>
+`;
+
+exports[`tbody renders with autoCapitalize="sentences" 1`] = `
+<tbody
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`tbody renders with autoCapitalize="words" 1`] = `
+<tbody
+  autoCapitalize="words"
+/>
+`;
+
+exports[`tbody renders with children 1`] = `
+<tbody>
+  TEST
+</tbody>
+`;
+
+exports[`tbody renders with className="foo bar baz" 1`] = `
+<tbody
+  className="foo bar baz"
+/>
+`;
+
+exports[`tbody renders with contentEditable="false" 1`] = `
+<tbody
+  contentEditable="false"
+/>
+`;
+
+exports[`tbody renders with contentEditable="true" 1`] = `
+<tbody
+  contentEditable="true"
+/>
+`;
+
+exports[`tbody renders with dir="auto" 1`] = `
+<tbody
+  dir="auto"
+/>
+`;
+
+exports[`tbody renders with dir="ltr" 1`] = `
+<tbody
+  dir="ltr"
+/>
+`;
+
+exports[`tbody renders with dir="rtl" 1`] = `
+<tbody
+  dir="rtl"
+/>
+`;
+
+exports[`tbody renders with draggable="false" 1`] = `
+<tbody
+  draggable="false"
+/>
+`;
+
+exports[`tbody renders with draggable="true" 1`] = `
+<tbody
+  draggable="true"
+/>
+`;
+
+exports[`tbody renders with empty attributes 1`] = `<tbody />`;
+
+exports[`tbody renders with hidden="false" 1`] = `
+<tbody
+  hidden={false}
+/>
+`;
+
+exports[`tbody renders with hidden="true" 1`] = `
+<tbody
+  hidden={true}
+/>
+`;
+
+exports[`tbody renders with id="TEST" 1`] = `
+<tbody
+  id="TEST"
+/>
+`;
+
+exports[`tbody renders with inputMode="decimal" 1`] = `
+<tbody
+  inputMode="decimal"
+/>
+`;
+
+exports[`tbody renders with inputMode="email" 1`] = `
+<tbody
+  inputMode="email"
+/>
+`;
+
+exports[`tbody renders with inputMode="none" 1`] = `
+<tbody
+  inputMode="none"
+/>
+`;
+
+exports[`tbody renders with inputMode="numeric" 1`] = `
+<tbody
+  inputMode="numeric"
+/>
+`;
+
+exports[`tbody renders with inputMode="search" 1`] = `
+<tbody
+  inputMode="search"
+/>
+`;
+
+exports[`tbody renders with inputMode="tel" 1`] = `
+<tbody
+  inputMode="tel"
+/>
+`;
+
+exports[`tbody renders with inputMode="text" 1`] = `
+<tbody
+  inputMode="text"
+/>
+`;
+
+exports[`tbody renders with inputMode="url" 1`] = `
+<tbody
+  inputMode="url"
+/>
+`;
+
+exports[`tbody renders with is="foo" 1`] = `
+<tbody
+  is="foo"
+/>
+`;
+
+exports[`tbody renders with itemID="https://google.com/" 1`] = `
+<tbody
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`tbody renders with itemProp="https://google.com/" 1`] = `
+<tbody
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`tbody renders with itemRef="foo bar" 1`] = `
+<tbody
+  itemRef="foo bar"
+/>
+`;
+
+exports[`tbody renders with itemScope="false" 1`] = `
+<tbody
+  itemScope={false}
+/>
+`;
+
+exports[`tbody renders with itemScope="true" 1`] = `
+<tbody
+  itemScope={true}
+/>
+`;
+
+exports[`tbody renders with itemType="https://google.com/" 1`] = `
+<tbody
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`tbody renders with lang="" 1`] = `
+<tbody
+  lang=""
+/>
+`;
+
+exports[`tbody renders with lang="es-419" 1`] = `
+<tbody
+  lang="es-419"
+/>
+`;
+
+exports[`tbody renders with slot="TEST" 1`] = `
+<tbody
+  slot="TEST"
+/>
+`;
+
+exports[`tbody renders with spellCheck="false" 1`] = `
+<tbody
+  spellCheck="false"
+/>
+`;
+
+exports[`tbody renders with spellCheck="true" 1`] = `
+<tbody
+  spellCheck="true"
+/>
+`;
+
+exports[`tbody renders with style="[object Object]" 1`] = `
+<tbody
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`tbody renders with tabIndex="1" 1`] = `
+<tbody
+  tabIndex={1}
+/>
+`;
+
+exports[`tbody renders with title="TEST" 1`] = `
+<tbody
+  title="TEST"
+/>
+`;
+
+exports[`tbody renders with translate="no" 1`] = `
+<tbody
+  translate="no"
+/>
+`;
+
+exports[`tbody renders with translate="yes" 1`] = `
+<tbody
+  translate="yes"
+/>
+`;
+
+exports[`tbody renders without attributes 1`] = `<tbody />`;

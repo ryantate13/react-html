@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`samp renders with accessKey="a,b,c,d" 1`] = `
+<samp
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`samp renders with autoCapitalize="characters" 1`] = `
+<samp
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`samp renders with autoCapitalize="none" 1`] = `
+<samp
+  autoCapitalize="none"
+/>
+`;
+
+exports[`samp renders with autoCapitalize="off" 1`] = `
+<samp
+  autoCapitalize="off"
+/>
+`;
+
+exports[`samp renders with autoCapitalize="on" 1`] = `
+<samp
+  autoCapitalize="on"
+/>
+`;
+
+exports[`samp renders with autoCapitalize="sentences" 1`] = `
+<samp
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`samp renders with autoCapitalize="words" 1`] = `
+<samp
+  autoCapitalize="words"
+/>
+`;
+
+exports[`samp renders with children 1`] = `
+<samp>
+  TEST
+</samp>
+`;
+
+exports[`samp renders with className="foo bar baz" 1`] = `
+<samp
+  className="foo bar baz"
+/>
+`;
+
+exports[`samp renders with contentEditable="false" 1`] = `
+<samp
+  contentEditable="false"
+/>
+`;
+
+exports[`samp renders with contentEditable="true" 1`] = `
+<samp
+  contentEditable="true"
+/>
+`;
+
+exports[`samp renders with dir="auto" 1`] = `
+<samp
+  dir="auto"
+/>
+`;
+
+exports[`samp renders with dir="ltr" 1`] = `
+<samp
+  dir="ltr"
+/>
+`;
+
+exports[`samp renders with dir="rtl" 1`] = `
+<samp
+  dir="rtl"
+/>
+`;
+
+exports[`samp renders with draggable="false" 1`] = `
+<samp
+  draggable="false"
+/>
+`;
+
+exports[`samp renders with draggable="true" 1`] = `
+<samp
+  draggable="true"
+/>
+`;
+
+exports[`samp renders with empty attributes 1`] = `<samp />`;
+
+exports[`samp renders with hidden="false" 1`] = `
+<samp
+  hidden={false}
+/>
+`;
+
+exports[`samp renders with hidden="true" 1`] = `
+<samp
+  hidden={true}
+/>
+`;
+
+exports[`samp renders with id="TEST" 1`] = `
+<samp
+  id="TEST"
+/>
+`;
+
+exports[`samp renders with inputMode="decimal" 1`] = `
+<samp
+  inputMode="decimal"
+/>
+`;
+
+exports[`samp renders with inputMode="email" 1`] = `
+<samp
+  inputMode="email"
+/>
+`;
+
+exports[`samp renders with inputMode="none" 1`] = `
+<samp
+  inputMode="none"
+/>
+`;
+
+exports[`samp renders with inputMode="numeric" 1`] = `
+<samp
+  inputMode="numeric"
+/>
+`;
+
+exports[`samp renders with inputMode="search" 1`] = `
+<samp
+  inputMode="search"
+/>
+`;
+
+exports[`samp renders with inputMode="tel" 1`] = `
+<samp
+  inputMode="tel"
+/>
+`;
+
+exports[`samp renders with inputMode="text" 1`] = `
+<samp
+  inputMode="text"
+/>
+`;
+
+exports[`samp renders with inputMode="url" 1`] = `
+<samp
+  inputMode="url"
+/>
+`;
+
+exports[`samp renders with is="foo" 1`] = `
+<samp
+  is="foo"
+/>
+`;
+
+exports[`samp renders with itemID="https://google.com/" 1`] = `
+<samp
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`samp renders with itemProp="https://google.com/" 1`] = `
+<samp
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`samp renders with itemRef="foo bar" 1`] = `
+<samp
+  itemRef="foo bar"
+/>
+`;
+
+exports[`samp renders with itemScope="false" 1`] = `
+<samp
+  itemScope={false}
+/>
+`;
+
+exports[`samp renders with itemScope="true" 1`] = `
+<samp
+  itemScope={true}
+/>
+`;
+
+exports[`samp renders with itemType="https://google.com/" 1`] = `
+<samp
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`samp renders with lang="" 1`] = `
+<samp
+  lang=""
+/>
+`;
+
+exports[`samp renders with lang="es-419" 1`] = `
+<samp
+  lang="es-419"
+/>
+`;
+
+exports[`samp renders with slot="TEST" 1`] = `
+<samp
+  slot="TEST"
+/>
+`;
+
+exports[`samp renders with spellCheck="false" 1`] = `
+<samp
+  spellCheck="false"
+/>
+`;
+
+exports[`samp renders with spellCheck="true" 1`] = `
+<samp
+  spellCheck="true"
+/>
+`;
+
+exports[`samp renders with style="[object Object]" 1`] = `
+<samp
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`samp renders with tabIndex="1" 1`] = `
+<samp
+  tabIndex={1}
+/>
+`;
+
+exports[`samp renders with title="TEST" 1`] = `
+<samp
+  title="TEST"
+/>
+`;
+
+exports[`samp renders with translate="no" 1`] = `
+<samp
+  translate="no"
+/>
+`;
+
+exports[`samp renders with translate="yes" 1`] = `
+<samp
+  translate="yes"
+/>
+`;
+
+exports[`samp renders without attributes 1`] = `<samp />`;

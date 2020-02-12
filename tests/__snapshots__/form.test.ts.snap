@@ -1,0 +1,357 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`form renders with acceptCharset="UTF-8" 1`] = `
+<form
+  acceptCharset="UTF-8"
+/>
+`;
+
+exports[`form renders with accessKey="a,b,c,d" 1`] = `
+<form
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`form renders with action="https://google.com/" 1`] = `
+<form
+  action="https://google.com/"
+/>
+`;
+
+exports[`form renders with autoCapitalize="characters" 1`] = `
+<form
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`form renders with autoCapitalize="none" 1`] = `
+<form
+  autoCapitalize="none"
+/>
+`;
+
+exports[`form renders with autoCapitalize="off" 1`] = `
+<form
+  autoCapitalize="off"
+/>
+`;
+
+exports[`form renders with autoCapitalize="on" 1`] = `
+<form
+  autoCapitalize="on"
+/>
+`;
+
+exports[`form renders with autoCapitalize="sentences" 1`] = `
+<form
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`form renders with autoCapitalize="words" 1`] = `
+<form
+  autoCapitalize="words"
+/>
+`;
+
+exports[`form renders with autoComplete="off" 1`] = `
+<form
+  autoComplete="off"
+/>
+`;
+
+exports[`form renders with autoComplete="on" 1`] = `
+<form
+  autoComplete="on"
+/>
+`;
+
+exports[`form renders with children 1`] = `
+<form>
+  TEST
+</form>
+`;
+
+exports[`form renders with className="foo bar baz" 1`] = `
+<form
+  className="foo bar baz"
+/>
+`;
+
+exports[`form renders with contentEditable="false" 1`] = `
+<form
+  contentEditable="false"
+/>
+`;
+
+exports[`form renders with contentEditable="true" 1`] = `
+<form
+  contentEditable="true"
+/>
+`;
+
+exports[`form renders with dir="auto" 1`] = `
+<form
+  dir="auto"
+/>
+`;
+
+exports[`form renders with dir="ltr" 1`] = `
+<form
+  dir="ltr"
+/>
+`;
+
+exports[`form renders with dir="rtl" 1`] = `
+<form
+  dir="rtl"
+/>
+`;
+
+exports[`form renders with draggable="false" 1`] = `
+<form
+  draggable="false"
+/>
+`;
+
+exports[`form renders with draggable="true" 1`] = `
+<form
+  draggable="true"
+/>
+`;
+
+exports[`form renders with empty attributes 1`] = `<form />`;
+
+exports[`form renders with encType="application/x-www-form-urlencoded" 1`] = `
+<form
+  encType="application/x-www-form-urlencoded"
+/>
+`;
+
+exports[`form renders with encType="multipart/form-data" 1`] = `
+<form
+  encType="multipart/form-data"
+/>
+`;
+
+exports[`form renders with encType="text/plain" 1`] = `
+<form
+  encType="text/plain"
+/>
+`;
+
+exports[`form renders with hidden="false" 1`] = `
+<form
+  hidden={false}
+/>
+`;
+
+exports[`form renders with hidden="true" 1`] = `
+<form
+  hidden={true}
+/>
+`;
+
+exports[`form renders with id="TEST" 1`] = `
+<form
+  id="TEST"
+/>
+`;
+
+exports[`form renders with inputMode="decimal" 1`] = `
+<form
+  inputMode="decimal"
+/>
+`;
+
+exports[`form renders with inputMode="email" 1`] = `
+<form
+  inputMode="email"
+/>
+`;
+
+exports[`form renders with inputMode="none" 1`] = `
+<form
+  inputMode="none"
+/>
+`;
+
+exports[`form renders with inputMode="numeric" 1`] = `
+<form
+  inputMode="numeric"
+/>
+`;
+
+exports[`form renders with inputMode="search" 1`] = `
+<form
+  inputMode="search"
+/>
+`;
+
+exports[`form renders with inputMode="tel" 1`] = `
+<form
+  inputMode="tel"
+/>
+`;
+
+exports[`form renders with inputMode="text" 1`] = `
+<form
+  inputMode="text"
+/>
+`;
+
+exports[`form renders with inputMode="url" 1`] = `
+<form
+  inputMode="url"
+/>
+`;
+
+exports[`form renders with is="foo" 1`] = `
+<form
+  is="foo"
+/>
+`;
+
+exports[`form renders with itemID="https://google.com/" 1`] = `
+<form
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`form renders with itemProp="https://google.com/" 1`] = `
+<form
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`form renders with itemRef="foo bar" 1`] = `
+<form
+  itemRef="foo bar"
+/>
+`;
+
+exports[`form renders with itemScope="false" 1`] = `
+<form
+  itemScope={false}
+/>
+`;
+
+exports[`form renders with itemScope="true" 1`] = `
+<form
+  itemScope={true}
+/>
+`;
+
+exports[`form renders with itemType="https://google.com/" 1`] = `
+<form
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`form renders with lang="" 1`] = `
+<form
+  lang=""
+/>
+`;
+
+exports[`form renders with lang="es-419" 1`] = `
+<form
+  lang="es-419"
+/>
+`;
+
+exports[`form renders with method="GET" 1`] = `
+<form
+  method="GET"
+/>
+`;
+
+exports[`form renders with method="POST" 1`] = `
+<form
+  method="POST"
+/>
+`;
+
+exports[`form renders with method="dialog" 1`] = `
+<form
+  method="dialog"
+/>
+`;
+
+exports[`form renders with name="TEST" 1`] = `
+<form
+  name="TEST"
+/>
+`;
+
+exports[`form renders with noValidate="false" 1`] = `
+<form
+  noValidate={false}
+/>
+`;
+
+exports[`form renders with noValidate="true" 1`] = `
+<form
+  noValidate={true}
+/>
+`;
+
+exports[`form renders with slot="TEST" 1`] = `
+<form
+  slot="TEST"
+/>
+`;
+
+exports[`form renders with spellCheck="false" 1`] = `
+<form
+  spellCheck="false"
+/>
+`;
+
+exports[`form renders with spellCheck="true" 1`] = `
+<form
+  spellCheck="true"
+/>
+`;
+
+exports[`form renders with style="[object Object]" 1`] = `
+<form
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`form renders with tabIndex="1" 1`] = `
+<form
+  tabIndex={1}
+/>
+`;
+
+exports[`form renders with target="_blank" 1`] = `
+<form
+  target="_blank"
+/>
+`;
+
+exports[`form renders with title="TEST" 1`] = `
+<form
+  title="TEST"
+/>
+`;
+
+exports[`form renders with translate="no" 1`] = `
+<form
+  translate="no"
+/>
+`;
+
+exports[`form renders with translate="yes" 1`] = `
+<form
+  translate="yes"
+/>
+`;
+
+exports[`form renders without attributes 1`] = `<form />`;

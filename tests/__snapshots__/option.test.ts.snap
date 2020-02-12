@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`option renders with accessKey="a,b,c,d" 1`] = `
+<option
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`option renders with autoCapitalize="characters" 1`] = `
+<option
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`option renders with autoCapitalize="none" 1`] = `
+<option
+  autoCapitalize="none"
+/>
+`;
+
+exports[`option renders with autoCapitalize="off" 1`] = `
+<option
+  autoCapitalize="off"
+/>
+`;
+
+exports[`option renders with autoCapitalize="on" 1`] = `
+<option
+  autoCapitalize="on"
+/>
+`;
+
+exports[`option renders with autoCapitalize="sentences" 1`] = `
+<option
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`option renders with autoCapitalize="words" 1`] = `
+<option
+  autoCapitalize="words"
+/>
+`;
+
+exports[`option renders with children 1`] = `
+<option>
+  TEST
+</option>
+`;
+
+exports[`option renders with className="foo bar baz" 1`] = `
+<option
+  className="foo bar baz"
+/>
+`;
+
+exports[`option renders with contentEditable="false" 1`] = `
+<option
+  contentEditable="false"
+/>
+`;
+
+exports[`option renders with contentEditable="true" 1`] = `
+<option
+  contentEditable="true"
+/>
+`;
+
+exports[`option renders with dir="auto" 1`] = `
+<option
+  dir="auto"
+/>
+`;
+
+exports[`option renders with dir="ltr" 1`] = `
+<option
+  dir="ltr"
+/>
+`;
+
+exports[`option renders with dir="rtl" 1`] = `
+<option
+  dir="rtl"
+/>
+`;
+
+exports[`option renders with disabled="false" 1`] = `
+<option
+  disabled={false}
+/>
+`;
+
+exports[`option renders with disabled="true" 1`] = `
+<option
+  disabled={true}
+/>
+`;
+
+exports[`option renders with draggable="false" 1`] = `
+<option
+  draggable="false"
+/>
+`;
+
+exports[`option renders with draggable="true" 1`] = `
+<option
+  draggable="true"
+/>
+`;
+
+exports[`option renders with empty attributes 1`] = `<option />`;
+
+exports[`option renders with hidden="false" 1`] = `
+<option
+  hidden={false}
+/>
+`;
+
+exports[`option renders with hidden="true" 1`] = `
+<option
+  hidden={true}
+/>
+`;
+
+exports[`option renders with id="TEST" 1`] = `
+<option
+  id="TEST"
+/>
+`;
+
+exports[`option renders with inputMode="decimal" 1`] = `
+<option
+  inputMode="decimal"
+/>
+`;
+
+exports[`option renders with inputMode="email" 1`] = `
+<option
+  inputMode="email"
+/>
+`;
+
+exports[`option renders with inputMode="none" 1`] = `
+<option
+  inputMode="none"
+/>
+`;
+
+exports[`option renders with inputMode="numeric" 1`] = `
+<option
+  inputMode="numeric"
+/>
+`;
+
+exports[`option renders with inputMode="search" 1`] = `
+<option
+  inputMode="search"
+/>
+`;
+
+exports[`option renders with inputMode="tel" 1`] = `
+<option
+  inputMode="tel"
+/>
+`;
+
+exports[`option renders with inputMode="text" 1`] = `
+<option
+  inputMode="text"
+/>
+`;
+
+exports[`option renders with inputMode="url" 1`] = `
+<option
+  inputMode="url"
+/>
+`;
+
+exports[`option renders with is="foo" 1`] = `
+<option
+  is="foo"
+/>
+`;
+
+exports[`option renders with itemID="https://google.com/" 1`] = `
+<option
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`option renders with itemProp="https://google.com/" 1`] = `
+<option
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`option renders with itemRef="foo bar" 1`] = `
+<option
+  itemRef="foo bar"
+/>
+`;
+
+exports[`option renders with itemScope="false" 1`] = `
+<option
+  itemScope={false}
+/>
+`;
+
+exports[`option renders with itemScope="true" 1`] = `
+<option
+  itemScope={true}
+/>
+`;
+
+exports[`option renders with itemType="https://google.com/" 1`] = `
+<option
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`option renders with label="TEST" 1`] = `
+<option
+  label="TEST"
+/>
+`;
+
+exports[`option renders with lang="" 1`] = `
+<option
+  lang=""
+/>
+`;
+
+exports[`option renders with lang="es-419" 1`] = `
+<option
+  lang="es-419"
+/>
+`;
+
+exports[`option renders with selected="false" 1`] = `
+<option
+  selected={false}
+/>
+`;
+
+exports[`option renders with selected="true" 1`] = `
+<option
+  selected={true}
+/>
+`;
+
+exports[`option renders with slot="TEST" 1`] = `
+<option
+  slot="TEST"
+/>
+`;
+
+exports[`option renders with spellCheck="false" 1`] = `
+<option
+  spellCheck="false"
+/>
+`;
+
+exports[`option renders with spellCheck="true" 1`] = `
+<option
+  spellCheck="true"
+/>
+`;
+
+exports[`option renders with style="[object Object]" 1`] = `
+<option
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`option renders with tabIndex="1" 1`] = `
+<option
+  tabIndex={1}
+/>
+`;
+
+exports[`option renders with title="TEST" 1`] = `
+<option
+  title="TEST"
+/>
+`;
+
+exports[`option renders with translate="no" 1`] = `
+<option
+  translate="no"
+/>
+`;
+
+exports[`option renders with translate="yes" 1`] = `
+<option
+  translate="yes"
+/>
+`;
+
+exports[`option renders with value="TEST" 1`] = `
+<option
+  value="TEST"
+/>
+`;
+
+exports[`option renders without attributes 1`] = `<option />`;

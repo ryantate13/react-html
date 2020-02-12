@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dialog renders with accessKey="a,b,c,d" 1`] = `
+<dialog
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`dialog renders with autoCapitalize="characters" 1`] = `
+<dialog
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`dialog renders with autoCapitalize="none" 1`] = `
+<dialog
+  autoCapitalize="none"
+/>
+`;
+
+exports[`dialog renders with autoCapitalize="off" 1`] = `
+<dialog
+  autoCapitalize="off"
+/>
+`;
+
+exports[`dialog renders with autoCapitalize="on" 1`] = `
+<dialog
+  autoCapitalize="on"
+/>
+`;
+
+exports[`dialog renders with autoCapitalize="sentences" 1`] = `
+<dialog
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`dialog renders with autoCapitalize="words" 1`] = `
+<dialog
+  autoCapitalize="words"
+/>
+`;
+
+exports[`dialog renders with children 1`] = `
+<dialog>
+  TEST
+</dialog>
+`;
+
+exports[`dialog renders with className="foo bar baz" 1`] = `
+<dialog
+  className="foo bar baz"
+/>
+`;
+
+exports[`dialog renders with contentEditable="false" 1`] = `
+<dialog
+  contentEditable="false"
+/>
+`;
+
+exports[`dialog renders with contentEditable="true" 1`] = `
+<dialog
+  contentEditable="true"
+/>
+`;
+
+exports[`dialog renders with dir="auto" 1`] = `
+<dialog
+  dir="auto"
+/>
+`;
+
+exports[`dialog renders with dir="ltr" 1`] = `
+<dialog
+  dir="ltr"
+/>
+`;
+
+exports[`dialog renders with dir="rtl" 1`] = `
+<dialog
+  dir="rtl"
+/>
+`;
+
+exports[`dialog renders with draggable="false" 1`] = `
+<dialog
+  draggable="false"
+/>
+`;
+
+exports[`dialog renders with draggable="true" 1`] = `
+<dialog
+  draggable="true"
+/>
+`;
+
+exports[`dialog renders with empty attributes 1`] = `<dialog />`;
+
+exports[`dialog renders with hidden="false" 1`] = `
+<dialog
+  hidden={false}
+/>
+`;
+
+exports[`dialog renders with hidden="true" 1`] = `
+<dialog
+  hidden={true}
+/>
+`;
+
+exports[`dialog renders with id="TEST" 1`] = `
+<dialog
+  id="TEST"
+/>
+`;
+
+exports[`dialog renders with inputMode="decimal" 1`] = `
+<dialog
+  inputMode="decimal"
+/>
+`;
+
+exports[`dialog renders with inputMode="email" 1`] = `
+<dialog
+  inputMode="email"
+/>
+`;
+
+exports[`dialog renders with inputMode="none" 1`] = `
+<dialog
+  inputMode="none"
+/>
+`;
+
+exports[`dialog renders with inputMode="numeric" 1`] = `
+<dialog
+  inputMode="numeric"
+/>
+`;
+
+exports[`dialog renders with inputMode="search" 1`] = `
+<dialog
+  inputMode="search"
+/>
+`;
+
+exports[`dialog renders with inputMode="tel" 1`] = `
+<dialog
+  inputMode="tel"
+/>
+`;
+
+exports[`dialog renders with inputMode="text" 1`] = `
+<dialog
+  inputMode="text"
+/>
+`;
+
+exports[`dialog renders with inputMode="url" 1`] = `
+<dialog
+  inputMode="url"
+/>
+`;
+
+exports[`dialog renders with is="foo" 1`] = `
+<dialog
+  is="foo"
+/>
+`;
+
+exports[`dialog renders with itemID="https://google.com/" 1`] = `
+<dialog
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`dialog renders with itemProp="https://google.com/" 1`] = `
+<dialog
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`dialog renders with itemRef="foo bar" 1`] = `
+<dialog
+  itemRef="foo bar"
+/>
+`;
+
+exports[`dialog renders with itemScope="false" 1`] = `
+<dialog
+  itemScope={false}
+/>
+`;
+
+exports[`dialog renders with itemScope="true" 1`] = `
+<dialog
+  itemScope={true}
+/>
+`;
+
+exports[`dialog renders with itemType="https://google.com/" 1`] = `
+<dialog
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`dialog renders with lang="" 1`] = `
+<dialog
+  lang=""
+/>
+`;
+
+exports[`dialog renders with lang="es-419" 1`] = `
+<dialog
+  lang="es-419"
+/>
+`;
+
+exports[`dialog renders with open="false" 1`] = `
+<dialog
+  open={false}
+/>
+`;
+
+exports[`dialog renders with open="true" 1`] = `
+<dialog
+  open={true}
+/>
+`;
+
+exports[`dialog renders with slot="TEST" 1`] = `
+<dialog
+  slot="TEST"
+/>
+`;
+
+exports[`dialog renders with spellCheck="false" 1`] = `
+<dialog
+  spellCheck="false"
+/>
+`;
+
+exports[`dialog renders with spellCheck="true" 1`] = `
+<dialog
+  spellCheck="true"
+/>
+`;
+
+exports[`dialog renders with style="[object Object]" 1`] = `
+<dialog
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`dialog renders with tabIndex="1" 1`] = `
+<dialog
+  tabIndex={1}
+/>
+`;
+
+exports[`dialog renders with title="TEST" 1`] = `
+<dialog
+  title="TEST"
+/>
+`;
+
+exports[`dialog renders with translate="no" 1`] = `
+<dialog
+  translate="no"
+/>
+`;
+
+exports[`dialog renders with translate="yes" 1`] = `
+<dialog
+  translate="yes"
+/>
+`;
+
+exports[`dialog renders without attributes 1`] = `<dialog />`;

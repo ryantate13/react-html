@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`figure renders with accessKey="a,b,c,d" 1`] = `
+<figure
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`figure renders with autoCapitalize="characters" 1`] = `
+<figure
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`figure renders with autoCapitalize="none" 1`] = `
+<figure
+  autoCapitalize="none"
+/>
+`;
+
+exports[`figure renders with autoCapitalize="off" 1`] = `
+<figure
+  autoCapitalize="off"
+/>
+`;
+
+exports[`figure renders with autoCapitalize="on" 1`] = `
+<figure
+  autoCapitalize="on"
+/>
+`;
+
+exports[`figure renders with autoCapitalize="sentences" 1`] = `
+<figure
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`figure renders with autoCapitalize="words" 1`] = `
+<figure
+  autoCapitalize="words"
+/>
+`;
+
+exports[`figure renders with children 1`] = `
+<figure>
+  TEST
+</figure>
+`;
+
+exports[`figure renders with className="foo bar baz" 1`] = `
+<figure
+  className="foo bar baz"
+/>
+`;
+
+exports[`figure renders with contentEditable="false" 1`] = `
+<figure
+  contentEditable="false"
+/>
+`;
+
+exports[`figure renders with contentEditable="true" 1`] = `
+<figure
+  contentEditable="true"
+/>
+`;
+
+exports[`figure renders with dir="auto" 1`] = `
+<figure
+  dir="auto"
+/>
+`;
+
+exports[`figure renders with dir="ltr" 1`] = `
+<figure
+  dir="ltr"
+/>
+`;
+
+exports[`figure renders with dir="rtl" 1`] = `
+<figure
+  dir="rtl"
+/>
+`;
+
+exports[`figure renders with draggable="false" 1`] = `
+<figure
+  draggable="false"
+/>
+`;
+
+exports[`figure renders with draggable="true" 1`] = `
+<figure
+  draggable="true"
+/>
+`;
+
+exports[`figure renders with empty attributes 1`] = `<figure />`;
+
+exports[`figure renders with hidden="false" 1`] = `
+<figure
+  hidden={false}
+/>
+`;
+
+exports[`figure renders with hidden="true" 1`] = `
+<figure
+  hidden={true}
+/>
+`;
+
+exports[`figure renders with id="TEST" 1`] = `
+<figure
+  id="TEST"
+/>
+`;
+
+exports[`figure renders with inputMode="decimal" 1`] = `
+<figure
+  inputMode="decimal"
+/>
+`;
+
+exports[`figure renders with inputMode="email" 1`] = `
+<figure
+  inputMode="email"
+/>
+`;
+
+exports[`figure renders with inputMode="none" 1`] = `
+<figure
+  inputMode="none"
+/>
+`;
+
+exports[`figure renders with inputMode="numeric" 1`] = `
+<figure
+  inputMode="numeric"
+/>
+`;
+
+exports[`figure renders with inputMode="search" 1`] = `
+<figure
+  inputMode="search"
+/>
+`;
+
+exports[`figure renders with inputMode="tel" 1`] = `
+<figure
+  inputMode="tel"
+/>
+`;
+
+exports[`figure renders with inputMode="text" 1`] = `
+<figure
+  inputMode="text"
+/>
+`;
+
+exports[`figure renders with inputMode="url" 1`] = `
+<figure
+  inputMode="url"
+/>
+`;
+
+exports[`figure renders with is="foo" 1`] = `
+<figure
+  is="foo"
+/>
+`;
+
+exports[`figure renders with itemID="https://google.com/" 1`] = `
+<figure
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`figure renders with itemProp="https://google.com/" 1`] = `
+<figure
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`figure renders with itemRef="foo bar" 1`] = `
+<figure
+  itemRef="foo bar"
+/>
+`;
+
+exports[`figure renders with itemScope="false" 1`] = `
+<figure
+  itemScope={false}
+/>
+`;
+
+exports[`figure renders with itemScope="true" 1`] = `
+<figure
+  itemScope={true}
+/>
+`;
+
+exports[`figure renders with itemType="https://google.com/" 1`] = `
+<figure
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`figure renders with lang="" 1`] = `
+<figure
+  lang=""
+/>
+`;
+
+exports[`figure renders with lang="es-419" 1`] = `
+<figure
+  lang="es-419"
+/>
+`;
+
+exports[`figure renders with slot="TEST" 1`] = `
+<figure
+  slot="TEST"
+/>
+`;
+
+exports[`figure renders with spellCheck="false" 1`] = `
+<figure
+  spellCheck="false"
+/>
+`;
+
+exports[`figure renders with spellCheck="true" 1`] = `
+<figure
+  spellCheck="true"
+/>
+`;
+
+exports[`figure renders with style="[object Object]" 1`] = `
+<figure
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`figure renders with tabIndex="1" 1`] = `
+<figure
+  tabIndex={1}
+/>
+`;
+
+exports[`figure renders with title="TEST" 1`] = `
+<figure
+  title="TEST"
+/>
+`;
+
+exports[`figure renders with translate="no" 1`] = `
+<figure
+  translate="no"
+/>
+`;
+
+exports[`figure renders with translate="yes" 1`] = `
+<figure
+  translate="yes"
+/>
+`;
+
+exports[`figure renders without attributes 1`] = `<figure />`;

@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`param renders with accessKey="a,b,c,d" 1`] = `
+<param
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`param renders with autoCapitalize="characters" 1`] = `
+<param
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`param renders with autoCapitalize="none" 1`] = `
+<param
+  autoCapitalize="none"
+/>
+`;
+
+exports[`param renders with autoCapitalize="off" 1`] = `
+<param
+  autoCapitalize="off"
+/>
+`;
+
+exports[`param renders with autoCapitalize="on" 1`] = `
+<param
+  autoCapitalize="on"
+/>
+`;
+
+exports[`param renders with autoCapitalize="sentences" 1`] = `
+<param
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`param renders with autoCapitalize="words" 1`] = `
+<param
+  autoCapitalize="words"
+/>
+`;
+
+exports[`param renders with className="foo bar baz" 1`] = `
+<param
+  className="foo bar baz"
+/>
+`;
+
+exports[`param renders with contentEditable="false" 1`] = `
+<param
+  contentEditable="false"
+/>
+`;
+
+exports[`param renders with contentEditable="true" 1`] = `
+<param
+  contentEditable="true"
+/>
+`;
+
+exports[`param renders with dir="auto" 1`] = `
+<param
+  dir="auto"
+/>
+`;
+
+exports[`param renders with dir="ltr" 1`] = `
+<param
+  dir="ltr"
+/>
+`;
+
+exports[`param renders with dir="rtl" 1`] = `
+<param
+  dir="rtl"
+/>
+`;
+
+exports[`param renders with draggable="false" 1`] = `
+<param
+  draggable="false"
+/>
+`;
+
+exports[`param renders with draggable="true" 1`] = `
+<param
+  draggable="true"
+/>
+`;
+
+exports[`param renders with empty attributes 1`] = `<param />`;
+
+exports[`param renders with hidden="false" 1`] = `
+<param
+  hidden={false}
+/>
+`;
+
+exports[`param renders with hidden="true" 1`] = `
+<param
+  hidden={true}
+/>
+`;
+
+exports[`param renders with id="TEST" 1`] = `
+<param
+  id="TEST"
+/>
+`;
+
+exports[`param renders with inputMode="decimal" 1`] = `
+<param
+  inputMode="decimal"
+/>
+`;
+
+exports[`param renders with inputMode="email" 1`] = `
+<param
+  inputMode="email"
+/>
+`;
+
+exports[`param renders with inputMode="none" 1`] = `
+<param
+  inputMode="none"
+/>
+`;
+
+exports[`param renders with inputMode="numeric" 1`] = `
+<param
+  inputMode="numeric"
+/>
+`;
+
+exports[`param renders with inputMode="search" 1`] = `
+<param
+  inputMode="search"
+/>
+`;
+
+exports[`param renders with inputMode="tel" 1`] = `
+<param
+  inputMode="tel"
+/>
+`;
+
+exports[`param renders with inputMode="text" 1`] = `
+<param
+  inputMode="text"
+/>
+`;
+
+exports[`param renders with inputMode="url" 1`] = `
+<param
+  inputMode="url"
+/>
+`;
+
+exports[`param renders with is="foo" 1`] = `
+<param
+  is="foo"
+/>
+`;
+
+exports[`param renders with itemID="https://google.com/" 1`] = `
+<param
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`param renders with itemProp="https://google.com/" 1`] = `
+<param
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`param renders with itemRef="foo bar" 1`] = `
+<param
+  itemRef="foo bar"
+/>
+`;
+
+exports[`param renders with itemScope="false" 1`] = `
+<param
+  itemScope={false}
+/>
+`;
+
+exports[`param renders with itemScope="true" 1`] = `
+<param
+  itemScope={true}
+/>
+`;
+
+exports[`param renders with itemType="https://google.com/" 1`] = `
+<param
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`param renders with lang="" 1`] = `
+<param
+  lang=""
+/>
+`;
+
+exports[`param renders with lang="es-419" 1`] = `
+<param
+  lang="es-419"
+/>
+`;
+
+exports[`param renders with name="TEST" 1`] = `
+<param
+  name="TEST"
+/>
+`;
+
+exports[`param renders with slot="TEST" 1`] = `
+<param
+  slot="TEST"
+/>
+`;
+
+exports[`param renders with spellCheck="false" 1`] = `
+<param
+  spellCheck="false"
+/>
+`;
+
+exports[`param renders with spellCheck="true" 1`] = `
+<param
+  spellCheck="true"
+/>
+`;
+
+exports[`param renders with style="[object Object]" 1`] = `
+<param
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`param renders with tabIndex="1" 1`] = `
+<param
+  tabIndex={1}
+/>
+`;
+
+exports[`param renders with title="TEST" 1`] = `
+<param
+  title="TEST"
+/>
+`;
+
+exports[`param renders with translate="no" 1`] = `
+<param
+  translate="no"
+/>
+`;
+
+exports[`param renders with translate="yes" 1`] = `
+<param
+  translate="yes"
+/>
+`;
+
+exports[`param renders with value="TEST" 1`] = `
+<param
+  value="TEST"
+/>
+`;
+
+exports[`param renders without attributes 1`] = `<param />`;

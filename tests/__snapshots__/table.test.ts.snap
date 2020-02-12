@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`table renders with accessKey="a,b,c,d" 1`] = `
+<table
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`table renders with autoCapitalize="characters" 1`] = `
+<table
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`table renders with autoCapitalize="none" 1`] = `
+<table
+  autoCapitalize="none"
+/>
+`;
+
+exports[`table renders with autoCapitalize="off" 1`] = `
+<table
+  autoCapitalize="off"
+/>
+`;
+
+exports[`table renders with autoCapitalize="on" 1`] = `
+<table
+  autoCapitalize="on"
+/>
+`;
+
+exports[`table renders with autoCapitalize="sentences" 1`] = `
+<table
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`table renders with autoCapitalize="words" 1`] = `
+<table
+  autoCapitalize="words"
+/>
+`;
+
+exports[`table renders with children 1`] = `
+<table>
+  TEST
+</table>
+`;
+
+exports[`table renders with className="foo bar baz" 1`] = `
+<table
+  className="foo bar baz"
+/>
+`;
+
+exports[`table renders with contentEditable="false" 1`] = `
+<table
+  contentEditable="false"
+/>
+`;
+
+exports[`table renders with contentEditable="true" 1`] = `
+<table
+  contentEditable="true"
+/>
+`;
+
+exports[`table renders with dir="auto" 1`] = `
+<table
+  dir="auto"
+/>
+`;
+
+exports[`table renders with dir="ltr" 1`] = `
+<table
+  dir="ltr"
+/>
+`;
+
+exports[`table renders with dir="rtl" 1`] = `
+<table
+  dir="rtl"
+/>
+`;
+
+exports[`table renders with draggable="false" 1`] = `
+<table
+  draggable="false"
+/>
+`;
+
+exports[`table renders with draggable="true" 1`] = `
+<table
+  draggable="true"
+/>
+`;
+
+exports[`table renders with empty attributes 1`] = `<table />`;
+
+exports[`table renders with hidden="false" 1`] = `
+<table
+  hidden={false}
+/>
+`;
+
+exports[`table renders with hidden="true" 1`] = `
+<table
+  hidden={true}
+/>
+`;
+
+exports[`table renders with id="TEST" 1`] = `
+<table
+  id="TEST"
+/>
+`;
+
+exports[`table renders with inputMode="decimal" 1`] = `
+<table
+  inputMode="decimal"
+/>
+`;
+
+exports[`table renders with inputMode="email" 1`] = `
+<table
+  inputMode="email"
+/>
+`;
+
+exports[`table renders with inputMode="none" 1`] = `
+<table
+  inputMode="none"
+/>
+`;
+
+exports[`table renders with inputMode="numeric" 1`] = `
+<table
+  inputMode="numeric"
+/>
+`;
+
+exports[`table renders with inputMode="search" 1`] = `
+<table
+  inputMode="search"
+/>
+`;
+
+exports[`table renders with inputMode="tel" 1`] = `
+<table
+  inputMode="tel"
+/>
+`;
+
+exports[`table renders with inputMode="text" 1`] = `
+<table
+  inputMode="text"
+/>
+`;
+
+exports[`table renders with inputMode="url" 1`] = `
+<table
+  inputMode="url"
+/>
+`;
+
+exports[`table renders with is="foo" 1`] = `
+<table
+  is="foo"
+/>
+`;
+
+exports[`table renders with itemID="https://google.com/" 1`] = `
+<table
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`table renders with itemProp="https://google.com/" 1`] = `
+<table
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`table renders with itemRef="foo bar" 1`] = `
+<table
+  itemRef="foo bar"
+/>
+`;
+
+exports[`table renders with itemScope="false" 1`] = `
+<table
+  itemScope={false}
+/>
+`;
+
+exports[`table renders with itemScope="true" 1`] = `
+<table
+  itemScope={true}
+/>
+`;
+
+exports[`table renders with itemType="https://google.com/" 1`] = `
+<table
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`table renders with lang="" 1`] = `
+<table
+  lang=""
+/>
+`;
+
+exports[`table renders with lang="es-419" 1`] = `
+<table
+  lang="es-419"
+/>
+`;
+
+exports[`table renders with slot="TEST" 1`] = `
+<table
+  slot="TEST"
+/>
+`;
+
+exports[`table renders with spellCheck="false" 1`] = `
+<table
+  spellCheck="false"
+/>
+`;
+
+exports[`table renders with spellCheck="true" 1`] = `
+<table
+  spellCheck="true"
+/>
+`;
+
+exports[`table renders with style="[object Object]" 1`] = `
+<table
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`table renders with tabIndex="1" 1`] = `
+<table
+  tabIndex={1}
+/>
+`;
+
+exports[`table renders with title="TEST" 1`] = `
+<table
+  title="TEST"
+/>
+`;
+
+exports[`table renders with translate="no" 1`] = `
+<table
+  translate="no"
+/>
+`;
+
+exports[`table renders with translate="yes" 1`] = `
+<table
+  translate="yes"
+/>
+`;
+
+exports[`table renders without attributes 1`] = `<table />`;

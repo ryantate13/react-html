@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sub renders with accessKey="a,b,c,d" 1`] = `
+<sub
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`sub renders with autoCapitalize="characters" 1`] = `
+<sub
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`sub renders with autoCapitalize="none" 1`] = `
+<sub
+  autoCapitalize="none"
+/>
+`;
+
+exports[`sub renders with autoCapitalize="off" 1`] = `
+<sub
+  autoCapitalize="off"
+/>
+`;
+
+exports[`sub renders with autoCapitalize="on" 1`] = `
+<sub
+  autoCapitalize="on"
+/>
+`;
+
+exports[`sub renders with autoCapitalize="sentences" 1`] = `
+<sub
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`sub renders with autoCapitalize="words" 1`] = `
+<sub
+  autoCapitalize="words"
+/>
+`;
+
+exports[`sub renders with children 1`] = `
+<sub>
+  TEST
+</sub>
+`;
+
+exports[`sub renders with className="foo bar baz" 1`] = `
+<sub
+  className="foo bar baz"
+/>
+`;
+
+exports[`sub renders with contentEditable="false" 1`] = `
+<sub
+  contentEditable="false"
+/>
+`;
+
+exports[`sub renders with contentEditable="true" 1`] = `
+<sub
+  contentEditable="true"
+/>
+`;
+
+exports[`sub renders with dir="auto" 1`] = `
+<sub
+  dir="auto"
+/>
+`;
+
+exports[`sub renders with dir="ltr" 1`] = `
+<sub
+  dir="ltr"
+/>
+`;
+
+exports[`sub renders with dir="rtl" 1`] = `
+<sub
+  dir="rtl"
+/>
+`;
+
+exports[`sub renders with draggable="false" 1`] = `
+<sub
+  draggable="false"
+/>
+`;
+
+exports[`sub renders with draggable="true" 1`] = `
+<sub
+  draggable="true"
+/>
+`;
+
+exports[`sub renders with empty attributes 1`] = `<sub />`;
+
+exports[`sub renders with hidden="false" 1`] = `
+<sub
+  hidden={false}
+/>
+`;
+
+exports[`sub renders with hidden="true" 1`] = `
+<sub
+  hidden={true}
+/>
+`;
+
+exports[`sub renders with id="TEST" 1`] = `
+<sub
+  id="TEST"
+/>
+`;
+
+exports[`sub renders with inputMode="decimal" 1`] = `
+<sub
+  inputMode="decimal"
+/>
+`;
+
+exports[`sub renders with inputMode="email" 1`] = `
+<sub
+  inputMode="email"
+/>
+`;
+
+exports[`sub renders with inputMode="none" 1`] = `
+<sub
+  inputMode="none"
+/>
+`;
+
+exports[`sub renders with inputMode="numeric" 1`] = `
+<sub
+  inputMode="numeric"
+/>
+`;
+
+exports[`sub renders with inputMode="search" 1`] = `
+<sub
+  inputMode="search"
+/>
+`;
+
+exports[`sub renders with inputMode="tel" 1`] = `
+<sub
+  inputMode="tel"
+/>
+`;
+
+exports[`sub renders with inputMode="text" 1`] = `
+<sub
+  inputMode="text"
+/>
+`;
+
+exports[`sub renders with inputMode="url" 1`] = `
+<sub
+  inputMode="url"
+/>
+`;
+
+exports[`sub renders with is="foo" 1`] = `
+<sub
+  is="foo"
+/>
+`;
+
+exports[`sub renders with itemID="https://google.com/" 1`] = `
+<sub
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`sub renders with itemProp="https://google.com/" 1`] = `
+<sub
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`sub renders with itemRef="foo bar" 1`] = `
+<sub
+  itemRef="foo bar"
+/>
+`;
+
+exports[`sub renders with itemScope="false" 1`] = `
+<sub
+  itemScope={false}
+/>
+`;
+
+exports[`sub renders with itemScope="true" 1`] = `
+<sub
+  itemScope={true}
+/>
+`;
+
+exports[`sub renders with itemType="https://google.com/" 1`] = `
+<sub
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`sub renders with lang="" 1`] = `
+<sub
+  lang=""
+/>
+`;
+
+exports[`sub renders with lang="es-419" 1`] = `
+<sub
+  lang="es-419"
+/>
+`;
+
+exports[`sub renders with slot="TEST" 1`] = `
+<sub
+  slot="TEST"
+/>
+`;
+
+exports[`sub renders with spellCheck="false" 1`] = `
+<sub
+  spellCheck="false"
+/>
+`;
+
+exports[`sub renders with spellCheck="true" 1`] = `
+<sub
+  spellCheck="true"
+/>
+`;
+
+exports[`sub renders with style="[object Object]" 1`] = `
+<sub
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`sub renders with tabIndex="1" 1`] = `
+<sub
+  tabIndex={1}
+/>
+`;
+
+exports[`sub renders with title="TEST" 1`] = `
+<sub
+  title="TEST"
+/>
+`;
+
+exports[`sub renders with translate="no" 1`] = `
+<sub
+  translate="no"
+/>
+`;
+
+exports[`sub renders with translate="yes" 1`] = `
+<sub
+  translate="yes"
+/>
+`;
+
+exports[`sub renders without attributes 1`] = `<sub />`;

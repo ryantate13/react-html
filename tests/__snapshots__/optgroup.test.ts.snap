@@ -1,0 +1,291 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`optgroup renders with accessKey="a,b,c,d" 1`] = `
+<optgroup
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`optgroup renders with autoCapitalize="characters" 1`] = `
+<optgroup
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`optgroup renders with autoCapitalize="none" 1`] = `
+<optgroup
+  autoCapitalize="none"
+/>
+`;
+
+exports[`optgroup renders with autoCapitalize="off" 1`] = `
+<optgroup
+  autoCapitalize="off"
+/>
+`;
+
+exports[`optgroup renders with autoCapitalize="on" 1`] = `
+<optgroup
+  autoCapitalize="on"
+/>
+`;
+
+exports[`optgroup renders with autoCapitalize="sentences" 1`] = `
+<optgroup
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`optgroup renders with autoCapitalize="words" 1`] = `
+<optgroup
+  autoCapitalize="words"
+/>
+`;
+
+exports[`optgroup renders with children 1`] = `
+<optgroup>
+  TEST
+</optgroup>
+`;
+
+exports[`optgroup renders with className="foo bar baz" 1`] = `
+<optgroup
+  className="foo bar baz"
+/>
+`;
+
+exports[`optgroup renders with contentEditable="false" 1`] = `
+<optgroup
+  contentEditable="false"
+/>
+`;
+
+exports[`optgroup renders with contentEditable="true" 1`] = `
+<optgroup
+  contentEditable="true"
+/>
+`;
+
+exports[`optgroup renders with dir="auto" 1`] = `
+<optgroup
+  dir="auto"
+/>
+`;
+
+exports[`optgroup renders with dir="ltr" 1`] = `
+<optgroup
+  dir="ltr"
+/>
+`;
+
+exports[`optgroup renders with dir="rtl" 1`] = `
+<optgroup
+  dir="rtl"
+/>
+`;
+
+exports[`optgroup renders with disabled="false" 1`] = `
+<optgroup
+  disabled={false}
+/>
+`;
+
+exports[`optgroup renders with disabled="true" 1`] = `
+<optgroup
+  disabled={true}
+/>
+`;
+
+exports[`optgroup renders with draggable="false" 1`] = `
+<optgroup
+  draggable="false"
+/>
+`;
+
+exports[`optgroup renders with draggable="true" 1`] = `
+<optgroup
+  draggable="true"
+/>
+`;
+
+exports[`optgroup renders with empty attributes 1`] = `<optgroup />`;
+
+exports[`optgroup renders with hidden="false" 1`] = `
+<optgroup
+  hidden={false}
+/>
+`;
+
+exports[`optgroup renders with hidden="true" 1`] = `
+<optgroup
+  hidden={true}
+/>
+`;
+
+exports[`optgroup renders with id="TEST" 1`] = `
+<optgroup
+  id="TEST"
+/>
+`;
+
+exports[`optgroup renders with inputMode="decimal" 1`] = `
+<optgroup
+  inputMode="decimal"
+/>
+`;
+
+exports[`optgroup renders with inputMode="email" 1`] = `
+<optgroup
+  inputMode="email"
+/>
+`;
+
+exports[`optgroup renders with inputMode="none" 1`] = `
+<optgroup
+  inputMode="none"
+/>
+`;
+
+exports[`optgroup renders with inputMode="numeric" 1`] = `
+<optgroup
+  inputMode="numeric"
+/>
+`;
+
+exports[`optgroup renders with inputMode="search" 1`] = `
+<optgroup
+  inputMode="search"
+/>
+`;
+
+exports[`optgroup renders with inputMode="tel" 1`] = `
+<optgroup
+  inputMode="tel"
+/>
+`;
+
+exports[`optgroup renders with inputMode="text" 1`] = `
+<optgroup
+  inputMode="text"
+/>
+`;
+
+exports[`optgroup renders with inputMode="url" 1`] = `
+<optgroup
+  inputMode="url"
+/>
+`;
+
+exports[`optgroup renders with is="foo" 1`] = `
+<optgroup
+  is="foo"
+/>
+`;
+
+exports[`optgroup renders with itemID="https://google.com/" 1`] = `
+<optgroup
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`optgroup renders with itemProp="https://google.com/" 1`] = `
+<optgroup
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`optgroup renders with itemRef="foo bar" 1`] = `
+<optgroup
+  itemRef="foo bar"
+/>
+`;
+
+exports[`optgroup renders with itemScope="false" 1`] = `
+<optgroup
+  itemScope={false}
+/>
+`;
+
+exports[`optgroup renders with itemScope="true" 1`] = `
+<optgroup
+  itemScope={true}
+/>
+`;
+
+exports[`optgroup renders with itemType="https://google.com/" 1`] = `
+<optgroup
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`optgroup renders with label="TEST" 1`] = `
+<optgroup
+  label="TEST"
+/>
+`;
+
+exports[`optgroup renders with lang="" 1`] = `
+<optgroup
+  lang=""
+/>
+`;
+
+exports[`optgroup renders with lang="es-419" 1`] = `
+<optgroup
+  lang="es-419"
+/>
+`;
+
+exports[`optgroup renders with slot="TEST" 1`] = `
+<optgroup
+  slot="TEST"
+/>
+`;
+
+exports[`optgroup renders with spellCheck="false" 1`] = `
+<optgroup
+  spellCheck="false"
+/>
+`;
+
+exports[`optgroup renders with spellCheck="true" 1`] = `
+<optgroup
+  spellCheck="true"
+/>
+`;
+
+exports[`optgroup renders with style="[object Object]" 1`] = `
+<optgroup
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`optgroup renders with tabIndex="1" 1`] = `
+<optgroup
+  tabIndex={1}
+/>
+`;
+
+exports[`optgroup renders with title="TEST" 1`] = `
+<optgroup
+  title="TEST"
+/>
+`;
+
+exports[`optgroup renders with translate="no" 1`] = `
+<optgroup
+  translate="no"
+/>
+`;
+
+exports[`optgroup renders with translate="yes" 1`] = `
+<optgroup
+  translate="yes"
+/>
+`;
+
+exports[`optgroup renders without attributes 1`] = `<optgroup />`;

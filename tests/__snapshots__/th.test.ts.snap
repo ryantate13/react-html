@@ -1,0 +1,321 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`th renders with abbr="TEST" 1`] = `
+<th
+  abbr="TEST"
+/>
+`;
+
+exports[`th renders with accessKey="a,b,c,d" 1`] = `
+<th
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`th renders with autoCapitalize="characters" 1`] = `
+<th
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`th renders with autoCapitalize="none" 1`] = `
+<th
+  autoCapitalize="none"
+/>
+`;
+
+exports[`th renders with autoCapitalize="off" 1`] = `
+<th
+  autoCapitalize="off"
+/>
+`;
+
+exports[`th renders with autoCapitalize="on" 1`] = `
+<th
+  autoCapitalize="on"
+/>
+`;
+
+exports[`th renders with autoCapitalize="sentences" 1`] = `
+<th
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`th renders with autoCapitalize="words" 1`] = `
+<th
+  autoCapitalize="words"
+/>
+`;
+
+exports[`th renders with children 1`] = `
+<th>
+  TEST
+</th>
+`;
+
+exports[`th renders with className="foo bar baz" 1`] = `
+<th
+  className="foo bar baz"
+/>
+`;
+
+exports[`th renders with colSpan="1" 1`] = `
+<th
+  colSpan={1}
+/>
+`;
+
+exports[`th renders with contentEditable="false" 1`] = `
+<th
+  contentEditable="false"
+/>
+`;
+
+exports[`th renders with contentEditable="true" 1`] = `
+<th
+  contentEditable="true"
+/>
+`;
+
+exports[`th renders with dir="auto" 1`] = `
+<th
+  dir="auto"
+/>
+`;
+
+exports[`th renders with dir="ltr" 1`] = `
+<th
+  dir="ltr"
+/>
+`;
+
+exports[`th renders with dir="rtl" 1`] = `
+<th
+  dir="rtl"
+/>
+`;
+
+exports[`th renders with draggable="false" 1`] = `
+<th
+  draggable="false"
+/>
+`;
+
+exports[`th renders with draggable="true" 1`] = `
+<th
+  draggable="true"
+/>
+`;
+
+exports[`th renders with empty attributes 1`] = `<th />`;
+
+exports[`th renders with headers="foo bar" 1`] = `
+<th
+  headers="foo bar"
+/>
+`;
+
+exports[`th renders with hidden="false" 1`] = `
+<th
+  hidden={false}
+/>
+`;
+
+exports[`th renders with hidden="true" 1`] = `
+<th
+  hidden={true}
+/>
+`;
+
+exports[`th renders with id="TEST" 1`] = `
+<th
+  id="TEST"
+/>
+`;
+
+exports[`th renders with inputMode="decimal" 1`] = `
+<th
+  inputMode="decimal"
+/>
+`;
+
+exports[`th renders with inputMode="email" 1`] = `
+<th
+  inputMode="email"
+/>
+`;
+
+exports[`th renders with inputMode="none" 1`] = `
+<th
+  inputMode="none"
+/>
+`;
+
+exports[`th renders with inputMode="numeric" 1`] = `
+<th
+  inputMode="numeric"
+/>
+`;
+
+exports[`th renders with inputMode="search" 1`] = `
+<th
+  inputMode="search"
+/>
+`;
+
+exports[`th renders with inputMode="tel" 1`] = `
+<th
+  inputMode="tel"
+/>
+`;
+
+exports[`th renders with inputMode="text" 1`] = `
+<th
+  inputMode="text"
+/>
+`;
+
+exports[`th renders with inputMode="url" 1`] = `
+<th
+  inputMode="url"
+/>
+`;
+
+exports[`th renders with is="foo" 1`] = `
+<th
+  is="foo"
+/>
+`;
+
+exports[`th renders with itemID="https://google.com/" 1`] = `
+<th
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`th renders with itemProp="https://google.com/" 1`] = `
+<th
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`th renders with itemRef="foo bar" 1`] = `
+<th
+  itemRef="foo bar"
+/>
+`;
+
+exports[`th renders with itemScope="false" 1`] = `
+<th
+  itemScope={false}
+/>
+`;
+
+exports[`th renders with itemScope="true" 1`] = `
+<th
+  itemScope={true}
+/>
+`;
+
+exports[`th renders with itemType="https://google.com/" 1`] = `
+<th
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`th renders with lang="" 1`] = `
+<th
+  lang=""
+/>
+`;
+
+exports[`th renders with lang="es-419" 1`] = `
+<th
+  lang="es-419"
+/>
+`;
+
+exports[`th renders with rowSpan="1" 1`] = `
+<th
+  rowSpan={1}
+/>
+`;
+
+exports[`th renders with scope="col" 1`] = `
+<th
+  scope="col"
+/>
+`;
+
+exports[`th renders with scope="colgroup" 1`] = `
+<th
+  scope="colgroup"
+/>
+`;
+
+exports[`th renders with scope="row" 1`] = `
+<th
+  scope="row"
+/>
+`;
+
+exports[`th renders with scope="rowgroup" 1`] = `
+<th
+  scope="rowgroup"
+/>
+`;
+
+exports[`th renders with slot="TEST" 1`] = `
+<th
+  slot="TEST"
+/>
+`;
+
+exports[`th renders with spellCheck="false" 1`] = `
+<th
+  spellCheck="false"
+/>
+`;
+
+exports[`th renders with spellCheck="true" 1`] = `
+<th
+  spellCheck="true"
+/>
+`;
+
+exports[`th renders with style="[object Object]" 1`] = `
+<th
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`th renders with tabIndex="1" 1`] = `
+<th
+  tabIndex={1}
+/>
+`;
+
+exports[`th renders with title="TEST" 1`] = `
+<th
+  title="TEST"
+/>
+`;
+
+exports[`th renders with translate="no" 1`] = `
+<th
+  translate="no"
+/>
+`;
+
+exports[`th renders with translate="yes" 1`] = `
+<th
+  translate="yes"
+/>
+`;
+
+exports[`th renders without attributes 1`] = `<th />`;

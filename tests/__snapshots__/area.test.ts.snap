@@ -1,0 +1,327 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`area renders with accessKey="a,b,c,d" 1`] = `
+<area
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`area renders with alt="TEST" 1`] = `
+<area
+  alt="TEST"
+/>
+`;
+
+exports[`area renders with autoCapitalize="characters" 1`] = `
+<area
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`area renders with autoCapitalize="none" 1`] = `
+<area
+  autoCapitalize="none"
+/>
+`;
+
+exports[`area renders with autoCapitalize="off" 1`] = `
+<area
+  autoCapitalize="off"
+/>
+`;
+
+exports[`area renders with autoCapitalize="on" 1`] = `
+<area
+  autoCapitalize="on"
+/>
+`;
+
+exports[`area renders with autoCapitalize="sentences" 1`] = `
+<area
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`area renders with autoCapitalize="words" 1`] = `
+<area
+  autoCapitalize="words"
+/>
+`;
+
+exports[`area renders with className="foo bar baz" 1`] = `
+<area
+  className="foo bar baz"
+/>
+`;
+
+exports[`area renders with contentEditable="false" 1`] = `
+<area
+  contentEditable="false"
+/>
+`;
+
+exports[`area renders with contentEditable="true" 1`] = `
+<area
+  contentEditable="true"
+/>
+`;
+
+exports[`area renders with coords="0,0,82,126" 1`] = `
+<area
+  coords="0,0,82,126"
+/>
+`;
+
+exports[`area renders with dir="auto" 1`] = `
+<area
+  dir="auto"
+/>
+`;
+
+exports[`area renders with dir="ltr" 1`] = `
+<area
+  dir="ltr"
+/>
+`;
+
+exports[`area renders with dir="rtl" 1`] = `
+<area
+  dir="rtl"
+/>
+`;
+
+exports[`area renders with download="TEST" 1`] = `
+<area
+  download="TEST"
+/>
+`;
+
+exports[`area renders with draggable="false" 1`] = `
+<area
+  draggable="false"
+/>
+`;
+
+exports[`area renders with draggable="true" 1`] = `
+<area
+  draggable="true"
+/>
+`;
+
+exports[`area renders with empty attributes 1`] = `<area />`;
+
+exports[`area renders with hidden="false" 1`] = `
+<area
+  hidden={false}
+/>
+`;
+
+exports[`area renders with hidden="true" 1`] = `
+<area
+  hidden={true}
+/>
+`;
+
+exports[`area renders with href="https://google.com/" 1`] = `
+<area
+  href="https://google.com/"
+/>
+`;
+
+exports[`area renders with id="TEST" 1`] = `
+<area
+  id="TEST"
+/>
+`;
+
+exports[`area renders with inputMode="decimal" 1`] = `
+<area
+  inputMode="decimal"
+/>
+`;
+
+exports[`area renders with inputMode="email" 1`] = `
+<area
+  inputMode="email"
+/>
+`;
+
+exports[`area renders with inputMode="none" 1`] = `
+<area
+  inputMode="none"
+/>
+`;
+
+exports[`area renders with inputMode="numeric" 1`] = `
+<area
+  inputMode="numeric"
+/>
+`;
+
+exports[`area renders with inputMode="search" 1`] = `
+<area
+  inputMode="search"
+/>
+`;
+
+exports[`area renders with inputMode="tel" 1`] = `
+<area
+  inputMode="tel"
+/>
+`;
+
+exports[`area renders with inputMode="text" 1`] = `
+<area
+  inputMode="text"
+/>
+`;
+
+exports[`area renders with inputMode="url" 1`] = `
+<area
+  inputMode="url"
+/>
+`;
+
+exports[`area renders with is="foo" 1`] = `
+<area
+  is="foo"
+/>
+`;
+
+exports[`area renders with itemID="https://google.com/" 1`] = `
+<area
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`area renders with itemProp="https://google.com/" 1`] = `
+<area
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`area renders with itemRef="foo bar" 1`] = `
+<area
+  itemRef="foo bar"
+/>
+`;
+
+exports[`area renders with itemScope="false" 1`] = `
+<area
+  itemScope={false}
+/>
+`;
+
+exports[`area renders with itemScope="true" 1`] = `
+<area
+  itemScope={true}
+/>
+`;
+
+exports[`area renders with itemType="https://google.com/" 1`] = `
+<area
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`area renders with lang="" 1`] = `
+<area
+  lang=""
+/>
+`;
+
+exports[`area renders with lang="es-419" 1`] = `
+<area
+  lang="es-419"
+/>
+`;
+
+exports[`area renders with rel="a b c d" 1`] = `
+<area
+  rel="a b c d"
+/>
+`;
+
+exports[`area renders with shape="circle" 1`] = `
+<area
+  shape="circle"
+/>
+`;
+
+exports[`area renders with shape="default" 1`] = `
+<area
+  shape="default"
+/>
+`;
+
+exports[`area renders with shape="poly" 1`] = `
+<area
+  shape="poly"
+/>
+`;
+
+exports[`area renders with shape="rect" 1`] = `
+<area
+  shape="rect"
+/>
+`;
+
+exports[`area renders with slot="TEST" 1`] = `
+<area
+  slot="TEST"
+/>
+`;
+
+exports[`area renders with spellCheck="false" 1`] = `
+<area
+  spellCheck="false"
+/>
+`;
+
+exports[`area renders with spellCheck="true" 1`] = `
+<area
+  spellCheck="true"
+/>
+`;
+
+exports[`area renders with style="[object Object]" 1`] = `
+<area
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`area renders with tabIndex="1" 1`] = `
+<area
+  tabIndex={1}
+/>
+`;
+
+exports[`area renders with target="_blank" 1`] = `
+<area
+  target="_blank"
+/>
+`;
+
+exports[`area renders with title="TEST" 1`] = `
+<area
+  title="TEST"
+/>
+`;
+
+exports[`area renders with translate="no" 1`] = `
+<area
+  translate="no"
+/>
+`;
+
+exports[`area renders with translate="yes" 1`] = `
+<area
+  translate="yes"
+/>
+`;
+
+exports[`area renders without attributes 1`] = `<area />`;

@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`noindex renders with accessKey="a,b,c,d" 1`] = `
+<noindex
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`noindex renders with autoCapitalize="characters" 1`] = `
+<noindex
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`noindex renders with autoCapitalize="none" 1`] = `
+<noindex
+  autoCapitalize="none"
+/>
+`;
+
+exports[`noindex renders with autoCapitalize="off" 1`] = `
+<noindex
+  autoCapitalize="off"
+/>
+`;
+
+exports[`noindex renders with autoCapitalize="on" 1`] = `
+<noindex
+  autoCapitalize="on"
+/>
+`;
+
+exports[`noindex renders with autoCapitalize="sentences" 1`] = `
+<noindex
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`noindex renders with autoCapitalize="words" 1`] = `
+<noindex
+  autoCapitalize="words"
+/>
+`;
+
+exports[`noindex renders with children 1`] = `
+<noindex>
+  TEST
+</noindex>
+`;
+
+exports[`noindex renders with className="foo bar baz" 1`] = `
+<noindex
+  className="foo bar baz"
+/>
+`;
+
+exports[`noindex renders with contentEditable="false" 1`] = `
+<noindex
+  contentEditable="false"
+/>
+`;
+
+exports[`noindex renders with contentEditable="true" 1`] = `
+<noindex
+  contentEditable="true"
+/>
+`;
+
+exports[`noindex renders with dir="auto" 1`] = `
+<noindex
+  dir="auto"
+/>
+`;
+
+exports[`noindex renders with dir="ltr" 1`] = `
+<noindex
+  dir="ltr"
+/>
+`;
+
+exports[`noindex renders with dir="rtl" 1`] = `
+<noindex
+  dir="rtl"
+/>
+`;
+
+exports[`noindex renders with draggable="false" 1`] = `
+<noindex
+  draggable="false"
+/>
+`;
+
+exports[`noindex renders with draggable="true" 1`] = `
+<noindex
+  draggable="true"
+/>
+`;
+
+exports[`noindex renders with empty attributes 1`] = `<noindex />`;
+
+exports[`noindex renders with hidden="false" 1`] = `
+<noindex
+  hidden={false}
+/>
+`;
+
+exports[`noindex renders with hidden="true" 1`] = `
+<noindex
+  hidden={true}
+/>
+`;
+
+exports[`noindex renders with id="TEST" 1`] = `
+<noindex
+  id="TEST"
+/>
+`;
+
+exports[`noindex renders with inputMode="decimal" 1`] = `
+<noindex
+  inputMode="decimal"
+/>
+`;
+
+exports[`noindex renders with inputMode="email" 1`] = `
+<noindex
+  inputMode="email"
+/>
+`;
+
+exports[`noindex renders with inputMode="none" 1`] = `
+<noindex
+  inputMode="none"
+/>
+`;
+
+exports[`noindex renders with inputMode="numeric" 1`] = `
+<noindex
+  inputMode="numeric"
+/>
+`;
+
+exports[`noindex renders with inputMode="search" 1`] = `
+<noindex
+  inputMode="search"
+/>
+`;
+
+exports[`noindex renders with inputMode="tel" 1`] = `
+<noindex
+  inputMode="tel"
+/>
+`;
+
+exports[`noindex renders with inputMode="text" 1`] = `
+<noindex
+  inputMode="text"
+/>
+`;
+
+exports[`noindex renders with inputMode="url" 1`] = `
+<noindex
+  inputMode="url"
+/>
+`;
+
+exports[`noindex renders with is="foo" 1`] = `
+<noindex
+  is="foo"
+/>
+`;
+
+exports[`noindex renders with itemID="https://google.com/" 1`] = `
+<noindex
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`noindex renders with itemProp="https://google.com/" 1`] = `
+<noindex
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`noindex renders with itemRef="foo bar" 1`] = `
+<noindex
+  itemRef="foo bar"
+/>
+`;
+
+exports[`noindex renders with itemScope="false" 1`] = `
+<noindex
+  itemScope={false}
+/>
+`;
+
+exports[`noindex renders with itemScope="true" 1`] = `
+<noindex
+  itemScope={true}
+/>
+`;
+
+exports[`noindex renders with itemType="https://google.com/" 1`] = `
+<noindex
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`noindex renders with lang="" 1`] = `
+<noindex
+  lang=""
+/>
+`;
+
+exports[`noindex renders with lang="es-419" 1`] = `
+<noindex
+  lang="es-419"
+/>
+`;
+
+exports[`noindex renders with slot="TEST" 1`] = `
+<noindex
+  slot="TEST"
+/>
+`;
+
+exports[`noindex renders with spellCheck="false" 1`] = `
+<noindex
+  spellCheck="false"
+/>
+`;
+
+exports[`noindex renders with spellCheck="true" 1`] = `
+<noindex
+  spellCheck="true"
+/>
+`;
+
+exports[`noindex renders with style="[object Object]" 1`] = `
+<noindex
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`noindex renders with tabIndex="1" 1`] = `
+<noindex
+  tabIndex={1}
+/>
+`;
+
+exports[`noindex renders with title="TEST" 1`] = `
+<noindex
+  title="TEST"
+/>
+`;
+
+exports[`noindex renders with translate="no" 1`] = `
+<noindex
+  translate="no"
+/>
+`;
+
+exports[`noindex renders with translate="yes" 1`] = `
+<noindex
+  translate="yes"
+/>
+`;
+
+exports[`noindex renders without attributes 1`] = `<noindex />`;

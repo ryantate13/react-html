@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`div renders with accessKey="a,b,c,d" 1`] = `
+<div
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`div renders with autoCapitalize="characters" 1`] = `
+<div
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`div renders with autoCapitalize="none" 1`] = `
+<div
+  autoCapitalize="none"
+/>
+`;
+
+exports[`div renders with autoCapitalize="off" 1`] = `
+<div
+  autoCapitalize="off"
+/>
+`;
+
+exports[`div renders with autoCapitalize="on" 1`] = `
+<div
+  autoCapitalize="on"
+/>
+`;
+
+exports[`div renders with autoCapitalize="sentences" 1`] = `
+<div
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`div renders with autoCapitalize="words" 1`] = `
+<div
+  autoCapitalize="words"
+/>
+`;
+
+exports[`div renders with children 1`] = `
+<div>
+  TEST
+</div>
+`;
+
+exports[`div renders with className="foo bar baz" 1`] = `
+<div
+  className="foo bar baz"
+/>
+`;
+
+exports[`div renders with contentEditable="false" 1`] = `
+<div
+  contentEditable="false"
+/>
+`;
+
+exports[`div renders with contentEditable="true" 1`] = `
+<div
+  contentEditable="true"
+/>
+`;
+
+exports[`div renders with dir="auto" 1`] = `
+<div
+  dir="auto"
+/>
+`;
+
+exports[`div renders with dir="ltr" 1`] = `
+<div
+  dir="ltr"
+/>
+`;
+
+exports[`div renders with dir="rtl" 1`] = `
+<div
+  dir="rtl"
+/>
+`;
+
+exports[`div renders with draggable="false" 1`] = `
+<div
+  draggable="false"
+/>
+`;
+
+exports[`div renders with draggable="true" 1`] = `
+<div
+  draggable="true"
+/>
+`;
+
+exports[`div renders with empty attributes 1`] = `<div />`;
+
+exports[`div renders with hidden="false" 1`] = `
+<div
+  hidden={false}
+/>
+`;
+
+exports[`div renders with hidden="true" 1`] = `
+<div
+  hidden={true}
+/>
+`;
+
+exports[`div renders with id="TEST" 1`] = `
+<div
+  id="TEST"
+/>
+`;
+
+exports[`div renders with inputMode="decimal" 1`] = `
+<div
+  inputMode="decimal"
+/>
+`;
+
+exports[`div renders with inputMode="email" 1`] = `
+<div
+  inputMode="email"
+/>
+`;
+
+exports[`div renders with inputMode="none" 1`] = `
+<div
+  inputMode="none"
+/>
+`;
+
+exports[`div renders with inputMode="numeric" 1`] = `
+<div
+  inputMode="numeric"
+/>
+`;
+
+exports[`div renders with inputMode="search" 1`] = `
+<div
+  inputMode="search"
+/>
+`;
+
+exports[`div renders with inputMode="tel" 1`] = `
+<div
+  inputMode="tel"
+/>
+`;
+
+exports[`div renders with inputMode="text" 1`] = `
+<div
+  inputMode="text"
+/>
+`;
+
+exports[`div renders with inputMode="url" 1`] = `
+<div
+  inputMode="url"
+/>
+`;
+
+exports[`div renders with is="foo" 1`] = `
+<div
+  is="foo"
+/>
+`;
+
+exports[`div renders with itemID="https://google.com/" 1`] = `
+<div
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`div renders with itemProp="https://google.com/" 1`] = `
+<div
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`div renders with itemRef="foo bar" 1`] = `
+<div
+  itemRef="foo bar"
+/>
+`;
+
+exports[`div renders with itemScope="false" 1`] = `
+<div
+  itemScope={false}
+/>
+`;
+
+exports[`div renders with itemScope="true" 1`] = `
+<div
+  itemScope={true}
+/>
+`;
+
+exports[`div renders with itemType="https://google.com/" 1`] = `
+<div
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`div renders with lang="" 1`] = `
+<div
+  lang=""
+/>
+`;
+
+exports[`div renders with lang="es-419" 1`] = `
+<div
+  lang="es-419"
+/>
+`;
+
+exports[`div renders with slot="TEST" 1`] = `
+<div
+  slot="TEST"
+/>
+`;
+
+exports[`div renders with spellCheck="false" 1`] = `
+<div
+  spellCheck="false"
+/>
+`;
+
+exports[`div renders with spellCheck="true" 1`] = `
+<div
+  spellCheck="true"
+/>
+`;
+
+exports[`div renders with style="[object Object]" 1`] = `
+<div
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`div renders with tabIndex="1" 1`] = `
+<div
+  tabIndex={1}
+/>
+`;
+
+exports[`div renders with title="TEST" 1`] = `
+<div
+  title="TEST"
+/>
+`;
+
+exports[`div renders with translate="no" 1`] = `
+<div
+  translate="no"
+/>
+`;
+
+exports[`div renders with translate="yes" 1`] = `
+<div
+  translate="yes"
+/>
+`;
+
+exports[`div renders without attributes 1`] = `<div />`;

@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`nav renders with accessKey="a,b,c,d" 1`] = `
+<nav
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`nav renders with autoCapitalize="characters" 1`] = `
+<nav
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`nav renders with autoCapitalize="none" 1`] = `
+<nav
+  autoCapitalize="none"
+/>
+`;
+
+exports[`nav renders with autoCapitalize="off" 1`] = `
+<nav
+  autoCapitalize="off"
+/>
+`;
+
+exports[`nav renders with autoCapitalize="on" 1`] = `
+<nav
+  autoCapitalize="on"
+/>
+`;
+
+exports[`nav renders with autoCapitalize="sentences" 1`] = `
+<nav
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`nav renders with autoCapitalize="words" 1`] = `
+<nav
+  autoCapitalize="words"
+/>
+`;
+
+exports[`nav renders with children 1`] = `
+<nav>
+  TEST
+</nav>
+`;
+
+exports[`nav renders with className="foo bar baz" 1`] = `
+<nav
+  className="foo bar baz"
+/>
+`;
+
+exports[`nav renders with contentEditable="false" 1`] = `
+<nav
+  contentEditable="false"
+/>
+`;
+
+exports[`nav renders with contentEditable="true" 1`] = `
+<nav
+  contentEditable="true"
+/>
+`;
+
+exports[`nav renders with dir="auto" 1`] = `
+<nav
+  dir="auto"
+/>
+`;
+
+exports[`nav renders with dir="ltr" 1`] = `
+<nav
+  dir="ltr"
+/>
+`;
+
+exports[`nav renders with dir="rtl" 1`] = `
+<nav
+  dir="rtl"
+/>
+`;
+
+exports[`nav renders with draggable="false" 1`] = `
+<nav
+  draggable="false"
+/>
+`;
+
+exports[`nav renders with draggable="true" 1`] = `
+<nav
+  draggable="true"
+/>
+`;
+
+exports[`nav renders with empty attributes 1`] = `<nav />`;
+
+exports[`nav renders with hidden="false" 1`] = `
+<nav
+  hidden={false}
+/>
+`;
+
+exports[`nav renders with hidden="true" 1`] = `
+<nav
+  hidden={true}
+/>
+`;
+
+exports[`nav renders with id="TEST" 1`] = `
+<nav
+  id="TEST"
+/>
+`;
+
+exports[`nav renders with inputMode="decimal" 1`] = `
+<nav
+  inputMode="decimal"
+/>
+`;
+
+exports[`nav renders with inputMode="email" 1`] = `
+<nav
+  inputMode="email"
+/>
+`;
+
+exports[`nav renders with inputMode="none" 1`] = `
+<nav
+  inputMode="none"
+/>
+`;
+
+exports[`nav renders with inputMode="numeric" 1`] = `
+<nav
+  inputMode="numeric"
+/>
+`;
+
+exports[`nav renders with inputMode="search" 1`] = `
+<nav
+  inputMode="search"
+/>
+`;
+
+exports[`nav renders with inputMode="tel" 1`] = `
+<nav
+  inputMode="tel"
+/>
+`;
+
+exports[`nav renders with inputMode="text" 1`] = `
+<nav
+  inputMode="text"
+/>
+`;
+
+exports[`nav renders with inputMode="url" 1`] = `
+<nav
+  inputMode="url"
+/>
+`;
+
+exports[`nav renders with is="foo" 1`] = `
+<nav
+  is="foo"
+/>
+`;
+
+exports[`nav renders with itemID="https://google.com/" 1`] = `
+<nav
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`nav renders with itemProp="https://google.com/" 1`] = `
+<nav
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`nav renders with itemRef="foo bar" 1`] = `
+<nav
+  itemRef="foo bar"
+/>
+`;
+
+exports[`nav renders with itemScope="false" 1`] = `
+<nav
+  itemScope={false}
+/>
+`;
+
+exports[`nav renders with itemScope="true" 1`] = `
+<nav
+  itemScope={true}
+/>
+`;
+
+exports[`nav renders with itemType="https://google.com/" 1`] = `
+<nav
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`nav renders with lang="" 1`] = `
+<nav
+  lang=""
+/>
+`;
+
+exports[`nav renders with lang="es-419" 1`] = `
+<nav
+  lang="es-419"
+/>
+`;
+
+exports[`nav renders with slot="TEST" 1`] = `
+<nav
+  slot="TEST"
+/>
+`;
+
+exports[`nav renders with spellCheck="false" 1`] = `
+<nav
+  spellCheck="false"
+/>
+`;
+
+exports[`nav renders with spellCheck="true" 1`] = `
+<nav
+  spellCheck="true"
+/>
+`;
+
+exports[`nav renders with style="[object Object]" 1`] = `
+<nav
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`nav renders with tabIndex="1" 1`] = `
+<nav
+  tabIndex={1}
+/>
+`;
+
+exports[`nav renders with title="TEST" 1`] = `
+<nav
+  title="TEST"
+/>
+`;
+
+exports[`nav renders with translate="no" 1`] = `
+<nav
+  translate="no"
+/>
+`;
+
+exports[`nav renders with translate="yes" 1`] = `
+<nav
+  translate="yes"
+/>
+`;
+
+exports[`nav renders without attributes 1`] = `<nav />`;

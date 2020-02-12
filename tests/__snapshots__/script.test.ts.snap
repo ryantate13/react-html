@@ -1,0 +1,339 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`script renders with accessKey="a,b,c,d" 1`] = `
+<script
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`script renders with async="false" 1`] = `
+<script
+  async={false}
+/>
+`;
+
+exports[`script renders with async="true" 1`] = `
+<script
+  async={true}
+/>
+`;
+
+exports[`script renders with autoCapitalize="characters" 1`] = `
+<script
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`script renders with autoCapitalize="none" 1`] = `
+<script
+  autoCapitalize="none"
+/>
+`;
+
+exports[`script renders with autoCapitalize="off" 1`] = `
+<script
+  autoCapitalize="off"
+/>
+`;
+
+exports[`script renders with autoCapitalize="on" 1`] = `
+<script
+  autoCapitalize="on"
+/>
+`;
+
+exports[`script renders with autoCapitalize="sentences" 1`] = `
+<script
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`script renders with autoCapitalize="words" 1`] = `
+<script
+  autoCapitalize="words"
+/>
+`;
+
+exports[`script renders with children 1`] = `
+<script>
+  TEST
+</script>
+`;
+
+exports[`script renders with className="foo bar baz" 1`] = `
+<script
+  className="foo bar baz"
+/>
+`;
+
+exports[`script renders with contentEditable="false" 1`] = `
+<script
+  contentEditable="false"
+/>
+`;
+
+exports[`script renders with contentEditable="true" 1`] = `
+<script
+  contentEditable="true"
+/>
+`;
+
+exports[`script renders with crossOrigin="anonymous" 1`] = `
+<script
+  crossOrigin="anonymous"
+/>
+`;
+
+exports[`script renders with crossOrigin="use-credentials" 1`] = `
+<script
+  crossOrigin="use-credentials"
+/>
+`;
+
+exports[`script renders with defer="false" 1`] = `
+<script
+  defer={false}
+/>
+`;
+
+exports[`script renders with defer="true" 1`] = `
+<script
+  defer={true}
+/>
+`;
+
+exports[`script renders with dir="auto" 1`] = `
+<script
+  dir="auto"
+/>
+`;
+
+exports[`script renders with dir="ltr" 1`] = `
+<script
+  dir="ltr"
+/>
+`;
+
+exports[`script renders with dir="rtl" 1`] = `
+<script
+  dir="rtl"
+/>
+`;
+
+exports[`script renders with draggable="false" 1`] = `
+<script
+  draggable="false"
+/>
+`;
+
+exports[`script renders with draggable="true" 1`] = `
+<script
+  draggable="true"
+/>
+`;
+
+exports[`script renders with empty attributes 1`] = `<script />`;
+
+exports[`script renders with hidden="false" 1`] = `
+<script
+  hidden={false}
+/>
+`;
+
+exports[`script renders with hidden="true" 1`] = `
+<script
+  hidden={true}
+/>
+`;
+
+exports[`script renders with id="TEST" 1`] = `
+<script
+  id="TEST"
+/>
+`;
+
+exports[`script renders with inputMode="decimal" 1`] = `
+<script
+  inputMode="decimal"
+/>
+`;
+
+exports[`script renders with inputMode="email" 1`] = `
+<script
+  inputMode="email"
+/>
+`;
+
+exports[`script renders with inputMode="none" 1`] = `
+<script
+  inputMode="none"
+/>
+`;
+
+exports[`script renders with inputMode="numeric" 1`] = `
+<script
+  inputMode="numeric"
+/>
+`;
+
+exports[`script renders with inputMode="search" 1`] = `
+<script
+  inputMode="search"
+/>
+`;
+
+exports[`script renders with inputMode="tel" 1`] = `
+<script
+  inputMode="tel"
+/>
+`;
+
+exports[`script renders with inputMode="text" 1`] = `
+<script
+  inputMode="text"
+/>
+`;
+
+exports[`script renders with inputMode="url" 1`] = `
+<script
+  inputMode="url"
+/>
+`;
+
+exports[`script renders with integrity="TEST" 1`] = `
+<script
+  integrity="TEST"
+/>
+`;
+
+exports[`script renders with is="foo" 1`] = `
+<script
+  is="foo"
+/>
+`;
+
+exports[`script renders with itemID="https://google.com/" 1`] = `
+<script
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`script renders with itemProp="https://google.com/" 1`] = `
+<script
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`script renders with itemRef="foo bar" 1`] = `
+<script
+  itemRef="foo bar"
+/>
+`;
+
+exports[`script renders with itemScope="false" 1`] = `
+<script
+  itemScope={false}
+/>
+`;
+
+exports[`script renders with itemScope="true" 1`] = `
+<script
+  itemScope={true}
+/>
+`;
+
+exports[`script renders with itemType="https://google.com/" 1`] = `
+<script
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`script renders with lang="" 1`] = `
+<script
+  lang=""
+/>
+`;
+
+exports[`script renders with lang="es-419" 1`] = `
+<script
+  lang="es-419"
+/>
+`;
+
+exports[`script renders with noModule="false" 1`] = `
+<script
+  noModule={false}
+/>
+`;
+
+exports[`script renders with noModule="true" 1`] = `
+<script
+  noModule={true}
+/>
+`;
+
+exports[`script renders with slot="TEST" 1`] = `
+<script
+  slot="TEST"
+/>
+`;
+
+exports[`script renders with spellCheck="false" 1`] = `
+<script
+  spellCheck="false"
+/>
+`;
+
+exports[`script renders with spellCheck="true" 1`] = `
+<script
+  spellCheck="true"
+/>
+`;
+
+exports[`script renders with src="https://google.com/" 1`] = `
+<script
+  src="https://google.com/"
+/>
+`;
+
+exports[`script renders with style="[object Object]" 1`] = `
+<script
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`script renders with tabIndex="1" 1`] = `
+<script
+  tabIndex={1}
+/>
+`;
+
+exports[`script renders with title="TEST" 1`] = `
+<script
+  title="TEST"
+/>
+`;
+
+exports[`script renders with translate="no" 1`] = `
+<script
+  translate="no"
+/>
+`;
+
+exports[`script renders with translate="yes" 1`] = `
+<script
+  translate="yes"
+/>
+`;
+
+exports[`script renders with type="module" 1`] = `
+<script
+  type="module"
+/>
+`;
+
+exports[`script renders without attributes 1`] = `<script />`;

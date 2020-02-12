@@ -1,0 +1,275 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`time renders with accessKey="a,b,c,d" 1`] = `
+<time
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`time renders with autoCapitalize="characters" 1`] = `
+<time
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`time renders with autoCapitalize="none" 1`] = `
+<time
+  autoCapitalize="none"
+/>
+`;
+
+exports[`time renders with autoCapitalize="off" 1`] = `
+<time
+  autoCapitalize="off"
+/>
+`;
+
+exports[`time renders with autoCapitalize="on" 1`] = `
+<time
+  autoCapitalize="on"
+/>
+`;
+
+exports[`time renders with autoCapitalize="sentences" 1`] = `
+<time
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`time renders with autoCapitalize="words" 1`] = `
+<time
+  autoCapitalize="words"
+/>
+`;
+
+exports[`time renders with children 1`] = `
+<time>
+  TEST
+</time>
+`;
+
+exports[`time renders with className="foo bar baz" 1`] = `
+<time
+  className="foo bar baz"
+/>
+`;
+
+exports[`time renders with contentEditable="false" 1`] = `
+<time
+  contentEditable="false"
+/>
+`;
+
+exports[`time renders with contentEditable="true" 1`] = `
+<time
+  contentEditable="true"
+/>
+`;
+
+exports[`time renders with dateTime="undefined" 1`] = `<time />`;
+
+exports[`time renders with dir="auto" 1`] = `
+<time
+  dir="auto"
+/>
+`;
+
+exports[`time renders with dir="ltr" 1`] = `
+<time
+  dir="ltr"
+/>
+`;
+
+exports[`time renders with dir="rtl" 1`] = `
+<time
+  dir="rtl"
+/>
+`;
+
+exports[`time renders with draggable="false" 1`] = `
+<time
+  draggable="false"
+/>
+`;
+
+exports[`time renders with draggable="true" 1`] = `
+<time
+  draggable="true"
+/>
+`;
+
+exports[`time renders with empty attributes 1`] = `<time />`;
+
+exports[`time renders with hidden="false" 1`] = `
+<time
+  hidden={false}
+/>
+`;
+
+exports[`time renders with hidden="true" 1`] = `
+<time
+  hidden={true}
+/>
+`;
+
+exports[`time renders with id="TEST" 1`] = `
+<time
+  id="TEST"
+/>
+`;
+
+exports[`time renders with inputMode="decimal" 1`] = `
+<time
+  inputMode="decimal"
+/>
+`;
+
+exports[`time renders with inputMode="email" 1`] = `
+<time
+  inputMode="email"
+/>
+`;
+
+exports[`time renders with inputMode="none" 1`] = `
+<time
+  inputMode="none"
+/>
+`;
+
+exports[`time renders with inputMode="numeric" 1`] = `
+<time
+  inputMode="numeric"
+/>
+`;
+
+exports[`time renders with inputMode="search" 1`] = `
+<time
+  inputMode="search"
+/>
+`;
+
+exports[`time renders with inputMode="tel" 1`] = `
+<time
+  inputMode="tel"
+/>
+`;
+
+exports[`time renders with inputMode="text" 1`] = `
+<time
+  inputMode="text"
+/>
+`;
+
+exports[`time renders with inputMode="url" 1`] = `
+<time
+  inputMode="url"
+/>
+`;
+
+exports[`time renders with is="foo" 1`] = `
+<time
+  is="foo"
+/>
+`;
+
+exports[`time renders with itemID="https://google.com/" 1`] = `
+<time
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`time renders with itemProp="https://google.com/" 1`] = `
+<time
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`time renders with itemRef="foo bar" 1`] = `
+<time
+  itemRef="foo bar"
+/>
+`;
+
+exports[`time renders with itemScope="false" 1`] = `
+<time
+  itemScope={false}
+/>
+`;
+
+exports[`time renders with itemScope="true" 1`] = `
+<time
+  itemScope={true}
+/>
+`;
+
+exports[`time renders with itemType="https://google.com/" 1`] = `
+<time
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`time renders with lang="" 1`] = `
+<time
+  lang=""
+/>
+`;
+
+exports[`time renders with lang="es-419" 1`] = `
+<time
+  lang="es-419"
+/>
+`;
+
+exports[`time renders with slot="TEST" 1`] = `
+<time
+  slot="TEST"
+/>
+`;
+
+exports[`time renders with spellCheck="false" 1`] = `
+<time
+  spellCheck="false"
+/>
+`;
+
+exports[`time renders with spellCheck="true" 1`] = `
+<time
+  spellCheck="true"
+/>
+`;
+
+exports[`time renders with style="[object Object]" 1`] = `
+<time
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`time renders with tabIndex="1" 1`] = `
+<time
+  tabIndex={1}
+/>
+`;
+
+exports[`time renders with title="TEST" 1`] = `
+<time
+  title="TEST"
+/>
+`;
+
+exports[`time renders with translate="no" 1`] = `
+<time
+  translate="no"
+/>
+`;
+
+exports[`time renders with translate="yes" 1`] = `
+<time
+  translate="yes"
+/>
+`;
+
+exports[`time renders without attributes 1`] = `<time />`;

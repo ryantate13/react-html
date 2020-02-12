@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`menu renders with accessKey="a,b,c,d" 1`] = `
+<menu
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`menu renders with autoCapitalize="characters" 1`] = `
+<menu
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`menu renders with autoCapitalize="none" 1`] = `
+<menu
+  autoCapitalize="none"
+/>
+`;
+
+exports[`menu renders with autoCapitalize="off" 1`] = `
+<menu
+  autoCapitalize="off"
+/>
+`;
+
+exports[`menu renders with autoCapitalize="on" 1`] = `
+<menu
+  autoCapitalize="on"
+/>
+`;
+
+exports[`menu renders with autoCapitalize="sentences" 1`] = `
+<menu
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`menu renders with autoCapitalize="words" 1`] = `
+<menu
+  autoCapitalize="words"
+/>
+`;
+
+exports[`menu renders with children 1`] = `
+<menu>
+  TEST
+</menu>
+`;
+
+exports[`menu renders with className="foo bar baz" 1`] = `
+<menu
+  className="foo bar baz"
+/>
+`;
+
+exports[`menu renders with contentEditable="false" 1`] = `
+<menu
+  contentEditable="false"
+/>
+`;
+
+exports[`menu renders with contentEditable="true" 1`] = `
+<menu
+  contentEditable="true"
+/>
+`;
+
+exports[`menu renders with dir="auto" 1`] = `
+<menu
+  dir="auto"
+/>
+`;
+
+exports[`menu renders with dir="ltr" 1`] = `
+<menu
+  dir="ltr"
+/>
+`;
+
+exports[`menu renders with dir="rtl" 1`] = `
+<menu
+  dir="rtl"
+/>
+`;
+
+exports[`menu renders with draggable="false" 1`] = `
+<menu
+  draggable="false"
+/>
+`;
+
+exports[`menu renders with draggable="true" 1`] = `
+<menu
+  draggable="true"
+/>
+`;
+
+exports[`menu renders with empty attributes 1`] = `<menu />`;
+
+exports[`menu renders with hidden="false" 1`] = `
+<menu
+  hidden={false}
+/>
+`;
+
+exports[`menu renders with hidden="true" 1`] = `
+<menu
+  hidden={true}
+/>
+`;
+
+exports[`menu renders with id="TEST" 1`] = `
+<menu
+  id="TEST"
+/>
+`;
+
+exports[`menu renders with inputMode="decimal" 1`] = `
+<menu
+  inputMode="decimal"
+/>
+`;
+
+exports[`menu renders with inputMode="email" 1`] = `
+<menu
+  inputMode="email"
+/>
+`;
+
+exports[`menu renders with inputMode="none" 1`] = `
+<menu
+  inputMode="none"
+/>
+`;
+
+exports[`menu renders with inputMode="numeric" 1`] = `
+<menu
+  inputMode="numeric"
+/>
+`;
+
+exports[`menu renders with inputMode="search" 1`] = `
+<menu
+  inputMode="search"
+/>
+`;
+
+exports[`menu renders with inputMode="tel" 1`] = `
+<menu
+  inputMode="tel"
+/>
+`;
+
+exports[`menu renders with inputMode="text" 1`] = `
+<menu
+  inputMode="text"
+/>
+`;
+
+exports[`menu renders with inputMode="url" 1`] = `
+<menu
+  inputMode="url"
+/>
+`;
+
+exports[`menu renders with is="foo" 1`] = `
+<menu
+  is="foo"
+/>
+`;
+
+exports[`menu renders with itemID="https://google.com/" 1`] = `
+<menu
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`menu renders with itemProp="https://google.com/" 1`] = `
+<menu
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`menu renders with itemRef="foo bar" 1`] = `
+<menu
+  itemRef="foo bar"
+/>
+`;
+
+exports[`menu renders with itemScope="false" 1`] = `
+<menu
+  itemScope={false}
+/>
+`;
+
+exports[`menu renders with itemScope="true" 1`] = `
+<menu
+  itemScope={true}
+/>
+`;
+
+exports[`menu renders with itemType="https://google.com/" 1`] = `
+<menu
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`menu renders with lang="" 1`] = `
+<menu
+  lang=""
+/>
+`;
+
+exports[`menu renders with lang="es-419" 1`] = `
+<menu
+  lang="es-419"
+/>
+`;
+
+exports[`menu renders with slot="TEST" 1`] = `
+<menu
+  slot="TEST"
+/>
+`;
+
+exports[`menu renders with spellCheck="false" 1`] = `
+<menu
+  spellCheck="false"
+/>
+`;
+
+exports[`menu renders with spellCheck="true" 1`] = `
+<menu
+  spellCheck="true"
+/>
+`;
+
+exports[`menu renders with style="[object Object]" 1`] = `
+<menu
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`menu renders with tabIndex="1" 1`] = `
+<menu
+  tabIndex={1}
+/>
+`;
+
+exports[`menu renders with title="TEST" 1`] = `
+<menu
+  title="TEST"
+/>
+`;
+
+exports[`menu renders with translate="no" 1`] = `
+<menu
+  translate="no"
+/>
+`;
+
+exports[`menu renders with translate="yes" 1`] = `
+<menu
+  translate="yes"
+/>
+`;
+
+exports[`menu renders without attributes 1`] = `<menu />`;

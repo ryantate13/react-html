@@ -1,0 +1,387 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`video renders with accessKey="a,b,c,d" 1`] = `
+<video
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`video renders with autoCapitalize="characters" 1`] = `
+<video
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`video renders with autoCapitalize="none" 1`] = `
+<video
+  autoCapitalize="none"
+/>
+`;
+
+exports[`video renders with autoCapitalize="off" 1`] = `
+<video
+  autoCapitalize="off"
+/>
+`;
+
+exports[`video renders with autoCapitalize="on" 1`] = `
+<video
+  autoCapitalize="on"
+/>
+`;
+
+exports[`video renders with autoCapitalize="sentences" 1`] = `
+<video
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`video renders with autoCapitalize="words" 1`] = `
+<video
+  autoCapitalize="words"
+/>
+`;
+
+exports[`video renders with autoPlay="false" 1`] = `
+<video
+  autoPlay={false}
+/>
+`;
+
+exports[`video renders with autoPlay="true" 1`] = `
+<video
+  autoPlay={true}
+/>
+`;
+
+exports[`video renders with children 1`] = `
+<video>
+  TEST
+</video>
+`;
+
+exports[`video renders with className="foo bar baz" 1`] = `
+<video
+  className="foo bar baz"
+/>
+`;
+
+exports[`video renders with contentEditable="false" 1`] = `
+<video
+  contentEditable="false"
+/>
+`;
+
+exports[`video renders with contentEditable="true" 1`] = `
+<video
+  contentEditable="true"
+/>
+`;
+
+exports[`video renders with controls="false" 1`] = `
+<video
+  controls={false}
+/>
+`;
+
+exports[`video renders with controls="true" 1`] = `
+<video
+  controls={true}
+/>
+`;
+
+exports[`video renders with crossOrigin="anonymous" 1`] = `
+<video
+  crossOrigin="anonymous"
+/>
+`;
+
+exports[`video renders with crossOrigin="use-credentials" 1`] = `
+<video
+  crossOrigin="use-credentials"
+/>
+`;
+
+exports[`video renders with dir="auto" 1`] = `
+<video
+  dir="auto"
+/>
+`;
+
+exports[`video renders with dir="ltr" 1`] = `
+<video
+  dir="ltr"
+/>
+`;
+
+exports[`video renders with dir="rtl" 1`] = `
+<video
+  dir="rtl"
+/>
+`;
+
+exports[`video renders with draggable="false" 1`] = `
+<video
+  draggable="false"
+/>
+`;
+
+exports[`video renders with draggable="true" 1`] = `
+<video
+  draggable="true"
+/>
+`;
+
+exports[`video renders with empty attributes 1`] = `<video />`;
+
+exports[`video renders with height="1" 1`] = `
+<video
+  height={1}
+/>
+`;
+
+exports[`video renders with hidden="false" 1`] = `
+<video
+  hidden={false}
+/>
+`;
+
+exports[`video renders with hidden="true" 1`] = `
+<video
+  hidden={true}
+/>
+`;
+
+exports[`video renders with id="TEST" 1`] = `
+<video
+  id="TEST"
+/>
+`;
+
+exports[`video renders with inputMode="decimal" 1`] = `
+<video
+  inputMode="decimal"
+/>
+`;
+
+exports[`video renders with inputMode="email" 1`] = `
+<video
+  inputMode="email"
+/>
+`;
+
+exports[`video renders with inputMode="none" 1`] = `
+<video
+  inputMode="none"
+/>
+`;
+
+exports[`video renders with inputMode="numeric" 1`] = `
+<video
+  inputMode="numeric"
+/>
+`;
+
+exports[`video renders with inputMode="search" 1`] = `
+<video
+  inputMode="search"
+/>
+`;
+
+exports[`video renders with inputMode="tel" 1`] = `
+<video
+  inputMode="tel"
+/>
+`;
+
+exports[`video renders with inputMode="text" 1`] = `
+<video
+  inputMode="text"
+/>
+`;
+
+exports[`video renders with inputMode="url" 1`] = `
+<video
+  inputMode="url"
+/>
+`;
+
+exports[`video renders with is="foo" 1`] = `
+<video
+  is="foo"
+/>
+`;
+
+exports[`video renders with itemID="https://google.com/" 1`] = `
+<video
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`video renders with itemProp="https://google.com/" 1`] = `
+<video
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`video renders with itemRef="foo bar" 1`] = `
+<video
+  itemRef="foo bar"
+/>
+`;
+
+exports[`video renders with itemScope="false" 1`] = `
+<video
+  itemScope={false}
+/>
+`;
+
+exports[`video renders with itemScope="true" 1`] = `
+<video
+  itemScope={true}
+/>
+`;
+
+exports[`video renders with itemType="https://google.com/" 1`] = `
+<video
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`video renders with lang="" 1`] = `
+<video
+  lang=""
+/>
+`;
+
+exports[`video renders with lang="es-419" 1`] = `
+<video
+  lang="es-419"
+/>
+`;
+
+exports[`video renders with loop="false" 1`] = `
+<video
+  loop={false}
+/>
+`;
+
+exports[`video renders with loop="true" 1`] = `
+<video
+  loop={true}
+/>
+`;
+
+exports[`video renders with muted="false" 1`] = `
+<video
+  muted={false}
+/>
+`;
+
+exports[`video renders with muted="true" 1`] = `
+<video
+  muted={true}
+/>
+`;
+
+exports[`video renders with playsinline="false" 1`] = `
+<video
+  playsinline={false}
+/>
+`;
+
+exports[`video renders with playsinline="true" 1`] = `
+<video
+  playsinline={true}
+/>
+`;
+
+exports[`video renders with poster="https://google.com/" 1`] = `
+<video
+  poster="https://google.com/"
+/>
+`;
+
+exports[`video renders with preload="auto" 1`] = `
+<video
+  preload="auto"
+/>
+`;
+
+exports[`video renders with preload="metadata" 1`] = `
+<video
+  preload="metadata"
+/>
+`;
+
+exports[`video renders with preload="none" 1`] = `
+<video
+  preload="none"
+/>
+`;
+
+exports[`video renders with slot="TEST" 1`] = `
+<video
+  slot="TEST"
+/>
+`;
+
+exports[`video renders with spellCheck="false" 1`] = `
+<video
+  spellCheck="false"
+/>
+`;
+
+exports[`video renders with spellCheck="true" 1`] = `
+<video
+  spellCheck="true"
+/>
+`;
+
+exports[`video renders with src="https://google.com/" 1`] = `
+<video
+  src="https://google.com/"
+/>
+`;
+
+exports[`video renders with style="[object Object]" 1`] = `
+<video
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`video renders with tabIndex="1" 1`] = `
+<video
+  tabIndex={1}
+/>
+`;
+
+exports[`video renders with title="TEST" 1`] = `
+<video
+  title="TEST"
+/>
+`;
+
+exports[`video renders with translate="no" 1`] = `
+<video
+  translate="no"
+/>
+`;
+
+exports[`video renders with translate="yes" 1`] = `
+<video
+  translate="yes"
+/>
+`;
+
+exports[`video renders with width="1" 1`] = `
+<video
+  width={1}
+/>
+`;
+
+exports[`video renders without attributes 1`] = `<video />`;

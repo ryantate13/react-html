@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`col renders with accessKey="a,b,c,d" 1`] = `
+<col
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`col renders with autoCapitalize="characters" 1`] = `
+<col
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`col renders with autoCapitalize="none" 1`] = `
+<col
+  autoCapitalize="none"
+/>
+`;
+
+exports[`col renders with autoCapitalize="off" 1`] = `
+<col
+  autoCapitalize="off"
+/>
+`;
+
+exports[`col renders with autoCapitalize="on" 1`] = `
+<col
+  autoCapitalize="on"
+/>
+`;
+
+exports[`col renders with autoCapitalize="sentences" 1`] = `
+<col
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`col renders with autoCapitalize="words" 1`] = `
+<col
+  autoCapitalize="words"
+/>
+`;
+
+exports[`col renders with className="foo bar baz" 1`] = `
+<col
+  className="foo bar baz"
+/>
+`;
+
+exports[`col renders with contentEditable="false" 1`] = `
+<col
+  contentEditable="false"
+/>
+`;
+
+exports[`col renders with contentEditable="true" 1`] = `
+<col
+  contentEditable="true"
+/>
+`;
+
+exports[`col renders with dir="auto" 1`] = `
+<col
+  dir="auto"
+/>
+`;
+
+exports[`col renders with dir="ltr" 1`] = `
+<col
+  dir="ltr"
+/>
+`;
+
+exports[`col renders with dir="rtl" 1`] = `
+<col
+  dir="rtl"
+/>
+`;
+
+exports[`col renders with draggable="false" 1`] = `
+<col
+  draggable="false"
+/>
+`;
+
+exports[`col renders with draggable="true" 1`] = `
+<col
+  draggable="true"
+/>
+`;
+
+exports[`col renders with empty attributes 1`] = `<col />`;
+
+exports[`col renders with hidden="false" 1`] = `
+<col
+  hidden={false}
+/>
+`;
+
+exports[`col renders with hidden="true" 1`] = `
+<col
+  hidden={true}
+/>
+`;
+
+exports[`col renders with id="TEST" 1`] = `
+<col
+  id="TEST"
+/>
+`;
+
+exports[`col renders with inputMode="decimal" 1`] = `
+<col
+  inputMode="decimal"
+/>
+`;
+
+exports[`col renders with inputMode="email" 1`] = `
+<col
+  inputMode="email"
+/>
+`;
+
+exports[`col renders with inputMode="none" 1`] = `
+<col
+  inputMode="none"
+/>
+`;
+
+exports[`col renders with inputMode="numeric" 1`] = `
+<col
+  inputMode="numeric"
+/>
+`;
+
+exports[`col renders with inputMode="search" 1`] = `
+<col
+  inputMode="search"
+/>
+`;
+
+exports[`col renders with inputMode="tel" 1`] = `
+<col
+  inputMode="tel"
+/>
+`;
+
+exports[`col renders with inputMode="text" 1`] = `
+<col
+  inputMode="text"
+/>
+`;
+
+exports[`col renders with inputMode="url" 1`] = `
+<col
+  inputMode="url"
+/>
+`;
+
+exports[`col renders with is="foo" 1`] = `
+<col
+  is="foo"
+/>
+`;
+
+exports[`col renders with itemID="https://google.com/" 1`] = `
+<col
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`col renders with itemProp="https://google.com/" 1`] = `
+<col
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`col renders with itemRef="foo bar" 1`] = `
+<col
+  itemRef="foo bar"
+/>
+`;
+
+exports[`col renders with itemScope="false" 1`] = `
+<col
+  itemScope={false}
+/>
+`;
+
+exports[`col renders with itemScope="true" 1`] = `
+<col
+  itemScope={true}
+/>
+`;
+
+exports[`col renders with itemType="https://google.com/" 1`] = `
+<col
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`col renders with lang="" 1`] = `
+<col
+  lang=""
+/>
+`;
+
+exports[`col renders with lang="es-419" 1`] = `
+<col
+  lang="es-419"
+/>
+`;
+
+exports[`col renders with slot="TEST" 1`] = `
+<col
+  slot="TEST"
+/>
+`;
+
+exports[`col renders with span="1" 1`] = `
+<col
+  span={1}
+/>
+`;
+
+exports[`col renders with spellCheck="false" 1`] = `
+<col
+  spellCheck="false"
+/>
+`;
+
+exports[`col renders with spellCheck="true" 1`] = `
+<col
+  spellCheck="true"
+/>
+`;
+
+exports[`col renders with style="[object Object]" 1`] = `
+<col
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`col renders with tabIndex="1" 1`] = `
+<col
+  tabIndex={1}
+/>
+`;
+
+exports[`col renders with title="TEST" 1`] = `
+<col
+  title="TEST"
+/>
+`;
+
+exports[`col renders with translate="no" 1`] = `
+<col
+  translate="no"
+/>
+`;
+
+exports[`col renders with translate="yes" 1`] = `
+<col
+  translate="yes"
+/>
+`;
+
+exports[`col renders without attributes 1`] = `<col />`;

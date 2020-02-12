@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`menuitem renders with accessKey="a,b,c,d" 1`] = `
+<menuitem
+  accessKey="a,b,c,d"
+/>
+`;
+
+exports[`menuitem renders with autoCapitalize="characters" 1`] = `
+<menuitem
+  autoCapitalize="characters"
+/>
+`;
+
+exports[`menuitem renders with autoCapitalize="none" 1`] = `
+<menuitem
+  autoCapitalize="none"
+/>
+`;
+
+exports[`menuitem renders with autoCapitalize="off" 1`] = `
+<menuitem
+  autoCapitalize="off"
+/>
+`;
+
+exports[`menuitem renders with autoCapitalize="on" 1`] = `
+<menuitem
+  autoCapitalize="on"
+/>
+`;
+
+exports[`menuitem renders with autoCapitalize="sentences" 1`] = `
+<menuitem
+  autoCapitalize="sentences"
+/>
+`;
+
+exports[`menuitem renders with autoCapitalize="words" 1`] = `
+<menuitem
+  autoCapitalize="words"
+/>
+`;
+
+exports[`menuitem renders with children 1`] = `
+<menuitem>
+  TEST
+</menuitem>
+`;
+
+exports[`menuitem renders with className="foo bar baz" 1`] = `
+<menuitem
+  className="foo bar baz"
+/>
+`;
+
+exports[`menuitem renders with contentEditable="false" 1`] = `
+<menuitem
+  contentEditable="false"
+/>
+`;
+
+exports[`menuitem renders with contentEditable="true" 1`] = `
+<menuitem
+  contentEditable="true"
+/>
+`;
+
+exports[`menuitem renders with dir="auto" 1`] = `
+<menuitem
+  dir="auto"
+/>
+`;
+
+exports[`menuitem renders with dir="ltr" 1`] = `
+<menuitem
+  dir="ltr"
+/>
+`;
+
+exports[`menuitem renders with dir="rtl" 1`] = `
+<menuitem
+  dir="rtl"
+/>
+`;
+
+exports[`menuitem renders with draggable="false" 1`] = `
+<menuitem
+  draggable="false"
+/>
+`;
+
+exports[`menuitem renders with draggable="true" 1`] = `
+<menuitem
+  draggable="true"
+/>
+`;
+
+exports[`menuitem renders with empty attributes 1`] = `<menuitem />`;
+
+exports[`menuitem renders with hidden="false" 1`] = `
+<menuitem
+  hidden={false}
+/>
+`;
+
+exports[`menuitem renders with hidden="true" 1`] = `
+<menuitem
+  hidden={true}
+/>
+`;
+
+exports[`menuitem renders with id="TEST" 1`] = `
+<menuitem
+  id="TEST"
+/>
+`;
+
+exports[`menuitem renders with inputMode="decimal" 1`] = `
+<menuitem
+  inputMode="decimal"
+/>
+`;
+
+exports[`menuitem renders with inputMode="email" 1`] = `
+<menuitem
+  inputMode="email"
+/>
+`;
+
+exports[`menuitem renders with inputMode="none" 1`] = `
+<menuitem
+  inputMode="none"
+/>
+`;
+
+exports[`menuitem renders with inputMode="numeric" 1`] = `
+<menuitem
+  inputMode="numeric"
+/>
+`;
+
+exports[`menuitem renders with inputMode="search" 1`] = `
+<menuitem
+  inputMode="search"
+/>
+`;
+
+exports[`menuitem renders with inputMode="tel" 1`] = `
+<menuitem
+  inputMode="tel"
+/>
+`;
+
+exports[`menuitem renders with inputMode="text" 1`] = `
+<menuitem
+  inputMode="text"
+/>
+`;
+
+exports[`menuitem renders with inputMode="url" 1`] = `
+<menuitem
+  inputMode="url"
+/>
+`;
+
+exports[`menuitem renders with is="foo" 1`] = `
+<menuitem
+  is="foo"
+/>
+`;
+
+exports[`menuitem renders with itemID="https://google.com/" 1`] = `
+<menuitem
+  itemID="https://google.com/"
+/>
+`;
+
+exports[`menuitem renders with itemProp="https://google.com/" 1`] = `
+<menuitem
+  itemProp="https://google.com/"
+/>
+`;
+
+exports[`menuitem renders with itemRef="foo bar" 1`] = `
+<menuitem
+  itemRef="foo bar"
+/>
+`;
+
+exports[`menuitem renders with itemScope="false" 1`] = `
+<menuitem
+  itemScope={false}
+/>
+`;
+
+exports[`menuitem renders with itemScope="true" 1`] = `
+<menuitem
+  itemScope={true}
+/>
+`;
+
+exports[`menuitem renders with itemType="https://google.com/" 1`] = `
+<menuitem
+  itemType="https://google.com/"
+/>
+`;
+
+exports[`menuitem renders with lang="" 1`] = `
+<menuitem
+  lang=""
+/>
+`;
+
+exports[`menuitem renders with lang="es-419" 1`] = `
+<menuitem
+  lang="es-419"
+/>
+`;
+
+exports[`menuitem renders with slot="TEST" 1`] = `
+<menuitem
+  slot="TEST"
+/>
+`;
+
+exports[`menuitem renders with spellCheck="false" 1`] = `
+<menuitem
+  spellCheck="false"
+/>
+`;
+
+exports[`menuitem renders with spellCheck="true" 1`] = `
+<menuitem
+  spellCheck="true"
+/>
+`;
+
+exports[`menuitem renders with style="[object Object]" 1`] = `
+<menuitem
+  style={
+    Object {
+      "color": "#000000",
+    }
+  }
+/>
+`;
+
+exports[`menuitem renders with tabIndex="1" 1`] = `
+<menuitem
+  tabIndex={1}
+/>
+`;
+
+exports[`menuitem renders with title="TEST" 1`] = `
+<menuitem
+  title="TEST"
+/>
+`;
+
+exports[`menuitem renders with translate="no" 1`] = `
+<menuitem
+  translate="no"
+/>
+`;
+
+exports[`menuitem renders with translate="yes" 1`] = `
+<menuitem
+  translate="yes"
+/>
+`;
+
+exports[`menuitem renders without attributes 1`] = `<menuitem />`;
