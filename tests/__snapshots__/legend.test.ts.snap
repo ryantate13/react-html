@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`legend renders arrays of children 1`] = `
+<legend>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</legend>
+`;
+
 exports[`legend renders with accessKey="a,b,c,d" 1`] = `
 <legend
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`legend renders with draggable="true" 1`] = `
 
 exports[`legend renders with empty attributes 1`] = `<legend />`;
 
-exports[`legend renders with hidden="false" 1`] = `
+exports[`legend renders with hidden=false 1`] = `
 <legend
   hidden={false}
 />
 `;
 
-exports[`legend renders with hidden="true" 1`] = `
+exports[`legend renders with hidden=true 1`] = `
 <legend
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`legend renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`legend renders with itemScope="false" 1`] = `
+exports[`legend renders with itemScope=false 1`] = `
 <legend
   itemScope={false}
 />
 `;
 
-exports[`legend renders with itemScope="true" 1`] = `
+exports[`legend renders with itemScope=true 1`] = `
 <legend
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`legend renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`legend renders with style="[object Object]" 1`] = `
+exports[`legend renders with style={"color":"#000000"} 1`] = `
 <legend
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`legend renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`legend renders with tabIndex="1" 1`] = `
+exports[`legend renders with tabIndex=1 1`] = `
 <legend
   tabIndex={1}
 />

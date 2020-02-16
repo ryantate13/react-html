@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`form renders arrays of children 1`] = `
+<form>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</form>
+`;
+
 exports[`form renders with acceptCharset="UTF-8" 1`] = `
 <form
   acceptCharset="UTF-8"
@@ -140,13 +155,13 @@ exports[`form renders with encType="text/plain" 1`] = `
 />
 `;
 
-exports[`form renders with hidden="false" 1`] = `
+exports[`form renders with hidden=false 1`] = `
 <form
   hidden={false}
 />
 `;
 
-exports[`form renders with hidden="true" 1`] = `
+exports[`form renders with hidden=true 1`] = `
 <form
   hidden={true}
 />
@@ -230,13 +245,13 @@ exports[`form renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`form renders with itemScope="false" 1`] = `
+exports[`form renders with itemScope=false 1`] = `
 <form
   itemScope={false}
 />
 `;
 
-exports[`form renders with itemScope="true" 1`] = `
+exports[`form renders with itemScope=true 1`] = `
 <form
   itemScope={true}
 />
@@ -284,13 +299,13 @@ exports[`form renders with name="TEST" 1`] = `
 />
 `;
 
-exports[`form renders with noValidate="false" 1`] = `
+exports[`form renders with noValidate=false 1`] = `
 <form
   noValidate={false}
 />
 `;
 
-exports[`form renders with noValidate="true" 1`] = `
+exports[`form renders with noValidate=true 1`] = `
 <form
   noValidate={true}
 />
@@ -314,7 +329,7 @@ exports[`form renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`form renders with style="[object Object]" 1`] = `
+exports[`form renders with style={"color":"#000000"} 1`] = `
 <form
   style={
     Object {
@@ -324,7 +339,7 @@ exports[`form renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`form renders with tabIndex="1" 1`] = `
+exports[`form renders with tabIndex=1 1`] = `
 <form
   tabIndex={1}
 />

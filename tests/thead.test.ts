@@ -4,6 +4,10 @@ describe('thead', () => {
     it('renders with children', () => {
         expect(thead({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(thead({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(thead({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('thead', () => {
         expect(thead({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(thead({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(thead({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('thead', () => {
         expect(thead({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(thead({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(thead({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('thead', () => {
         expect(thead({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(thead({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(thead({tabIndex: 1})).toMatchSnapshot();
     });
 

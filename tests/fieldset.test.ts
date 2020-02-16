@@ -4,6 +4,10 @@ describe('fieldset', () => {
     it('renders with children', () => {
         expect(fieldset({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(fieldset({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(fieldset({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('fieldset', () => {
         expect(fieldset({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(fieldset({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(fieldset({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('fieldset', () => {
         expect(fieldset({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(fieldset({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(fieldset({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('fieldset', () => {
         expect(fieldset({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(fieldset({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(fieldset({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,11 +189,11 @@ describe('fieldset', () => {
         expect(fieldset({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with disabled="true"', () => {
+    it('renders with disabled=true', () => {
         expect(fieldset({disabled: true})).toMatchSnapshot();
     });
 
-    it('renders with disabled="false"', () => {
+    it('renders with disabled=false', () => {
         expect(fieldset({disabled: false})).toMatchSnapshot();
     });
 

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`cite renders arrays of children 1`] = `
+<cite>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</cite>
+`;
+
 exports[`cite renders with accessKey="a,b,c,d" 1`] = `
 <cite
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`cite renders with draggable="true" 1`] = `
 
 exports[`cite renders with empty attributes 1`] = `<cite />`;
 
-exports[`cite renders with hidden="false" 1`] = `
+exports[`cite renders with hidden=false 1`] = `
 <cite
   hidden={false}
 />
 `;
 
-exports[`cite renders with hidden="true" 1`] = `
+exports[`cite renders with hidden=true 1`] = `
 <cite
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`cite renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`cite renders with itemScope="false" 1`] = `
+exports[`cite renders with itemScope=false 1`] = `
 <cite
   itemScope={false}
 />
 `;
 
-exports[`cite renders with itemScope="true" 1`] = `
+exports[`cite renders with itemScope=true 1`] = `
 <cite
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`cite renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`cite renders with style="[object Object]" 1`] = `
+exports[`cite renders with style={"color":"#000000"} 1`] = `
 <cite
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`cite renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`cite renders with tabIndex="1" 1`] = `
+exports[`cite renders with tabIndex=1 1`] = `
 <cite
   tabIndex={1}
 />

@@ -4,6 +4,10 @@ describe('keygen', () => {
     it('renders with children', () => {
         expect(keygen({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(keygen({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(keygen({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('keygen', () => {
         expect(keygen({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(keygen({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(keygen({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('keygen', () => {
         expect(keygen({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(keygen({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(keygen({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('keygen', () => {
         expect(keygen({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(keygen({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(keygen({tabIndex: 1})).toMatchSnapshot();
     });
 

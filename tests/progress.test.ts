@@ -4,6 +4,10 @@ describe('progress', () => {
     it('renders with children', () => {
         expect(progress({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(progress({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(progress({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('progress', () => {
         expect(progress({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(progress({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(progress({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('progress', () => {
         expect(progress({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(progress({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(progress({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('progress', () => {
         expect(progress({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(progress({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(progress({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,11 +189,11 @@ describe('progress', () => {
         expect(progress({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with max="1.1"', () => {
+    it('renders with max=1.1', () => {
         expect(progress({max: 1.1})).toMatchSnapshot();
     });
 
-    it('renders with value="1.1"', () => {
+    it('renders with value=1.1', () => {
         expect(progress({value: 1.1})).toMatchSnapshot();
     });
 });

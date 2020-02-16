@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`del renders arrays of children 1`] = `
+<del>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</del>
+`;
+
 exports[`del renders with accessKey="a,b,c,d" 1`] = `
 <del
   accessKey="a,b,c,d"
@@ -110,13 +125,13 @@ exports[`del renders with draggable="true" 1`] = `
 
 exports[`del renders with empty attributes 1`] = `<del />`;
 
-exports[`del renders with hidden="false" 1`] = `
+exports[`del renders with hidden=false 1`] = `
 <del
   hidden={false}
 />
 `;
 
-exports[`del renders with hidden="true" 1`] = `
+exports[`del renders with hidden=true 1`] = `
 <del
   hidden={true}
 />
@@ -200,13 +215,13 @@ exports[`del renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`del renders with itemScope="false" 1`] = `
+exports[`del renders with itemScope=false 1`] = `
 <del
   itemScope={false}
 />
 `;
 
-exports[`del renders with itemScope="true" 1`] = `
+exports[`del renders with itemScope=true 1`] = `
 <del
   itemScope={true}
 />
@@ -248,7 +263,7 @@ exports[`del renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`del renders with style="[object Object]" 1`] = `
+exports[`del renders with style={"color":"#000000"} 1`] = `
 <del
   style={
     Object {
@@ -258,7 +273,7 @@ exports[`del renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`del renders with tabIndex="1" 1`] = `
+exports[`del renders with tabIndex=1 1`] = `
 <del
   tabIndex={1}
 />

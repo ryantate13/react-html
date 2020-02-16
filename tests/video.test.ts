@@ -4,6 +4,10 @@ describe('video', () => {
     it('renders with children', () => {
         expect(video({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(video({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(video({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('video', () => {
         expect(video({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(video({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(video({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('video', () => {
         expect(video({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(video({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(video({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('video', () => {
         expect(video({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(video({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(video({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,19 +189,19 @@ describe('video', () => {
         expect(video({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with autoPlay="true"', () => {
+    it('renders with autoPlay=true', () => {
         expect(video({autoPlay: true})).toMatchSnapshot();
     });
 
-    it('renders with autoPlay="false"', () => {
+    it('renders with autoPlay=false', () => {
         expect(video({autoPlay: false})).toMatchSnapshot();
     });
 
-    it('renders with controls="true"', () => {
+    it('renders with controls=true', () => {
         expect(video({controls: true})).toMatchSnapshot();
     });
 
-    it('renders with controls="false"', () => {
+    it('renders with controls=false', () => {
         expect(video({controls: false})).toMatchSnapshot();
     });
 
@@ -209,31 +213,31 @@ describe('video', () => {
         expect(video({crossOrigin: "use-credentials"})).toMatchSnapshot();
     });
 
-    it('renders with height="1"', () => {
+    it('renders with height=1', () => {
         expect(video({height: 1})).toMatchSnapshot();
     });
 
-    it('renders with loop="true"', () => {
+    it('renders with loop=true', () => {
         expect(video({loop: true})).toMatchSnapshot();
     });
 
-    it('renders with loop="false"', () => {
+    it('renders with loop=false', () => {
         expect(video({loop: false})).toMatchSnapshot();
     });
 
-    it('renders with muted="true"', () => {
+    it('renders with muted=true', () => {
         expect(video({muted: true})).toMatchSnapshot();
     });
 
-    it('renders with muted="false"', () => {
+    it('renders with muted=false', () => {
         expect(video({muted: false})).toMatchSnapshot();
     });
 
-    it('renders with playsinline="true"', () => {
+    it('renders with playsinline=true', () => {
         expect(video({playsinline: true})).toMatchSnapshot();
     });
 
-    it('renders with playsinline="false"', () => {
+    it('renders with playsinline=false', () => {
         expect(video({playsinline: false})).toMatchSnapshot();
     });
 
@@ -257,7 +261,7 @@ describe('video', () => {
         expect(video({src: "https://google.com/"})).toMatchSnapshot();
     });
 
-    it('renders with width="1"', () => {
+    it('renders with width=1', () => {
         expect(video({width: 1})).toMatchSnapshot();
     });
 });

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`template renders arrays of children 1`] = `
+<template>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</template>
+`;
+
 exports[`template renders with accessKey="a,b,c,d" 1`] = `
 <template
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`template renders with draggable="true" 1`] = `
 
 exports[`template renders with empty attributes 1`] = `<template />`;
 
-exports[`template renders with hidden="false" 1`] = `
+exports[`template renders with hidden=false 1`] = `
 <template
   hidden={false}
 />
 `;
 
-exports[`template renders with hidden="true" 1`] = `
+exports[`template renders with hidden=true 1`] = `
 <template
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`template renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`template renders with itemScope="false" 1`] = `
+exports[`template renders with itemScope=false 1`] = `
 <template
   itemScope={false}
 />
 `;
 
-exports[`template renders with itemScope="true" 1`] = `
+exports[`template renders with itemScope=true 1`] = `
 <template
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`template renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`template renders with style="[object Object]" 1`] = `
+exports[`template renders with style={"color":"#000000"} 1`] = `
 <template
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`template renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`template renders with tabIndex="1" 1`] = `
+exports[`template renders with tabIndex=1 1`] = `
 <template
   tabIndex={1}
 />

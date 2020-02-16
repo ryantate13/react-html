@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`samp renders arrays of children 1`] = `
+<samp>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</samp>
+`;
+
 exports[`samp renders with accessKey="a,b,c,d" 1`] = `
 <samp
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`samp renders with draggable="true" 1`] = `
 
 exports[`samp renders with empty attributes 1`] = `<samp />`;
 
-exports[`samp renders with hidden="false" 1`] = `
+exports[`samp renders with hidden=false 1`] = `
 <samp
   hidden={false}
 />
 `;
 
-exports[`samp renders with hidden="true" 1`] = `
+exports[`samp renders with hidden=true 1`] = `
 <samp
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`samp renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`samp renders with itemScope="false" 1`] = `
+exports[`samp renders with itemScope=false 1`] = `
 <samp
   itemScope={false}
 />
 `;
 
-exports[`samp renders with itemScope="true" 1`] = `
+exports[`samp renders with itemScope=true 1`] = `
 <samp
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`samp renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`samp renders with style="[object Object]" 1`] = `
+exports[`samp renders with style={"color":"#000000"} 1`] = `
 <samp
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`samp renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`samp renders with tabIndex="1" 1`] = `
+exports[`samp renders with tabIndex=1 1`] = `
 <samp
   tabIndex={1}
 />

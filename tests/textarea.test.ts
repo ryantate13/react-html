@@ -4,6 +4,10 @@ describe('textarea', () => {
     it('renders with children', () => {
         expect(textarea({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(textarea({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(textarea({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('textarea', () => {
         expect(textarea({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(textarea({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(textarea({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('textarea', () => {
         expect(textarea({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(textarea({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(textarea({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('textarea', () => {
         expect(textarea({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(textarea({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(textarea({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -189,15 +193,15 @@ describe('textarea', () => {
         expect(textarea({autoComplete: "off"})).toMatchSnapshot();
     });
 
-    it('renders with cols="1"', () => {
+    it('renders with cols=1', () => {
         expect(textarea({cols: 1})).toMatchSnapshot();
     });
 
-    it('renders with disabled="true"', () => {
+    it('renders with disabled=true', () => {
         expect(textarea({disabled: true})).toMatchSnapshot();
     });
 
-    it('renders with disabled="false"', () => {
+    it('renders with disabled=false', () => {
         expect(textarea({disabled: false})).toMatchSnapshot();
     });
 
@@ -205,11 +209,11 @@ describe('textarea', () => {
         expect(textarea({form: "TEST"})).toMatchSnapshot();
     });
 
-    it('renders with maxLength="1"', () => {
+    it('renders with maxLength=1', () => {
         expect(textarea({maxLength: 1})).toMatchSnapshot();
     });
 
-    it('renders with minLength="1"', () => {
+    it('renders with minLength=1', () => {
         expect(textarea({minLength: 1})).toMatchSnapshot();
     });
 
@@ -221,23 +225,23 @@ describe('textarea', () => {
         expect(textarea({placeholder: "TEST"})).toMatchSnapshot();
     });
 
-    it('renders with readOnly="true"', () => {
+    it('renders with readOnly=true', () => {
         expect(textarea({readOnly: true})).toMatchSnapshot();
     });
 
-    it('renders with readOnly="false"', () => {
+    it('renders with readOnly=false', () => {
         expect(textarea({readOnly: false})).toMatchSnapshot();
     });
 
-    it('renders with required="true"', () => {
+    it('renders with required=true', () => {
         expect(textarea({required: true})).toMatchSnapshot();
     });
 
-    it('renders with required="false"', () => {
+    it('renders with required=false', () => {
         expect(textarea({required: false})).toMatchSnapshot();
     });
 
-    it('renders with rows="1"', () => {
+    it('renders with rows=1', () => {
         expect(textarea({rows: 1})).toMatchSnapshot();
     });
 

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`meter renders arrays of children 1`] = `
+<meter>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</meter>
+`;
+
 exports[`meter renders with accessKey="a,b,c,d" 1`] = `
 <meter
   accessKey="a,b,c,d"
@@ -98,19 +113,19 @@ exports[`meter renders with draggable="true" 1`] = `
 
 exports[`meter renders with empty attributes 1`] = `<meter />`;
 
-exports[`meter renders with hidden="false" 1`] = `
+exports[`meter renders with hidden=false 1`] = `
 <meter
   hidden={false}
 />
 `;
 
-exports[`meter renders with hidden="true" 1`] = `
+exports[`meter renders with hidden=true 1`] = `
 <meter
   hidden={true}
 />
 `;
 
-exports[`meter renders with high="1.1" 1`] = `
+exports[`meter renders with high=1.1 1`] = `
 <meter
   high={1.1}
 />
@@ -194,13 +209,13 @@ exports[`meter renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`meter renders with itemScope="false" 1`] = `
+exports[`meter renders with itemScope=false 1`] = `
 <meter
   itemScope={false}
 />
 `;
 
-exports[`meter renders with itemScope="true" 1`] = `
+exports[`meter renders with itemScope=true 1`] = `
 <meter
   itemScope={true}
 />
@@ -224,25 +239,25 @@ exports[`meter renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`meter renders with low="1.1" 1`] = `
+exports[`meter renders with low=1.1 1`] = `
 <meter
   low={1.1}
 />
 `;
 
-exports[`meter renders with max="1.1" 1`] = `
+exports[`meter renders with max=1.1 1`] = `
 <meter
   max={1.1}
 />
 `;
 
-exports[`meter renders with min="1.1" 1`] = `
+exports[`meter renders with min=1.1 1`] = `
 <meter
   min={1.1}
 />
 `;
 
-exports[`meter renders with optimum="1.1" 1`] = `
+exports[`meter renders with optimum=1.1 1`] = `
 <meter
   optimum={1.1}
 />
@@ -266,7 +281,7 @@ exports[`meter renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`meter renders with style="[object Object]" 1`] = `
+exports[`meter renders with style={"color":"#000000"} 1`] = `
 <meter
   style={
     Object {
@@ -276,7 +291,7 @@ exports[`meter renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`meter renders with tabIndex="1" 1`] = `
+exports[`meter renders with tabIndex=1 1`] = `
 <meter
   tabIndex={1}
 />
@@ -300,7 +315,7 @@ exports[`meter renders with translate="yes" 1`] = `
 />
 `;
 
-exports[`meter renders with value="1.1" 1`] = `
+exports[`meter renders with value=1.1 1`] = `
 <meter
   value={1.1}
 />

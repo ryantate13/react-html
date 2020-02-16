@@ -134,13 +134,13 @@ exports[`link renders with draggable="true" 1`] = `
 
 exports[`link renders with empty attributes 1`] = `<link />`;
 
-exports[`link renders with hidden="false" 1`] = `
+exports[`link renders with hidden=false 1`] = `
 <link
   hidden={false}
 />
 `;
 
-exports[`link renders with hidden="true" 1`] = `
+exports[`link renders with hidden=true 1`] = `
 <link
   hidden={true}
 />
@@ -242,13 +242,13 @@ exports[`link renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`link renders with itemScope="false" 1`] = `
+exports[`link renders with itemScope=false 1`] = `
 <link
   itemScope={false}
 />
 `;
 
-exports[`link renders with itemScope="true" 1`] = `
+exports[`link renders with itemScope=true 1`] = `
 <link
   itemScope={true}
 />
@@ -308,7 +308,7 @@ exports[`link renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`link renders with style="[object Object]" 1`] = `
+exports[`link renders with style={"color":"#000000"} 1`] = `
 <link
   style={
     Object {
@@ -318,7 +318,7 @@ exports[`link renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`link renders with tabIndex="1" 1`] = `
+exports[`link renders with tabIndex=1 1`] = `
 <link
   tabIndex={1}
 />

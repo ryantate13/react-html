@@ -4,6 +4,10 @@ describe('script', () => {
     it('renders with children', () => {
         expect(script({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(script({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(script({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('script', () => {
         expect(script({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(script({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(script({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('script', () => {
         expect(script({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(script({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(script({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('script', () => {
         expect(script({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(script({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(script({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,11 +189,11 @@ describe('script', () => {
         expect(script({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with async="true"', () => {
+    it('renders with async=true', () => {
         expect(script({async: true})).toMatchSnapshot();
     });
 
-    it('renders with async="false"', () => {
+    it('renders with async=false', () => {
         expect(script({async: false})).toMatchSnapshot();
     });
 
@@ -201,11 +205,11 @@ describe('script', () => {
         expect(script({crossOrigin: "use-credentials"})).toMatchSnapshot();
     });
 
-    it('renders with defer="true"', () => {
+    it('renders with defer=true', () => {
         expect(script({defer: true})).toMatchSnapshot();
     });
 
-    it('renders with defer="false"', () => {
+    it('renders with defer=false', () => {
         expect(script({defer: false})).toMatchSnapshot();
     });
 
@@ -213,11 +217,11 @@ describe('script', () => {
         expect(script({integrity: "TEST"})).toMatchSnapshot();
     });
 
-    it('renders with noModule="true"', () => {
+    it('renders with noModule=true', () => {
         expect(script({noModule: true})).toMatchSnapshot();
     });
 
-    it('renders with noModule="false"', () => {
+    it('renders with noModule=false', () => {
         expect(script({noModule: false})).toMatchSnapshot();
     });
 

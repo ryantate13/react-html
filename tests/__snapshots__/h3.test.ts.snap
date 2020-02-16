@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`h3 renders arrays of children 1`] = `
+<h3>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</h3>
+`;
+
 exports[`h3 renders with accessKey="a,b,c,d" 1`] = `
 <h3
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`h3 renders with draggable="true" 1`] = `
 
 exports[`h3 renders with empty attributes 1`] = `<h3 />`;
 
-exports[`h3 renders with hidden="false" 1`] = `
+exports[`h3 renders with hidden=false 1`] = `
 <h3
   hidden={false}
 />
 `;
 
-exports[`h3 renders with hidden="true" 1`] = `
+exports[`h3 renders with hidden=true 1`] = `
 <h3
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`h3 renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`h3 renders with itemScope="false" 1`] = `
+exports[`h3 renders with itemScope=false 1`] = `
 <h3
   itemScope={false}
 />
 `;
 
-exports[`h3 renders with itemScope="true" 1`] = `
+exports[`h3 renders with itemScope=true 1`] = `
 <h3
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`h3 renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`h3 renders with style="[object Object]" 1`] = `
+exports[`h3 renders with style={"color":"#000000"} 1`] = `
 <h3
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`h3 renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`h3 renders with tabIndex="1" 1`] = `
+exports[`h3 renders with tabIndex=1 1`] = `
 <h3
   tabIndex={1}
 />

@@ -1,18 +1,33 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`script renders arrays of children 1`] = `
+<script>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</script>
+`;
+
 exports[`script renders with accessKey="a,b,c,d" 1`] = `
 <script
   accessKey="a,b,c,d"
 />
 `;
 
-exports[`script renders with async="false" 1`] = `
+exports[`script renders with async=false 1`] = `
 <script
   async={false}
 />
 `;
 
-exports[`script renders with async="true" 1`] = `
+exports[`script renders with async=true 1`] = `
 <script
   async={true}
 />
@@ -90,13 +105,13 @@ exports[`script renders with crossOrigin="use-credentials" 1`] = `
 />
 `;
 
-exports[`script renders with defer="false" 1`] = `
+exports[`script renders with defer=false 1`] = `
 <script
   defer={false}
 />
 `;
 
-exports[`script renders with defer="true" 1`] = `
+exports[`script renders with defer=true 1`] = `
 <script
   defer={true}
 />
@@ -134,13 +149,13 @@ exports[`script renders with draggable="true" 1`] = `
 
 exports[`script renders with empty attributes 1`] = `<script />`;
 
-exports[`script renders with hidden="false" 1`] = `
+exports[`script renders with hidden=false 1`] = `
 <script
   hidden={false}
 />
 `;
 
-exports[`script renders with hidden="true" 1`] = `
+exports[`script renders with hidden=true 1`] = `
 <script
   hidden={true}
 />
@@ -230,13 +245,13 @@ exports[`script renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`script renders with itemScope="false" 1`] = `
+exports[`script renders with itemScope=false 1`] = `
 <script
   itemScope={false}
 />
 `;
 
-exports[`script renders with itemScope="true" 1`] = `
+exports[`script renders with itemScope=true 1`] = `
 <script
   itemScope={true}
 />
@@ -260,13 +275,13 @@ exports[`script renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`script renders with noModule="false" 1`] = `
+exports[`script renders with noModule=false 1`] = `
 <script
   noModule={false}
 />
 `;
 
-exports[`script renders with noModule="true" 1`] = `
+exports[`script renders with noModule=true 1`] = `
 <script
   noModule={true}
 />
@@ -296,7 +311,7 @@ exports[`script renders with src="https://google.com/" 1`] = `
 />
 `;
 
-exports[`script renders with style="[object Object]" 1`] = `
+exports[`script renders with style={"color":"#000000"} 1`] = `
 <script
   style={
     Object {
@@ -306,7 +321,7 @@ exports[`script renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`script renders with tabIndex="1" 1`] = `
+exports[`script renders with tabIndex=1 1`] = `
 <script
   tabIndex={1}
 />

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`abbr renders arrays of children 1`] = `
+<abbr>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</abbr>
+`;
+
 exports[`abbr renders with accessKey="a,b,c,d" 1`] = `
 <abbr
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`abbr renders with draggable="true" 1`] = `
 
 exports[`abbr renders with empty attributes 1`] = `<abbr />`;
 
-exports[`abbr renders with hidden="false" 1`] = `
+exports[`abbr renders with hidden=false 1`] = `
 <abbr
   hidden={false}
 />
 `;
 
-exports[`abbr renders with hidden="true" 1`] = `
+exports[`abbr renders with hidden=true 1`] = `
 <abbr
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`abbr renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`abbr renders with itemScope="false" 1`] = `
+exports[`abbr renders with itemScope=false 1`] = `
 <abbr
   itemScope={false}
 />
 `;
 
-exports[`abbr renders with itemScope="true" 1`] = `
+exports[`abbr renders with itemScope=true 1`] = `
 <abbr
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`abbr renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`abbr renders with style="[object Object]" 1`] = `
+exports[`abbr renders with style={"color":"#000000"} 1`] = `
 <abbr
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`abbr renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`abbr renders with tabIndex="1" 1`] = `
+exports[`abbr renders with tabIndex=1 1`] = `
 <abbr
   tabIndex={1}
 />

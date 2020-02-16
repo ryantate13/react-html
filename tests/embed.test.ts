@@ -70,11 +70,11 @@ describe('embed', () => {
         expect(embed({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(embed({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(embed({hidden: false})).toMatchSnapshot();
     });
 
@@ -130,11 +130,11 @@ describe('embed', () => {
         expect(embed({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(embed({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(embed({itemScope: false})).toMatchSnapshot();
     });
 
@@ -162,11 +162,11 @@ describe('embed', () => {
         expect(embed({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(embed({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(embed({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -182,7 +182,7 @@ describe('embed', () => {
         expect(embed({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with height="1"', () => {
+    it('renders with height=1', () => {
         expect(embed({height: 1})).toMatchSnapshot();
     });
 
@@ -194,7 +194,7 @@ describe('embed', () => {
         expect(embed({type: "application/json"})).toMatchSnapshot();
     });
 
-    it('renders with width="1"', () => {
+    it('renders with width=1', () => {
         expect(embed({width: 1})).toMatchSnapshot();
     });
 });

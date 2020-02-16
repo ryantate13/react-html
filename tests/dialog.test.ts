@@ -4,6 +4,10 @@ describe('dialog', () => {
     it('renders with children', () => {
         expect(dialog({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(dialog({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(dialog({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('dialog', () => {
         expect(dialog({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(dialog({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(dialog({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('dialog', () => {
         expect(dialog({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(dialog({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(dialog({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('dialog', () => {
         expect(dialog({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(dialog({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(dialog({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,11 +189,11 @@ describe('dialog', () => {
         expect(dialog({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with open="true"', () => {
+    it('renders with open=true', () => {
         expect(dialog({open: true})).toMatchSnapshot();
     });
 
-    it('renders with open="false"', () => {
+    it('renders with open=false', () => {
         expect(dialog({open: false})).toMatchSnapshot();
     });
 });

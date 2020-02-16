@@ -4,7 +4,8 @@ const fs = require('fs'),
     cheerio = require('cheerio');
 
 const src = path.join(__dirname, 'src'),
-    lib = path.join(src, 'index.ts');
+    lib = path.join(src, 'index.ts'),
+    CHILDREN_TYPE = 'Array<ReactNode | ReactNode[]>';
 
 const HTML5_VOID_ELEMENTS = new Set([
     'area',
@@ -81,6 +82,7 @@ const UNSUPPORTED = new Set([
     'nonce',
     'ping',
     'referrerpolicy',
+    'loading',
 ]);
 
 const test_url = 'https://google.com/';
@@ -140,7 +142,7 @@ const header = tags => `import {
     ${[...new Set(tags.map(t => t.imports).reduce((a, c) => a.concat(c), []))].join(',\n    ')},
 } from 'react';
 
-export function _(...children: ReactNode[]) {
+export function _(...children: ${CHILDREN_TYPE}) {
     return createElement(Fragment, {}, ...children);
 }
 `;
@@ -154,7 +156,7 @@ export function ${name}(attributes: ${type} | null = {}) {
 `
     :
     `
-export function ${name}(attributes: ${type} | null = {}, ...children: ReactNode[]) {
+export function ${name}(attributes: ${type} | null = {}, ...children: ${CHILDREN_TYPE}) {
     return createElement('${name}', attributes, ...children);
 }
 `;
@@ -235,6 +237,10 @@ describe('${fn}', () => {${
             `
     it('renders with children', () => {
         expect(${fn}({}, 'TEST')).toMatchSnapshot();
+    });
+    
+    it('renders arrays of children', () => {
+        expect(${fn}({}, Array(10).fill('TEST'))).toMatchSnapshot();
     });`
     }
 
@@ -247,10 +253,11 @@ describe('${fn}', () => {${
     });
 ${
         tests.map(({attribute, value}) => {
-            const attribute_name = REACT_ATTRIBUTES[attribute] || attribute;
+            const attribute_name = REACT_ATTRIBUTES[attribute] || attribute,
+                rendered_value = JSON.stringify(value);
             return `
-    it('renders with ${attribute_name}="${value}"', () => {
-        expect(${fn}({${attribute_name}: ${JSON.stringify(value)}})).toMatchSnapshot();
+    it('renders with ${attribute_name}=${rendered_value}', () => {
+        expect(${fn}({${attribute_name}: ${rendered_value}})).toMatchSnapshot();
     });
 `;
         }).join('')
@@ -287,20 +294,26 @@ async function main() {
             attribute,
             valid_values,
         };
-        for (const e of elements) {
-            if (names.has(e)) {
-                if (!element_attributes[e])
-                    element_attributes[e] = [];
-                element_attributes[e].push(a);
-            } else if (global)
-                element_attributes['*'].push(a);
-        }
+        if (global)
+            element_attributes['*'].push(a);
+        else
+            elements
+                .filter(e => names.has(e))
+                .forEach(e => {
+                    if (!element_attributes[e])
+                        element_attributes[e] = [];
+                    element_attributes[e].push(a);
+                });
     }
+
+    for (const name of names)
+        if (!element_attributes[name])
+            element_attributes[name] = [];
 
     let test_count = 0;
 
     for (const [tag, atts] of Object.entries(element_attributes)) {
-        if (names.has(tag)) {
+        if (tag !== '*') {
             const all_attributes = element_attributes['*']
                     .concat(atts)
                     .filter(({attribute}) => !UNSUPPORTED.has(attribute)),
@@ -309,18 +322,6 @@ async function main() {
             test_count += tests.length;
             fs.writeFileSync(path.join(__dirname, 'tests', `${tag}.test.ts`), tests);
             console.log(`generated test for: ${tag}`);
-        }
-    }
-
-    for (const name of names) {
-        if (!element_attributes[name]) {
-            const all_attributes = element_attributes['*']
-                    .filter(({attribute}) => !UNSUPPORTED.has(attribute)),
-                test_cases = all_attributes.map(test_attributes).reduce((a, c) => a.concat(c), []),
-                tests = make_tests(name, test_cases);
-            test_count += tests.length;
-            fs.writeFileSync(path.join(__dirname, 'tests', `${name}.test.ts`), tests);
-            console.log(`generated test for: ${name}`);
         }
     }
 

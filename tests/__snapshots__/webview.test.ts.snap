@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`webview renders arrays of children 1`] = `
+<webview>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</webview>
+`;
+
 exports[`webview renders with accessKey="a,b,c,d" 1`] = `
 <webview
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`webview renders with draggable="true" 1`] = `
 
 exports[`webview renders with empty attributes 1`] = `<webview />`;
 
-exports[`webview renders with hidden="false" 1`] = `
+exports[`webview renders with hidden=false 1`] = `
 <webview
   hidden={false}
 />
 `;
 
-exports[`webview renders with hidden="true" 1`] = `
+exports[`webview renders with hidden=true 1`] = `
 <webview
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`webview renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`webview renders with itemScope="false" 1`] = `
+exports[`webview renders with itemScope=false 1`] = `
 <webview
   itemScope={false}
 />
 `;
 
-exports[`webview renders with itemScope="true" 1`] = `
+exports[`webview renders with itemScope=true 1`] = `
 <webview
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`webview renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`webview renders with style="[object Object]" 1`] = `
+exports[`webview renders with style={"color":"#000000"} 1`] = `
 <webview
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`webview renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`webview renders with tabIndex="1" 1`] = `
+exports[`webview renders with tabIndex=1 1`] = `
 <webview
   tabIndex={1}
 />

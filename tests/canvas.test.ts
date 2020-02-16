@@ -4,6 +4,10 @@ describe('canvas', () => {
     it('renders with children', () => {
         expect(canvas({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(canvas({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(canvas({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('canvas', () => {
         expect(canvas({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(canvas({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(canvas({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('canvas', () => {
         expect(canvas({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(canvas({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(canvas({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('canvas', () => {
         expect(canvas({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(canvas({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(canvas({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,11 +189,11 @@ describe('canvas', () => {
         expect(canvas({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with height="1"', () => {
+    it('renders with height=1', () => {
         expect(canvas({height: 1})).toMatchSnapshot();
     });
 
-    it('renders with width="1"', () => {
+    it('renders with width=1', () => {
         expect(canvas({width: 1})).toMatchSnapshot();
     });
 });

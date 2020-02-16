@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`canvas renders arrays of children 1`] = `
+<canvas>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</canvas>
+`;
+
 exports[`canvas renders with accessKey="a,b,c,d" 1`] = `
 <canvas
   accessKey="a,b,c,d"
@@ -98,19 +113,19 @@ exports[`canvas renders with draggable="true" 1`] = `
 
 exports[`canvas renders with empty attributes 1`] = `<canvas />`;
 
-exports[`canvas renders with height="1" 1`] = `
+exports[`canvas renders with height=1 1`] = `
 <canvas
   height={1}
 />
 `;
 
-exports[`canvas renders with hidden="false" 1`] = `
+exports[`canvas renders with hidden=false 1`] = `
 <canvas
   hidden={false}
 />
 `;
 
-exports[`canvas renders with hidden="true" 1`] = `
+exports[`canvas renders with hidden=true 1`] = `
 <canvas
   hidden={true}
 />
@@ -194,13 +209,13 @@ exports[`canvas renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`canvas renders with itemScope="false" 1`] = `
+exports[`canvas renders with itemScope=false 1`] = `
 <canvas
   itemScope={false}
 />
 `;
 
-exports[`canvas renders with itemScope="true" 1`] = `
+exports[`canvas renders with itemScope=true 1`] = `
 <canvas
   itemScope={true}
 />
@@ -242,7 +257,7 @@ exports[`canvas renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`canvas renders with style="[object Object]" 1`] = `
+exports[`canvas renders with style={"color":"#000000"} 1`] = `
 <canvas
   style={
     Object {
@@ -252,7 +267,7 @@ exports[`canvas renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`canvas renders with tabIndex="1" 1`] = `
+exports[`canvas renders with tabIndex=1 1`] = `
 <canvas
   tabIndex={1}
 />
@@ -276,7 +291,7 @@ exports[`canvas renders with translate="yes" 1`] = `
 />
 `;
 
-exports[`canvas renders with width="1" 1`] = `
+exports[`canvas renders with width=1 1`] = `
 <canvas
   width={1}
 />

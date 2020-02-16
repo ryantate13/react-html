@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`details renders arrays of children 1`] = `
+<details>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</details>
+`;
+
 exports[`details renders with accessKey="a,b,c,d" 1`] = `
 <details
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`details renders with draggable="true" 1`] = `
 
 exports[`details renders with empty attributes 1`] = `<details />`;
 
-exports[`details renders with hidden="false" 1`] = `
+exports[`details renders with hidden=false 1`] = `
 <details
   hidden={false}
 />
 `;
 
-exports[`details renders with hidden="true" 1`] = `
+exports[`details renders with hidden=true 1`] = `
 <details
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`details renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`details renders with itemScope="false" 1`] = `
+exports[`details renders with itemScope=false 1`] = `
 <details
   itemScope={false}
 />
 `;
 
-exports[`details renders with itemScope="true" 1`] = `
+exports[`details renders with itemScope=true 1`] = `
 <details
   itemScope={true}
 />
@@ -218,13 +233,13 @@ exports[`details renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`details renders with open="false" 1`] = `
+exports[`details renders with open=false 1`] = `
 <details
   open={false}
 />
 `;
 
-exports[`details renders with open="true" 1`] = `
+exports[`details renders with open=true 1`] = `
 <details
   open={true}
 />
@@ -248,7 +263,7 @@ exports[`details renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`details renders with style="[object Object]" 1`] = `
+exports[`details renders with style={"color":"#000000"} 1`] = `
 <details
   style={
     Object {
@@ -258,7 +273,7 @@ exports[`details renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`details renders with tabIndex="1" 1`] = `
+exports[`details renders with tabIndex=1 1`] = `
 <details
   tabIndex={1}
 />

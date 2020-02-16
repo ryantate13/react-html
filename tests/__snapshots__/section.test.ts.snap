@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`section renders arrays of children 1`] = `
+<section>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</section>
+`;
+
 exports[`section renders with accessKey="a,b,c,d" 1`] = `
 <section
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`section renders with draggable="true" 1`] = `
 
 exports[`section renders with empty attributes 1`] = `<section />`;
 
-exports[`section renders with hidden="false" 1`] = `
+exports[`section renders with hidden=false 1`] = `
 <section
   hidden={false}
 />
 `;
 
-exports[`section renders with hidden="true" 1`] = `
+exports[`section renders with hidden=true 1`] = `
 <section
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`section renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`section renders with itemScope="false" 1`] = `
+exports[`section renders with itemScope=false 1`] = `
 <section
   itemScope={false}
 />
 `;
 
-exports[`section renders with itemScope="true" 1`] = `
+exports[`section renders with itemScope=true 1`] = `
 <section
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`section renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`section renders with style="[object Object]" 1`] = `
+exports[`section renders with style={"color":"#000000"} 1`] = `
 <section
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`section renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`section renders with tabIndex="1" 1`] = `
+exports[`section renders with tabIndex=1 1`] = `
 <section
   tabIndex={1}
 />

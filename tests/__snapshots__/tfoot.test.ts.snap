@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`tfoot renders arrays of children 1`] = `
+<tfoot>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</tfoot>
+`;
+
 exports[`tfoot renders with accessKey="a,b,c,d" 1`] = `
 <tfoot
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`tfoot renders with draggable="true" 1`] = `
 
 exports[`tfoot renders with empty attributes 1`] = `<tfoot />`;
 
-exports[`tfoot renders with hidden="false" 1`] = `
+exports[`tfoot renders with hidden=false 1`] = `
 <tfoot
   hidden={false}
 />
 `;
 
-exports[`tfoot renders with hidden="true" 1`] = `
+exports[`tfoot renders with hidden=true 1`] = `
 <tfoot
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`tfoot renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`tfoot renders with itemScope="false" 1`] = `
+exports[`tfoot renders with itemScope=false 1`] = `
 <tfoot
   itemScope={false}
 />
 `;
 
-exports[`tfoot renders with itemScope="true" 1`] = `
+exports[`tfoot renders with itemScope=true 1`] = `
 <tfoot
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`tfoot renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`tfoot renders with style="[object Object]" 1`] = `
+exports[`tfoot renders with style={"color":"#000000"} 1`] = `
 <tfoot
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`tfoot renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`tfoot renders with tabIndex="1" 1`] = `
+exports[`tfoot renders with tabIndex=1 1`] = `
 <tfoot
   tabIndex={1}
 />

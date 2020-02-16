@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`q renders arrays of children 1`] = `
+<q>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</q>
+`;
+
 exports[`q renders with accessKey="a,b,c,d" 1`] = `
 <q
   accessKey="a,b,c,d"
@@ -104,13 +119,13 @@ exports[`q renders with draggable="true" 1`] = `
 
 exports[`q renders with empty attributes 1`] = `<q />`;
 
-exports[`q renders with hidden="false" 1`] = `
+exports[`q renders with hidden=false 1`] = `
 <q
   hidden={false}
 />
 `;
 
-exports[`q renders with hidden="true" 1`] = `
+exports[`q renders with hidden=true 1`] = `
 <q
   hidden={true}
 />
@@ -194,13 +209,13 @@ exports[`q renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`q renders with itemScope="false" 1`] = `
+exports[`q renders with itemScope=false 1`] = `
 <q
   itemScope={false}
 />
 `;
 
-exports[`q renders with itemScope="true" 1`] = `
+exports[`q renders with itemScope=true 1`] = `
 <q
   itemScope={true}
 />
@@ -242,7 +257,7 @@ exports[`q renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`q renders with style="[object Object]" 1`] = `
+exports[`q renders with style={"color":"#000000"} 1`] = `
 <q
   style={
     Object {
@@ -252,7 +267,7 @@ exports[`q renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`q renders with tabIndex="1" 1`] = `
+exports[`q renders with tabIndex=1 1`] = `
 <q
   tabIndex={1}
 />

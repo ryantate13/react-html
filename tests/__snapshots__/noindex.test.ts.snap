@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`noindex renders arrays of children 1`] = `
+<noindex>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</noindex>
+`;
+
 exports[`noindex renders with accessKey="a,b,c,d" 1`] = `
 <noindex
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`noindex renders with draggable="true" 1`] = `
 
 exports[`noindex renders with empty attributes 1`] = `<noindex />`;
 
-exports[`noindex renders with hidden="false" 1`] = `
+exports[`noindex renders with hidden=false 1`] = `
 <noindex
   hidden={false}
 />
 `;
 
-exports[`noindex renders with hidden="true" 1`] = `
+exports[`noindex renders with hidden=true 1`] = `
 <noindex
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`noindex renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`noindex renders with itemScope="false" 1`] = `
+exports[`noindex renders with itemScope=false 1`] = `
 <noindex
   itemScope={false}
 />
 `;
 
-exports[`noindex renders with itemScope="true" 1`] = `
+exports[`noindex renders with itemScope=true 1`] = `
 <noindex
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`noindex renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`noindex renders with style="[object Object]" 1`] = `
+exports[`noindex renders with style={"color":"#000000"} 1`] = `
 <noindex
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`noindex renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`noindex renders with tabIndex="1" 1`] = `
+exports[`noindex renders with tabIndex=1 1`] = `
 <noindex
   tabIndex={1}
 />

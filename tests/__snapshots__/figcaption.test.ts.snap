@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`figcaption renders arrays of children 1`] = `
+<figcaption>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</figcaption>
+`;
+
 exports[`figcaption renders with accessKey="a,b,c,d" 1`] = `
 <figcaption
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`figcaption renders with draggable="true" 1`] = `
 
 exports[`figcaption renders with empty attributes 1`] = `<figcaption />`;
 
-exports[`figcaption renders with hidden="false" 1`] = `
+exports[`figcaption renders with hidden=false 1`] = `
 <figcaption
   hidden={false}
 />
 `;
 
-exports[`figcaption renders with hidden="true" 1`] = `
+exports[`figcaption renders with hidden=true 1`] = `
 <figcaption
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`figcaption renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`figcaption renders with itemScope="false" 1`] = `
+exports[`figcaption renders with itemScope=false 1`] = `
 <figcaption
   itemScope={false}
 />
 `;
 
-exports[`figcaption renders with itemScope="true" 1`] = `
+exports[`figcaption renders with itemScope=true 1`] = `
 <figcaption
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`figcaption renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`figcaption renders with style="[object Object]" 1`] = `
+exports[`figcaption renders with style={"color":"#000000"} 1`] = `
 <figcaption
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`figcaption renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`figcaption renders with tabIndex="1" 1`] = `
+exports[`figcaption renders with tabIndex=1 1`] = `
 <figcaption
   tabIndex={1}
 />

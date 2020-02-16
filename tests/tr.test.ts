@@ -4,6 +4,10 @@ describe('tr', () => {
     it('renders with children', () => {
         expect(tr({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(tr({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(tr({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('tr', () => {
         expect(tr({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(tr({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(tr({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('tr', () => {
         expect(tr({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(tr({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(tr({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('tr', () => {
         expect(tr({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(tr({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(tr({tabIndex: 1})).toMatchSnapshot();
     });
 

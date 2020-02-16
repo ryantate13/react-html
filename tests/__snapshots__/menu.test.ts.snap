@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`menu renders arrays of children 1`] = `
+<menu>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</menu>
+`;
+
 exports[`menu renders with accessKey="a,b,c,d" 1`] = `
 <menu
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`menu renders with draggable="true" 1`] = `
 
 exports[`menu renders with empty attributes 1`] = `<menu />`;
 
-exports[`menu renders with hidden="false" 1`] = `
+exports[`menu renders with hidden=false 1`] = `
 <menu
   hidden={false}
 />
 `;
 
-exports[`menu renders with hidden="true" 1`] = `
+exports[`menu renders with hidden=true 1`] = `
 <menu
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`menu renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`menu renders with itemScope="false" 1`] = `
+exports[`menu renders with itemScope=false 1`] = `
 <menu
   itemScope={false}
 />
 `;
 
-exports[`menu renders with itemScope="true" 1`] = `
+exports[`menu renders with itemScope=true 1`] = `
 <menu
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`menu renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`menu renders with style="[object Object]" 1`] = `
+exports[`menu renders with style={"color":"#000000"} 1`] = `
 <menu
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`menu renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`menu renders with tabIndex="1" 1`] = `
+exports[`menu renders with tabIndex=1 1`] = `
 <menu
   tabIndex={1}
 />

@@ -4,6 +4,10 @@ describe('td', () => {
     it('renders with children', () => {
         expect(td({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(td({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(td({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('td', () => {
         expect(td({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(td({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(td({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('td', () => {
         expect(td({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(td({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(td({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('td', () => {
         expect(td({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(td({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(td({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,7 +189,7 @@ describe('td', () => {
         expect(td({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with colSpan="1"', () => {
+    it('renders with colSpan=1', () => {
         expect(td({colSpan: 1})).toMatchSnapshot();
     });
 
@@ -193,7 +197,7 @@ describe('td', () => {
         expect(td({headers: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with rowSpan="1"', () => {
+    it('renders with rowSpan=1', () => {
         expect(td({rowSpan: 1})).toMatchSnapshot();
     });
 });

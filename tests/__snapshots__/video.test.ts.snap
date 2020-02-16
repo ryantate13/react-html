@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`video renders arrays of children 1`] = `
+<video>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</video>
+`;
+
 exports[`video renders with accessKey="a,b,c,d" 1`] = `
 <video
   accessKey="a,b,c,d"
@@ -42,13 +57,13 @@ exports[`video renders with autoCapitalize="words" 1`] = `
 />
 `;
 
-exports[`video renders with autoPlay="false" 1`] = `
+exports[`video renders with autoPlay=false 1`] = `
 <video
   autoPlay={false}
 />
 `;
 
-exports[`video renders with autoPlay="true" 1`] = `
+exports[`video renders with autoPlay=true 1`] = `
 <video
   autoPlay={true}
 />
@@ -78,13 +93,13 @@ exports[`video renders with contentEditable="true" 1`] = `
 />
 `;
 
-exports[`video renders with controls="false" 1`] = `
+exports[`video renders with controls=false 1`] = `
 <video
   controls={false}
 />
 `;
 
-exports[`video renders with controls="true" 1`] = `
+exports[`video renders with controls=true 1`] = `
 <video
   controls={true}
 />
@@ -134,19 +149,19 @@ exports[`video renders with draggable="true" 1`] = `
 
 exports[`video renders with empty attributes 1`] = `<video />`;
 
-exports[`video renders with height="1" 1`] = `
+exports[`video renders with height=1 1`] = `
 <video
   height={1}
 />
 `;
 
-exports[`video renders with hidden="false" 1`] = `
+exports[`video renders with hidden=false 1`] = `
 <video
   hidden={false}
 />
 `;
 
-exports[`video renders with hidden="true" 1`] = `
+exports[`video renders with hidden=true 1`] = `
 <video
   hidden={true}
 />
@@ -230,13 +245,13 @@ exports[`video renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`video renders with itemScope="false" 1`] = `
+exports[`video renders with itemScope=false 1`] = `
 <video
   itemScope={false}
 />
 `;
 
-exports[`video renders with itemScope="true" 1`] = `
+exports[`video renders with itemScope=true 1`] = `
 <video
   itemScope={true}
 />
@@ -260,37 +275,37 @@ exports[`video renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`video renders with loop="false" 1`] = `
+exports[`video renders with loop=false 1`] = `
 <video
   loop={false}
 />
 `;
 
-exports[`video renders with loop="true" 1`] = `
+exports[`video renders with loop=true 1`] = `
 <video
   loop={true}
 />
 `;
 
-exports[`video renders with muted="false" 1`] = `
+exports[`video renders with muted=false 1`] = `
 <video
   muted={false}
 />
 `;
 
-exports[`video renders with muted="true" 1`] = `
+exports[`video renders with muted=true 1`] = `
 <video
   muted={true}
 />
 `;
 
-exports[`video renders with playsinline="false" 1`] = `
+exports[`video renders with playsinline=false 1`] = `
 <video
   playsinline={false}
 />
 `;
 
-exports[`video renders with playsinline="true" 1`] = `
+exports[`video renders with playsinline=true 1`] = `
 <video
   playsinline={true}
 />
@@ -344,7 +359,7 @@ exports[`video renders with src="https://google.com/" 1`] = `
 />
 `;
 
-exports[`video renders with style="[object Object]" 1`] = `
+exports[`video renders with style={"color":"#000000"} 1`] = `
 <video
   style={
     Object {
@@ -354,7 +369,7 @@ exports[`video renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`video renders with tabIndex="1" 1`] = `
+exports[`video renders with tabIndex=1 1`] = `
 <video
   tabIndex={1}
 />
@@ -378,7 +393,7 @@ exports[`video renders with translate="yes" 1`] = `
 />
 `;
 
-exports[`video renders with width="1" 1`] = `
+exports[`video renders with width=1 1`] = `
 <video
   width={1}
 />

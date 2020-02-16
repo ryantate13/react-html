@@ -70,11 +70,11 @@ describe('wbr', () => {
         expect(wbr({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(wbr({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(wbr({hidden: false})).toMatchSnapshot();
     });
 
@@ -130,11 +130,11 @@ describe('wbr', () => {
         expect(wbr({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(wbr({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(wbr({itemScope: false})).toMatchSnapshot();
     });
 
@@ -162,11 +162,11 @@ describe('wbr', () => {
         expect(wbr({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(wbr({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(wbr({tabIndex: 1})).toMatchSnapshot();
     });
 

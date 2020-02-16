@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`figure renders arrays of children 1`] = `
+<figure>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</figure>
+`;
+
 exports[`figure renders with accessKey="a,b,c,d" 1`] = `
 <figure
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`figure renders with draggable="true" 1`] = `
 
 exports[`figure renders with empty attributes 1`] = `<figure />`;
 
-exports[`figure renders with hidden="false" 1`] = `
+exports[`figure renders with hidden=false 1`] = `
 <figure
   hidden={false}
 />
 `;
 
-exports[`figure renders with hidden="true" 1`] = `
+exports[`figure renders with hidden=true 1`] = `
 <figure
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`figure renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`figure renders with itemScope="false" 1`] = `
+exports[`figure renders with itemScope=false 1`] = `
 <figure
   itemScope={false}
 />
 `;
 
-exports[`figure renders with itemScope="true" 1`] = `
+exports[`figure renders with itemScope=true 1`] = `
 <figure
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`figure renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`figure renders with style="[object Object]" 1`] = `
+exports[`figure renders with style={"color":"#000000"} 1`] = `
 <figure
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`figure renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`figure renders with tabIndex="1" 1`] = `
+exports[`figure renders with tabIndex=1 1`] = `
 <figure
   tabIndex={1}
 />

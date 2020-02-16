@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`select renders arrays of children 1`] = `
+<select>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</select>
+`;
+
 exports[`select renders with accessKey="a,b,c,d" 1`] = `
 <select
   accessKey="a,b,c,d"
@@ -90,13 +105,13 @@ exports[`select renders with dir="rtl" 1`] = `
 />
 `;
 
-exports[`select renders with disabled="false" 1`] = `
+exports[`select renders with disabled=false 1`] = `
 <select
   disabled={false}
 />
 `;
 
-exports[`select renders with disabled="true" 1`] = `
+exports[`select renders with disabled=true 1`] = `
 <select
   disabled={true}
 />
@@ -122,13 +137,13 @@ exports[`select renders with form="TEST" 1`] = `
 />
 `;
 
-exports[`select renders with hidden="false" 1`] = `
+exports[`select renders with hidden=false 1`] = `
 <select
   hidden={false}
 />
 `;
 
-exports[`select renders with hidden="true" 1`] = `
+exports[`select renders with hidden=true 1`] = `
 <select
   hidden={true}
 />
@@ -212,13 +227,13 @@ exports[`select renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`select renders with itemScope="false" 1`] = `
+exports[`select renders with itemScope=false 1`] = `
 <select
   itemScope={false}
 />
 `;
 
-exports[`select renders with itemScope="true" 1`] = `
+exports[`select renders with itemScope=true 1`] = `
 <select
   itemScope={true}
 />
@@ -242,13 +257,13 @@ exports[`select renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`select renders with multiple="false" 1`] = `
+exports[`select renders with multiple=false 1`] = `
 <select
   multiple={false}
 />
 `;
 
-exports[`select renders with multiple="true" 1`] = `
+exports[`select renders with multiple=true 1`] = `
 <select
   multiple={true}
 />
@@ -260,19 +275,19 @@ exports[`select renders with name="TEST" 1`] = `
 />
 `;
 
-exports[`select renders with required="false" 1`] = `
+exports[`select renders with required=false 1`] = `
 <select
   required={false}
 />
 `;
 
-exports[`select renders with required="true" 1`] = `
+exports[`select renders with required=true 1`] = `
 <select
   required={true}
 />
 `;
 
-exports[`select renders with size="1" 1`] = `
+exports[`select renders with size=1 1`] = `
 <select
   size={1}
 />
@@ -296,7 +311,7 @@ exports[`select renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`select renders with style="[object Object]" 1`] = `
+exports[`select renders with style={"color":"#000000"} 1`] = `
 <select
   style={
     Object {
@@ -306,7 +321,7 @@ exports[`select renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`select renders with tabIndex="1" 1`] = `
+exports[`select renders with tabIndex=1 1`] = `
 <select
   tabIndex={1}
 />

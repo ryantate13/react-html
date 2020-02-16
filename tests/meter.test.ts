@@ -4,6 +4,10 @@ describe('meter', () => {
     it('renders with children', () => {
         expect(meter({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(meter({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(meter({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('meter', () => {
         expect(meter({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(meter({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(meter({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('meter', () => {
         expect(meter({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(meter({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(meter({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('meter', () => {
         expect(meter({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(meter({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(meter({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,27 +189,27 @@ describe('meter', () => {
         expect(meter({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with high="1.1"', () => {
+    it('renders with high=1.1', () => {
         expect(meter({high: 1.1})).toMatchSnapshot();
     });
 
-    it('renders with low="1.1"', () => {
+    it('renders with low=1.1', () => {
         expect(meter({low: 1.1})).toMatchSnapshot();
     });
 
-    it('renders with max="1.1"', () => {
+    it('renders with max=1.1', () => {
         expect(meter({max: 1.1})).toMatchSnapshot();
     });
 
-    it('renders with min="1.1"', () => {
+    it('renders with min=1.1', () => {
         expect(meter({min: 1.1})).toMatchSnapshot();
     });
 
-    it('renders with optimum="1.1"', () => {
+    it('renders with optimum=1.1', () => {
         expect(meter({optimum: 1.1})).toMatchSnapshot();
     });
 
-    it('renders with value="1.1"', () => {
+    it('renders with value=1.1', () => {
         expect(meter({value: 1.1})).toMatchSnapshot();
     });
 });

@@ -4,6 +4,10 @@ describe('legend', () => {
     it('renders with children', () => {
         expect(legend({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(legend({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(legend({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('legend', () => {
         expect(legend({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(legend({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(legend({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('legend', () => {
         expect(legend({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(legend({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(legend({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('legend', () => {
         expect(legend({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(legend({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(legend({tabIndex: 1})).toMatchSnapshot();
     });
 

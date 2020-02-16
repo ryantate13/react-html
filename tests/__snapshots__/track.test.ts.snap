@@ -60,13 +60,13 @@ exports[`track renders with contentEditable="true" 1`] = `
 />
 `;
 
-exports[`track renders with default="false" 1`] = `
+exports[`track renders with default=false 1`] = `
 <track
   default={false}
 />
 `;
 
-exports[`track renders with default="true" 1`] = `
+exports[`track renders with default=true 1`] = `
 <track
   default={true}
 />
@@ -104,13 +104,13 @@ exports[`track renders with draggable="true" 1`] = `
 
 exports[`track renders with empty attributes 1`] = `<track />`;
 
-exports[`track renders with hidden="false" 1`] = `
+exports[`track renders with hidden=false 1`] = `
 <track
   hidden={false}
 />
 `;
 
-exports[`track renders with hidden="true" 1`] = `
+exports[`track renders with hidden=true 1`] = `
 <track
   hidden={true}
 />
@@ -194,13 +194,13 @@ exports[`track renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`track renders with itemScope="false" 1`] = `
+exports[`track renders with itemScope=false 1`] = `
 <track
   itemScope={false}
 />
 `;
 
-exports[`track renders with itemScope="true" 1`] = `
+exports[`track renders with itemScope=true 1`] = `
 <track
   itemScope={true}
 />
@@ -290,7 +290,7 @@ exports[`track renders with srcLang="es-419" 1`] = `
 />
 `;
 
-exports[`track renders with style="[object Object]" 1`] = `
+exports[`track renders with style={"color":"#000000"} 1`] = `
 <track
   style={
     Object {
@@ -300,7 +300,7 @@ exports[`track renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`track renders with tabIndex="1" 1`] = `
+exports[`track renders with tabIndex=1 1`] = `
 <track
   tabIndex={1}
 />

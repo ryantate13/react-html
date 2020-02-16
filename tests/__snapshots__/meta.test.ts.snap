@@ -104,13 +104,13 @@ exports[`meta renders with draggable="true" 1`] = `
 
 exports[`meta renders with empty attributes 1`] = `<meta />`;
 
-exports[`meta renders with hidden="false" 1`] = `
+exports[`meta renders with hidden=false 1`] = `
 <meta
   hidden={false}
 />
 `;
 
-exports[`meta renders with hidden="true" 1`] = `
+exports[`meta renders with hidden=true 1`] = `
 <meta
   hidden={true}
 />
@@ -224,13 +224,13 @@ exports[`meta renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`meta renders with itemScope="false" 1`] = `
+exports[`meta renders with itemScope=false 1`] = `
 <meta
   itemScope={false}
 />
 `;
 
-exports[`meta renders with itemScope="true" 1`] = `
+exports[`meta renders with itemScope=true 1`] = `
 <meta
   itemScope={true}
 />
@@ -278,7 +278,7 @@ exports[`meta renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`meta renders with style="[object Object]" 1`] = `
+exports[`meta renders with style={"color":"#000000"} 1`] = `
 <meta
   style={
     Object {
@@ -288,7 +288,7 @@ exports[`meta renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`meta renders with tabIndex="1" 1`] = `
+exports[`meta renders with tabIndex=1 1`] = `
 <meta
   tabIndex={1}
 />

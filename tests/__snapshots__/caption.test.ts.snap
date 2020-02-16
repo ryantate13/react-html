@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`caption renders arrays of children 1`] = `
+<caption>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</caption>
+`;
+
 exports[`caption renders with accessKey="a,b,c,d" 1`] = `
 <caption
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`caption renders with draggable="true" 1`] = `
 
 exports[`caption renders with empty attributes 1`] = `<caption />`;
 
-exports[`caption renders with hidden="false" 1`] = `
+exports[`caption renders with hidden=false 1`] = `
 <caption
   hidden={false}
 />
 `;
 
-exports[`caption renders with hidden="true" 1`] = `
+exports[`caption renders with hidden=true 1`] = `
 <caption
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`caption renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`caption renders with itemScope="false" 1`] = `
+exports[`caption renders with itemScope=false 1`] = `
 <caption
   itemScope={false}
 />
 `;
 
-exports[`caption renders with itemScope="true" 1`] = `
+exports[`caption renders with itemScope=true 1`] = `
 <caption
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`caption renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`caption renders with style="[object Object]" 1`] = `
+exports[`caption renders with style={"color":"#000000"} 1`] = `
 <caption
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`caption renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`caption renders with tabIndex="1" 1`] = `
+exports[`caption renders with tabIndex=1 1`] = `
 <caption
   tabIndex={1}
 />

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`noscript renders arrays of children 1`] = `
+<noscript>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</noscript>
+`;
+
 exports[`noscript renders with accessKey="a,b,c,d" 1`] = `
 <noscript
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`noscript renders with draggable="true" 1`] = `
 
 exports[`noscript renders with empty attributes 1`] = `<noscript />`;
 
-exports[`noscript renders with hidden="false" 1`] = `
+exports[`noscript renders with hidden=false 1`] = `
 <noscript
   hidden={false}
 />
 `;
 
-exports[`noscript renders with hidden="true" 1`] = `
+exports[`noscript renders with hidden=true 1`] = `
 <noscript
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`noscript renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`noscript renders with itemScope="false" 1`] = `
+exports[`noscript renders with itemScope=false 1`] = `
 <noscript
   itemScope={false}
 />
 `;
 
-exports[`noscript renders with itemScope="true" 1`] = `
+exports[`noscript renders with itemScope=true 1`] = `
 <noscript
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`noscript renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`noscript renders with style="[object Object]" 1`] = `
+exports[`noscript renders with style={"color":"#000000"} 1`] = `
 <noscript
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`noscript renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`noscript renders with tabIndex="1" 1`] = `
+exports[`noscript renders with tabIndex=1 1`] = `
 <noscript
   tabIndex={1}
 />

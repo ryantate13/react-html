@@ -92,19 +92,19 @@ exports[`embed renders with draggable="true" 1`] = `
 
 exports[`embed renders with empty attributes 1`] = `<embed />`;
 
-exports[`embed renders with height="1" 1`] = `
+exports[`embed renders with height=1 1`] = `
 <embed
   height={1}
 />
 `;
 
-exports[`embed renders with hidden="false" 1`] = `
+exports[`embed renders with hidden=false 1`] = `
 <embed
   hidden={false}
 />
 `;
 
-exports[`embed renders with hidden="true" 1`] = `
+exports[`embed renders with hidden=true 1`] = `
 <embed
   hidden={true}
 />
@@ -188,13 +188,13 @@ exports[`embed renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`embed renders with itemScope="false" 1`] = `
+exports[`embed renders with itemScope=false 1`] = `
 <embed
   itemScope={false}
 />
 `;
 
-exports[`embed renders with itemScope="true" 1`] = `
+exports[`embed renders with itemScope=true 1`] = `
 <embed
   itemScope={true}
 />
@@ -242,7 +242,7 @@ exports[`embed renders with src="https://google.com/" 1`] = `
 />
 `;
 
-exports[`embed renders with style="[object Object]" 1`] = `
+exports[`embed renders with style={"color":"#000000"} 1`] = `
 <embed
   style={
     Object {
@@ -252,7 +252,7 @@ exports[`embed renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`embed renders with tabIndex="1" 1`] = `
+exports[`embed renders with tabIndex=1 1`] = `
 <embed
   tabIndex={1}
 />
@@ -282,7 +282,7 @@ exports[`embed renders with type="application/json" 1`] = `
 />
 `;
 
-exports[`embed renders with width="1" 1`] = `
+exports[`embed renders with width=1 1`] = `
 <embed
   width={1}
 />

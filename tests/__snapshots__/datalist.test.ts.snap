@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`datalist renders arrays of children 1`] = `
+<datalist>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</datalist>
+`;
+
 exports[`datalist renders with accessKey="a,b,c,d" 1`] = `
 <datalist
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`datalist renders with draggable="true" 1`] = `
 
 exports[`datalist renders with empty attributes 1`] = `<datalist />`;
 
-exports[`datalist renders with hidden="false" 1`] = `
+exports[`datalist renders with hidden=false 1`] = `
 <datalist
   hidden={false}
 />
 `;
 
-exports[`datalist renders with hidden="true" 1`] = `
+exports[`datalist renders with hidden=true 1`] = `
 <datalist
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`datalist renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`datalist renders with itemScope="false" 1`] = `
+exports[`datalist renders with itemScope=false 1`] = `
 <datalist
   itemScope={false}
 />
 `;
 
-exports[`datalist renders with itemScope="true" 1`] = `
+exports[`datalist renders with itemScope=true 1`] = `
 <datalist
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`datalist renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`datalist renders with style="[object Object]" 1`] = `
+exports[`datalist renders with style={"color":"#000000"} 1`] = `
 <datalist
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`datalist renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`datalist renders with tabIndex="1" 1`] = `
+exports[`datalist renders with tabIndex=1 1`] = `
 <datalist
   tabIndex={1}
 />

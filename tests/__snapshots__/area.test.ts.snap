@@ -110,13 +110,13 @@ exports[`area renders with draggable="true" 1`] = `
 
 exports[`area renders with empty attributes 1`] = `<area />`;
 
-exports[`area renders with hidden="false" 1`] = `
+exports[`area renders with hidden=false 1`] = `
 <area
   hidden={false}
 />
 `;
 
-exports[`area renders with hidden="true" 1`] = `
+exports[`area renders with hidden=true 1`] = `
 <area
   hidden={true}
 />
@@ -206,13 +206,13 @@ exports[`area renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`area renders with itemScope="false" 1`] = `
+exports[`area renders with itemScope=false 1`] = `
 <area
   itemScope={false}
 />
 `;
 
-exports[`area renders with itemScope="true" 1`] = `
+exports[`area renders with itemScope=true 1`] = `
 <area
   itemScope={true}
 />
@@ -284,7 +284,7 @@ exports[`area renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`area renders with style="[object Object]" 1`] = `
+exports[`area renders with style={"color":"#000000"} 1`] = `
 <area
   style={
     Object {
@@ -294,7 +294,7 @@ exports[`area renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`area renders with tabIndex="1" 1`] = `
+exports[`area renders with tabIndex=1 1`] = `
 <area
   tabIndex={1}
 />

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`button renders arrays of children 1`] = `
+<button>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</button>
+`;
+
 exports[`button renders with accessKey="a,b,c,d" 1`] = `
 <button
   accessKey="a,b,c,d"
@@ -84,13 +99,13 @@ exports[`button renders with dir="rtl" 1`] = `
 />
 `;
 
-exports[`button renders with disabled="false" 1`] = `
+exports[`button renders with disabled=false 1`] = `
 <button
   disabled={false}
 />
 `;
 
-exports[`button renders with disabled="true" 1`] = `
+exports[`button renders with disabled=true 1`] = `
 <button
   disabled={true}
 />
@@ -158,13 +173,13 @@ exports[`button renders with formMethod="dialog" 1`] = `
 />
 `;
 
-exports[`button renders with formNoValidate="false" 1`] = `
+exports[`button renders with formNoValidate=false 1`] = `
 <button
   formNoValidate={false}
 />
 `;
 
-exports[`button renders with formNoValidate="true" 1`] = `
+exports[`button renders with formNoValidate=true 1`] = `
 <button
   formNoValidate={true}
 />
@@ -176,13 +191,13 @@ exports[`button renders with formTarget="_blank" 1`] = `
 />
 `;
 
-exports[`button renders with hidden="false" 1`] = `
+exports[`button renders with hidden=false 1`] = `
 <button
   hidden={false}
 />
 `;
 
-exports[`button renders with hidden="true" 1`] = `
+exports[`button renders with hidden=true 1`] = `
 <button
   hidden={true}
 />
@@ -266,13 +281,13 @@ exports[`button renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`button renders with itemScope="false" 1`] = `
+exports[`button renders with itemScope=false 1`] = `
 <button
   itemScope={false}
 />
 `;
 
-exports[`button renders with itemScope="true" 1`] = `
+exports[`button renders with itemScope=true 1`] = `
 <button
   itemScope={true}
 />
@@ -320,7 +335,7 @@ exports[`button renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`button renders with style="[object Object]" 1`] = `
+exports[`button renders with style={"color":"#000000"} 1`] = `
 <button
   style={
     Object {
@@ -330,7 +345,7 @@ exports[`button renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`button renders with tabIndex="1" 1`] = `
+exports[`button renders with tabIndex=1 1`] = `
 <button
   tabIndex={1}
 />

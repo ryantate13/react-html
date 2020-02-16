@@ -72,13 +72,13 @@ exports[`input renders with autoComplete="off" 1`] = `
 />
 `;
 
-exports[`input renders with checked="false" 1`] = `
+exports[`input renders with checked=false 1`] = `
 <input
   checked={false}
 />
 `;
 
-exports[`input renders with checked="true" 1`] = `
+exports[`input renders with checked=true 1`] = `
 <input
   checked={true}
 />
@@ -120,13 +120,13 @@ exports[`input renders with dir="rtl" 1`] = `
 />
 `;
 
-exports[`input renders with disabled="false" 1`] = `
+exports[`input renders with disabled=false 1`] = `
 <input
   disabled={false}
 />
 `;
 
-exports[`input renders with disabled="true" 1`] = `
+exports[`input renders with disabled=true 1`] = `
 <input
   disabled={true}
 />
@@ -194,13 +194,13 @@ exports[`input renders with formMethod="dialog" 1`] = `
 />
 `;
 
-exports[`input renders with formNoValidate="false" 1`] = `
+exports[`input renders with formNoValidate=false 1`] = `
 <input
   formNoValidate={false}
 />
 `;
 
-exports[`input renders with formNoValidate="true" 1`] = `
+exports[`input renders with formNoValidate=true 1`] = `
 <input
   formNoValidate={true}
 />
@@ -212,19 +212,19 @@ exports[`input renders with formTarget="_blank" 1`] = `
 />
 `;
 
-exports[`input renders with height="1" 1`] = `
+exports[`input renders with height=1 1`] = `
 <input
   height={1}
 />
 `;
 
-exports[`input renders with hidden="false" 1`] = `
+exports[`input renders with hidden=false 1`] = `
 <input
   hidden={false}
 />
 `;
 
-exports[`input renders with hidden="true" 1`] = `
+exports[`input renders with hidden=true 1`] = `
 <input
   hidden={true}
 />
@@ -308,13 +308,13 @@ exports[`input renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`input renders with itemScope="false" 1`] = `
+exports[`input renders with itemScope=false 1`] = `
 <input
   itemScope={false}
 />
 `;
 
-exports[`input renders with itemScope="true" 1`] = `
+exports[`input renders with itemScope=true 1`] = `
 <input
   itemScope={true}
 />
@@ -344,37 +344,37 @@ exports[`input renders with list="TEST" 1`] = `
 />
 `;
 
-exports[`input renders with max="100" 1`] = `
+exports[`input renders with max=100 1`] = `
 <input
   max={100}
 />
 `;
 
-exports[`input renders with maxLength="1" 1`] = `
+exports[`input renders with maxLength=1 1`] = `
 <input
   maxLength={1}
 />
 `;
 
-exports[`input renders with min="100" 1`] = `
+exports[`input renders with min=100 1`] = `
 <input
   min={100}
 />
 `;
 
-exports[`input renders with minLength="1" 1`] = `
+exports[`input renders with minLength=1 1`] = `
 <input
   minLength={1}
 />
 `;
 
-exports[`input renders with multiple="false" 1`] = `
+exports[`input renders with multiple=false 1`] = `
 <input
   multiple={false}
 />
 `;
 
-exports[`input renders with multiple="true" 1`] = `
+exports[`input renders with multiple=true 1`] = `
 <input
   multiple={true}
 />
@@ -398,31 +398,31 @@ exports[`input renders with placeholder="TEST" 1`] = `
 />
 `;
 
-exports[`input renders with readOnly="false" 1`] = `
+exports[`input renders with readOnly=false 1`] = `
 <input
   readOnly={false}
 />
 `;
 
-exports[`input renders with readOnly="true" 1`] = `
+exports[`input renders with readOnly=true 1`] = `
 <input
   readOnly={true}
 />
 `;
 
-exports[`input renders with required="false" 1`] = `
+exports[`input renders with required=false 1`] = `
 <input
   required={false}
 />
 `;
 
-exports[`input renders with required="true" 1`] = `
+exports[`input renders with required=true 1`] = `
 <input
   required={true}
 />
 `;
 
-exports[`input renders with size="1" 1`] = `
+exports[`input renders with size=1 1`] = `
 <input
   size={1}
 />
@@ -458,7 +458,7 @@ exports[`input renders with step="any" 1`] = `
 />
 `;
 
-exports[`input renders with style="[object Object]" 1`] = `
+exports[`input renders with style={"color":"#000000"} 1`] = `
 <input
   style={
     Object {
@@ -468,7 +468,7 @@ exports[`input renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`input renders with tabIndex="1" 1`] = `
+exports[`input renders with tabIndex=1 1`] = `
 <input
   tabIndex={1}
 />
@@ -504,13 +504,13 @@ exports[`input renders with type="input" 1`] = `
 />
 `;
 
-exports[`input renders with value="100" 1`] = `
+exports[`input renders with value=100 1`] = `
 <input
   value={100}
 />
 `;
 
-exports[`input renders with width="1" 1`] = `
+exports[`input renders with width=1 1`] = `
 <input
   width={1}
 />

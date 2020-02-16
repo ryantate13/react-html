@@ -4,6 +4,10 @@ describe('object', () => {
     it('renders with children', () => {
         expect(object({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(object({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(object({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('object', () => {
         expect(object({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(object({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(object({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('object', () => {
         expect(object({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(object({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(object({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('object', () => {
         expect(object({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(object({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(object({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -193,7 +197,7 @@ describe('object', () => {
         expect(object({form: "TEST"})).toMatchSnapshot();
     });
 
-    it('renders with height="1"', () => {
+    it('renders with height=1', () => {
         expect(object({height: 1})).toMatchSnapshot();
     });
 
@@ -209,7 +213,7 @@ describe('object', () => {
         expect(object({useMap: "#foo"})).toMatchSnapshot();
     });
 
-    it('renders with width="1"', () => {
+    it('renders with width=1', () => {
         expect(object({width: 1})).toMatchSnapshot();
     });
 });

@@ -70,11 +70,11 @@ describe('meta', () => {
         expect(meta({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(meta({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(meta({hidden: false})).toMatchSnapshot();
     });
 
@@ -130,11 +130,11 @@ describe('meta', () => {
         expect(meta({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(meta({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(meta({itemScope: false})).toMatchSnapshot();
     });
 
@@ -162,11 +162,11 @@ describe('meta', () => {
         expect(meta({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(meta({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(meta({tabIndex: 1})).toMatchSnapshot();
     });
 

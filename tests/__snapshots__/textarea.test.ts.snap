@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`textarea renders arrays of children 1`] = `
+<textarea>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</textarea>
+`;
+
 exports[`textarea renders with accessKey="a,b,c,d" 1`] = `
 <textarea
   accessKey="a,b,c,d"
@@ -60,7 +75,7 @@ exports[`textarea renders with className="foo bar baz" 1`] = `
 />
 `;
 
-exports[`textarea renders with cols="1" 1`] = `
+exports[`textarea renders with cols=1 1`] = `
 <textarea
   cols={1}
 />
@@ -96,13 +111,13 @@ exports[`textarea renders with dir="rtl" 1`] = `
 />
 `;
 
-exports[`textarea renders with disabled="false" 1`] = `
+exports[`textarea renders with disabled=false 1`] = `
 <textarea
   disabled={false}
 />
 `;
 
-exports[`textarea renders with disabled="true" 1`] = `
+exports[`textarea renders with disabled=true 1`] = `
 <textarea
   disabled={true}
 />
@@ -128,13 +143,13 @@ exports[`textarea renders with form="TEST" 1`] = `
 />
 `;
 
-exports[`textarea renders with hidden="false" 1`] = `
+exports[`textarea renders with hidden=false 1`] = `
 <textarea
   hidden={false}
 />
 `;
 
-exports[`textarea renders with hidden="true" 1`] = `
+exports[`textarea renders with hidden=true 1`] = `
 <textarea
   hidden={true}
 />
@@ -218,13 +233,13 @@ exports[`textarea renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`textarea renders with itemScope="false" 1`] = `
+exports[`textarea renders with itemScope=false 1`] = `
 <textarea
   itemScope={false}
 />
 `;
 
-exports[`textarea renders with itemScope="true" 1`] = `
+exports[`textarea renders with itemScope=true 1`] = `
 <textarea
   itemScope={true}
 />
@@ -248,13 +263,13 @@ exports[`textarea renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`textarea renders with maxLength="1" 1`] = `
+exports[`textarea renders with maxLength=1 1`] = `
 <textarea
   maxLength={1}
 />
 `;
 
-exports[`textarea renders with minLength="1" 1`] = `
+exports[`textarea renders with minLength=1 1`] = `
 <textarea
   minLength={1}
 />
@@ -272,31 +287,31 @@ exports[`textarea renders with placeholder="TEST" 1`] = `
 />
 `;
 
-exports[`textarea renders with readOnly="false" 1`] = `
+exports[`textarea renders with readOnly=false 1`] = `
 <textarea
   readOnly={false}
 />
 `;
 
-exports[`textarea renders with readOnly="true" 1`] = `
+exports[`textarea renders with readOnly=true 1`] = `
 <textarea
   readOnly={true}
 />
 `;
 
-exports[`textarea renders with required="false" 1`] = `
+exports[`textarea renders with required=false 1`] = `
 <textarea
   required={false}
 />
 `;
 
-exports[`textarea renders with required="true" 1`] = `
+exports[`textarea renders with required=true 1`] = `
 <textarea
   required={true}
 />
 `;
 
-exports[`textarea renders with rows="1" 1`] = `
+exports[`textarea renders with rows=1 1`] = `
 <textarea
   rows={1}
 />
@@ -320,7 +335,7 @@ exports[`textarea renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`textarea renders with style="[object Object]" 1`] = `
+exports[`textarea renders with style={"color":"#000000"} 1`] = `
 <textarea
   style={
     Object {
@@ -330,7 +345,7 @@ exports[`textarea renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`textarea renders with tabIndex="1" 1`] = `
+exports[`textarea renders with tabIndex=1 1`] = `
 <textarea
   tabIndex={1}
 />

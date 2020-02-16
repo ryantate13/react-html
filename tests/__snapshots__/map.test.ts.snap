@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`map renders arrays of children 1`] = `
+<map>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</map>
+`;
+
 exports[`map renders with accessKey="a,b,c,d" 1`] = `
 <map
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`map renders with draggable="true" 1`] = `
 
 exports[`map renders with empty attributes 1`] = `<map />`;
 
-exports[`map renders with hidden="false" 1`] = `
+exports[`map renders with hidden=false 1`] = `
 <map
   hidden={false}
 />
 `;
 
-exports[`map renders with hidden="true" 1`] = `
+exports[`map renders with hidden=true 1`] = `
 <map
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`map renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`map renders with itemScope="false" 1`] = `
+exports[`map renders with itemScope=false 1`] = `
 <map
   itemScope={false}
 />
 `;
 
-exports[`map renders with itemScope="true" 1`] = `
+exports[`map renders with itemScope=true 1`] = `
 <map
   itemScope={true}
 />
@@ -242,7 +257,7 @@ exports[`map renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`map renders with style="[object Object]" 1`] = `
+exports[`map renders with style={"color":"#000000"} 1`] = `
 <map
   style={
     Object {
@@ -252,7 +267,7 @@ exports[`map renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`map renders with tabIndex="1" 1`] = `
+exports[`map renders with tabIndex=1 1`] = `
 <map
   tabIndex={1}
 />

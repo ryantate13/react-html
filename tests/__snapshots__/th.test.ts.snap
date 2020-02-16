@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`th renders arrays of children 1`] = `
+<th>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</th>
+`;
+
 exports[`th renders with abbr="TEST" 1`] = `
 <th
   abbr="TEST"
@@ -60,7 +75,7 @@ exports[`th renders with className="foo bar baz" 1`] = `
 />
 `;
 
-exports[`th renders with colSpan="1" 1`] = `
+exports[`th renders with colSpan=1 1`] = `
 <th
   colSpan={1}
 />
@@ -116,13 +131,13 @@ exports[`th renders with headers="foo bar" 1`] = `
 />
 `;
 
-exports[`th renders with hidden="false" 1`] = `
+exports[`th renders with hidden=false 1`] = `
 <th
   hidden={false}
 />
 `;
 
-exports[`th renders with hidden="true" 1`] = `
+exports[`th renders with hidden=true 1`] = `
 <th
   hidden={true}
 />
@@ -206,13 +221,13 @@ exports[`th renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`th renders with itemScope="false" 1`] = `
+exports[`th renders with itemScope=false 1`] = `
 <th
   itemScope={false}
 />
 `;
 
-exports[`th renders with itemScope="true" 1`] = `
+exports[`th renders with itemScope=true 1`] = `
 <th
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`th renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`th renders with rowSpan="1" 1`] = `
+exports[`th renders with rowSpan=1 1`] = `
 <th
   rowSpan={1}
 />
@@ -284,7 +299,7 @@ exports[`th renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`th renders with style="[object Object]" 1`] = `
+exports[`th renders with style={"color":"#000000"} 1`] = `
 <th
   style={
     Object {
@@ -294,7 +309,7 @@ exports[`th renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`th renders with tabIndex="1" 1`] = `
+exports[`th renders with tabIndex=1 1`] = `
 <th
   tabIndex={1}
 />

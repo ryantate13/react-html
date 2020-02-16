@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`colgroup renders arrays of children 1`] = `
+<colgroup>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</colgroup>
+`;
+
 exports[`colgroup renders with accessKey="a,b,c,d" 1`] = `
 <colgroup
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`colgroup renders with draggable="true" 1`] = `
 
 exports[`colgroup renders with empty attributes 1`] = `<colgroup />`;
 
-exports[`colgroup renders with hidden="false" 1`] = `
+exports[`colgroup renders with hidden=false 1`] = `
 <colgroup
   hidden={false}
 />
 `;
 
-exports[`colgroup renders with hidden="true" 1`] = `
+exports[`colgroup renders with hidden=true 1`] = `
 <colgroup
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`colgroup renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`colgroup renders with itemScope="false" 1`] = `
+exports[`colgroup renders with itemScope=false 1`] = `
 <colgroup
   itemScope={false}
 />
 `;
 
-exports[`colgroup renders with itemScope="true" 1`] = `
+exports[`colgroup renders with itemScope=true 1`] = `
 <colgroup
   itemScope={true}
 />
@@ -224,7 +239,7 @@ exports[`colgroup renders with slot="TEST" 1`] = `
 />
 `;
 
-exports[`colgroup renders with span="1" 1`] = `
+exports[`colgroup renders with span=1 1`] = `
 <colgroup
   span={1}
 />
@@ -242,7 +257,7 @@ exports[`colgroup renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`colgroup renders with style="[object Object]" 1`] = `
+exports[`colgroup renders with style={"color":"#000000"} 1`] = `
 <colgroup
   style={
     Object {
@@ -252,7 +267,7 @@ exports[`colgroup renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`colgroup renders with tabIndex="1" 1`] = `
+exports[`colgroup renders with tabIndex=1 1`] = `
 <colgroup
   tabIndex={1}
 />

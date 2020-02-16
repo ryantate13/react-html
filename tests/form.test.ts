@@ -4,6 +4,10 @@ describe('form', () => {
     it('renders with children', () => {
         expect(form({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(form({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(form({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('form', () => {
         expect(form({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(form({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(form({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('form', () => {
         expect(form({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(form({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(form({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('form', () => {
         expect(form({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(form({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(form({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -229,11 +233,11 @@ describe('form', () => {
         expect(form({name: "TEST"})).toMatchSnapshot();
     });
 
-    it('renders with noValidate="true"', () => {
+    it('renders with noValidate=true', () => {
         expect(form({noValidate: true})).toMatchSnapshot();
     });
 
-    it('renders with noValidate="false"', () => {
+    it('renders with noValidate=false', () => {
         expect(form({noValidate: false})).toMatchSnapshot();
     });
 

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`ruby renders arrays of children 1`] = `
+<ruby>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</ruby>
+`;
+
 exports[`ruby renders with accessKey="a,b,c,d" 1`] = `
 <ruby
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`ruby renders with draggable="true" 1`] = `
 
 exports[`ruby renders with empty attributes 1`] = `<ruby />`;
 
-exports[`ruby renders with hidden="false" 1`] = `
+exports[`ruby renders with hidden=false 1`] = `
 <ruby
   hidden={false}
 />
 `;
 
-exports[`ruby renders with hidden="true" 1`] = `
+exports[`ruby renders with hidden=true 1`] = `
 <ruby
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`ruby renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`ruby renders with itemScope="false" 1`] = `
+exports[`ruby renders with itemScope=false 1`] = `
 <ruby
   itemScope={false}
 />
 `;
 
-exports[`ruby renders with itemScope="true" 1`] = `
+exports[`ruby renders with itemScope=true 1`] = `
 <ruby
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`ruby renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`ruby renders with style="[object Object]" 1`] = `
+exports[`ruby renders with style={"color":"#000000"} 1`] = `
 <ruby
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`ruby renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`ruby renders with tabIndex="1" 1`] = `
+exports[`ruby renders with tabIndex=1 1`] = `
 <ruby
   tabIndex={1}
 />

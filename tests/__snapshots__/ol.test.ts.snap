@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`ol renders arrays of children 1`] = `
+<ol>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</ol>
+`;
+
 exports[`ol renders with accessKey="a,b,c,d" 1`] = `
 <ol
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`ol renders with draggable="true" 1`] = `
 
 exports[`ol renders with empty attributes 1`] = `<ol />`;
 
-exports[`ol renders with hidden="false" 1`] = `
+exports[`ol renders with hidden=false 1`] = `
 <ol
   hidden={false}
 />
 `;
 
-exports[`ol renders with hidden="true" 1`] = `
+exports[`ol renders with hidden=true 1`] = `
 <ol
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`ol renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`ol renders with itemScope="false" 1`] = `
+exports[`ol renders with itemScope=false 1`] = `
 <ol
   itemScope={false}
 />
 `;
 
-exports[`ol renders with itemScope="true" 1`] = `
+exports[`ol renders with itemScope=true 1`] = `
 <ol
   itemScope={true}
 />
@@ -218,13 +233,13 @@ exports[`ol renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`ol renders with reversed="false" 1`] = `
+exports[`ol renders with reversed=false 1`] = `
 <ol
   reversed={false}
 />
 `;
 
-exports[`ol renders with reversed="true" 1`] = `
+exports[`ol renders with reversed=true 1`] = `
 <ol
   reversed={true}
 />
@@ -248,13 +263,13 @@ exports[`ol renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`ol renders with start="1" 1`] = `
+exports[`ol renders with start=1 1`] = `
 <ol
   start={1}
 />
 `;
 
-exports[`ol renders with style="[object Object]" 1`] = `
+exports[`ol renders with style={"color":"#000000"} 1`] = `
 <ol
   style={
     Object {
@@ -264,7 +279,7 @@ exports[`ol renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`ol renders with tabIndex="1" 1`] = `
+exports[`ol renders with tabIndex=1 1`] = `
 <ol
   tabIndex={1}
 />

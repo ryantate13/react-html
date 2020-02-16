@@ -4,6 +4,10 @@ describe('bdi', () => {
     it('renders with children', () => {
         expect(bdi({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(bdi({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(bdi({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('bdi', () => {
         expect(bdi({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(bdi({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(bdi({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('bdi', () => {
         expect(bdi({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(bdi({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(bdi({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('bdi', () => {
         expect(bdi({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(bdi({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(bdi({tabIndex: 1})).toMatchSnapshot();
     });
 

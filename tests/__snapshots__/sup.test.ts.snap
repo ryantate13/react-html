@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`sup renders arrays of children 1`] = `
+<sup>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</sup>
+`;
+
 exports[`sup renders with accessKey="a,b,c,d" 1`] = `
 <sup
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`sup renders with draggable="true" 1`] = `
 
 exports[`sup renders with empty attributes 1`] = `<sup />`;
 
-exports[`sup renders with hidden="false" 1`] = `
+exports[`sup renders with hidden=false 1`] = `
 <sup
   hidden={false}
 />
 `;
 
-exports[`sup renders with hidden="true" 1`] = `
+exports[`sup renders with hidden=true 1`] = `
 <sup
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`sup renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`sup renders with itemScope="false" 1`] = `
+exports[`sup renders with itemScope=false 1`] = `
 <sup
   itemScope={false}
 />
 `;
 
-exports[`sup renders with itemScope="true" 1`] = `
+exports[`sup renders with itemScope=true 1`] = `
 <sup
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`sup renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`sup renders with style="[object Object]" 1`] = `
+exports[`sup renders with style={"color":"#000000"} 1`] = `
 <sup
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`sup renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`sup renders with tabIndex="1" 1`] = `
+exports[`sup renders with tabIndex=1 1`] = `
 <sup
   tabIndex={1}
 />

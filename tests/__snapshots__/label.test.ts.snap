@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`label renders arrays of children 1`] = `
+<label>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</label>
+`;
+
 exports[`label renders with accessKey="a,b,c,d" 1`] = `
 <label
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`label renders with draggable="true" 1`] = `
 
 exports[`label renders with empty attributes 1`] = `<label />`;
 
-exports[`label renders with hidden="false" 1`] = `
+exports[`label renders with hidden=false 1`] = `
 <label
   hidden={false}
 />
 `;
 
-exports[`label renders with hidden="true" 1`] = `
+exports[`label renders with hidden=true 1`] = `
 <label
   hidden={true}
 />
@@ -194,13 +209,13 @@ exports[`label renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`label renders with itemScope="false" 1`] = `
+exports[`label renders with itemScope=false 1`] = `
 <label
   itemScope={false}
 />
 `;
 
-exports[`label renders with itemScope="true" 1`] = `
+exports[`label renders with itemScope=true 1`] = `
 <label
   itemScope={true}
 />
@@ -242,7 +257,7 @@ exports[`label renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`label renders with style="[object Object]" 1`] = `
+exports[`label renders with style={"color":"#000000"} 1`] = `
 <label
   style={
     Object {
@@ -252,7 +267,7 @@ exports[`label renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`label renders with tabIndex="1" 1`] = `
+exports[`label renders with tabIndex=1 1`] = `
 <label
   tabIndex={1}
 />

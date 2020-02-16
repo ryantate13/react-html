@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`audio renders arrays of children 1`] = `
+<audio>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</audio>
+`;
+
 exports[`audio renders with accessKey="a,b,c,d" 1`] = `
 <audio
   accessKey="a,b,c,d"
@@ -42,13 +57,13 @@ exports[`audio renders with autoCapitalize="words" 1`] = `
 />
 `;
 
-exports[`audio renders with autoPlay="false" 1`] = `
+exports[`audio renders with autoPlay=false 1`] = `
 <audio
   autoPlay={false}
 />
 `;
 
-exports[`audio renders with autoPlay="true" 1`] = `
+exports[`audio renders with autoPlay=true 1`] = `
 <audio
   autoPlay={true}
 />
@@ -78,13 +93,13 @@ exports[`audio renders with contentEditable="true" 1`] = `
 />
 `;
 
-exports[`audio renders with controls="false" 1`] = `
+exports[`audio renders with controls=false 1`] = `
 <audio
   controls={false}
 />
 `;
 
-exports[`audio renders with controls="true" 1`] = `
+exports[`audio renders with controls=true 1`] = `
 <audio
   controls={true}
 />
@@ -134,13 +149,13 @@ exports[`audio renders with draggable="true" 1`] = `
 
 exports[`audio renders with empty attributes 1`] = `<audio />`;
 
-exports[`audio renders with hidden="false" 1`] = `
+exports[`audio renders with hidden=false 1`] = `
 <audio
   hidden={false}
 />
 `;
 
-exports[`audio renders with hidden="true" 1`] = `
+exports[`audio renders with hidden=true 1`] = `
 <audio
   hidden={true}
 />
@@ -224,13 +239,13 @@ exports[`audio renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`audio renders with itemScope="false" 1`] = `
+exports[`audio renders with itemScope=false 1`] = `
 <audio
   itemScope={false}
 />
 `;
 
-exports[`audio renders with itemScope="true" 1`] = `
+exports[`audio renders with itemScope=true 1`] = `
 <audio
   itemScope={true}
 />
@@ -254,25 +269,25 @@ exports[`audio renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`audio renders with loop="false" 1`] = `
+exports[`audio renders with loop=false 1`] = `
 <audio
   loop={false}
 />
 `;
 
-exports[`audio renders with loop="true" 1`] = `
+exports[`audio renders with loop=true 1`] = `
 <audio
   loop={true}
 />
 `;
 
-exports[`audio renders with muted="false" 1`] = `
+exports[`audio renders with muted=false 1`] = `
 <audio
   muted={false}
 />
 `;
 
-exports[`audio renders with muted="true" 1`] = `
+exports[`audio renders with muted=true 1`] = `
 <audio
   muted={true}
 />
@@ -320,7 +335,7 @@ exports[`audio renders with src="https://google.com/" 1`] = `
 />
 `;
 
-exports[`audio renders with style="[object Object]" 1`] = `
+exports[`audio renders with style={"color":"#000000"} 1`] = `
 <audio
   style={
     Object {
@@ -330,7 +345,7 @@ exports[`audio renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`audio renders with tabIndex="1" 1`] = `
+exports[`audio renders with tabIndex=1 1`] = `
 <audio
   tabIndex={1}
 />

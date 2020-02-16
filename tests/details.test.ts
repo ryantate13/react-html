@@ -4,6 +4,10 @@ describe('details', () => {
     it('renders with children', () => {
         expect(details({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(details({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(details({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('details', () => {
         expect(details({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(details({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(details({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('details', () => {
         expect(details({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(details({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(details({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('details', () => {
         expect(details({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(details({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(details({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,11 +189,11 @@ describe('details', () => {
         expect(details({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with open="true"', () => {
+    it('renders with open=true', () => {
         expect(details({open: true})).toMatchSnapshot();
     });
 
-    it('renders with open="false"', () => {
+    it('renders with open=false', () => {
         expect(details({open: false})).toMatchSnapshot();
     });
 });

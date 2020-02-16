@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`bdo renders arrays of children 1`] = `
+<bdo>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</bdo>
+`;
+
 exports[`bdo renders with accessKey="a,b,c,d" 1`] = `
 <bdo
   accessKey="a,b,c,d"
@@ -110,13 +125,13 @@ exports[`bdo renders with draggable="true" 1`] = `
 
 exports[`bdo renders with empty attributes 1`] = `<bdo />`;
 
-exports[`bdo renders with hidden="false" 1`] = `
+exports[`bdo renders with hidden=false 1`] = `
 <bdo
   hidden={false}
 />
 `;
 
-exports[`bdo renders with hidden="true" 1`] = `
+exports[`bdo renders with hidden=true 1`] = `
 <bdo
   hidden={true}
 />
@@ -200,13 +215,13 @@ exports[`bdo renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`bdo renders with itemScope="false" 1`] = `
+exports[`bdo renders with itemScope=false 1`] = `
 <bdo
   itemScope={false}
 />
 `;
 
-exports[`bdo renders with itemScope="true" 1`] = `
+exports[`bdo renders with itemScope=true 1`] = `
 <bdo
   itemScope={true}
 />
@@ -248,7 +263,7 @@ exports[`bdo renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`bdo renders with style="[object Object]" 1`] = `
+exports[`bdo renders with style={"color":"#000000"} 1`] = `
 <bdo
   style={
     Object {
@@ -258,7 +273,7 @@ exports[`bdo renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`bdo renders with tabIndex="1" 1`] = `
+exports[`bdo renders with tabIndex=1 1`] = `
 <bdo
   tabIndex={1}
 />

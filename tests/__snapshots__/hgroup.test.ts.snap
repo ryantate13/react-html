@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`hgroup renders arrays of children 1`] = `
+<hgroup>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</hgroup>
+`;
+
 exports[`hgroup renders with accessKey="a,b,c,d" 1`] = `
 <hgroup
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`hgroup renders with draggable="true" 1`] = `
 
 exports[`hgroup renders with empty attributes 1`] = `<hgroup />`;
 
-exports[`hgroup renders with hidden="false" 1`] = `
+exports[`hgroup renders with hidden=false 1`] = `
 <hgroup
   hidden={false}
 />
 `;
 
-exports[`hgroup renders with hidden="true" 1`] = `
+exports[`hgroup renders with hidden=true 1`] = `
 <hgroup
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`hgroup renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`hgroup renders with itemScope="false" 1`] = `
+exports[`hgroup renders with itemScope=false 1`] = `
 <hgroup
   itemScope={false}
 />
 `;
 
-exports[`hgroup renders with itemScope="true" 1`] = `
+exports[`hgroup renders with itemScope=true 1`] = `
 <hgroup
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`hgroup renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`hgroup renders with style="[object Object]" 1`] = `
+exports[`hgroup renders with style={"color":"#000000"} 1`] = `
 <hgroup
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`hgroup renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`hgroup renders with tabIndex="1" 1`] = `
+exports[`hgroup renders with tabIndex=1 1`] = `
 <hgroup
   tabIndex={1}
 />

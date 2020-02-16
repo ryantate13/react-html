@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`progress renders arrays of children 1`] = `
+<progress>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</progress>
+`;
+
 exports[`progress renders with accessKey="a,b,c,d" 1`] = `
 <progress
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`progress renders with draggable="true" 1`] = `
 
 exports[`progress renders with empty attributes 1`] = `<progress />`;
 
-exports[`progress renders with hidden="false" 1`] = `
+exports[`progress renders with hidden=false 1`] = `
 <progress
   hidden={false}
 />
 `;
 
-exports[`progress renders with hidden="true" 1`] = `
+exports[`progress renders with hidden=true 1`] = `
 <progress
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`progress renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`progress renders with itemScope="false" 1`] = `
+exports[`progress renders with itemScope=false 1`] = `
 <progress
   itemScope={false}
 />
 `;
 
-exports[`progress renders with itemScope="true" 1`] = `
+exports[`progress renders with itemScope=true 1`] = `
 <progress
   itemScope={true}
 />
@@ -218,7 +233,7 @@ exports[`progress renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`progress renders with max="1.1" 1`] = `
+exports[`progress renders with max=1.1 1`] = `
 <progress
   max={1.1}
 />
@@ -242,7 +257,7 @@ exports[`progress renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`progress renders with style="[object Object]" 1`] = `
+exports[`progress renders with style={"color":"#000000"} 1`] = `
 <progress
   style={
     Object {
@@ -252,7 +267,7 @@ exports[`progress renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`progress renders with tabIndex="1" 1`] = `
+exports[`progress renders with tabIndex=1 1`] = `
 <progress
   tabIndex={1}
 />
@@ -276,7 +291,7 @@ exports[`progress renders with translate="yes" 1`] = `
 />
 `;
 
-exports[`progress renders with value="1.1" 1`] = `
+exports[`progress renders with value=1.1 1`] = `
 <progress
   value={1.1}
 />

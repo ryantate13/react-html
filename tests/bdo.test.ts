@@ -4,6 +4,10 @@ describe('bdo', () => {
     it('renders with children', () => {
         expect(bdo({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(bdo({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(bdo({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('bdo', () => {
         expect(bdo({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(bdo({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(bdo({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('bdo', () => {
         expect(bdo({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(bdo({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(bdo({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('bdo', () => {
         expect(bdo({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(bdo({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(bdo({tabIndex: 1})).toMatchSnapshot();
     });
 

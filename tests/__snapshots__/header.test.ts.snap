@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`header renders arrays of children 1`] = `
+<header>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</header>
+`;
+
 exports[`header renders with accessKey="a,b,c,d" 1`] = `
 <header
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`header renders with draggable="true" 1`] = `
 
 exports[`header renders with empty attributes 1`] = `<header />`;
 
-exports[`header renders with hidden="false" 1`] = `
+exports[`header renders with hidden=false 1`] = `
 <header
   hidden={false}
 />
 `;
 
-exports[`header renders with hidden="true" 1`] = `
+exports[`header renders with hidden=true 1`] = `
 <header
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`header renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`header renders with itemScope="false" 1`] = `
+exports[`header renders with itemScope=false 1`] = `
 <header
   itemScope={false}
 />
 `;
 
-exports[`header renders with itemScope="true" 1`] = `
+exports[`header renders with itemScope=true 1`] = `
 <header
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`header renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`header renders with style="[object Object]" 1`] = `
+exports[`header renders with style={"color":"#000000"} 1`] = `
 <header
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`header renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`header renders with tabIndex="1" 1`] = `
+exports[`header renders with tabIndex=1 1`] = `
 <header
   tabIndex={1}
 />

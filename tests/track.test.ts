@@ -70,11 +70,11 @@ describe('track', () => {
         expect(track({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(track({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(track({hidden: false})).toMatchSnapshot();
     });
 
@@ -130,11 +130,11 @@ describe('track', () => {
         expect(track({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(track({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(track({itemScope: false})).toMatchSnapshot();
     });
 
@@ -162,11 +162,11 @@ describe('track', () => {
         expect(track({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(track({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(track({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -182,11 +182,11 @@ describe('track', () => {
         expect(track({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with default="true"', () => {
+    it('renders with default=true', () => {
         expect(track({default: true})).toMatchSnapshot();
     });
 
-    it('renders with default="false"', () => {
+    it('renders with default=false', () => {
         expect(track({default: false})).toMatchSnapshot();
     });
 

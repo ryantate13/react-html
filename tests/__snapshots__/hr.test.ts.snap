@@ -92,13 +92,13 @@ exports[`hr renders with draggable="true" 1`] = `
 
 exports[`hr renders with empty attributes 1`] = `<hr />`;
 
-exports[`hr renders with hidden="false" 1`] = `
+exports[`hr renders with hidden=false 1`] = `
 <hr
   hidden={false}
 />
 `;
 
-exports[`hr renders with hidden="true" 1`] = `
+exports[`hr renders with hidden=true 1`] = `
 <hr
   hidden={true}
 />
@@ -182,13 +182,13 @@ exports[`hr renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`hr renders with itemScope="false" 1`] = `
+exports[`hr renders with itemScope=false 1`] = `
 <hr
   itemScope={false}
 />
 `;
 
-exports[`hr renders with itemScope="true" 1`] = `
+exports[`hr renders with itemScope=true 1`] = `
 <hr
   itemScope={true}
 />
@@ -230,7 +230,7 @@ exports[`hr renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`hr renders with style="[object Object]" 1`] = `
+exports[`hr renders with style={"color":"#000000"} 1`] = `
 <hr
   style={
     Object {
@@ -240,7 +240,7 @@ exports[`hr renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`hr renders with tabIndex="1" 1`] = `
+exports[`hr renders with tabIndex=1 1`] = `
 <hr
   tabIndex={1}
 />

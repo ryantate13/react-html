@@ -92,13 +92,13 @@ exports[`base renders with draggable="true" 1`] = `
 
 exports[`base renders with empty attributes 1`] = `<base />`;
 
-exports[`base renders with hidden="false" 1`] = `
+exports[`base renders with hidden=false 1`] = `
 <base
   hidden={false}
 />
 `;
 
-exports[`base renders with hidden="true" 1`] = `
+exports[`base renders with hidden=true 1`] = `
 <base
   hidden={true}
 />
@@ -188,13 +188,13 @@ exports[`base renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`base renders with itemScope="false" 1`] = `
+exports[`base renders with itemScope=false 1`] = `
 <base
   itemScope={false}
 />
 `;
 
-exports[`base renders with itemScope="true" 1`] = `
+exports[`base renders with itemScope=true 1`] = `
 <base
   itemScope={true}
 />
@@ -236,7 +236,7 @@ exports[`base renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`base renders with style="[object Object]" 1`] = `
+exports[`base renders with style={"color":"#000000"} 1`] = `
 <base
   style={
     Object {
@@ -246,7 +246,7 @@ exports[`base renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`base renders with tabIndex="1" 1`] = `
+exports[`base renders with tabIndex=1 1`] = `
 <base
   tabIndex={1}
 />

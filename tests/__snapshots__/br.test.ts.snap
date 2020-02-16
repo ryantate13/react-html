@@ -92,13 +92,13 @@ exports[`br renders with draggable="true" 1`] = `
 
 exports[`br renders with empty attributes 1`] = `<br />`;
 
-exports[`br renders with hidden="false" 1`] = `
+exports[`br renders with hidden=false 1`] = `
 <br
   hidden={false}
 />
 `;
 
-exports[`br renders with hidden="true" 1`] = `
+exports[`br renders with hidden=true 1`] = `
 <br
   hidden={true}
 />
@@ -182,13 +182,13 @@ exports[`br renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`br renders with itemScope="false" 1`] = `
+exports[`br renders with itemScope=false 1`] = `
 <br
   itemScope={false}
 />
 `;
 
-exports[`br renders with itemScope="true" 1`] = `
+exports[`br renders with itemScope=true 1`] = `
 <br
   itemScope={true}
 />
@@ -230,7 +230,7 @@ exports[`br renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`br renders with style="[object Object]" 1`] = `
+exports[`br renders with style={"color":"#000000"} 1`] = `
 <br
   style={
     Object {
@@ -240,7 +240,7 @@ exports[`br renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`br renders with tabIndex="1" 1`] = `
+exports[`br renders with tabIndex=1 1`] = `
 <br
   tabIndex={1}
 />

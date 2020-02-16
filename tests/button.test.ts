@@ -4,6 +4,10 @@ describe('button', () => {
     it('renders with children', () => {
         expect(button({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(button({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(button({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('button', () => {
         expect(button({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(button({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(button({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('button', () => {
         expect(button({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(button({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(button({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('button', () => {
         expect(button({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(button({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(button({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,11 +189,11 @@ describe('button', () => {
         expect(button({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with disabled="true"', () => {
+    it('renders with disabled=true', () => {
         expect(button({disabled: true})).toMatchSnapshot();
     });
 
-    it('renders with disabled="false"', () => {
+    it('renders with disabled=false', () => {
         expect(button({disabled: false})).toMatchSnapshot();
     });
 
@@ -225,11 +229,11 @@ describe('button', () => {
         expect(button({formMethod: "dialog"})).toMatchSnapshot();
     });
 
-    it('renders with formNoValidate="true"', () => {
+    it('renders with formNoValidate=true', () => {
         expect(button({formNoValidate: true})).toMatchSnapshot();
     });
 
-    it('renders with formNoValidate="false"', () => {
+    it('renders with formNoValidate=false', () => {
         expect(button({formNoValidate: false})).toMatchSnapshot();
     });
 

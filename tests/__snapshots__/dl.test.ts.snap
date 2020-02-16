@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`dl renders arrays of children 1`] = `
+<dl>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</dl>
+`;
+
 exports[`dl renders with accessKey="a,b,c,d" 1`] = `
 <dl
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`dl renders with draggable="true" 1`] = `
 
 exports[`dl renders with empty attributes 1`] = `<dl />`;
 
-exports[`dl renders with hidden="false" 1`] = `
+exports[`dl renders with hidden=false 1`] = `
 <dl
   hidden={false}
 />
 `;
 
-exports[`dl renders with hidden="true" 1`] = `
+exports[`dl renders with hidden=true 1`] = `
 <dl
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`dl renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`dl renders with itemScope="false" 1`] = `
+exports[`dl renders with itemScope=false 1`] = `
 <dl
   itemScope={false}
 />
 `;
 
-exports[`dl renders with itemScope="true" 1`] = `
+exports[`dl renders with itemScope=true 1`] = `
 <dl
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`dl renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`dl renders with style="[object Object]" 1`] = `
+exports[`dl renders with style={"color":"#000000"} 1`] = `
 <dl
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`dl renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`dl renders with tabIndex="1" 1`] = `
+exports[`dl renders with tabIndex=1 1`] = `
 <dl
   tabIndex={1}
 />

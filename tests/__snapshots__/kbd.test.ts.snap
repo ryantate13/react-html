@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`kbd renders arrays of children 1`] = `
+<kbd>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</kbd>
+`;
+
 exports[`kbd renders with accessKey="a,b,c,d" 1`] = `
 <kbd
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`kbd renders with draggable="true" 1`] = `
 
 exports[`kbd renders with empty attributes 1`] = `<kbd />`;
 
-exports[`kbd renders with hidden="false" 1`] = `
+exports[`kbd renders with hidden=false 1`] = `
 <kbd
   hidden={false}
 />
 `;
 
-exports[`kbd renders with hidden="true" 1`] = `
+exports[`kbd renders with hidden=true 1`] = `
 <kbd
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`kbd renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`kbd renders with itemScope="false" 1`] = `
+exports[`kbd renders with itemScope=false 1`] = `
 <kbd
   itemScope={false}
 />
 `;
 
-exports[`kbd renders with itemScope="true" 1`] = `
+exports[`kbd renders with itemScope=true 1`] = `
 <kbd
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`kbd renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`kbd renders with style="[object Object]" 1`] = `
+exports[`kbd renders with style={"color":"#000000"} 1`] = `
 <kbd
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`kbd renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`kbd renders with tabIndex="1" 1`] = `
+exports[`kbd renders with tabIndex=1 1`] = `
 <kbd
   tabIndex={1}
 />

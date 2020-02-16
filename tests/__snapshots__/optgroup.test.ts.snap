@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`optgroup renders arrays of children 1`] = `
+<optgroup>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</optgroup>
+`;
+
 exports[`optgroup renders with accessKey="a,b,c,d" 1`] = `
 <optgroup
   accessKey="a,b,c,d"
@@ -84,13 +99,13 @@ exports[`optgroup renders with dir="rtl" 1`] = `
 />
 `;
 
-exports[`optgroup renders with disabled="false" 1`] = `
+exports[`optgroup renders with disabled=false 1`] = `
 <optgroup
   disabled={false}
 />
 `;
 
-exports[`optgroup renders with disabled="true" 1`] = `
+exports[`optgroup renders with disabled=true 1`] = `
 <optgroup
   disabled={true}
 />
@@ -110,13 +125,13 @@ exports[`optgroup renders with draggable="true" 1`] = `
 
 exports[`optgroup renders with empty attributes 1`] = `<optgroup />`;
 
-exports[`optgroup renders with hidden="false" 1`] = `
+exports[`optgroup renders with hidden=false 1`] = `
 <optgroup
   hidden={false}
 />
 `;
 
-exports[`optgroup renders with hidden="true" 1`] = `
+exports[`optgroup renders with hidden=true 1`] = `
 <optgroup
   hidden={true}
 />
@@ -200,13 +215,13 @@ exports[`optgroup renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`optgroup renders with itemScope="false" 1`] = `
+exports[`optgroup renders with itemScope=false 1`] = `
 <optgroup
   itemScope={false}
 />
 `;
 
-exports[`optgroup renders with itemScope="true" 1`] = `
+exports[`optgroup renders with itemScope=true 1`] = `
 <optgroup
   itemScope={true}
 />
@@ -254,7 +269,7 @@ exports[`optgroup renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`optgroup renders with style="[object Object]" 1`] = `
+exports[`optgroup renders with style={"color":"#000000"} 1`] = `
 <optgroup
   style={
     Object {
@@ -264,7 +279,7 @@ exports[`optgroup renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`optgroup renders with tabIndex="1" 1`] = `
+exports[`optgroup renders with tabIndex=1 1`] = `
 <optgroup
   tabIndex={1}
 />

@@ -92,13 +92,13 @@ exports[`source renders with draggable="true" 1`] = `
 
 exports[`source renders with empty attributes 1`] = `<source />`;
 
-exports[`source renders with hidden="false" 1`] = `
+exports[`source renders with hidden=false 1`] = `
 <source
   hidden={false}
 />
 `;
 
-exports[`source renders with hidden="true" 1`] = `
+exports[`source renders with hidden=true 1`] = `
 <source
   hidden={true}
 />
@@ -182,13 +182,13 @@ exports[`source renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`source renders with itemScope="false" 1`] = `
+exports[`source renders with itemScope=false 1`] = `
 <source
   itemScope={false}
 />
 `;
 
-exports[`source renders with itemScope="true" 1`] = `
+exports[`source renders with itemScope=true 1`] = `
 <source
   itemScope={true}
 />
@@ -254,7 +254,7 @@ exports[`source renders with srcSet="es-419" 1`] = `
 />
 `;
 
-exports[`source renders with style="[object Object]" 1`] = `
+exports[`source renders with style={"color":"#000000"} 1`] = `
 <source
   style={
     Object {
@@ -264,7 +264,7 @@ exports[`source renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`source renders with tabIndex="1" 1`] = `
+exports[`source renders with tabIndex=1 1`] = `
 <source
   tabIndex={1}
 />

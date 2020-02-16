@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`fieldset renders arrays of children 1`] = `
+<fieldset>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</fieldset>
+`;
+
 exports[`fieldset renders with accessKey="a,b,c,d" 1`] = `
 <fieldset
   accessKey="a,b,c,d"
@@ -84,13 +99,13 @@ exports[`fieldset renders with dir="rtl" 1`] = `
 />
 `;
 
-exports[`fieldset renders with disabled="false" 1`] = `
+exports[`fieldset renders with disabled=false 1`] = `
 <fieldset
   disabled={false}
 />
 `;
 
-exports[`fieldset renders with disabled="true" 1`] = `
+exports[`fieldset renders with disabled=true 1`] = `
 <fieldset
   disabled={true}
 />
@@ -116,13 +131,13 @@ exports[`fieldset renders with form="TEST" 1`] = `
 />
 `;
 
-exports[`fieldset renders with hidden="false" 1`] = `
+exports[`fieldset renders with hidden=false 1`] = `
 <fieldset
   hidden={false}
 />
 `;
 
-exports[`fieldset renders with hidden="true" 1`] = `
+exports[`fieldset renders with hidden=true 1`] = `
 <fieldset
   hidden={true}
 />
@@ -206,13 +221,13 @@ exports[`fieldset renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`fieldset renders with itemScope="false" 1`] = `
+exports[`fieldset renders with itemScope=false 1`] = `
 <fieldset
   itemScope={false}
 />
 `;
 
-exports[`fieldset renders with itemScope="true" 1`] = `
+exports[`fieldset renders with itemScope=true 1`] = `
 <fieldset
   itemScope={true}
 />
@@ -260,7 +275,7 @@ exports[`fieldset renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`fieldset renders with style="[object Object]" 1`] = `
+exports[`fieldset renders with style={"color":"#000000"} 1`] = `
 <fieldset
   style={
     Object {
@@ -270,7 +285,7 @@ exports[`fieldset renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`fieldset renders with tabIndex="1" 1`] = `
+exports[`fieldset renders with tabIndex=1 1`] = `
 <fieldset
   tabIndex={1}
 />

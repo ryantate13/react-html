@@ -4,6 +4,10 @@ describe('colgroup', () => {
     it('renders with children', () => {
         expect(colgroup({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(colgroup({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(colgroup({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('colgroup', () => {
         expect(colgroup({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(colgroup({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(colgroup({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('colgroup', () => {
         expect(colgroup({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(colgroup({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(colgroup({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('colgroup', () => {
         expect(colgroup({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(colgroup({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(colgroup({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,7 +189,7 @@ describe('colgroup', () => {
         expect(colgroup({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with span="1"', () => {
+    it('renders with span=1', () => {
         expect(colgroup({span: 1})).toMatchSnapshot();
     });
 });

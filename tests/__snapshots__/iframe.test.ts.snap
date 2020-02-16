@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`iframe renders arrays of children 1`] = `
+<iframe>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</iframe>
+`;
+
 exports[`iframe renders with accessKey="a,b,c,d" 1`] = `
 <iframe
   accessKey="a,b,c,d"
@@ -12,13 +27,13 @@ exports[`iframe renders with allow="self" 1`] = `
 />
 `;
 
-exports[`iframe renders with allowFullScreen="false" 1`] = `
+exports[`iframe renders with allowFullScreen=false 1`] = `
 <iframe
   allowFullScreen={false}
 />
 `;
 
-exports[`iframe renders with allowFullScreen="true" 1`] = `
+exports[`iframe renders with allowFullScreen=true 1`] = `
 <iframe
   allowFullScreen={true}
 />
@@ -116,19 +131,19 @@ exports[`iframe renders with draggable="true" 1`] = `
 
 exports[`iframe renders with empty attributes 1`] = `<iframe />`;
 
-exports[`iframe renders with height="1" 1`] = `
+exports[`iframe renders with height=1 1`] = `
 <iframe
   height={1}
 />
 `;
 
-exports[`iframe renders with hidden="false" 1`] = `
+exports[`iframe renders with hidden=false 1`] = `
 <iframe
   hidden={false}
 />
 `;
 
-exports[`iframe renders with hidden="true" 1`] = `
+exports[`iframe renders with hidden=true 1`] = `
 <iframe
   hidden={true}
 />
@@ -212,13 +227,13 @@ exports[`iframe renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`iframe renders with itemScope="false" 1`] = `
+exports[`iframe renders with itemScope=false 1`] = `
 <iframe
   itemScope={false}
 />
 `;
 
-exports[`iframe renders with itemScope="true" 1`] = `
+exports[`iframe renders with itemScope=true 1`] = `
 <iframe
   itemScope={true}
 />
@@ -344,7 +359,7 @@ exports[`iframe renders with srcDoc="srcdoc" 1`] = `
 />
 `;
 
-exports[`iframe renders with style="[object Object]" 1`] = `
+exports[`iframe renders with style={"color":"#000000"} 1`] = `
 <iframe
   style={
     Object {
@@ -354,7 +369,7 @@ exports[`iframe renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`iframe renders with tabIndex="1" 1`] = `
+exports[`iframe renders with tabIndex=1 1`] = `
 <iframe
   tabIndex={1}
 />
@@ -378,7 +393,7 @@ exports[`iframe renders with translate="yes" 1`] = `
 />
 `;
 
-exports[`iframe renders with width="1" 1`] = `
+exports[`iframe renders with width=1 1`] = `
 <iframe
   width={1}
 />

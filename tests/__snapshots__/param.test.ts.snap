@@ -92,13 +92,13 @@ exports[`param renders with draggable="true" 1`] = `
 
 exports[`param renders with empty attributes 1`] = `<param />`;
 
-exports[`param renders with hidden="false" 1`] = `
+exports[`param renders with hidden=false 1`] = `
 <param
   hidden={false}
 />
 `;
 
-exports[`param renders with hidden="true" 1`] = `
+exports[`param renders with hidden=true 1`] = `
 <param
   hidden={true}
 />
@@ -182,13 +182,13 @@ exports[`param renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`param renders with itemScope="false" 1`] = `
+exports[`param renders with itemScope=false 1`] = `
 <param
   itemScope={false}
 />
 `;
 
-exports[`param renders with itemScope="true" 1`] = `
+exports[`param renders with itemScope=true 1`] = `
 <param
   itemScope={true}
 />
@@ -236,7 +236,7 @@ exports[`param renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`param renders with style="[object Object]" 1`] = `
+exports[`param renders with style={"color":"#000000"} 1`] = `
 <param
   style={
     Object {
@@ -246,7 +246,7 @@ exports[`param renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`param renders with tabIndex="1" 1`] = `
+exports[`param renders with tabIndex=1 1`] = `
 <param
   tabIndex={1}
 />

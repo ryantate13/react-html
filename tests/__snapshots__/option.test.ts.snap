@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`option renders arrays of children 1`] = `
+<option>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</option>
+`;
+
 exports[`option renders with accessKey="a,b,c,d" 1`] = `
 <option
   accessKey="a,b,c,d"
@@ -84,13 +99,13 @@ exports[`option renders with dir="rtl" 1`] = `
 />
 `;
 
-exports[`option renders with disabled="false" 1`] = `
+exports[`option renders with disabled=false 1`] = `
 <option
   disabled={false}
 />
 `;
 
-exports[`option renders with disabled="true" 1`] = `
+exports[`option renders with disabled=true 1`] = `
 <option
   disabled={true}
 />
@@ -110,13 +125,13 @@ exports[`option renders with draggable="true" 1`] = `
 
 exports[`option renders with empty attributes 1`] = `<option />`;
 
-exports[`option renders with hidden="false" 1`] = `
+exports[`option renders with hidden=false 1`] = `
 <option
   hidden={false}
 />
 `;
 
-exports[`option renders with hidden="true" 1`] = `
+exports[`option renders with hidden=true 1`] = `
 <option
   hidden={true}
 />
@@ -200,13 +215,13 @@ exports[`option renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`option renders with itemScope="false" 1`] = `
+exports[`option renders with itemScope=false 1`] = `
 <option
   itemScope={false}
 />
 `;
 
-exports[`option renders with itemScope="true" 1`] = `
+exports[`option renders with itemScope=true 1`] = `
 <option
   itemScope={true}
 />
@@ -236,13 +251,13 @@ exports[`option renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`option renders with selected="false" 1`] = `
+exports[`option renders with selected=false 1`] = `
 <option
   selected={false}
 />
 `;
 
-exports[`option renders with selected="true" 1`] = `
+exports[`option renders with selected=true 1`] = `
 <option
   selected={true}
 />
@@ -266,7 +281,7 @@ exports[`option renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`option renders with style="[object Object]" 1`] = `
+exports[`option renders with style={"color":"#000000"} 1`] = `
 <option
   style={
     Object {
@@ -276,7 +291,7 @@ exports[`option renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`option renders with tabIndex="1" 1`] = `
+exports[`option renders with tabIndex=1 1`] = `
 <option
   tabIndex={1}
 />

@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`dfn renders arrays of children 1`] = `
+<dfn>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</dfn>
+`;
+
 exports[`dfn renders with accessKey="a,b,c,d" 1`] = `
 <dfn
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`dfn renders with draggable="true" 1`] = `
 
 exports[`dfn renders with empty attributes 1`] = `<dfn />`;
 
-exports[`dfn renders with hidden="false" 1`] = `
+exports[`dfn renders with hidden=false 1`] = `
 <dfn
   hidden={false}
 />
 `;
 
-exports[`dfn renders with hidden="true" 1`] = `
+exports[`dfn renders with hidden=true 1`] = `
 <dfn
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`dfn renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`dfn renders with itemScope="false" 1`] = `
+exports[`dfn renders with itemScope=false 1`] = `
 <dfn
   itemScope={false}
 />
 `;
 
-exports[`dfn renders with itemScope="true" 1`] = `
+exports[`dfn renders with itemScope=true 1`] = `
 <dfn
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`dfn renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`dfn renders with style="[object Object]" 1`] = `
+exports[`dfn renders with style={"color":"#000000"} 1`] = `
 <dfn
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`dfn renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`dfn renders with tabIndex="1" 1`] = `
+exports[`dfn renders with tabIndex=1 1`] = `
 <dfn
   tabIndex={1}
 />

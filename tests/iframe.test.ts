@@ -4,6 +4,10 @@ describe('iframe', () => {
     it('renders with children', () => {
         expect(iframe({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(iframe({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(iframe({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('iframe', () => {
         expect(iframe({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(iframe({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(iframe({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('iframe', () => {
         expect(iframe({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(iframe({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(iframe({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('iframe', () => {
         expect(iframe({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(iframe({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(iframe({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -189,15 +193,15 @@ describe('iframe', () => {
         expect(iframe({allow: "self"})).toMatchSnapshot();
     });
 
-    it('renders with allowFullScreen="true"', () => {
+    it('renders with allowFullScreen=true', () => {
         expect(iframe({allowFullScreen: true})).toMatchSnapshot();
     });
 
-    it('renders with allowFullScreen="false"', () => {
+    it('renders with allowFullScreen=false', () => {
         expect(iframe({allowFullScreen: false})).toMatchSnapshot();
     });
 
-    it('renders with height="1"', () => {
+    it('renders with height=1', () => {
         expect(iframe({height: 1})).toMatchSnapshot();
     });
 
@@ -257,7 +261,7 @@ describe('iframe', () => {
         expect(iframe({srcDoc: "srcdoc"})).toMatchSnapshot();
     });
 
-    it('renders with width="1"', () => {
+    it('renders with width=1', () => {
         expect(iframe({width: 1})).toMatchSnapshot();
     });
 });

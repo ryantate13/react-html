@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`big renders arrays of children 1`] = `
+<big>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</big>
+`;
+
 exports[`big renders with accessKey="a,b,c,d" 1`] = `
 <big
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`big renders with draggable="true" 1`] = `
 
 exports[`big renders with empty attributes 1`] = `<big />`;
 
-exports[`big renders with hidden="false" 1`] = `
+exports[`big renders with hidden=false 1`] = `
 <big
   hidden={false}
 />
 `;
 
-exports[`big renders with hidden="true" 1`] = `
+exports[`big renders with hidden=true 1`] = `
 <big
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`big renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`big renders with itemScope="false" 1`] = `
+exports[`big renders with itemScope=false 1`] = `
 <big
   itemScope={false}
 />
 `;
 
-exports[`big renders with itemScope="true" 1`] = `
+exports[`big renders with itemScope=true 1`] = `
 <big
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`big renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`big renders with style="[object Object]" 1`] = `
+exports[`big renders with style={"color":"#000000"} 1`] = `
 <big
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`big renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`big renders with tabIndex="1" 1`] = `
+exports[`big renders with tabIndex=1 1`] = `
 <big
   tabIndex={1}
 />

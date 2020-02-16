@@ -4,6 +4,10 @@ describe('ol', () => {
     it('renders with children', () => {
         expect(ol({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(ol({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(ol({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('ol', () => {
         expect(ol({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(ol({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(ol({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('ol', () => {
         expect(ol({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(ol({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(ol({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('ol', () => {
         expect(ol({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(ol({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(ol({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,15 +189,15 @@ describe('ol', () => {
         expect(ol({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with reversed="true"', () => {
+    it('renders with reversed=true', () => {
         expect(ol({reversed: true})).toMatchSnapshot();
     });
 
-    it('renders with reversed="false"', () => {
+    it('renders with reversed=false', () => {
         expect(ol({reversed: false})).toMatchSnapshot();
     });
 
-    it('renders with start="1"', () => {
+    it('renders with start=1', () => {
         expect(ol({start: 1})).toMatchSnapshot();
     });
 

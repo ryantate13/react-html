@@ -70,11 +70,11 @@ describe('img', () => {
         expect(img({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(img({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(img({hidden: false})).toMatchSnapshot();
     });
 
@@ -130,11 +130,11 @@ describe('img', () => {
         expect(img({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(img({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(img({itemScope: false})).toMatchSnapshot();
     });
 
@@ -162,11 +162,11 @@ describe('img', () => {
         expect(img({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(img({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(img({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -206,7 +206,7 @@ describe('img', () => {
         expect(img({decoding: "auto"})).toMatchSnapshot();
     });
 
-    it('renders with height="1"', () => {
+    it('renders with height=1', () => {
         expect(img({height: 1})).toMatchSnapshot();
     });
 
@@ -226,7 +226,7 @@ describe('img', () => {
         expect(img({useMap: "#foo"})).toMatchSnapshot();
     });
 
-    it('renders with width="1"', () => {
+    it('renders with width=1', () => {
         expect(img({width: 1})).toMatchSnapshot();
     });
 });

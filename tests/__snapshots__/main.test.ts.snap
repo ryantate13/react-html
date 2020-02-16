@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`main renders arrays of children 1`] = `
+<main>
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+  TEST
+</main>
+`;
+
 exports[`main renders with accessKey="a,b,c,d" 1`] = `
 <main
   accessKey="a,b,c,d"
@@ -98,13 +113,13 @@ exports[`main renders with draggable="true" 1`] = `
 
 exports[`main renders with empty attributes 1`] = `<main />`;
 
-exports[`main renders with hidden="false" 1`] = `
+exports[`main renders with hidden=false 1`] = `
 <main
   hidden={false}
 />
 `;
 
-exports[`main renders with hidden="true" 1`] = `
+exports[`main renders with hidden=true 1`] = `
 <main
   hidden={true}
 />
@@ -188,13 +203,13 @@ exports[`main renders with itemRef="foo bar" 1`] = `
 />
 `;
 
-exports[`main renders with itemScope="false" 1`] = `
+exports[`main renders with itemScope=false 1`] = `
 <main
   itemScope={false}
 />
 `;
 
-exports[`main renders with itemScope="true" 1`] = `
+exports[`main renders with itemScope=true 1`] = `
 <main
   itemScope={true}
 />
@@ -236,7 +251,7 @@ exports[`main renders with spellCheck="true" 1`] = `
 />
 `;
 
-exports[`main renders with style="[object Object]" 1`] = `
+exports[`main renders with style={"color":"#000000"} 1`] = `
 <main
   style={
     Object {
@@ -246,7 +261,7 @@ exports[`main renders with style="[object Object]" 1`] = `
 />
 `;
 
-exports[`main renders with tabIndex="1" 1`] = `
+exports[`main renders with tabIndex=1 1`] = `
 <main
   tabIndex={1}
 />

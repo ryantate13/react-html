@@ -4,6 +4,10 @@ describe('audio', () => {
     it('renders with children', () => {
         expect(audio({}, 'TEST')).toMatchSnapshot();
     });
+    
+    it('renders arrays of children', () => {
+        expect(audio({}, Array(10).fill('TEST'))).toMatchSnapshot();
+    });
 
     it('renders with empty attributes', () => {
         expect(audio({})).toMatchSnapshot();
@@ -73,11 +77,11 @@ describe('audio', () => {
         expect(audio({draggable: "false"})).toMatchSnapshot();
     });
 
-    it('renders with hidden="true"', () => {
+    it('renders with hidden=true', () => {
         expect(audio({hidden: true})).toMatchSnapshot();
     });
 
-    it('renders with hidden="false"', () => {
+    it('renders with hidden=false', () => {
         expect(audio({hidden: false})).toMatchSnapshot();
     });
 
@@ -133,11 +137,11 @@ describe('audio', () => {
         expect(audio({itemRef: "foo bar"})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="true"', () => {
+    it('renders with itemScope=true', () => {
         expect(audio({itemScope: true})).toMatchSnapshot();
     });
 
-    it('renders with itemScope="false"', () => {
+    it('renders with itemScope=false', () => {
         expect(audio({itemScope: false})).toMatchSnapshot();
     });
 
@@ -165,11 +169,11 @@ describe('audio', () => {
         expect(audio({spellCheck: "false"})).toMatchSnapshot();
     });
 
-    it('renders with style="[object Object]"', () => {
+    it('renders with style={"color":"#000000"}', () => {
         expect(audio({style: {"color":"#000000"}})).toMatchSnapshot();
     });
 
-    it('renders with tabIndex="1"', () => {
+    it('renders with tabIndex=1', () => {
         expect(audio({tabIndex: 1})).toMatchSnapshot();
     });
 
@@ -185,19 +189,19 @@ describe('audio', () => {
         expect(audio({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with autoPlay="true"', () => {
+    it('renders with autoPlay=true', () => {
         expect(audio({autoPlay: true})).toMatchSnapshot();
     });
 
-    it('renders with autoPlay="false"', () => {
+    it('renders with autoPlay=false', () => {
         expect(audio({autoPlay: false})).toMatchSnapshot();
     });
 
-    it('renders with controls="true"', () => {
+    it('renders with controls=true', () => {
         expect(audio({controls: true})).toMatchSnapshot();
     });
 
-    it('renders with controls="false"', () => {
+    it('renders with controls=false', () => {
         expect(audio({controls: false})).toMatchSnapshot();
     });
 
@@ -209,19 +213,19 @@ describe('audio', () => {
         expect(audio({crossOrigin: "use-credentials"})).toMatchSnapshot();
     });
 
-    it('renders with loop="true"', () => {
+    it('renders with loop=true', () => {
         expect(audio({loop: true})).toMatchSnapshot();
     });
 
-    it('renders with loop="false"', () => {
+    it('renders with loop=false', () => {
         expect(audio({loop: false})).toMatchSnapshot();
     });
 
-    it('renders with muted="true"', () => {
+    it('renders with muted=true', () => {
         expect(audio({muted: true})).toMatchSnapshot();
     });
 
-    it('renders with muted="false"', () => {
+    it('renders with muted=false', () => {
         expect(audio({muted: false})).toMatchSnapshot();
     });
 
