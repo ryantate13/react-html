@@ -81,6 +81,7 @@ const UNSUPPORTED = new Set([
     'ismap',
     'nonce',
     'ping',
+    'playsinline',
     'referrerpolicy',
     'loading',
 ]);

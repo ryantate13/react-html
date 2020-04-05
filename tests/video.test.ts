@@ -233,14 +233,6 @@ describe('video', () => {
         expect(video({muted: false})).toMatchSnapshot();
     });
 
-    it('renders with playsinline=true', () => {
-        expect(video({playsinline: true})).toMatchSnapshot();
-    });
-
-    it('renders with playsinline=false', () => {
-        expect(video({playsinline: false})).toMatchSnapshot();
-    });
-
     it('renders with poster="https://google.com/"', () => {
         expect(video({poster: "https://google.com/"})).toMatchSnapshot();
     });

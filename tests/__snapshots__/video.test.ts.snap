@@ -299,18 +299,6 @@ exports[`video renders with muted=true 1`] = `
 />
 `;
 
-exports[`video renders with playsinline=false 1`] = `
-<video
-  playsinline={false}
-/>
-`;
-
-exports[`video renders with playsinline=true 1`] = `
-<video
-  playsinline={true}
-/>
-`;
-
 exports[`video renders with poster="https://google.com/" 1`] = `
 <video
   poster="https://google.com/"

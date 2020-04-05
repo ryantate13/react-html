@@ -41,6 +41,7 @@ import {
     ParamHTMLAttributes,
     ProgressHTMLAttributes,
     QuoteHTMLAttributes,
+    SlotHTMLAttributes,
     ScriptHTMLAttributes,
     SelectHTMLAttributes,
     SourceHTMLAttributes,
@@ -405,6 +406,10 @@ export function s(attributes:  DetailedHTMLProps<HTMLAttributes<HTMLElement>, HT
 
 export function samp(attributes:  DetailedHTMLProps<HTMLAttributes<HTMLElement>, HTMLElement> | null = {}, ...children: Array<ReactNode | ReactNode[]>) {
     return createElement('samp', attributes, ...children);
+}
+
+export function slot(attributes:  DetailedHTMLProps<SlotHTMLAttributes<HTMLSlotElement>, HTMLSlotElement> | null = {}, ...children: Array<ReactNode | ReactNode[]>) {
+    return createElement('slot', attributes, ...children);
 }
 
 export function script(attributes:  DetailedHTMLProps<ScriptHTMLAttributes<HTMLScriptElement>, HTMLScriptElement> | null = {}, ...children: Array<ReactNode | ReactNode[]>) {
