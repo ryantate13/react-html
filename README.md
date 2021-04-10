@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://flat.badgen.net/badge/%e2%80%8b/REACT-HTML/blue?icon=typescript&scale=15" alt="logo"/>
-</p>
+![](https://flat.badgen.net/badge/%e2%80%8b/REACT-HTML/blue?icon=typescript&scale=15)
 
 ![CI Status](https://github.com/ryantate13/react-html/actions/workflows/cd.yaml/badge.svg) [![codecov](https://codecov.io/gh/ryantate13/react-html/branch/master/graph/badge.svg?token=IJST9ES5K3)](https://codecov.io/gh/ryantate13/react-html)
 
@@ -68,12 +66,12 @@ import {a as svga} from '@ryantate/react-html/svg';
 
 ## Regenerating Source Files
 
-Sources are [generated](make.js) from `WHATWG` and `@types/react`. To regnerate the functions and test suites in the library, clone this repository and run `npm run make`.
+Sources are [generated](make.js) from `WHATWG` and `@types/react`. To regenerate the functions and test suites in the library, clone this repository and run `make build`.
 
 ```shell script
 git clone git@github.com:ryantate13/react-html.git
 cd react-html
-npm run make
+make build
 ``` 
 
 ## Running the test suite
@@ -81,5 +79,5 @@ npm run make
 ```shell script
 git clone git@github.com:ryantate13/react-html.git
 cd react-html
-npm run make && npm test
+make test
 ``` 
