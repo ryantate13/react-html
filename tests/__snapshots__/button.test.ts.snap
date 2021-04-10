@@ -57,6 +57,18 @@ exports[`button renders with autoCapitalize="words" 1`] = `
 />
 `;
 
+exports[`button renders with autoFocus=false 1`] = `
+<button
+  autoFocus={false}
+/>
+`;
+
+exports[`button renders with autoFocus=true 1`] = `
+<button
+  autoFocus={true}
+/>
+`;
+
 exports[`button renders with children 1`] = `
 <button>
   TEST

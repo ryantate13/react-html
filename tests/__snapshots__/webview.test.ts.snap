@@ -57,6 +57,18 @@ exports[`webview renders with autoCapitalize="words" 1`] = `
 />
 `;
 
+exports[`webview renders with autoFocus=false 1`] = `
+<webview
+  autoFocus={false}
+/>
+`;
+
+exports[`webview renders with autoFocus=true 1`] = `
+<webview
+  autoFocus={true}
+/>
+`;
+
 exports[`webview renders with children 1`] = `
 <webview>
   TEST

@@ -226,6 +226,10 @@ describe('link', () => {
         expect(link({media: "screen"})).toMatchSnapshot();
     });
 
+    it('renders with referrerPolicy="origin"', () => {
+        expect(link({referrerPolicy: "origin"})).toMatchSnapshot();
+    });
+
     it('renders with rel="a b c d"', () => {
         expect(link({rel: "a b c d"})).toMatchSnapshot();
     });

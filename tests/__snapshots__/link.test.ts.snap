@@ -278,6 +278,12 @@ exports[`link renders with media="screen" 1`] = `
 />
 `;
 
+exports[`link renders with referrerPolicy="origin" 1`] = `
+<link
+  referrerPolicy="origin"
+/>
+`;
+
 exports[`link renders with rel="a b c d" 1`] = `
 <link
   rel="a b c d"

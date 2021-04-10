@@ -182,16 +182,8 @@ describe('source', () => {
         expect(source({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with media="screen"', () => {
-        expect(source({media: "screen"})).toMatchSnapshot();
-    });
-
     it('renders with sizes=""', () => {
         expect(source({sizes: ""})).toMatchSnapshot();
-    });
-
-    it('renders with src="https://google.com/"', () => {
-        expect(source({src: "https://google.com/"})).toMatchSnapshot();
     });
 
     it('renders with srcSet="es-419"', () => {

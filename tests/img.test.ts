@@ -210,6 +210,18 @@ describe('img', () => {
         expect(img({height: 1})).toMatchSnapshot();
     });
 
+    it('renders with loading="lazy"', () => {
+        expect(img({loading: "lazy"})).toMatchSnapshot();
+    });
+
+    it('renders with loading="eager"', () => {
+        expect(img({loading: "eager"})).toMatchSnapshot();
+    });
+
+    it('renders with referrerPolicy="origin"', () => {
+        expect(img({referrerPolicy: "origin"})).toMatchSnapshot();
+    });
+
     it('renders with sizes=""', () => {
         expect(img({sizes: ""})).toMatchSnapshot();
     });

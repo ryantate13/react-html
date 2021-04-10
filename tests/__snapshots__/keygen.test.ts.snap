@@ -57,6 +57,18 @@ exports[`keygen renders with autoCapitalize="words" 1`] = `
 />
 `;
 
+exports[`keygen renders with autoFocus=false 1`] = `
+<keygen
+  autoFocus={false}
+/>
+`;
+
+exports[`keygen renders with autoFocus=true 1`] = `
+<keygen
+  autoFocus={true}
+/>
+`;
+
 exports[`keygen renders with children 1`] = `
 <keygen>
   TEST

@@ -198,6 +198,10 @@ describe('area', () => {
         expect(area({href: "https://google.com/"})).toMatchSnapshot();
     });
 
+    it('renders with referrerPolicy="origin"', () => {
+        expect(area({referrerPolicy: "origin"})).toMatchSnapshot();
+    });
+
     it('renders with rel="a b c d"', () => {
         expect(area({rel: "a b c d"})).toMatchSnapshot();
     });

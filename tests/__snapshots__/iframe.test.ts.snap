@@ -21,9 +21,9 @@ exports[`iframe renders with accessKey="a,b,c,d" 1`] = `
 />
 `;
 
-exports[`iframe renders with allow="self" 1`] = `
+exports[`iframe renders with allow="fullscreen" 1`] = `
 <iframe
-  allow="self"
+  allow="fullscreen"
 />
 `;
 
@@ -257,9 +257,27 @@ exports[`iframe renders with lang="es-419" 1`] = `
 />
 `;
 
+exports[`iframe renders with loading="eager" 1`] = `
+<iframe
+  loading="eager"
+/>
+`;
+
+exports[`iframe renders with loading="lazy" 1`] = `
+<iframe
+  loading="lazy"
+/>
+`;
+
 exports[`iframe renders with name="_blank" 1`] = `
 <iframe
   name="_blank"
+/>
+`;
+
+exports[`iframe renders with referrerPolicy="origin" 1`] = `
+<iframe
+  referrerPolicy="origin"
 />
 `;
 

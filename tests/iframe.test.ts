@@ -189,8 +189,8 @@ describe('iframe', () => {
         expect(iframe({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with allow="self"', () => {
-        expect(iframe({allow: "self"})).toMatchSnapshot();
+    it('renders with allow="fullscreen"', () => {
+        expect(iframe({allow: "fullscreen"})).toMatchSnapshot();
     });
 
     it('renders with allowFullScreen=true', () => {
@@ -205,8 +205,20 @@ describe('iframe', () => {
         expect(iframe({height: 1})).toMatchSnapshot();
     });
 
+    it('renders with loading="lazy"', () => {
+        expect(iframe({loading: "lazy"})).toMatchSnapshot();
+    });
+
+    it('renders with loading="eager"', () => {
+        expect(iframe({loading: "eager"})).toMatchSnapshot();
+    });
+
     it('renders with name="_blank"', () => {
         expect(iframe({name: "_blank"})).toMatchSnapshot();
+    });
+
+    it('renders with referrerPolicy="origin"', () => {
+        expect(iframe({referrerPolicy: "origin"})).toMatchSnapshot();
     });
 
     it('renders with sandbox="allow-forms"', () => {

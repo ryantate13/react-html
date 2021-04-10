@@ -45,6 +45,14 @@ describe('keygen', () => {
         expect(keygen({autoCapitalize: "characters"})).toMatchSnapshot();
     });
 
+    it('renders with autoFocus=true', () => {
+        expect(keygen({autoFocus: true})).toMatchSnapshot();
+    });
+
+    it('renders with autoFocus=false', () => {
+        expect(keygen({autoFocus: false})).toMatchSnapshot();
+    });
+
     it('renders with className="foo bar baz"', () => {
         expect(keygen({className: "foo bar baz"})).toMatchSnapshot();
     });

@@ -1,0 +1,25 @@
+name: CD
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  make:
+    name: Make
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Test, Build and Publish
+        run: make
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Upload Coverage to Codecov
+        uses: codecov/codecov-action@v1
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          verbose: true

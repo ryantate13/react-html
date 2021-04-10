@@ -63,6 +63,18 @@ exports[`select renders with autoComplete="off" 1`] = `
 />
 `;
 
+exports[`select renders with autoFocus=false 1`] = `
+<select
+  autoFocus={false}
+/>
+`;
+
+exports[`select renders with autoFocus=true 1`] = `
+<select
+  autoFocus={true}
+/>
+`;
+
 exports[`select renders with children 1`] = `
 <select>
   TEST

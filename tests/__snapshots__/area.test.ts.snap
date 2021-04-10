@@ -236,6 +236,12 @@ exports[`area renders with lang="es-419" 1`] = `
 />
 `;
 
+exports[`area renders with referrerPolicy="origin" 1`] = `
+<area
+  referrerPolicy="origin"
+/>
+`;
+
 exports[`area renders with rel="a b c d" 1`] = `
 <area
   rel="a b c d"

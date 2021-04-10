@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://flat.badgen.net/badge/%e2%80%8b/REACT-HTML/blue?icon=typescript&scale=15" alt="logo"/>
+</p>
+
+![CI Status](https://github.com/ryantate13/react-html/actions/workflows/cd.yaml/badge.svg) [![codecov](https://codecov.io/gh/ryantate13/react-html/branch/master/graph/badge.svg?token=IJST9ES5K3)](https://codecov.io/gh/ryantate13/react-html)
+
 # react-html
 
 Write react apps without JSX. Library exposes a function for each intrinsic HTML element and is more terse than JSX with corresponding closing tags.
@@ -53,7 +59,7 @@ ReactDOM.render(
 
 ## SVG Support
 
-SVG support is currently a work in progress. There is adequate information in the sources this project is generated from to expose all SVG elements as functions, but there are cases where names conflict. An `<a>` tag is valid inside an `<svg>` element but take props of a different type than an html anchor. Eventually the goal is to make all svg elements available for import from `@ryantate/react-html/svg`. 
+SVG support is currently a work in progress. There is adequate information in the sources this project is generated from to expose all SVG elements as functions, but there are cases where names conflict. An `<a>` tag is valid inside an `<svg>` element but takes props of a different type than those of an html anchor. Eventually the goal is to make all svg elements available for import from `@ryantate/react-html/svg`. 
 
 ```typescript
 import {a} from '@ryantate/react-html';

@@ -157,6 +157,10 @@ describe('style', () => {
         expect(style({lang: ""})).toMatchSnapshot();
     });
 
+    it('renders with nonce="TEST"', () => {
+        expect(style({nonce: "TEST"})).toMatchSnapshot();
+    });
+
     it('renders with slot="TEST"', () => {
         expect(style({slot: "TEST"})).toMatchSnapshot();
     });

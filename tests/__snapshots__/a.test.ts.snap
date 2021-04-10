@@ -251,6 +251,18 @@ exports[`a renders with lang="es-419" 1`] = `
 />
 `;
 
+exports[`a renders with ping="https://google.com/" 1`] = `
+<a
+  ping="https://google.com/"
+/>
+`;
+
+exports[`a renders with referrerPolicy="origin" 1`] = `
+<a
+  referrerPolicy="origin"
+/>
+`;
+
 exports[`a renders with rel="a b c d" 1`] = `
 <a
   rel="a b c d"

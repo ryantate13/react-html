@@ -188,8 +188,4 @@ describe('html', () => {
     it('renders with translate="no"', () => {
         expect(html({translate: "no"})).toMatchSnapshot();
     });
-
-    it('renders with manifest="https://google.com/"', () => {
-        expect(html({manifest: "https://google.com/"})).toMatchSnapshot();
-    });
 });

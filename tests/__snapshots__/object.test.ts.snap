@@ -315,12 +315,6 @@ exports[`object renders with type="application/json" 1`] = `
 />
 `;
 
-exports[`object renders with useMap="#foo" 1`] = `
-<object
-  useMap="#foo"
-/>
-`;
-
 exports[`object renders with width=1 1`] = `
 <object
   width={1}

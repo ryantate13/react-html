@@ -233,12 +233,6 @@ exports[`html renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`html renders with manifest="https://google.com/" 1`] = `
-<html
-  manifest="https://google.com/"
-/>
-`;
-
 exports[`html renders with slot="TEST" 1`] = `
 <html
   slot="TEST"

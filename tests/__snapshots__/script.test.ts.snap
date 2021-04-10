@@ -287,6 +287,18 @@ exports[`script renders with noModule=true 1`] = `
 />
 `;
 
+exports[`script renders with nonce="TEST" 1`] = `
+<script
+  nonce="TEST"
+/>
+`;
+
+exports[`script renders with referrerPolicy="origin" 1`] = `
+<script
+  referrerPolicy="origin"
+/>
+`;
+
 exports[`script renders with slot="TEST" 1`] = `
 <script
   slot="TEST"

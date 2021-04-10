@@ -81,7 +81,11 @@ exports[`time renders with contentEditable="true" 1`] = `
 />
 `;
 
-exports[`time renders with dateTime=undefined 1`] = `<time />`;
+exports[`time renders with dateTime="12:00" 1`] = `
+<time
+  dateTime="12:00"
+/>
+`;
 
 exports[`time renders with dir="auto" 1`] = `
 <time

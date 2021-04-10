@@ -38,6 +38,14 @@ describe('input', () => {
         expect(input({autoCapitalize: "characters"})).toMatchSnapshot();
     });
 
+    it('renders with autoFocus=true', () => {
+        expect(input({autoFocus: true})).toMatchSnapshot();
+    });
+
+    it('renders with autoFocus=false', () => {
+        expect(input({autoFocus: false})).toMatchSnapshot();
+    });
+
     it('renders with className="foo bar baz"', () => {
         expect(input({className: "foo bar baz"})).toMatchSnapshot();
     });

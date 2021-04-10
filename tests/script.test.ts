@@ -157,6 +157,10 @@ describe('script', () => {
         expect(script({lang: ""})).toMatchSnapshot();
     });
 
+    it('renders with nonce="TEST"', () => {
+        expect(script({nonce: "TEST"})).toMatchSnapshot();
+    });
+
     it('renders with slot="TEST"', () => {
         expect(script({slot: "TEST"})).toMatchSnapshot();
     });
@@ -223,6 +227,10 @@ describe('script', () => {
 
     it('renders with noModule=false', () => {
         expect(script({noModule: false})).toMatchSnapshot();
+    });
+
+    it('renders with referrerPolicy="origin"', () => {
+        expect(script({referrerPolicy: "origin"})).toMatchSnapshot();
     });
 
     it('renders with src="https://google.com/"', () => {

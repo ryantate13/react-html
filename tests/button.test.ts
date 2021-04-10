@@ -45,6 +45,14 @@ describe('button', () => {
         expect(button({autoCapitalize: "characters"})).toMatchSnapshot();
     });
 
+    it('renders with autoFocus=true', () => {
+        expect(button({autoFocus: true})).toMatchSnapshot();
+    });
+
+    it('renders with autoFocus=false', () => {
+        expect(button({autoFocus: false})).toMatchSnapshot();
+    });
+
     it('renders with className="foo bar baz"', () => {
         expect(button({className: "foo bar baz"})).toMatchSnapshot();
     });

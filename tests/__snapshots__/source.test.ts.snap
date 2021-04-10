@@ -212,12 +212,6 @@ exports[`source renders with lang="es-419" 1`] = `
 />
 `;
 
-exports[`source renders with media="screen" 1`] = `
-<source
-  media="screen"
-/>
-`;
-
 exports[`source renders with sizes="" 1`] = `
 <source
   sizes=""
@@ -239,12 +233,6 @@ exports[`source renders with spellCheck="false" 1`] = `
 exports[`source renders with spellCheck="true" 1`] = `
 <source
   spellCheck="true"
-/>
-`;
-
-exports[`source renders with src="https://google.com/" 1`] = `
-<source
-  src="https://google.com/"
 />
 `;
 

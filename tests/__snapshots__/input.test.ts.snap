@@ -72,6 +72,18 @@ exports[`input renders with autoComplete="off" 1`] = `
 />
 `;
 
+exports[`input renders with autoFocus=false 1`] = `
+<input
+  autoFocus={false}
+/>
+`;
+
+exports[`input renders with autoFocus=true 1`] = `
+<input
+  autoFocus={true}
+/>
+`;
+
 exports[`input renders with checked=false 1`] = `
 <input
   checked={false}

@@ -63,6 +63,18 @@ exports[`textarea renders with autoComplete="off" 1`] = `
 />
 `;
 
+exports[`textarea renders with autoFocus=false 1`] = `
+<textarea
+  autoFocus={false}
+/>
+`;
+
+exports[`textarea renders with autoFocus=true 1`] = `
+<textarea
+  autoFocus={true}
+/>
+`;
+
 exports[`textarea renders with children 1`] = `
 <textarea>
   TEST
@@ -108,6 +120,12 @@ exports[`textarea renders with dir="ltr" 1`] = `
 exports[`textarea renders with dir="rtl" 1`] = `
 <textarea
   dir="rtl"
+/>
+`;
+
+exports[`textarea renders with dirName="TEST" 1`] = `
+<textarea
+  dirName="TEST"
 />
 `;
 

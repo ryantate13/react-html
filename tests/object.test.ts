@@ -209,10 +209,6 @@ describe('object', () => {
         expect(object({type: "application/json"})).toMatchSnapshot();
     });
 
-    it('renders with useMap="#foo"', () => {
-        expect(object({useMap: "#foo"})).toMatchSnapshot();
-    });
-
     it('renders with width=1', () => {
         expect(object({width: 1})).toMatchSnapshot();
     });

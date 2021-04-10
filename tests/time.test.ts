@@ -189,7 +189,7 @@ describe('time', () => {
         expect(time({translate: "no"})).toMatchSnapshot();
     });
 
-    it('renders with dateTime=undefined', () => {
-        expect(time({dateTime: undefined})).toMatchSnapshot();
+    it('renders with dateTime="12:00"', () => {
+        expect(time({dateTime: "12:00"})).toMatchSnapshot();
     });
 });

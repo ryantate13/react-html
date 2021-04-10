@@ -239,6 +239,12 @@ exports[`style renders with media="screen" 1`] = `
 />
 `;
 
+exports[`style renders with nonce="TEST" 1`] = `
+<style
+  nonce="TEST"
+/>
+`;
+
 exports[`style renders with slot="TEST" 1`] = `
 <style
   slot="TEST"

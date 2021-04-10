@@ -201,6 +201,14 @@ describe('a', () => {
         expect(a({hrefLang: "es-419"})).toMatchSnapshot();
     });
 
+    it('renders with ping="https://google.com/"', () => {
+        expect(a({ping: "https://google.com/"})).toMatchSnapshot();
+    });
+
+    it('renders with referrerPolicy="origin"', () => {
+        expect(a({referrerPolicy: "origin"})).toMatchSnapshot();
+    });
+
     it('renders with rel="a b c d"', () => {
         expect(a({rel: "a b c d"})).toMatchSnapshot();
     });

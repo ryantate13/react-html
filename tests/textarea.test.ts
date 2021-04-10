@@ -45,6 +45,14 @@ describe('textarea', () => {
         expect(textarea({autoCapitalize: "characters"})).toMatchSnapshot();
     });
 
+    it('renders with autoFocus=true', () => {
+        expect(textarea({autoFocus: true})).toMatchSnapshot();
+    });
+
+    it('renders with autoFocus=false', () => {
+        expect(textarea({autoFocus: false})).toMatchSnapshot();
+    });
+
     it('renders with className="foo bar baz"', () => {
         expect(textarea({className: "foo bar baz"})).toMatchSnapshot();
     });
@@ -195,6 +203,10 @@ describe('textarea', () => {
 
     it('renders with cols=1', () => {
         expect(textarea({cols: 1})).toMatchSnapshot();
+    });
+
+    it('renders with dirName="TEST"', () => {
+        expect(textarea({dirName: "TEST"})).toMatchSnapshot();
     });
 
     it('renders with disabled=true', () => {

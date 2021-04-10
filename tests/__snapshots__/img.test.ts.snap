@@ -254,6 +254,24 @@ exports[`img renders with lang="es-419" 1`] = `
 />
 `;
 
+exports[`img renders with loading="eager" 1`] = `
+<img
+  loading="eager"
+/>
+`;
+
+exports[`img renders with loading="lazy" 1`] = `
+<img
+  loading="lazy"
+/>
+`;
+
+exports[`img renders with referrerPolicy="origin" 1`] = `
+<img
+  referrerPolicy="origin"
+/>
+`;
+
 exports[`img renders with sizes="" 1`] = `
 <img
   sizes=""
