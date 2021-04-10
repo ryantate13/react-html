@@ -16,7 +16,7 @@ publish: build
 	@if (docker run --rm $(BUILD) node -e "$(VERSION_CHECK)"); \
 	then \
 	docker run --rm \
-		-v $(PWD)/dist/src:/app \
+		-v $(PWD)/dist:/app \
 		-e NPM_TOKEN=$(NPM_TOKEN) \
 		$(BUILD) \
 		npm publish; \
