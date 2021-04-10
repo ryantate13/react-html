@@ -1,6 +1,6 @@
 const fs = require('fs'),
     path = require('path'),
-    request = require('request-promise'),
+    fetch = require('node-fetch'),
     cheerio = require('cheerio');
 
 const src = path.join(__dirname, 'src'),
@@ -647,7 +647,7 @@ function get_tags() {
 }
 
 async function get_attributes() {
-    const whatwg_spec = await request.get('https://html.spec.whatwg.org/multipage/indices.html'),
+    const whatwg_spec = await fetch('https://html.spec.whatwg.org/multipage/indices.html').then(r => r.text()),
         $ = cheerio.load(whatwg_spec),
         attributes_table = $('#attributes-1'),
         headers = attributes_table.find('thead th')
