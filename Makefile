@@ -26,7 +26,7 @@ build: .dockerignore
 	rm -rf dist
 	mkdir dist
 	docker build $(BUILD_ARGS) -f build.dockerfile -t $(BUILD) .
-	docker run --rm -v $(PWD):/app $(BUILD) node make.js
+	docker run --rm $(foreach v,$(shell find $(PWD) -mindepth 1 -maxdepth 1 -not -name node_modules),-v $(v):/app/$(shell basename $(v))) $(BUILD) node make.js
 	docker run --rm -v $(PWD)/dist:/app/dist $(BUILD)
 
 test: .dockerignore
