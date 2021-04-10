@@ -17,5 +17,6 @@ COPY src /app/src
 COPY tests /app/tests
 
 USER ${USER_NAME}
+
 CMD node node_modules/.bin/jest --coverage --colors
 

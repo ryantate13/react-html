@@ -9,7 +9,7 @@ VERSION_CHECK := \
 	const p = require('./package.json'), r = JSON.parse(require('child_process').execSync('npm show ' + p.name +' versions --json')); \
 	process.exit(Number(p.version === r.pop()));
 
-all: test build publish
+all: build test publish
 
 publish: build
 	@[ ! -z "$(NPM_TOKEN)" ] || (echo NPM_TOKEN is undefined > /dev/stderr && exit 1)
@@ -19,7 +19,7 @@ publish: build
 		-v $(PWD)/dist/src:/app \
 		-e NPM_TOKEN=$(NPM_TOKEN) \
 		$(BUILD) \
-		echo npm publish; \
+		npm publish; \
 	fi
 
 build: .dockerignore
