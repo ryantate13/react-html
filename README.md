@@ -1,4 +1,4 @@
-![](https://flat.badgen.net/badge/%e2%80%8b/REACT-HTML/blue?icon=typescript&scale=15)
+![](https://flat.badgen.net/badge/icon/REACT-HTML?icon=typescript&scale=15&label)
 
 ![CI Status](https://github.com/ryantate13/react-html/actions/workflows/cd.yaml/badge.svg) [![codecov](https://codecov.io/gh/ryantate13/react-html/branch/master/graph/badge.svg?token=IJST9ES5K3)](https://codecov.io/gh/ryantate13/react-html)
 
